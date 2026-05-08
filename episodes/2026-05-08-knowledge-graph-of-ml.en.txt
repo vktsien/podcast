@@ -1,0 +1,65 @@
+This is the complete knowledge graph of machine learning.
+It shows all the concepts and all the dependency relations between them.
+For instance, this node represents GPT, a concept that builds upon causal language
+models, theory training, transformers, autoregressive models, neural networks, multi-head attention,
+and many more, reaching back to the very foundations of mathematics.
+Once we map out all the mathematical and algorithmic concepts in machine learning,
+patterns start to emerge. We can see subfields and their connections, computer vision,
+natural language processing, probability theory, linear algebra, and many more.
+But here's what I find the most beautiful. From the directed graph structure,
+we can infer a hierarchical order between nodes and truly see the foundations of machine learning.
+For instance, here's gradient descent, a concept that builds upon a few prerequisites,
+yet supports the entire machine learning world as we know it.
+Let's start at the beginning. What is a knowledge graph?
+According to Wikipedia, a knowledge graph is a knowledge base that uses a graph structure
+to represent and operate on data. They are often used to store interlink descriptions
+of entities, such as objects, events, situations, or abstract concepts,
+while also encoding relationships underlining these entities.
+In our case, the knowledge graph of machine learning is built from mathematical and
+algorithmic concepts, such as the derivative. As the derivative is defined by a limit of
+real numbers, its closest prerequisites are the concepts real number, completeness,
+convergence, and limit in the knowledge graph. On the other hand, the concepts chain rule,
+tangent plane, Taylor expansion, and many more build upon the notion of the derivative,
+thus they are immediate descendants. By mapping out all the concepts of machine learning in this
+way, we obtain a knowledge graph of 2,081 nodes and 5,149 edges. So, how did I build this?
+The knowledge graph is constructed recursively. In the first step, I took 810 high-level
+machine learning concepts, such as GPT, CatBoost, ResNet, and others. Then I asked
+Claude to write a definition, such as a deep convolutional neural network that introduces
+skip connections, enabling the training of very deep networks by providing shortcut paths
+for gradient flow and making it easier to learn identity mappings. And extract the
+used components, such as convolutional neural networks, gradient, skip connections,
+deep networks, identity mapping, and many more. These are added as new nodes to the graph,
+then connected to the ResNet node. By repeating this process over and over,
+we reach the fundamental mathematical concepts such as logical implication, set, and element,
+where we terminate the recursive search. After doing this for all 810 seed concepts,
+and performing a transitive reduction on the edges, we obtain the full knowledge graph.
+In our case, the graph is directed and ac-click. Let's find some patterns.
+First, by looking at the nodes that have no incoming edges, we find the five foundational
+concepts. Logical implication, logical conjunction, set, element, and equality.
+These are the level 0 nodes. Nodes whose longest path from level 0 nodes has length 1
+are the level 1 nodes. These include subset, set intersection, natural numbers, ordered pair,
+and more. The process continues until all nodes are reached.
+What are the most important nodes in this graph? What are the pillars of machine learning?
+For instance, gradient descent is widely accepted to be the go-to optimization algorithm.
+When mapping out its prerequisites and its dependence, we can see that while gradient descent
+builds upon only a couple of concepts, it is practically used by everything else above it.
+What's the scientific way to find such central nodes? One method is to compute each
+node's betweenness centrality defined by the formula on the screen.
+Let's unpack this. The betweenness centrality formula of V computes the ratio of the total
+number of shortest paths between any two nodes S and T, and how many of those shortest paths
+pass through V, then sums them up. In other words, betweenness centrality measures how
+unavoidable a node is. The higher it is, the more likely you'll pass through V
+when going from one node to another. Among other metrics, I calculated the
+betweenness centrality for all nodes. To visualize this, let's make the node sizes
+proportional to this metric. The top central nodes are neural network, real numbers,
+completeness, convergence, backpropagation, limit, gradient descent, absolute value,
+distance, function, and matrix. What's more interesting is that these central nodes form
+a thin spine at the bottom of the graph. This is the true foundation of machine learning,
+the concepts that the entire field builds upon. Of course, from a practical standpoint,
+mastering machine learning is better from the top down. Pick a topic and trace back the
+knowledge graph. If you want to explore the knowledge graph of machine learning yourself,
+I made an interactive explorer for you to try. Check the link in the description.
+You can also find the source on github if you want to play around with the code.
+If you found this video valuable, consider subscribing and sharing it with your friends.
+It really helps me creating more high quality content.
+Thanks for watching, and see you soon. Cheers, TIVADAR!
