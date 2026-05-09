@@ -1435,969 +1435,1477 @@ the computer will move the data behind it.
 This is the biggest benefit of the Minglin Bank.
 
 360
-00:30:46,900 --> 00:30:47,900
-It can be said that
+00:30:46,900 --> 00:30:49,900
+Of course, this is what I look forward to.
 
 361
-00:30:47,900 --> 00:30:48,900
-when you say it,
+00:30:49,900 --> 00:30:51,900
+I look forward to doing this
 
 362
-00:30:48,900 --> 00:30:51,820
-the computer will move the data behind it
+00:30:51,900 --> 00:31:02,900
+using artificial language
 
 363
-00:30:51,820 --> 00:30:56,820
-to help you accomplish your goal,
+00:31:02,900 --> 00:31:05,900
+to help AI.
 
 364
-00:30:56,820 --> 00:30:58,820
-to achieve your goal.
+00:31:05,900 --> 00:31:07,900
+I also want to say that
 
 365
-00:30:58,820 --> 00:31:00,820
-Obviously, I am looking forward to
+00:31:07,900 --> 00:31:11,900
+when we talk about the simplification of ETH,
 
 366
-00:31:00,820 --> 00:31:03,820
-to doing something like this
+00:31:11,900 --> 00:31:14,900
+When it comes to the simplification of Ethereum,
 
 367
-00:31:03,820 --> 00:31:06,820
-with the help of AI.
+00:31:14,900 --> 00:31:19,900
+I remember that in 2016,
 
 368
-00:31:06,820 --> 00:31:08,860
-I would also like to say.
+00:31:19,900 --> 00:31:21,900
+when DevCon was held in Shanghai
 
 369
-00:31:08,860 --> 00:31:13,860
-When we spoke about lapping at antioxidants,
+00:31:21,900 --> 00:31:24,900
+at the Global Development Conference of Ethereum,
 
 370
-00:31:13,860 --> 00:31:18,860
-Actually, I remember that in 2016,
+00:31:24,900 --> 00:31:29,900
+there was already a discussion about simplification,
 
 371
-00:31:18,860 --> 00:31:23,860
-when DevCon was held in Shanghai at the World Development Conference in Itaewon,
+00:31:29,900 --> 00:31:33,900
+such as simplifying the programming of smart contracts,
 
 372
-00:31:23,860 --> 00:31:29,860
-we had already started to discuss tools and technical means
+00:31:33,900 --> 00:31:38,900
+and some tools or technical means.
 
 373
-00:31:29,860 --> 00:31:38,860
-such as simplification, such as the writing of smart contracts.
+00:31:38,900 --> 00:31:44,900
+At that time, I remember that two different technical development teams
 
 374
-00:31:38,860 --> 00:31:44,860
-I remember that two different technical development teams
-
-375
-00:31:44,860 --> 00:31:52,860
+00:31:44,900 --> 00:31:52,900
 discussed formal verification in 2016.
 
+375
+00:31:52,900 --> 00:31:57,900
+Formal verification is to use formal verification
+
 376
-00:31:52,860 --> 00:31:57,860
-Formal verification means using formal verification
+00:31:57,900 --> 00:32:01,900
+to verify all the applications on Ethereum,
 
 377
-00:31:57,860 --> 00:32:01,860
-to verify all the applications on Itaewon,
+00:32:01,900 --> 00:32:06,900
+including all kinds of smart contracts,
 
 378
-00:32:01,860 --> 00:32:06,860
-including various smart contracts,
-
-379
-00:32:06,860 --> 00:32:08,860
+00:32:06,900 --> 00:32:08,900
 to find its bugs,
 
-380
-00:32:08,860 --> 00:32:12,860
+379
+00:32:08,900 --> 00:32:11,900
 to make it a very perfect smart contract.
 
-381
-00:32:12,860 --> 00:32:15,860
-Now AI is coming again.
+380
+00:32:11,900 --> 00:32:14,900
+Now AI has come again.
 
-382
-00:32:15,860 --> 00:32:19,860
+381
+00:32:14,900 --> 00:32:19,900
 With AI and formal verification,
 
-383
-00:32:19,860 --> 00:32:24,860
-is it possible for any individual,
+382
+00:32:19,900 --> 00:32:24,900
+is it possible that any individual,
 
-384
-00:32:24,860 --> 00:32:27,860
+383
+00:32:24,900 --> 00:32:27,900
 even if he has no programming ability,
 
-385
-00:32:27,860 --> 00:32:29,860
+384
+00:32:27,900 --> 00:32:29,900
 he is not a computer engineer,
 
-386
-00:32:29,860 --> 00:32:34,860
+385
+00:32:29,900 --> 00:32:34,900
 he can also build his own smart contract
 
-387
-00:32:34,860 --> 00:32:41,860
+386
+00:32:34,900 --> 00:32:41,900
 for his own purpose, for his own needs.
 
-388
-00:32:41,860 --> 00:32:45,860
-This smart contract will indeed not have any bugs,
+387
+00:32:41,900 --> 00:32:45,900
+This smart contract will indeed not have bugs,
 
-389
-00:32:45,860 --> 00:32:48,860
+388
+00:32:45,900 --> 00:32:48,900
 it will not be found by hackers,
 
-390
-00:32:48,860 --> 00:32:50,860
+389
+00:32:48,900 --> 00:32:50,900
 and it can run very well.
 
-391
-00:32:50,860 --> 00:32:52,860
+390
+00:32:50,900 --> 00:32:52,900
 This is the premise.
 
+391
+00:32:52,900 --> 00:32:55,900
+Or from another angle,
+
 392
-00:32:52,860 --> 00:32:55,860
-Or, from another angle,
+00:32:55,900 --> 00:32:57,900
+formal verification,
 
 393
-00:32:55,860 --> 00:32:56,860
-formal verification.
+00:32:57,900 --> 00:32:59,900
+we started to discuss ten years ago.
 
 394
-00:32:56,860 --> 00:32:59,860
-We started to discuss formal verification 10 years ago.
+00:32:59,900 --> 00:33:02,900
+To this day, if we add AI,
 
 395
-00:32:59,860 --> 00:33:02,860
-To date, if we add AI,
+00:33:02,900 --> 00:33:09,900
+is it possible for those of us who have computer programming abilities
 
 396
-00:33:02,860 --> 00:33:09,860
-is it possible for those who have computer programming abilities
-
-397
-00:33:09,860 --> 00:33:11,860
+00:33:09,900 --> 00:33:11,900
 or those who do not have computer programming abilities
 
-398
-00:33:11,860 --> 00:33:14,860
+397
+00:33:11,900 --> 00:33:14,900
 to write their own smart contracts
 
-399
-00:33:14,860 --> 00:33:16,860
-and run them on Itaewon?
+398
+00:33:14,900 --> 00:33:16,900
+and run them on Ethereum?
 
-400
-00:33:16,860 --> 00:33:19,810
+399
+00:33:16,900 --> 00:33:19,850
 Yes.
 
-401
-00:33:19,810 --> 00:33:26,810
+400
+00:33:19,850 --> 00:33:26,850
 Formal verification is very important now.
 
-402
-00:33:26,810 --> 00:33:31,810
+401
+00:33:26,850 --> 00:33:31,850
 In fact, writing this smart contract
 
-403
-00:33:31,810 --> 00:33:33,810
+402
+00:33:31,850 --> 00:33:33,850
 is a very important part.
 
-404
-00:33:33,810 --> 00:33:38,810
+403
+00:33:33,850 --> 00:33:38,850
 We may have talked a lot about it in 2016,
 
+404
+00:33:38,850 --> 00:33:43,850
+because the attack on DAO took place in 2016,
+
 405
-00:33:38,810 --> 00:33:43,810
-because the attack on Dao took place in 2016,
+00:33:43,850 --> 00:33:47,850
+so everyone just realized the importance
 
 406
-00:33:43,810 --> 00:33:46,810
-so everyone has just realized
+00:33:47,850 --> 00:33:51,850
+of the smart contract security issue.
 
 407
-00:33:46,810 --> 00:33:51,810
-the importance of the smart contract security issue.
-
-408
-00:33:51,810 --> 00:33:59,810
+00:33:51,850 --> 00:33:59,850
 But this year, the quad mythos came out.
 
-409
-00:33:59,810 --> 00:34:05,810
+408
+00:33:59,850 --> 00:34:05,850
 Many people were very surprised by this,
 
-410
-00:34:05,810 --> 00:34:07,810
+409
+00:34:05,850 --> 00:34:07,850
 and even very afraid.
 
-411
-00:34:07,810 --> 00:34:14,810
+410
+00:34:07,850 --> 00:34:14,850
 According to my current understanding,
 
-412
-00:34:14,810 --> 00:34:21,810
+411
+00:34:14,850 --> 00:34:21,850
 the quad mythos is indeed stronger than the previous AI,
 
-413
-00:34:21,810 --> 00:34:26,810
+412
+00:34:21,850 --> 00:34:26,850
 but as everyone said, it also has some flaws.
 
+413
+00:34:26,850 --> 00:34:32,850
+But we can't just look at the current quad mythos,
+
 414
-00:34:26,810 --> 00:34:32,810
-But we can't just look at the current quad mythos.
+00:34:32,850 --> 00:34:35,850
+we need to look at the trend.
 
 415
-00:34:32,810 --> 00:34:35,810
-We need to look at the trend.
-
-416
-00:34:35,810 --> 00:34:42,810
+00:34:35,850 --> 00:34:42,850
 The trend is that the quad mythos is much better than the AI of a year ago.
 
+416
+00:34:42,850 --> 00:34:46,850
+The AI of the next year will be much better than the quad mythos.
+
 417
-00:34:42,810 --> 00:34:46,810
-The AI of next year will be much better than the quad mythos.
+00:34:46,850 --> 00:34:50,850
+The AI of the year 2029,
 
 418
-00:34:46,810 --> 00:34:50,810
-The AI of 2029,
+00:34:50,850 --> 00:34:53,850
+looking for various activities,
 
 419
-00:34:50,810 --> 00:34:53,810
-which is looking for various activities,
-
-420
-00:34:53,810 --> 00:34:55,810
+00:34:53,850 --> 00:34:55,850
 may be very scary.
 
-421
-00:34:55,810 --> 00:35:00,810
+420
+00:34:55,850 --> 00:35:00,850
 So now I think the only way is
 
-422
-00:35:00,810 --> 00:35:07,810
+421
+00:35:00,850 --> 00:35:07,850
 that we need to use AI plus formal verification
 
-423
-00:35:07,810 --> 00:35:09,810
+422
+00:35:07,850 --> 00:35:09,850
 plus more methods.
 
+423
+00:35:09,850 --> 00:35:14,850
+This is a very safe code.
+
 424
-00:35:09,810 --> 00:35:14,810
-There are some really safe codes.
+00:35:14,850 --> 00:35:19,850
+There is no very serious activity code.
 
 425
-00:35:14,810 --> 00:35:20,810
-There are no very serious codes of activity.
-
-426
-00:35:20,810 --> 00:35:26,810
+00:35:19,850 --> 00:35:24,850
 Now, because of the AI,
 
-427
-00:35:26,810 --> 00:35:30,810
+426
+00:35:24,850 --> 00:35:29,850
 it is almost possible now.
 
-428
-00:35:30,810 --> 00:35:36,810
+427
+00:35:29,850 --> 00:35:35,850
 Then, because of the AI's ability to look for various activities,
 
-429
-00:35:36,810 --> 00:35:38,810
-it is necessary to do this.
+428
+00:35:35,850 --> 00:35:38,850
+this will be necessary.
 
-430
-00:35:38,810 --> 00:35:42,810
+429
+00:35:38,850 --> 00:35:41,850
 So now we are at Lean Ethereum,
 
-431
-00:35:42,810 --> 00:35:48,810
-which is a team in the next version of Ethereum.
+430
+00:35:41,850 --> 00:35:47,850
+which is a team that is working on the next version of Ethereum.
 
-432
-00:35:48,810 --> 00:35:58,810
+431
+00:35:47,850 --> 00:35:57,850
 They are now working on the next version of Ethereum's POS.
 
+432
+00:35:57,850 --> 00:36:00,850
+They have many goals.
+
 433
-00:35:58,810 --> 00:36:01,810
-They have many goals,
+00:36:00,850 --> 00:36:03,850
+The first one is faster,
 
 434
-00:36:01,810 --> 00:36:04,810
-The first goal is faster.
+00:36:03,850 --> 00:36:08,850
+the final time,
 
 435
-00:36:04,810 --> 00:36:13,810
-The final time is 16 minutes.
+00:36:08,850 --> 00:36:12,850
+from now on, 16 minutes,
 
 436
-00:36:13,810 --> 00:36:16,810
-Maybe 16 seconds, maybe 8 seconds, maybe less.
+00:36:12,850 --> 00:36:15,850
+maybe 16 seconds, maybe 8 seconds, maybe less.
 
 437
-00:36:16,810 --> 00:36:18,810
-The second goal is faster.
+00:36:15,850 --> 00:36:17,850
+The second one is faster.
 
 438
-00:36:18,810 --> 00:36:23,810
-Since last year,
+00:36:17,850 --> 00:36:22,850
+Now, since last year,
 
 439
-00:36:23,810 --> 00:36:29,810
-all the things we are thinking about and developing now,
+00:36:22,850 --> 00:36:26,850
+all the things we are thinking about,
 
 440
-00:36:29,810 --> 00:36:32,810
-we all say that it is necessary to measure.
+00:36:26,850 --> 00:36:29,850
+the things we are developing now,
 
 441
-00:36:32,810 --> 00:36:39,810
-The third goal is more centralized and safer.
+00:36:29,850 --> 00:36:32,850
+we all say that it is necessary.
 
 442
-00:36:39,810 --> 00:36:44,810
-So they have many needs.
+00:36:32,850 --> 00:36:38,850
+The third one is more centralized,
 
 443
-00:36:44,810 --> 00:36:48,810
-One of the things they are doing now
+00:36:38,850 --> 00:36:39,850
+more safe.
 
 444
-00:36:48,810 --> 00:36:52,810
-is that they are using the Lean Consensus,
+00:36:39,850 --> 00:36:44,850
+So they have a lot of needs.
 
 445
-00:36:52,810 --> 00:36:56,810
-which is the next version of the POS,
+00:36:44,850 --> 00:36:48,850
+One of the things they are doing now
 
 446
-00:36:56,810 --> 00:37:04,810
-to prove that they are safe.
+00:36:48,850 --> 00:36:52,850
+is that they are using the Lean Consensus,
 
 447
-00:37:04,810 --> 00:37:09,810
-This includes the signature of the two sides,
+00:36:52,850 --> 00:36:56,850
+which is the next version of the POS,
 
 448
-00:37:09,810 --> 00:37:15,810
-including the signature of the two sides,
+00:36:56,850 --> 00:37:04,850
+to prove that they are safe.
 
 449
-00:37:15,810 --> 00:37:18,810
-including the recursive stark.
+00:37:04,850 --> 00:37:08,850
+This includes the signature of the two sides,
 
 450
-00:37:18,810 --> 00:37:23,810
-So this includes a lot of complicated things.
+00:37:08,850 --> 00:37:13,850
+including the two sides' neighbor,
 
 451
-00:37:23,810 --> 00:37:25,810
-Maybe two years ago,
+00:37:13,850 --> 00:37:15,850
+Stark,
 
 452
-00:37:25,810 --> 00:37:29,810
-everyone thought that it would be impossible
+00:37:15,850 --> 00:37:17,850
+including the recursive Stark.
 
 453
-00:37:29,810 --> 00:37:32,810
-to prove such a complicated thing in a computerized way.
+00:37:17,850 --> 00:37:23,850
+So this includes a lot of complicated things.
 
 454
-00:37:32,810 --> 00:37:34,810
-It may never be possible.
+00:37:23,850 --> 00:37:25,850
+Maybe two years ago,
 
 455
-00:37:34,810 --> 00:37:39,810
-But now, because of the rapid development of AI,
+00:37:25,850 --> 00:37:29,850
+everyone thought that it was impossible
 
 456
-00:37:39,810 --> 00:37:42,810
-these things are more likely.
+00:37:29,850 --> 00:37:32,850
+to prove such a complicated thing in a computerized way.
 
 457
-00:37:42,810 --> 00:37:52,810
-So AI is now an important part of our L1 core development.
+00:37:32,850 --> 00:37:34,850
+Maybe it was impossible forever.
 
 458
-00:37:53,810 --> 00:37:59,810
-It is also very important to write the L1 core.
+00:37:34,850 --> 00:37:36,850
+But now,
 
 459
-00:37:59,810 --> 00:38:08,810
-Recently, the time for recursive stark is getting more and more serious.
+00:37:36,850 --> 00:37:40,850
+because of the fast development of AI,
 
 460
-00:38:08,810 --> 00:38:10,810
-In fact, in the last two years,
+00:37:40,850 --> 00:37:42,850
+these things are more possible.
 
 461
-00:38:10,810 --> 00:38:14,810
-the L1 core on the face is still good.
+00:37:42,850 --> 00:37:46,850
+So AI is now an increasingly important part
 
 462
-00:38:14,810 --> 00:38:19,810
-Recently, more problems are in the UI core.
+00:37:46,850 --> 00:37:52,850
+of our L1 core development.
 
 463
-00:38:19,810 --> 00:38:22,810
-Yes, it is on the bottom of the chain.
+00:37:53,850 --> 00:37:57,850
+It is also very important
 
 464
-00:38:22,810 --> 00:38:25,810
-AI can also help.
+00:37:57,850 --> 00:37:59,850
+to write the L1 core language.
 
 465
-00:38:25,810 --> 00:38:31,810
-If we have AI,
+00:37:59,850 --> 00:38:01,850
+Recently,
 
 466
-00:38:31,810 --> 00:38:38,810
-you can search for the last year's safe tool.
+00:38:01,850 --> 00:38:05,850
+the time for various reviews
 
 467
-00:38:38,810 --> 00:38:42,810
-The safe tool is an unexpected tool.
+00:38:05,850 --> 00:38:08,850
+is getting more and more serious.
 
 468
-00:38:42,810 --> 00:38:48,810
-If you use safe through local AI,
+00:38:08,850 --> 00:38:09,850
+In fact,
 
 469
-00:38:48,810 --> 00:38:52,810
-it will never happen.
+00:38:09,850 --> 00:38:11,850
+in the last two years,
 
 470
-00:38:52,810 --> 00:38:56,810
-So if you do it right,
+00:38:11,850 --> 00:38:15,850
+the L1 core language on the Internet is still good.
 
 471
-00:38:56,810 --> 00:38:58,810
-AI can also help.
+00:38:15,850 --> 00:38:16,850
+Recently,
 
 472
-00:38:58,810 --> 00:39:02,810
-Because it can replace the third-party UI,
+00:38:16,850 --> 00:38:19,850
+more problems are in the L1 UI.
 
 473
-00:39:02,810 --> 00:39:08,810
-it can also help with security.
+00:38:19,850 --> 00:38:20,850
+Yes.
 
 474
-00:39:08,810 --> 00:39:12,810
-But AI also has its own security issues.
+00:38:20,850 --> 00:38:22,850
+It is on the Internet.
 
 475
-00:39:12,810 --> 00:39:15,810
-So this is also what we are thinking about.
+00:38:22,850 --> 00:38:25,850
+AI can also help.
 
 476
-00:39:15,810 --> 00:39:20,810
-In the last year,
+00:38:25,850 --> 00:38:31,850
+If we have AI,
 
 477
-00:39:20,810 --> 00:39:28,810
-Viper is the second language that can only be created.
+00:38:31,850 --> 00:38:33,850
+for example,
 
 478
-00:39:28,810 --> 00:39:31,810
-Solidity is the first, Viper is the second.
+00:38:33,850 --> 00:38:38,850
+you can search for the last year's safe tool.
 
 479
-00:39:31,810 --> 00:39:36,810
-They have announced that they are now supporting the implementation.
+00:38:38,850 --> 00:38:42,850
+The safe tool is an unexpected tool.
 
 480
-00:39:36,810 --> 00:39:40,810
-It is possible that their capabilities will become better and better.
+00:38:42,850 --> 00:38:48,850
+If you use the safe tool through local AI,
 
 481
-00:39:40,810 --> 00:39:42,810
-Solidity will also become better.
+00:38:48,850 --> 00:38:52,850
+things will not happen.
 
 482
-00:39:42,810 --> 00:39:47,810
-So, yes, it will become more serious.
+00:38:52,850 --> 00:38:54,850
+So if you do it well,
 
 483
-00:39:47,810 --> 00:39:50,810
-This tool is not perfect.
+00:38:54,850 --> 00:38:56,850
+if you do it correctly,
 
 484
-00:39:50,810 --> 00:39:53,810
-It cannot solve all the problems immediately.
+00:38:56,850 --> 00:38:58,850
+AI,
 
 485
-00:39:53,810 --> 00:40:01,810
-But its capabilities and its ability to add AI are indeed very powerful.
+00:38:58,850 --> 00:39:02,850
+because it can replace the third-party UI,
 
 486
-00:40:02,810 --> 00:40:07,810
-We were talking about formal verification.
+00:39:02,850 --> 00:39:08,850
+it can also help with security.
 
 487
-00:40:07,810 --> 00:40:16,810
-How to make it possible for everyone to write their own reliable smart contracts.
+00:39:08,850 --> 00:39:12,850
+But AI also has its own security issues.
 
 488
-00:40:16,810 --> 00:40:22,810
-You mentioned two topics that I want to discuss with you.
+00:39:12,850 --> 00:39:15,850
+So this is also what we are thinking about.
 
 489
-00:40:22,810 --> 00:40:27,810
-One is quantum computing and anti-quantum computing.
+00:39:15,850 --> 00:39:17,850
+In the L1 core language,
 
 490
-00:40:27,810 --> 00:40:34,810
-Of course, this is a paper published by Google.
+00:39:17,850 --> 00:39:21,850
+the last year's Viper
 
 491
-00:40:34,810 --> 00:40:38,810
-Some people comment that Google's paper
+00:39:21,850 --> 00:39:24,850
+is the second
 
 492
-00:40:38,810 --> 00:40:43,810
-has more risks than Bitcoin.
+00:39:24,850 --> 00:39:28,850
+L1 core language.
 
 493
-00:40:43,810 --> 00:40:48,810
-Instead, it is the signature algorithm of Ethereum.
+00:39:28,850 --> 00:39:30,850
+Solidity is the first,
 
 494
-00:40:48,810 --> 00:40:51,810
-How do you look at this?
+00:39:30,850 --> 00:39:31,850
+Viper is the second.
 
 495
-00:40:51,810 --> 00:40:56,810
-I have also asked some cryptologists.
+00:39:31,850 --> 00:39:33,850
+They have announced that
 
 496
-00:40:56,810 --> 00:41:01,810
-Of course, the cryptologists gave me the opinion that
+00:39:33,850 --> 00:39:36,850
+they are now supporting the implementation.
 
 497
-00:41:01,810 --> 00:41:06,810
-it is very difficult to solve quantum computing,
+00:39:36,850 --> 00:39:40,850
+It is likely that their capabilities will become better.
 
 498
-00:41:06,810 --> 00:41:09,810
-especially with Bitcoin.
+00:39:40,850 --> 00:39:42,850
+Solidity will also.
 
 499
-00:41:09,810 --> 00:41:13,810
-Quantum computing itself is a very difficult thing.
+00:39:43,850 --> 00:39:44,850
+Yes.
 
 500
-00:41:13,810 --> 00:41:17,810
-It is also very difficult to solve this kind of algorithm.
+00:39:44,850 --> 00:39:46,850
+It will change.
 
 501
-00:41:17,810 --> 00:41:23,810
-At the same time, it is very difficult to solve quantum computing.
+00:39:46,850 --> 00:39:50,850
+This tool is not perfect.
 
 502
-00:41:23,810 --> 00:41:27,810
-The algorithm for anti-quantum computing is also developing very fast.
+00:39:50,850 --> 00:39:53,850
+It cannot solve all the problems immediately.
 
 503
-00:41:27,810 --> 00:41:31,810
-In fact, seven or eight years ago,
+00:39:53,850 --> 00:39:55,850
+But its ability
 
 504
-00:41:31,810 --> 00:41:37,810
-I visited some very famous cryptologists in China.
+00:39:55,850 --> 00:39:59,850
+and its ability to enhance AI
 
 505
-00:41:37,810 --> 00:41:44,810
-They have a lot of money to study the encryption algorithm for anti-quantum computing.
+00:39:59,850 --> 00:40:02,850
+are indeed very powerful.
 
 506
-00:41:45,810 --> 00:41:53,810
-Quantum computing is not only decrypted for crypto or blockchain.
+00:40:02,850 --> 00:40:03,850
+Yes.
 
 507
-00:41:53,810 --> 00:41:58,810
-The global encryption algorithm is facing such a threat.
+00:40:03,850 --> 00:40:06,850
+We were just talking about
 
 508
-00:41:58,810 --> 00:42:02,810
-Therefore, many countries have invested a lot of money
+00:40:06,850 --> 00:40:10,850
+how to make it possible for people
 
 509
-00:42:02,810 --> 00:42:06,810
-to develop the encryption algorithm for anti-quantum computing.
+00:40:10,850 --> 00:40:13,850
+to write their own
 
 510
-00:42:06,810 --> 00:42:11,810
-For example, eight years ago, I received a concept called revolution code.
+00:40:13,850 --> 00:40:16,850
+reliable smart contracts.
 
 511
-00:42:11,810 --> 00:42:14,810
-At that time, I had the impression that
+00:40:16,850 --> 00:40:18,850
+At the same time,
 
 512
-00:42:14,810 --> 00:42:19,810
-the model is high, the value is high, and the model is high, and the value is high.
+00:40:18,850 --> 00:40:20,850
+when you were discussing this topic,
 
 513
-00:42:19,810 --> 00:42:23,810
-This is a process of balance between each other.
+00:40:20,850 --> 00:40:23,850
+you mentioned two topics that I would like to discuss with you.
 
 514
-00:42:23,810 --> 00:42:26,810
-It is not a phenomenon that occurs while falling.
+00:40:23,850 --> 00:40:25,850
+One is quantum computing
 
 515
-00:42:26,810 --> 00:42:35,810
-How do you understand the encryption algorithm for anti-quantum computing?
+00:40:25,850 --> 00:40:28,850
+and anti-quantum computing.
 
 516
-00:42:35,810 --> 00:42:38,810
-Because we have already discussed a lot about quantum computing.
+00:40:28,850 --> 00:40:30,850
+Of course, this is
 
 517
-00:42:38,810 --> 00:42:43,810
-There may be a threat to Ethereum, to Bitcoin, and other different algorithms.
+00:40:30,850 --> 00:40:35,850
+a paper published by Google.
 
 518
-00:42:43,810 --> 00:42:50,810
-But I think we have discussed less about the encryption algorithm for anti-quantum computing.
+00:40:35,850 --> 00:40:37,850
+Some people commented that
 
 519
-00:42:50,810 --> 00:42:54,810
-How far has the development of this side gone?
+00:40:37,850 --> 00:40:39,850
+in the paper published by Google,
 
 520
-00:42:54,810 --> 00:42:56,810
-Of course, let me add something.
+00:40:39,850 --> 00:40:42,850
+the most important risk
 
 521
-00:42:56,810 --> 00:43:04,810
-I have asked a cryptologist who is very creative so far.
+00:40:42,850 --> 00:40:44,850
+is not Bitcoin,
 
 522
-00:43:04,810 --> 00:43:10,810
-What if there is a situation like this?
+00:40:44,850 --> 00:40:49,850
+but the signature algorithm of Ethereum.
 
 523
-00:43:10,810 --> 00:43:15,810
-For example, there are many accounts on Bitcoin that may not be able to sign up.
+00:40:49,850 --> 00:40:52,850
+What do you think about this?
 
 524
-00:43:15,810 --> 00:43:20,810
-First of all, it is difficult to change the encryption algorithm.
+00:40:52,850 --> 00:40:58,850
+I have asked some cryptologists.
 
 525
-00:43:20,810 --> 00:43:23,810
-In the process of changing the encryption algorithm,
+00:40:58,850 --> 00:41:02,850
+Of course, the cryptologists gave me the opinion
 
 526
-00:43:23,810 --> 00:43:26,810
-some people do not respond in time,
+00:41:02,850 --> 00:41:05,850
+that this kind of solution
 
 527
-00:43:26,810 --> 00:43:30,810
-do not update their wallet.
+00:41:05,850 --> 00:41:07,850
+is very difficult,
 
 528
-00:43:30,810 --> 00:43:31,810
-What should we do?
+00:41:07,850 --> 00:41:09,850
+especially for quantum computing
 
 529
-00:43:31,810 --> 00:43:37,810
-It will also cause a huge loss and impact to the system,
+00:41:09,850 --> 00:41:14,850
+like Bitcoin.
 
 530
-00:43:37,810 --> 00:43:40,810
-and even make the whole system unbelievable.
+00:41:14,850 --> 00:41:17,850
+This kind of algorithm is also very difficult.
 
 531
-00:43:40,810 --> 00:43:42,810
-What if this happens?
+00:41:17,850 --> 00:41:19,850
+At the same time,
 
 532
-00:43:42,810 --> 00:43:44,810
-In fact, it is easy to do.
+00:41:19,850 --> 00:41:23,850
+it is very difficult to
 
 533
-00:43:44,810 --> 00:43:50,810
-You can add another layer of encryption on the existing encryption algorithm.
+00:41:23,850 --> 00:41:27,850
+counter quantum computing.
 
 534
-00:43:50,810 --> 00:43:54,810
-Add another layer of anti-quantum encryption algorithm.
+00:41:27,850 --> 00:41:31,850
+Seven or eight years ago,
 
 535
-00:43:54,810 --> 00:43:58,810
-Of course, this will affect the performance and a lot of experience.
+00:41:31,850 --> 00:41:33,850
+I visited
 
 536
-00:43:58,810 --> 00:44:01,810
-But then it will take time.
+00:41:33,850 --> 00:41:37,850
+some very famous cryptologists in China.
 
 537
-00:44:01,810 --> 00:44:05,810
-Even if it takes three years, it can be done again.
+00:41:37,850 --> 00:41:39,850
+They have a lot of money
 
 538
-00:44:05,810 --> 00:44:14,810
-Of course, this is the most difficult solution.
+00:41:39,850 --> 00:41:41,850
+to study the encryption algorithm
 
 539
-00:44:14,810 --> 00:44:24,810
-I would like to ask you to discuss the issue of anti-quantum encryption algorithm again.
+00:41:41,850 --> 00:41:45,850
+for anti-quantum computing.
 
 540
-00:44:24,810 --> 00:44:31,810
-In fact, anti-quantum encryption algorithm is a more mature topic.
+00:41:45,850 --> 00:41:48,850
+Because quantum computing
 
 541
-00:44:31,810 --> 00:44:42,810
-We have known for more than 20 years that there are two types of anti-quantum encryption algorithms.
+00:41:48,850 --> 00:41:50,850
+decryption is not only
 
 542
-00:44:42,810 --> 00:44:45,810
-The first is Jiu-Haxi.
+00:41:50,850 --> 00:41:54,850
+aimed at crypto or blockchain.
 
 543
-00:44:45,810 --> 00:44:52,810
-Jiu-Haxi includes a lot of Jiu-Haxi signature algorithms.
+00:41:54,850 --> 00:41:56,850
+The encryption algorithm in the world
 
 544
-00:44:52,810 --> 00:44:56,810
-The second type is Stark.
+00:41:56,850 --> 00:41:58,850
+is actually facing such a threat.
 
 545
-00:44:56,810 --> 00:45:06,810
-The anti-quantum encryption algorithm is also Jiu-Haxi.
+00:41:58,850 --> 00:42:01,850
+So, in fact, there is a lot of money
 
 546
-00:45:06,810 --> 00:45:10,810
-The second type is Jiu-Haxi.
+00:42:01,850 --> 00:42:03,850
+invested in the development
 
 547
-00:45:10,810 --> 00:45:20,810
-Jiu-Haxi is a type of algorithm that can not be solved by quantum computing.
+00:42:03,850 --> 00:42:05,850
+of those anti-quantum computing algorithms.
 
 548
-00:45:20,810 --> 00:45:27,810
-Nowadays, a lot of people will use lattice-based cryptography.
+00:42:05,850 --> 00:42:07,850
+For example, eight years ago,
 
 549
-00:45:27,810 --> 00:45:34,810
-Lattice-based cryptography, all FHEs are also Jiu-Lattice.
+00:42:07,850 --> 00:42:11,850
+I came across a concept called the encryption algorithm.
 
 550
-00:45:34,810 --> 00:45:38,810
-So there are probably two types.
+00:42:11,850 --> 00:42:15,850
+At that time, I had the impression that
 
 551
-00:45:38,810 --> 00:45:42,810
-Jiu-Haxi's signature is okay.
+00:42:15,850 --> 00:42:17,850
+the higher one dies, the higher one rises.
 
 552
-00:45:42,810 --> 00:45:45,810
-Jiu-Lattice's signature is okay.
+00:42:17,850 --> 00:42:19,850
+The higher one dies, the higher one rises.
 
 553
-00:45:45,810 --> 00:45:52,810
-But the public key, Jiu-Lattice's signature is not okay.
+00:42:19,850 --> 00:42:21,850
+This is a process
 
 554
-00:45:52,810 --> 00:46:02,810
-Maybe 40 years ago, some scientists proved that Jiu-Haxi is not okay.
+00:42:21,850 --> 00:42:23,850
+of balance between each other.
 
 555
-00:46:02,810 --> 00:46:09,810
-So any Jiu-Lattice's signature, including FHE,
+00:42:23,850 --> 00:42:25,850
+There is no such phenomenon
 
 556
-00:46:09,810 --> 00:46:14,810
-needs some other technologies.
+00:42:25,850 --> 00:42:27,850
+of one side falling.
 
 557
-00:46:14,810 --> 00:46:16,810
-Lattice-based.
+00:42:28,850 --> 00:42:31,850
+What is your understanding of
 
 558
-00:46:16,810 --> 00:46:31,810
-In L1, our current idea is that we want to push Jiu-Haxi more purely.
+00:42:31,850 --> 00:42:35,850
+the encryption algorithm for anti-quantum computing?
 
 559
-00:46:31,810 --> 00:46:33,810
-Why?
+00:42:35,850 --> 00:42:37,850
+Because we have already discussed
 
 560
-00:46:33,810 --> 00:46:40,810
-Because we don't just want to create a two-sided chain.
+00:42:37,850 --> 00:42:39,850
+a lot about quantum computing.
 
 561
-00:46:40,810 --> 00:46:44,810
-We also want to create a chain against AI.
+00:42:39,850 --> 00:42:41,850
+There may be a threat to
 
 562
-00:46:44,810 --> 00:46:48,810
-If we have this possibility,
+00:42:41,850 --> 00:42:43,850
+Ethereum and Bitcoin,
 
 563
-00:46:48,810 --> 00:46:54,810
-AI will make all those GME algorithms better.
+00:42:43,850 --> 00:42:45,850
+and other different algorithms.
 
 564
-00:46:54,810 --> 00:47:02,810
-Including RSAs and lattice-based algorithms.
+00:42:45,850 --> 00:42:47,850
+I think the less discussed one is
 
 565
-00:47:02,810 --> 00:47:12,810
-If there is only one cryptography that can face AI,
+00:42:47,850 --> 00:42:49,850
+the encryption algorithm
 
 566
-00:47:12,810 --> 00:47:14,810
-it must be Jiu-Haxi.
+00:42:49,850 --> 00:42:51,850
+for anti-quantum computing.
 
 567
-00:47:14,810 --> 00:47:15,810
-Why?
+00:42:51,850 --> 00:42:53,850
+What is the progress
 
 568
-00:47:15,810 --> 00:47:24,810
-Because Jiu-Haxi is something that has absolutely no mathematical structure.
+00:42:53,850 --> 00:42:55,850
+on this side?
 
 569
-00:47:24,810 --> 00:47:29,810
-Jiu-Haxi's solution can be said to be a random tree.
+00:42:55,850 --> 00:42:57,850
+I want to add something.
 
 570
-00:47:29,810 --> 00:47:34,810
-The cryptography scientists will say that Jiu-Haxi is a random oracle.
+00:42:57,850 --> 00:42:59,850
+I have asked a
 
 571
-00:47:34,810 --> 00:47:39,810
-It cannot distinguish between a Jiu-Haxi tree.
+00:42:59,850 --> 00:43:01,850
+very creative
 
 572
-00:47:39,810 --> 00:47:42,810
-Is it Jiu-Haxi or a computer tree?
+00:43:01,850 --> 00:43:03,850
+central cryptologist.
 
 573
-00:47:42,810 --> 00:47:47,810
-If there is only one safe thing, it is Jiu-Haxi.
+00:43:03,850 --> 00:43:05,850
+I said,
 
 574
-00:47:47,810 --> 00:47:54,810
-So we hope that in L1, if we can do everything Jiu-Haxi,
+00:43:05,850 --> 00:43:07,850
+what if
 
 575
-00:47:54,810 --> 00:47:57,810
-we can do everything Jiu-Haxi.
+00:43:07,850 --> 00:43:09,850
+anti-quantum...
 
 576
-00:47:57,810 --> 00:48:00,810
-Jiu-Haxi includes Jiu-Haxi.
+00:43:09,850 --> 00:43:11,850
+What if this happens?
 
 577
-00:48:00,810 --> 00:48:04,810
-But there is a drawback in those algorithms.
+00:43:11,850 --> 00:43:13,850
+For example, Bitcoin does have a lot of accounts.
 
 578
-00:48:04,810 --> 00:48:07,810
-The drawback of Jiu-Haxi is that
+00:43:13,850 --> 00:43:15,850
+It may be too late to sign up.
 
 579
-00:48:07,810 --> 00:48:16,810
-the signatures of the current Ethereum are all based on the elliptic curve.
+00:43:15,850 --> 00:43:17,850
+If you want to change,
 
 580
-00:48:16,810 --> 00:48:23,810
-A signature based on the elliptic curve is 65 bytes.
+00:43:17,850 --> 00:43:19,850
+first of all, it is difficult
 
 581
-00:48:23,810 --> 00:48:27,810
-A Jiu-Haxi is more than 2,000 bytes.
+00:43:19,850 --> 00:43:21,850
+to change the encryption algorithm.
 
 582
-00:48:27,810 --> 00:48:29,810
-2 KB.
+00:43:21,850 --> 00:43:23,850
+In the process of changing,
 
 583
-00:48:29,810 --> 00:48:38,810
-In fact, the lattice-based ones are about 0.6 or 3 kilobytes each.
+00:43:23,850 --> 00:43:25,850
+it did not respond in time.
 
 584
-00:48:38,810 --> 00:48:41,810
-So they are also bigger.
+00:43:25,850 --> 00:43:27,850
+It did not update
 
 585
-00:48:41,810 --> 00:48:44,810
-Then there is a ZK-Synarch.
+00:43:27,850 --> 00:43:29,850
+its wallet.
 
 586
-00:48:44,810 --> 00:48:47,810
-Now it may be 500 megabytes.
+00:43:29,850 --> 00:43:31,850
+What should we do?
 
 587
-00:48:47,810 --> 00:49:00,810
-But a Stark is at least 300 KB more.
+00:43:31,850 --> 00:43:33,850
+I said,
 
 588
-00:49:00,810 --> 00:49:04,810
-So we have to face some flow issues.
+00:43:33,850 --> 00:43:35,850
+it would cause a great loss
 
 589
-00:49:04,810 --> 00:49:08,810
-We know how to face these flow issues.
+00:43:35,850 --> 00:43:37,850
+and an impact
 
 590
-00:49:08,810 --> 00:49:11,810
-We have a way called aggregation.
+00:43:37,850 --> 00:43:39,850
+and even make the whole system
 
 591
-00:49:11,810 --> 00:49:16,810
-Aggregation means that if there is a block
+00:43:39,850 --> 00:43:41,850
+unbelievable.
 
 592
-00:49:16,810 --> 00:49:19,810
-that needs to include a lot of signatures,
+00:43:41,850 --> 00:43:43,850
+I said, what if this happens?
 
 593
-00:49:19,810 --> 00:49:22,810
-that needs to include a lot of signatures,
+00:43:43,850 --> 00:43:45,850
+He said, it's easy to do.
 
 594
-00:49:22,810 --> 00:49:28,810
-then a Jiu-Haxi node can make its own signature,
+00:43:45,850 --> 00:43:47,850
+You can add another layer
 
 595
-00:49:28,810 --> 00:49:31,810
-a 300 KB signature.
+00:43:47,850 --> 00:43:49,850
+of encryption
 
 596
-00:49:31,810 --> 00:49:34,810
-This signature is a Stark.
+00:43:49,850 --> 00:43:51,850
+on the existing encryption algorithm.
 
 597
-00:49:34,810 --> 00:49:39,810
-It can prove all the other signatures and signatures.
+00:43:51,850 --> 00:43:53,850
+You can add another layer
 
 598
-00:49:39,810 --> 00:49:42,810
-So no matter how many transactions,
+00:43:53,850 --> 00:43:55,850
+of anti-quantum encryption algorithm.
 
 599
-00:49:42,810 --> 00:49:46,810
-no matter how complicated the transactions are,
+00:43:55,850 --> 00:43:57,850
+Of course, this will affect the performance
 
 600
-00:49:46,810 --> 00:49:54,810
-it doesn't need to include all the signatures in the block.
+00:43:57,850 --> 00:43:59,850
+and a lot of experience.
 
 601
-00:49:54,810 --> 00:49:59,810
+00:43:59,850 --> 00:44:01,850
+But then,
+
+602
+00:44:01,850 --> 00:44:03,850
+even if it happens
+
+603
+00:44:03,850 --> 00:44:05,850
+three years later,
+
+604
+00:44:05,850 --> 00:44:07,850
+it can be done again.
+
+605
+00:44:07,850 --> 00:44:09,850
+This is
+
+606
+00:44:09,850 --> 00:44:11,850
+the most
+
+607
+00:44:11,850 --> 00:44:13,850
+difficult
+
+608
+00:44:13,850 --> 00:44:15,850
+solution.
+
+609
+00:44:15,850 --> 00:44:17,850
+I want you to
+
+610
+00:44:17,850 --> 00:44:19,850
+look at it from the perspective
+
+611
+00:44:19,850 --> 00:44:21,850
+of anti-quantum encryption
+
+612
+00:44:21,850 --> 00:44:23,850
+and discuss
+
+613
+00:44:23,850 --> 00:44:25,850
+the issue of anti-quantum encryption.
+
+614
+00:44:25,850 --> 00:44:27,850
+Actually,
+
+615
+00:44:27,850 --> 00:44:29,850
+anti-quantum encryption
+
+616
+00:44:29,850 --> 00:44:31,850
+is a more mature topic.
+
+617
+00:44:31,850 --> 00:44:33,850
+We have known
+
+618
+00:44:33,850 --> 00:44:35,850
+for more than 20 years
+
+619
+00:44:35,850 --> 00:44:37,850
+that there are
+
+620
+00:44:37,850 --> 00:44:39,850
+two kinds
+
+621
+00:44:39,850 --> 00:44:41,850
+of anti-quantum
+
+622
+00:44:41,850 --> 00:44:43,850
+encryption technologies.
+
+623
+00:44:43,850 --> 00:44:45,850
+The first one is Jiu-Hashi.
+
+624
+00:44:45,850 --> 00:44:47,850
+Jiu-Hashi includes
+
+625
+00:44:47,850 --> 00:44:49,850
+a lot of
+
+626
+00:44:49,850 --> 00:44:51,850
+Jiu-Hashi
+
+627
+00:44:51,850 --> 00:44:53,850
+signature algorithms.
+
+628
+00:44:53,850 --> 00:44:55,850
+There is
+
+629
+00:44:55,850 --> 00:44:57,850
+Stark,
+
+630
+00:44:57,850 --> 00:44:59,850
+the anti-quantum
+
+631
+00:44:59,850 --> 00:45:01,850
+encryption
+
+632
+00:45:01,850 --> 00:45:03,850
+algorithm.
+
+633
+00:45:03,850 --> 00:45:05,850
+It is also
+
+634
+00:45:05,850 --> 00:45:07,850
+Jiu-Hashi.
+
+635
+00:45:07,850 --> 00:45:09,850
+The second one is
+
+636
+00:45:09,850 --> 00:45:11,850
+Jiu-Hashi
+
+637
+00:45:11,850 --> 00:45:13,850
+with some
+
+638
+00:45:13,850 --> 00:45:15,850
+quantum computers
+
+639
+00:45:15,850 --> 00:45:17,850
+and math
+
+640
+00:45:17,850 --> 00:45:19,850
+algorithms.
+
+641
+00:45:19,850 --> 00:45:21,850
+Nowadays,
+
+642
+00:45:21,850 --> 00:45:23,850
+a lot of people
+
+643
+00:45:23,850 --> 00:45:25,850
+use
+
+644
+00:45:25,850 --> 00:45:27,850
+Lattice-based cryptography.
+
+645
+00:45:27,850 --> 00:45:29,850
+Lattice-based cryptography
+
+646
+00:45:29,850 --> 00:45:31,850
+includes all FHEs
+
+647
+00:45:31,850 --> 00:45:33,850
+and Jiu-Lattice.
+
+648
+00:45:33,850 --> 00:45:35,850
+So,
+
+649
+00:45:35,850 --> 00:45:37,850
+there are
+
+650
+00:45:37,850 --> 00:45:39,850
+two kinds.
+
+651
+00:45:39,850 --> 00:45:41,850
+Jiu-Hashi
+
+652
+00:45:41,850 --> 00:45:43,850
+has a signature
+
+653
+00:45:43,850 --> 00:45:45,850
+algorithm,
+
+654
+00:45:45,850 --> 00:45:47,850
+but
+
+655
+00:45:47,850 --> 00:45:49,850
+public keys
+
+656
+00:45:49,850 --> 00:45:51,850
+are not
+
+657
+00:45:51,850 --> 00:45:53,850
+allowed.
+
+658
+00:45:53,850 --> 00:45:55,850
+Maybe 40 years ago,
+
+659
+00:45:55,850 --> 00:45:57,850
+some
+
+660
+00:45:57,850 --> 00:45:59,850
+mathematicians
+
+661
+00:45:59,850 --> 00:46:01,850
+proved that Jiu-Hashi
+
+662
+00:46:01,850 --> 00:46:03,850
+is not allowed.
+
+663
+00:46:03,850 --> 00:46:05,850
+So,
+
+664
+00:46:05,850 --> 00:46:07,850
+any kind of
+
+665
+00:46:07,850 --> 00:46:09,850
+public keys
+
+666
+00:46:09,850 --> 00:46:11,850
+including FHEs
+
+667
+00:46:11,850 --> 00:46:13,850
+are not allowed.
+
+668
+00:46:13,850 --> 00:46:15,850
+So,
+
+669
+00:46:15,850 --> 00:46:17,850
+some
+
+670
+00:46:17,850 --> 00:46:19,850
+kind of
+
+671
+00:46:19,850 --> 00:46:21,850
+Lattice-based
+
+672
+00:46:21,850 --> 00:46:23,850
+cryptography
+
+673
+00:46:23,850 --> 00:46:25,850
+is not allowed.
+
+674
+00:46:25,850 --> 00:46:27,850
+So,
+
+675
+00:46:27,850 --> 00:46:29,850
+some
+
+676
+00:46:29,850 --> 00:46:31,850
+kind of
+
+677
+00:46:31,850 --> 00:46:33,850
+Lattice-based
+
+678
+00:46:33,850 --> 00:46:35,850
+cryptography
+
+679
+00:46:35,850 --> 00:46:37,850
+is not allowed.
+
+680
+00:46:37,850 --> 00:46:39,850
+So,
+
+681
+00:46:39,850 --> 00:46:41,850
+the two kinds of
+
+682
+00:46:41,850 --> 00:46:43,850
+cryptography
+
+683
+00:46:43,850 --> 00:46:45,850
+are not allowed.
+
+684
+00:46:45,850 --> 00:46:47,850
+So,
+
+685
+00:46:47,850 --> 00:46:49,850
+some kind of
+
+686
+00:46:49,850 --> 00:46:51,850
+Lattice-based
+
+687
+00:46:51,850 --> 00:46:53,850
+cryptography
+
+688
+00:46:53,850 --> 00:46:55,850
+is not allowed.
+
+689
+00:46:55,850 --> 00:46:57,850
+So,
+
+690
+00:46:57,850 --> 00:46:59,850
+some kind
+
+691
+00:46:59,850 --> 00:47:01,850
+of
+
+692
+00:47:01,850 --> 00:47:03,850
+Lattice-based
+
+693
+00:47:03,850 --> 00:47:05,850
+cryptography
+
+694
+00:47:05,850 --> 00:47:07,850
+is not
+
+695
+00:47:07,850 --> 00:47:12,850
+can face AI's cryptography.
+
+696
+00:47:12,850 --> 00:47:14,850
+It must be hashed.
+
+697
+00:47:14,850 --> 00:47:15,850
+Why?
+
+698
+00:47:15,850 --> 00:47:24,850
+Because hash is something that doesn't have any mathematical structure.
+
+699
+00:47:24,850 --> 00:47:29,850
+A hash algorithm can be said to be a random algorithm.
+
+700
+00:47:29,850 --> 00:47:34,850
+A cryptographer can say hash is a random oracle.
+
+701
+00:47:34,850 --> 00:47:42,850
+A hash algorithm can't tell if it's a hash or a random algorithm.
+
+702
+00:47:42,850 --> 00:47:47,850
+So if there's only one safe thing, it's hash.
+
+703
+00:47:47,850 --> 00:47:54,850
+So we hope that in L1, if we can do everything based on hash,
+
+704
+00:47:54,850 --> 00:47:58,850
+we can do everything based on hash.
+
+705
+00:47:59,850 --> 00:48:04,850
+But there's a drawback in these algorithms.
+
+706
+00:48:04,850 --> 00:48:09,850
+The drawback of these algorithms is that the signatures of the current Ethereum
+
+707
+00:48:09,850 --> 00:48:15,850
+are all based on the elliptic curve.
+
+708
+00:48:15,850 --> 00:48:22,850
+A signature based on the elliptic curve is 65 bytes.
+
+709
+00:48:22,850 --> 00:48:26,850
+A signature based on hash is more than 2,000 bytes.
+
+710
+00:48:27,850 --> 00:48:28,850
+2 KB.
+
+711
+00:48:28,850 --> 00:48:37,850
+In fact, the lattice-based ones are about 0.6 and 3 kilobytes each.
+
+712
+00:48:37,850 --> 00:48:41,850
+So they are also bigger.
+
+713
+00:48:41,850 --> 00:48:44,850
+Then there's a ZK-Synarch.
+
+714
+00:48:44,850 --> 00:48:47,850
+Now it's probably 500 megabytes.
+
+715
+00:48:48,850 --> 00:49:00,850
+A Stark is at least 300 KB more.
+
+716
+00:49:00,850 --> 00:49:04,850
+So we have to face some flow issues.
+
+717
+00:49:04,850 --> 00:49:08,850
+We know how to face these flow issues.
+
+718
+00:49:08,850 --> 00:49:11,850
+We have a way called aggregation.
+
+719
+00:49:11,850 --> 00:49:18,850
+Aggregation means that if there's a block that needs a lot of signatures,
+
+720
+00:49:18,850 --> 00:49:21,850
+that needs a lot of proofs,
+
+721
+00:49:21,850 --> 00:49:28,850
+then a node that makes that block can make a proof by itself,
+
+722
+00:49:28,850 --> 00:49:31,850
+a 300 KB proof.
+
+723
+00:49:31,850 --> 00:49:33,850
+This proof is a Stark.
+
+724
+00:49:33,850 --> 00:49:39,850
+It proves all the other signatures and proofs.
+
+725
+00:49:39,850 --> 00:49:42,850
+So no matter how many transactions,
+
+726
+00:49:42,850 --> 00:49:46,850
+no matter how complicated the transactions are,
+
+727
+00:49:46,850 --> 00:49:54,850
+it doesn't need to include all the signatures in the block.
+
+728
+00:49:54,850 --> 00:49:59,850
 It only needs to include a 300 KB Stark.

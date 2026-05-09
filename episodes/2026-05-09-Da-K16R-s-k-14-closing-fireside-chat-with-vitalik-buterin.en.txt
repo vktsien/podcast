@@ -357,244 +357,371 @@ Instead, it uses natural language.
 When you say it,
 the computer will move the data behind it.
 This is the biggest benefit of the Minglin Bank.
-It can be said that
-when you say it,
-the computer will move the data behind it
-to help you accomplish your goal,
-to achieve your goal.
-Obviously, I am looking forward to
-to doing something like this
-with the help of AI.
-I would also like to say.
-When we spoke about lapping at antioxidants,
-Actually, I remember that in 2016,
-when DevCon was held in Shanghai at the World Development Conference in Itaewon,
-we had already started to discuss tools and technical means
-such as simplification, such as the writing of smart contracts.
-I remember that two different technical development teams
+Of course, this is what I look forward to.
+I look forward to doing this
+using artificial language
+to help AI.
+I also want to say that
+when we talk about the simplification of ETH,
+When it comes to the simplification of Ethereum,
+I remember that in 2016,
+when DevCon was held in Shanghai
+at the Global Development Conference of Ethereum,
+there was already a discussion about simplification,
+such as simplifying the programming of smart contracts,
+and some tools or technical means.
+At that time, I remember that two different technical development teams
 discussed formal verification in 2016.
-Formal verification means using formal verification
-to verify all the applications on Itaewon,
-including various smart contracts,
+Formal verification is to use formal verification
+to verify all the applications on Ethereum,
+including all kinds of smart contracts,
 to find its bugs,
 to make it a very perfect smart contract.
-Now AI is coming again.
+Now AI has come again.
 With AI and formal verification,
-is it possible for any individual,
+is it possible that any individual,
 even if he has no programming ability,
 he is not a computer engineer,
 he can also build his own smart contract
 for his own purpose, for his own needs.
-This smart contract will indeed not have any bugs,
+This smart contract will indeed not have bugs,
 it will not be found by hackers,
 and it can run very well.
 This is the premise.
-Or, from another angle,
-formal verification.
-We started to discuss formal verification 10 years ago.
-To date, if we add AI,
-is it possible for those who have computer programming abilities
+Or from another angle,
+formal verification,
+we started to discuss ten years ago.
+To this day, if we add AI,
+is it possible for those of us who have computer programming abilities
 or those who do not have computer programming abilities
 to write their own smart contracts
-and run them on Itaewon?
+and run them on Ethereum?
 Yes.
 Formal verification is very important now.
 In fact, writing this smart contract
 is a very important part.
 We may have talked a lot about it in 2016,
-because the attack on Dao took place in 2016,
-so everyone has just realized
-the importance of the smart contract security issue.
+because the attack on DAO took place in 2016,
+so everyone just realized the importance
+of the smart contract security issue.
 But this year, the quad mythos came out.
 Many people were very surprised by this,
 and even very afraid.
 According to my current understanding,
 the quad mythos is indeed stronger than the previous AI,
 but as everyone said, it also has some flaws.
-But we can't just look at the current quad mythos.
-We need to look at the trend.
+But we can't just look at the current quad mythos,
+we need to look at the trend.
 The trend is that the quad mythos is much better than the AI of a year ago.
-The AI of next year will be much better than the quad mythos.
-The AI of 2029,
-which is looking for various activities,
+The AI of the next year will be much better than the quad mythos.
+The AI of the year 2029,
+looking for various activities,
 may be very scary.
 So now I think the only way is
 that we need to use AI plus formal verification
 plus more methods.
-There are some really safe codes.
-There are no very serious codes of activity.
+This is a very safe code.
+There is no very serious activity code.
 Now, because of the AI,
 it is almost possible now.
 Then, because of the AI's ability to look for various activities,
-it is necessary to do this.
+this will be necessary.
 So now we are at Lean Ethereum,
-which is a team in the next version of Ethereum.
+which is a team that is working on the next version of Ethereum.
 They are now working on the next version of Ethereum's POS.
-They have many goals,
-The first goal is faster.
-The final time is 16 minutes.
-Maybe 16 seconds, maybe 8 seconds, maybe less.
-The second goal is faster.
-Since last year,
-all the things we are thinking about and developing now,
-we all say that it is necessary to measure.
-The third goal is more centralized and safer.
-So they have many needs.
+They have many goals.
+The first one is faster,
+the final time,
+from now on, 16 minutes,
+maybe 16 seconds, maybe 8 seconds, maybe less.
+The second one is faster.
+Now, since last year,
+all the things we are thinking about,
+the things we are developing now,
+we all say that it is necessary.
+The third one is more centralized,
+more safe.
+So they have a lot of needs.
 One of the things they are doing now
 is that they are using the Lean Consensus,
 which is the next version of the POS,
 to prove that they are safe.
 This includes the signature of the two sides,
-including the signature of the two sides,
-including the recursive stark.
+including the two sides' neighbor,
+Stark,
+including the recursive Stark.
 So this includes a lot of complicated things.
 Maybe two years ago,
-everyone thought that it would be impossible
+everyone thought that it was impossible
 to prove such a complicated thing in a computerized way.
-It may never be possible.
-But now, because of the rapid development of AI,
-these things are more likely.
-So AI is now an important part of our L1 core development.
-It is also very important to write the L1 core.
-Recently, the time for recursive stark is getting more and more serious.
-In fact, in the last two years,
-the L1 core on the face is still good.
-Recently, more problems are in the UI core.
-Yes, it is on the bottom of the chain.
+Maybe it was impossible forever.
+But now,
+because of the fast development of AI,
+these things are more possible.
+So AI is now an increasingly important part
+of our L1 core development.
+It is also very important
+to write the L1 core language.
+Recently,
+the time for various reviews
+is getting more and more serious.
+In fact,
+in the last two years,
+the L1 core language on the Internet is still good.
+Recently,
+more problems are in the L1 UI.
+Yes.
+It is on the Internet.
 AI can also help.
 If we have AI,
+for example,
 you can search for the last year's safe tool.
 The safe tool is an unexpected tool.
-If you use safe through local AI,
-it will never happen.
-So if you do it right,
-AI can also help.
-Because it can replace the third-party UI,
+If you use the safe tool through local AI,
+things will not happen.
+So if you do it well,
+if you do it correctly,
+AI,
+because it can replace the third-party UI,
 it can also help with security.
 But AI also has its own security issues.
 So this is also what we are thinking about.
-In the last year,
-Viper is the second language that can only be created.
-Solidity is the first, Viper is the second.
-They have announced that they are now supporting the implementation.
-It is possible that their capabilities will become better and better.
-Solidity will also become better.
-So, yes, it will become more serious.
+In the L1 core language,
+the last year's Viper
+is the second
+L1 core language.
+Solidity is the first,
+Viper is the second.
+They have announced that
+they are now supporting the implementation.
+It is likely that their capabilities will become better.
+Solidity will also.
+Yes.
+It will change.
 This tool is not perfect.
 It cannot solve all the problems immediately.
-But its capabilities and its ability to add AI are indeed very powerful.
-We were talking about formal verification.
-How to make it possible for everyone to write their own reliable smart contracts.
-You mentioned two topics that I want to discuss with you.
-One is quantum computing and anti-quantum computing.
-Of course, this is a paper published by Google.
-Some people comment that Google's paper
-has more risks than Bitcoin.
-Instead, it is the signature algorithm of Ethereum.
-How do you look at this?
-I have also asked some cryptologists.
-Of course, the cryptologists gave me the opinion that
-it is very difficult to solve quantum computing,
-especially with Bitcoin.
-Quantum computing itself is a very difficult thing.
-It is also very difficult to solve this kind of algorithm.
-At the same time, it is very difficult to solve quantum computing.
-The algorithm for anti-quantum computing is also developing very fast.
-In fact, seven or eight years ago,
-I visited some very famous cryptologists in China.
-They have a lot of money to study the encryption algorithm for anti-quantum computing.
-Quantum computing is not only decrypted for crypto or blockchain.
-The global encryption algorithm is facing such a threat.
-Therefore, many countries have invested a lot of money
-to develop the encryption algorithm for anti-quantum computing.
-For example, eight years ago, I received a concept called revolution code.
+But its ability
+and its ability to enhance AI
+are indeed very powerful.
+Yes.
+We were just talking about
+how to make it possible for people
+to write their own
+reliable smart contracts.
+At the same time,
+when you were discussing this topic,
+you mentioned two topics that I would like to discuss with you.
+One is quantum computing
+and anti-quantum computing.
+Of course, this is
+a paper published by Google.
+Some people commented that
+in the paper published by Google,
+the most important risk
+is not Bitcoin,
+but the signature algorithm of Ethereum.
+What do you think about this?
+I have asked some cryptologists.
+Of course, the cryptologists gave me the opinion
+that this kind of solution
+is very difficult,
+especially for quantum computing
+like Bitcoin.
+This kind of algorithm is also very difficult.
+At the same time,
+it is very difficult to
+counter quantum computing.
+Seven or eight years ago,
+I visited
+some very famous cryptologists in China.
+They have a lot of money
+to study the encryption algorithm
+for anti-quantum computing.
+Because quantum computing
+decryption is not only
+aimed at crypto or blockchain.
+The encryption algorithm in the world
+is actually facing such a threat.
+So, in fact, there is a lot of money
+invested in the development
+of those anti-quantum computing algorithms.
+For example, eight years ago,
+I came across a concept called the encryption algorithm.
 At that time, I had the impression that
-the model is high, the value is high, and the model is high, and the value is high.
-This is a process of balance between each other.
-It is not a phenomenon that occurs while falling.
-How do you understand the encryption algorithm for anti-quantum computing?
-Because we have already discussed a lot about quantum computing.
-There may be a threat to Ethereum, to Bitcoin, and other different algorithms.
-But I think we have discussed less about the encryption algorithm for anti-quantum computing.
-How far has the development of this side gone?
-Of course, let me add something.
-I have asked a cryptologist who is very creative so far.
-What if there is a situation like this?
-For example, there are many accounts on Bitcoin that may not be able to sign up.
-First of all, it is difficult to change the encryption algorithm.
-In the process of changing the encryption algorithm,
-some people do not respond in time,
-do not update their wallet.
-What should we do?
-It will also cause a huge loss and impact to the system,
-and even make the whole system unbelievable.
+the higher one dies, the higher one rises.
+The higher one dies, the higher one rises.
+This is a process
+of balance between each other.
+There is no such phenomenon
+of one side falling.
+What is your understanding of
+the encryption algorithm for anti-quantum computing?
+Because we have already discussed
+a lot about quantum computing.
+There may be a threat to
+Ethereum and Bitcoin,
+and other different algorithms.
+I think the less discussed one is
+the encryption algorithm
+for anti-quantum computing.
+What is the progress
+on this side?
+I want to add something.
+I have asked a
+very creative
+central cryptologist.
+I said,
+what if
+anti-quantum...
 What if this happens?
-In fact, it is easy to do.
-You can add another layer of encryption on the existing encryption algorithm.
-Add another layer of anti-quantum encryption algorithm.
-Of course, this will affect the performance and a lot of experience.
-But then it will take time.
-Even if it takes three years, it can be done again.
-Of course, this is the most difficult solution.
-I would like to ask you to discuss the issue of anti-quantum encryption algorithm again.
-In fact, anti-quantum encryption algorithm is a more mature topic.
-We have known for more than 20 years that there are two types of anti-quantum encryption algorithms.
-The first is Jiu-Haxi.
-Jiu-Haxi includes a lot of Jiu-Haxi signature algorithms.
-The second type is Stark.
-The anti-quantum encryption algorithm is also Jiu-Haxi.
-The second type is Jiu-Haxi.
-Jiu-Haxi is a type of algorithm that can not be solved by quantum computing.
-Nowadays, a lot of people will use lattice-based cryptography.
-Lattice-based cryptography, all FHEs are also Jiu-Lattice.
-So there are probably two types.
-Jiu-Haxi's signature is okay.
-Jiu-Lattice's signature is okay.
-But the public key, Jiu-Lattice's signature is not okay.
-Maybe 40 years ago, some scientists proved that Jiu-Haxi is not okay.
-So any Jiu-Lattice's signature, including FHE,
-needs some other technologies.
-Lattice-based.
-In L1, our current idea is that we want to push Jiu-Haxi more purely.
+For example, Bitcoin does have a lot of accounts.
+It may be too late to sign up.
+If you want to change,
+first of all, it is difficult
+to change the encryption algorithm.
+In the process of changing,
+it did not respond in time.
+It did not update
+its wallet.
+What should we do?
+I said,
+it would cause a great loss
+and an impact
+and even make the whole system
+unbelievable.
+I said, what if this happens?
+He said, it's easy to do.
+You can add another layer
+of encryption
+on the existing encryption algorithm.
+You can add another layer
+of anti-quantum encryption algorithm.
+Of course, this will affect the performance
+and a lot of experience.
+But then,
+even if it happens
+three years later,
+it can be done again.
+This is
+the most
+difficult
+solution.
+I want you to
+look at it from the perspective
+of anti-quantum encryption
+and discuss
+the issue of anti-quantum encryption.
+Actually,
+anti-quantum encryption
+is a more mature topic.
+We have known
+for more than 20 years
+that there are
+two kinds
+of anti-quantum
+encryption technologies.
+The first one is Jiu-Hashi.
+Jiu-Hashi includes
+a lot of
+Jiu-Hashi
+signature algorithms.
+There is
+Stark,
+the anti-quantum
+encryption
+algorithm.
+It is also
+Jiu-Hashi.
+The second one is
+Jiu-Hashi
+with some
+quantum computers
+and math
+algorithms.
+Nowadays,
+a lot of people
+use
+Lattice-based cryptography.
+Lattice-based cryptography
+includes all FHEs
+and Jiu-Lattice.
+So,
+there are
+two kinds.
+Jiu-Hashi
+has a signature
+algorithm,
+but
+public keys
+are not
+allowed.
+Maybe 40 years ago,
+some
+mathematicians
+proved that Jiu-Hashi
+is not allowed.
+So,
+any kind of
+public keys
+including FHEs
+are not allowed.
+So,
+some
+kind of
+Lattice-based
+cryptography
+is not allowed.
+So,
+some
+kind of
+Lattice-based
+cryptography
+is not allowed.
+So,
+the two kinds of
+cryptography
+are not allowed.
+So,
+some kind of
+Lattice-based
+cryptography
+is not allowed.
+So,
+some kind
+of
+Lattice-based
+cryptography
+is not
+can face AI's cryptography.
+It must be hashed.
 Why?
-Because we don't just want to create a two-sided chain.
-We also want to create a chain against AI.
-If we have this possibility,
-AI will make all those GME algorithms better.
-Including RSAs and lattice-based algorithms.
-If there is only one cryptography that can face AI,
-it must be Jiu-Haxi.
-Why?
-Because Jiu-Haxi is something that has absolutely no mathematical structure.
-Jiu-Haxi's solution can be said to be a random tree.
-The cryptography scientists will say that Jiu-Haxi is a random oracle.
-It cannot distinguish between a Jiu-Haxi tree.
-Is it Jiu-Haxi or a computer tree?
-If there is only one safe thing, it is Jiu-Haxi.
-So we hope that in L1, if we can do everything Jiu-Haxi,
-we can do everything Jiu-Haxi.
-Jiu-Haxi includes Jiu-Haxi.
-But there is a drawback in those algorithms.
-The drawback of Jiu-Haxi is that
-the signatures of the current Ethereum are all based on the elliptic curve.
+Because hash is something that doesn't have any mathematical structure.
+A hash algorithm can be said to be a random algorithm.
+A cryptographer can say hash is a random oracle.
+A hash algorithm can't tell if it's a hash or a random algorithm.
+So if there's only one safe thing, it's hash.
+So we hope that in L1, if we can do everything based on hash,
+we can do everything based on hash.
+But there's a drawback in these algorithms.
+The drawback of these algorithms is that the signatures of the current Ethereum
+are all based on the elliptic curve.
 A signature based on the elliptic curve is 65 bytes.
-A Jiu-Haxi is more than 2,000 bytes.
+A signature based on hash is more than 2,000 bytes.
 2 KB.
-In fact, the lattice-based ones are about 0.6 or 3 kilobytes each.
+In fact, the lattice-based ones are about 0.6 and 3 kilobytes each.
 So they are also bigger.
-Then there is a ZK-Synarch.
-Now it may be 500 megabytes.
-But a Stark is at least 300 KB more.
+Then there's a ZK-Synarch.
+Now it's probably 500 megabytes.
+A Stark is at least 300 KB more.
 So we have to face some flow issues.
 We know how to face these flow issues.
 We have a way called aggregation.
-Aggregation means that if there is a block
-that needs to include a lot of signatures,
-that needs to include a lot of signatures,
-then a Jiu-Haxi node can make its own signature,
-a 300 KB signature.
-This signature is a Stark.
-It can prove all the other signatures and signatures.
+Aggregation means that if there's a block that needs a lot of signatures,
+that needs a lot of proofs,
+then a node that makes that block can make a proof by itself,
+a 300 KB proof.
+This proof is a Stark.
+It proves all the other signatures and proofs.
 So no matter how many transactions,
 no matter how complicated the transactions are,
 it doesn't need to include all the signatures in the block.
