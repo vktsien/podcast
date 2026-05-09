@@ -2,6 +2,7 @@
 """扫描 episodes/ 目录生成 feed.xml（iTunes Podcast 兼容）。"""
 import datetime
 import json
+import re
 import subprocess
 import xml.sax.saxutils
 from email.utils import format_datetime
@@ -13,7 +14,7 @@ FEED_PATH = ROOT / "feed.xml"
 
 # 频道元数据（可改）
 CHANNEL = {
-    "title": "AI 速听 · 英文播客中文版",
+    "title": "每日WEB4",
     "subtitle": "AI 自动转写英文音频并配中文 TTS",
     "description": "把英文音视频内容自动转写、翻译并用 AI 配音成中文播客。每集附中英文字幕。",
     "language": "zh-CN",
@@ -60,12 +61,38 @@ def build_episode_item(mp3_path):
     slug = parts[3]
     pub = datetime.datetime.fromisoformat(date_str).replace(tzinfo=datetime.timezone.utc)
 
+    # 优先读 meta.json（含原始章节标题/演讲者/简介），fallback 才用 slug
+    meta_path = mp3_path.parent / f"{base}.meta.json"
+    meta = {}
+    if meta_path.exists():
+        try:
+            meta = json.loads(meta_path.read_text(encoding="utf-8"))
+        except Exception:
+            meta = {}
+
     # show notes：用 zh.txt + 末尾贴 en.txt 链接
     zh_txt = (mp3_path.parent / f"{base}.zh.txt").read_text(encoding="utf-8") if (mp3_path.parent / f"{base}.zh.txt").exists() else ""
     en_url = f"{CHANNEL['site_url']}episodes/{base}.en.txt"
-    description = f"{zh_txt}\n\n---\n英文原文: {en_url}"
+    speakers = meta.get("speakers") or []
+    summary = meta.get("summary") or ""
+    header_lines = []
+    if speakers:
+        header_lines.append("讲者: " + " / ".join(speakers))
+    if summary:
+        header_lines.append(summary)
+    header = "\n".join(header_lines)
+    description = (header + "\n\n" if header else "") + zh_txt + f"\n\n---\n英文原文: {en_url}"
 
-    title_human = slug.replace("-", " ").title()
+    if meta.get("title"):
+        title_human = meta["title"]
+    else:
+        # fallback：剥掉 slug 开头可能存在的 yt-id（含连字符）+ 章节号 NN
+        # 形如 "Da-K16R-s-k-13-ethereum-meets-hardware" → "ethereum meets hardware"
+        m = re.match(r"^[A-Za-z0-9_-]+?-(\d{2})-(.+)$", slug)
+        if m:
+            title_human = m.group(2).replace("-", " ").title()
+        else:
+            title_human = slug.replace("-", " ").title()
     duration = ffprobe_duration(mp3_path)
     size = mp3_path.stat().st_size
     enclosure_url = f"{CHANNEL['site_url']}episodes/{mp3_path.name}"

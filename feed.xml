@@ -4,13 +4,13 @@
      xmlns:content="http://purl.org/rss/1.0/modules/content/"
      version="2.0">
   <channel>
-    <title>AI 速听 · 英文播客中文版</title>
+    <title>每日WEB4</title>
     <link>https://vktsien.github.io/podcast/</link>
     <atom:link href="https://vktsien.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description><![CDATA[把英文音视频内容自动转写、翻译并用 AI 配音成中文播客。每集附中英文字幕。]]></description>
     <language>zh-CN</language>
     <copyright>© 2026 vktsien (内容版权归原作者，本站仅 AI 转写翻译)</copyright>
-    <lastBuildDate>Sat, 09 May 2026 07:28:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 07:30:03 +0000</lastBuildDate>
     <generator>audio-to-podcast skill</generator>
     <itunes:author>vktsien</itunes:author>
     <itunes:subtitle>AI 自动转写英文音频并配中文 TTS</itunes:subtitle>
