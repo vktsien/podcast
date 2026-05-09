@@ -1,0 +1,397 @@
+There are how does it get executed actually matters and will impact in fact
+it's not that easy that you what you want become a reality and
+you have to simulate there are many actors that compete in simulation and
+Trying to predict which outcome is going to lend you
+your swap
+your intent your LLM calls like the best execution what routes and
+and
+So this is like essentially like some more
+Jargons explaining what I was explaining in earlier in the doctor strange analogy
+essentially
+Today you can almost see
+the block building process for a blockchain as a metaphor
+But also have a lot in parallel with a live
+reinforcement learning environment
+and
+Essentially the ground to PNL are the building rewards
+the block rewards for this distributed comment or auction that happens under deadline and
+It's a
+There's a local feedback loop of how do you optimize the execution routes?
+How do you and there's a global feedback loop of how does the market structure evolve?
+So in fact, probably the better the more precise term is an evolutionary
+Reinforced learning environment
+Under ever zero condition
+This is actually quite relevant today because if you recall most of your agents most of your LLM's today
+they are trained to
+please you to do what you tell it to do but it's kind of dumb as it they don't have economic rationality as
+And they are easily scammed and tricked
+So in fact
+One thing that has not been fully explored is that in blockchain
+Especially the block building the simulation process the adversarial simulation
+could actually add
+value to our
+Progress on the AI front to general intelligence and that is very much
+Under-appreciated and then a little bit more about this
+How
+Things work under the hood. How does your intent gets executed and end up landing on chain?
+in the block building process the top of block is the most heated battleground and
+Basically who is going for the top of block all of these whether it's cross
+Cross venue arbitrage what we call like centralized exchange to decentralized exchange statistical arbitrage or algorithmic liquidations that needs to go
+Immediately after an oracle update or oracle driven updates that are just like basically move real-world information on chain
+Or market maker quote refresh. Those are essentially high contention
+states
+that are in competition and
+in fact all of them if you squint are
+Oracle updates or the hard work of moving what happens in the real world onto the moodle ledger and
+so
+this and so essentially when it comes to
+the block building process and
+How your transaction sorry how your intent gets executed?
+there is
+Heated battles in this distributed combinatorial auction across MEV searchers like these arbitrage bots across the
+Solvers for whichever
+Decks that you like to use or aggregators. There's
+aggregators fighting the routing war and
+There's a block builders that are trying to bid strategically and pack the optimal block
+This is where how your
+intents
+gets translated through market competition into an optimal outcome for
+you in
+this chaotic process and
+Essentially from the moment you sign a transaction to
+Like a transaction lands on chain
+Here is the gap and that gap needs to be held accountable and so and in this chaotic distributed process
+Again, there's a natural tendency in these market competition
+to vertically integrate
+to centralize because capital begets capital and then
+domain expertise in solving in building or those who have the most water flow or
+Will win and continue to win just like
+Robin Hood and
+Citadel its relationship
+Water flow is king and the kingmaker and
+Your intent is someone else water flow that they can profit from
+So at the end of the day the most important and oftentimes not spoken about
+Application design happens really under the hood
+To is how do we enable to turn a chaotic
+Competition into a chaotic
+Co-op petition stealing the word of deep hog from Visa
+And in fact on aetherium whether it's called proposer builder separation
+And
+Where you see despite?
+as well as where you can see the specialization of
+solvers and searchers
+that
+that basically compete on their separate lanes and
+Then arbitrate it and then the block building process arbitrate
+in a fair contest who wins and
+These process
+Essentially in a permissionless fashion
+Compose together into a supply chain that
+enables the specialized actors to
+Do their best work and we call this secure composition
+in distributed block building
+So to sum it up like this is a good kind of illustration of what I just said of like you can kind of roughly see
+Like there's an on-chain component from intent submission like to
+finally what goes back on chain, but then what's in the middle is
+all off chain in the attested environments with proofs and
+Like you need to basically rely on and
+Like evidence of what ran a set of other stations a chain of proofs
+To enable the same guarantees
+Is
+Executed for your intent
+So here I won't go into details
+When we speak about attestations
+You can simplify it or the mental model
+I like to think about it is essentially break it down into the integrity guarantee confidentiality guarantee and composability guarantee and
+Specifically when I speak about attestation, I think that one of the most important and relevant
+Attestation is TE attestation as in block building as in this distributed combinatorial
+Auction under
+That's highly
+adversarial
+Essentially TE is the only tool in the near to medium future to ensure
+Your intent gets executed faithfully
+For the optimal quality, but these are
+the breakdown of what does the TE attestations used in the block building context can give you and
+Finally a bit more about like, you know market microstructure
+You may wonder why is it the case that every like how do these specialized actors do their best work?
+How does the orchestration happen?
+Ultimately at the end of the day is all about signals
+Who has what information under this 12-second deadline and
+Who
+whose view like who needs what complementary information and
+How do you lend compute? How do you share compute in this entire process without?
+Needing to trust your counterparty
+That's really the end of the day
+How does everything that I'm talking about, you know map on to your
+Like the actual market structure and
+So like in a nutshell
+when we think about application design interface fades and
+ultimately is the guardrails that
+like
+Defend the market microstructure that shapes how the market competes and cooperate
+Determines your execution quality and
+I guess my time is almost up. So I'll just speed run it. So how does this tie into
+agentic applications, so the key question we should be asking is when software acts on a human behalf
+like these constraints don't just
+prevent like
+abuses by machines and by others
+like these
+What I was speaking about well blockchains and the block building process
+enables and supports and brings to the our real-world application is
+they can help define the guardrail and constrain what agents are allowed to do and
+So
+essentially like when you look at how far we've gotten since the inception of DeFi in 2018 19
+To essentially 296 agentic application in agentic execution. I would say one of the key Delta is this
+accountability for the invisible routing proprietary execution and outcome attribute
+attribution
+Like receipts for outcome attribution that become available
+in other words
+What is in the red now? We can help them accountable through verifiable off-chain
+Infrastructure that works in conjunction with on-chain
+smart contracts and
+So like and all of what I was saying earlier when I speak about trading bots when I speak about MEV boss
+Solvers aggregators. These are all just spots and you can think about them in a meta level
+in parallel with agents and
+Except that agents they work in a non-atomic way and it's a multi-step
+process and
+but the same microstructure that we spoke about earlier where
+Power is concentrated and agency is taken away from your hands. It still applies in
+this
+agentic
+application design paradigm
+the only Delta that you need to be more mindful of is delegation or is
+Do you trust your agent to take over your accounts on social media?
+Take care of your email accounts take over your
+entire
+operating systems
+That you rely upon
+At what point can you trust them? In fact, if you think about it, this is the same question that you should ask yourself when they think about
+approvals
+signing transactions on block chains and
+in fact
+despite all of the recent hacks I
+would say that
+On-chain applications or smart contract applications in aetherium, especially the work around account abstraction has
+significantly
+Advanced and leaf rocked. I think the state-of-the-art in terms of secure account delegation in
+the web to world
+as well as in agentic
+applications
+in other words in
+agent to agent communications off
+Authorization it's not soft
+but blockchain has close to
+What we have what we see what I see as a solution much closer
+Big and it's been battle-tested under adversarial conditions with real money
+at the table, so
+Now the key question, you know to sum everything all up what to build. How do we?
+Enable human centric agency and in light and extend it to agent mediated future. That's the question and
+Here are some more technical jargons
+But in the nutshell a lot of these design considerations are
+What we've been designing for in smart contract applications on the blockchain substrate the same design pattern design philosophy
+that should be applied to agentic application applications and
+A simple task
+like this
+actually
+entails like every single decision that we just discussed the complexity that's hidden away from you under the hood
+To be trustworthy
+To be accountable and that requires founded authority
+verifiable execution
+neutral coordination and
+Give us the right to refuse or in other words a better UX for approval
+or in other words a better UX and period and
+So yeah in a nutshell
+The key to
+application design with agency is
+execution
+That's accountable and this is the distributed coordination problem that blockchains
+When smart contracts have been solving and we're solving them at scale
+Yeah, so here's a
+simplification
+Blockchains would like to show layers. So this is one way you can
+Think about it. There goes your base layer that unerise and finalizes
+your shared reality
+But then the starting point is always your human intent. What do you actually want?
+and then the rest that's
+Bracketed a lot of our work at flashbots is here on execution markets
+resolving
+competing intense
+resolving contention of states and
+Through this distributed combinatorial auction
+To pack the optimal block select one canonical outcome that is best in your interest
+So remember dr. Strange, I just want you to leave with that image
+Millions of futures gets enumerated and simulated one gets selected. Do you want that one outcome?
+To be that to be what's in your favor if that's the case
+Care about what happens under the hood
+All right, that's it. Thank you
+Thank you, Tina
+Thank You Tina
+While we get the stage set up for our next session a quick note for those who may just have joined us
+Today's gathering is hosted by the aetherium application guild aka EAG a global nonprofit
+collaborative organization
+Dedicated to advancing the innovation adoption and the real-world impact of aetherium native applications
+Up next we will move on to an exciting panel discussion titled institutional adoption on aetherium
+challenges gaps and the path forward
+Let's welcome the moderator QZ partner of aetherium ecosystem fund
+The panelists are Patrick McCoury
+researcher at Arbitrum Foundation
+Mojalin
+institutional privacy lead at is aetherium foundation
+Serena Wong head of
+HSK Ecolabs at Hushkey group and Samuel Chong
+institutional relations lead APAC and Mina at LIDL ecosystem foundation
+Please welcome them up. Hi everyone
+So today's panel is about institutional adoption. So we've got a very illustrious group across the entire industry
+I'm gonna just jump right into it because I think we might be a bit short of time
+so
+Today actually I want to frame the session with our provocation, which is that?
+Institutional adoption is usually represented as validation
+but
+I'm curious right like what if institutions are adopting aetherium for something quite different from what we have actually built
+And so that will be the core tension of today's discussion
+and I'm gonna start with Patrick from Arbitrum and
+For you you've been particularly vocal about pushing institutions towards self-custody and using more multi-six
+safe hardware wallets
+the whole stack
+But for a finance person signing a million dollar transaction and being asked to verify call data
+Intendedly that that's genuinely terrifying
+The UX doesn't match the ask what do you have to say about this?
+Yeah, I mean let me set the scene first before I get into the you know
+My rant about the UX of crypto right now. So as most people here are aware
+Ethereum has existed for about ten years and defies about seven years old and
+For about the past seven years. We've built these really cool defy primitives that are just minimized and obviously they're smart contracts and they're autonomous
+But with these defy protocols they've been built using food coins and meme coins and not real assets
+But in 2025 2026 and onwards we're now starting to see this intersection between
+DeFi and obviously trotify and real-world assets
+So now we're going to see RWAs land on aetherium and interact with these defy
+Primitives that we've built for the past seven years and that's really really exciting and like I don't know like it gets me really
+Like, you know bubbly when I when I hear about it
+But the problem is that for the past seven years the prime user of defy has been technical folk or developers
+Or people who understand how the system works
+So let me ask people in the audience here if I can grab your attention
+I just have like one or two questions to get a sense of your experience
+So raise your hand if you have ever used a hardware wallet
+Who's ever tried using a hardware wallet before?
+Cool a few people over there. I see a few people we see some OGs
+Okay, cool. And then raise your hand if you enjoyed using a hardware wallet
+No one's ever knowns reason their hand on down there. Look at that. That's the true dev got a core dev down there
+And that's my point like hardware wallets are
+Really difficult to use they're terrifying you look at the screen and it just has this hash of a blind signing mode
+So you have no idea what you're even signing and then once you sign it
+You're about to transfer millions of dollars if you're like an institution and then you visit the website for these monthly sakes
+I mean we do use gnosis safe by complain about it all the time
+You go on this website and it's somewhat terrifying for financial like anyone who's not a dev
+They look at it. They simulate the transaction. They go in tenderly they see code
+They see hashes and they're just like all I want to do is you know deposit into a defy protocol
+I have no idea what's going on here
+And so the issue we have as an industry is that the defy primitives are there they work
+They're bottle tested for seven years
+But the UX has not caught up because we've not really had real-world assets and real, you know finance users
+Tradfied users interacting with the chain and that's really the next thing we need to fix
+UI is like the next frontier for the next couple of years and
+Yeah, that's my rant over basically I can I could go on but even screenshots and everything
+But I think most people get the point
+We really need to work on the UX because it's terrifying for tradfied people and they're going to be the real users over the next
+four years
+Absolutely, I definitely agree with that that when I sign my hardware wallet, I get a heart attack
+Shut a vodka
+You gotta be very brave
+So that's one point that I think institutions need to do a bit better about which is UX, right?
+So the other point I think is actually about education
+And so this question is actually for Mo who works for the Ethereum Foundation's
+institutional privacy lead now
+One thing that we have discovered over the years is that the strongest institutional relationships with Ethereum have not come from like
+Directly trying to pitch them. Can you use the theorem? Can you use Eve like that? It's not very effective
+so we are curious that
+for
+Ethereum what is
+Ethereum is very challenging to navigate without a guide and I think for you
+That's something that you have been playing a role for different institutions from a very personal matter
+And so I'm curious that when as part of the privacy task force where institutions engage
+Directly with a specific problem and found their way into Ethereum
+What is the right model in your opinion for engaging institutions?
+Yeah, so I definitely think that first of the word institutions is very broad. There are many different types
+But the way that you engage them is predominantly I think
+The same or the way it should be done which is
+Understanding what they're trying to do for a lot of these folks. They don't necessarily understand
+Blockchains that well, they don't necessarily understand their forness as they give them
+But what they do know is maybe the problems that they're working on. I think what's the great thing about
+An ecosystem like a theorem is that you know, you can help them solve moving money. You can help them solve identity
+But what they get without almost not knowing is that they also get this like really large open infrastructure
+One that's like battle-tested and resilient
+one that can't censor them and
+I think like the model there is as you suggested like understanding what they're doing, but then there is this gap
+Where they don't quite understand the additional properties that they get that is extremely beneficial to them and they realize that over time. So I think
+Yes, that's definitely the model and then the scaling aspect of that
+I think is an interesting one, which is like goes back to education
+Heading to understand why these things are important why we care about these properties why we've been working in this space for 10 years
+and
+That's where we need to rely on the ecosystem
+So, you know, I work at the foundation but really for this to be successful
+It has to be an ecosystem effort has to be from folks that work at Arbitrum folks that work in you know
+There's different organization all across the world
+And I think if we do that and we create like open specs and general knowledge that people can leverage
+That is the best way forward. It's still that education gap and having a place where people can refer to that
+So folks like Arbitrum, Hashkey
+All doing great work and please continue doing so definitely just a quick follow-up question
+I think one feedback that we've gotten in the space is that Ethereum tends to
+invent a lot of new words
+What are some
+Better suggestions you have to better translate and make what we do legible to institutions
+I think this is where it's really important to have people that have some domain expertise in what that institution is doing
+So it could be for example
+Educational space it could be bio
+It could be pharma it could be finance and then once you understand what they're looking for you're able to translate
+There are various different affordances. So a lot of people often talk about censorship resistance
+And for you know many organizations what that means that there's less
+counterparty risk being able to understand that their language and translate that I think is the way forward and in order to do that
+It's I think almost the most Ethereum way is to be collaborative
+Work with others understand where they're coming from and then use that as a bridge to help communicate what we can give them
+So since we are still on the topic of institutions, let me have the next question for hash key
+So
+Serena
+First time seeing you hash key has been a great supporter of Ethereum for quite a few years already
+Yeah, and I'm curious because hash key both
+Serves institutions and it's kind of become a large enough organization that some of us would consider them an institution
+Yeah, so I'm curious when you talk to different organizations about Ethereum
+What is the first objection that you usually hear and how do you help to alleviate it to help them to understand?
+What are some of these affordances that Ethereum might bring to them?
+Okay, it's great to be here. Yeah. Well, hash key is in our unique position
+Yeah, first of all, we are a licensed and the regulated group
+Yeah, so we speak the language of compliance
+But we also build our own hash key chain. Yeah, yeah, it's serum. Yeah
+when the
+Institute institutions sit down with us as a conversation is
+Narrowby like is a serum is central
+Decentralized enough. Yeah, so real talk will be like that side if something goes wrong on chain who is accountable?
+Yeah, they wanted to know the
+clearly
+Clearly chair of restability. Yeah, so they could
+have the proper explanation to their legal counsel well like
+Compliance officer and so on. Yeah
+So that's why
+Our hash key chain. Mmm. Yeah lead leads to you. So we wanted to meet the gap between the complaints
+and the institutions to the crypto. So
+Yeah, mmm
+Yeah, and we wanted to put you know, the plans as a first feature into the
+infra, yeah
+So it's quite brave for hash key to be taking that approach
+Especially when you talk about being compliant as a as a regulated entity. Yeah
+Yeah, just think so. I think that's a very unique perspective
+for all of us
+And honestly, it's it's really incredible that hash key has taken the step forward to move beyond just like very typical
+Kind of like trading activities and this kind of thing. So
+my question for you, I suppose is
+What why have you or why do you think hash key has taken a step forward and chosen Ethereum?
+Yeah, I think
+Maybe the complaints want us to do that
+yeah, because you know, we are based in Hong Kong and you know a lot of
+Institutionals from tried to fire around of us and when
+They'd wanna you know
+Get the eyesight to the market what they mainly care about is you know
+Is that safe or security do you have KYC? Yeah, do you have the transfer restrictions? How do you?
+Meet the you know requirements for the government or for example AML. Yeah, so I think
+is
+It's a new trend of industry. Yeah to be a compliance chain. Yeah
+Maybe I can add a bit more to that people don't mind. I think another thing that we've found is that
+basically Ethereum has been

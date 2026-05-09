@@ -1,0 +1,679 @@
+1
+00:00:00,000 --> 00:00:04,740
+what time kind of time zone they are at and what kind of daily spend they are at.
+
+2
+00:00:04,740 --> 00:00:12,500
+So in this example all you need to do is to multiply this spending pattern in
+
+3
+00:00:12,500 --> 00:00:23,700
+this day by 365 to identify what the year looks like. So we mapped out the we
+
+4
+00:00:23,700 --> 00:00:29,720
+mapped out and extrapolated the spending habits and you can see that from Monday
+
+5
+00:00:29,720 --> 00:00:35,600
+to Sunday the heat map will show you the green squares where they spend the least
+
+6
+00:00:35,600 --> 00:00:40,000
+amount of money at different time intervals and then the red squares
+
+7
+00:00:40,000 --> 00:00:44,600
+will show you where the most amount of money is spent at and what interval and
+
+8
+00:00:44,600 --> 00:00:49,920
+you can also identify the monthly spending habits such as subscriptions or
+
+9
+00:00:49,920 --> 00:00:58,000
+even yearly month yearly spending habits and to take this step even further your
+
+10
+00:00:58,000 --> 00:01:04,520
+income is public too. How you top up your card is also public too. Profiling
+
+11
+00:01:04,520 --> 00:01:14,000
+3,500 people all at once you can identify what kind of users actually use
+
+12
+00:01:14,000 --> 00:01:20,760
+the NoSysPay card and we found that 4% are high rollers which is they spend
+
+13
+00:01:20,760 --> 00:01:27,640
+more than 5,000 euros a month and then 22% are daily spenders. So using
+
+14
+00:01:27,640 --> 00:01:33,000
+simple queries like this you can gather massive amount of information and most
+
+15
+00:01:33,000 --> 00:01:38,840
+importantly competitive intelligence. This is extremely useful for data
+
+16
+00:01:38,840 --> 00:01:44,360
+indexing companies, really useful for card companies, card competitors you know
+
+17
+00:01:44,360 --> 00:01:50,320
+it could be EtherFi and how you can actually ensure that your on-chain
+
+18
+00:01:50,320 --> 00:01:55,800
+transactions are more private is through our protocol which is privacy pools. So
+
+19
+00:01:55,840 --> 00:02:02,040
+at this moment you could use privacy pools it's live on privacypools.com and
+
+20
+00:02:02,040 --> 00:02:07,120
+how privacy pools enable your privacy is through zero knowledge proofs to break
+
+21
+00:02:07,120 --> 00:02:21,060
+the link between deposits and withdrawals. I'm sorry I need to play the
+
+22
+00:02:21,060 --> 00:02:28,020
+video yeah so in this demo you can create a ZK wallet on privacy pools you
+
+23
+00:02:28,020 --> 00:02:39,700
+can select the chain and deposit any amount from your wallet. The deposit is
+
+24
+00:02:39,700 --> 00:02:46,380
+reviewed by Oxbow's association set provider and when we determine that your
+
+25
+00:02:46,380 --> 00:02:52,380
+deposits are not affiliated with any threat actors you are free to withdraw it
+
+26
+00:02:52,380 --> 00:02:59,670
+in any amount to a clean wallet such as topping up your card. So using our
+
+27
+00:02:59,710 --> 00:03:05,270
+protocol it actually breaks the link between where your money comes from to
+
+28
+00:03:05,270 --> 00:03:10,510
+how you spend it and the most exciting part which is today I'm going to share
+
+29
+00:03:10,510 --> 00:03:18,590
+with you upgraded features of privacy pools. So at our new upgrade which is
+
+30
+00:03:18,590 --> 00:03:23,910
+coming soon will enable users to make private transfers to a private vault so
+
+31
+00:03:23,910 --> 00:03:29,150
+nobody sees anything and we will basically enable Venmo style payments.
+
+32
+00:03:29,190 --> 00:03:47,430
+What I mean by that is this. Sorry the video function is not working. I'm so
+
+33
+00:03:47,430 --> 00:03:52,750
+sorry I I am not sure why the video function is not working so let me just
+
+34
+00:03:52,750 --> 00:04:13,360
+describe it. So instead of let's give a round plus for the for the privacy pools
+
+35
+00:04:13,360 --> 00:04:23,940
+oh okay sorry yeah yes so so you can send privately and you can ask for
+
+36
+00:04:23,940 --> 00:04:30,180
+payment and it's a Venmo style payment portal you can ask and request for
+
+37
+00:04:30,180 --> 00:04:36,180
+payments from anybody you don't if you ask your friend for a payment you don't
+
+38
+00:04:36,180 --> 00:04:40,820
+need their wallet address and you pay someone they don't really need your
+
+39
+00:04:40,820 --> 00:04:46,740
+wallet address so we enable double-blind payments. I'm sorry the time is up but
+
+40
+00:04:46,740 --> 00:04:51,940
+if you want to know about privacy pools you can come and find me later. Privacy
+
+41
+00:04:51,940 --> 00:04:55,740
+pools, privacy is for everyone. We're also working with the Ethereum Foundation
+
+42
+00:04:55,740 --> 00:05:02,780
+to enable private transactions for everyone on chain. Thank you. Thank you
+
+43
+00:05:02,780 --> 00:05:10,260
+privacy pools. Having seen all these innovative projects building on Ethereum
+
+44
+00:05:10,260 --> 00:05:15,740
+it's clear that the ecosystem is thriving. Our next speaker Audrey Tong
+
+45
+00:05:15,740 --> 00:05:21,580
+executive director of EAG will share her insights on towards real-world
+
+46
+00:05:21,620 --> 00:05:41,200
+applications. Please welcome Audrey. Hello I think it has been half the day and we
+
+47
+00:05:41,200 --> 00:05:46,600
+could see a lot of the gainer, we could see lots of the website chat and a lot
+
+48
+00:05:46,600 --> 00:05:55,000
+of the demos was just a present and I think of you have the one question in
+
+49
+00:05:55,000 --> 00:06:02,400
+mind what is EAG and this time I think it's let me introduce more about what
+
+50
+00:06:02,400 --> 00:06:13,440
+is EAG actually is and what is EAG came from. So what is EAG? EAG is from builders
+
+51
+00:06:13,440 --> 00:06:21,440
+and for builders and for EAG it's from the long-term Ethereum holders builders
+
+52
+00:06:21,440 --> 00:06:28,240
+which is have been supporting the Ethereum community for over decades from
+
+53
+00:06:28,240 --> 00:06:34,640
+the day one of the ether midnight towards the nowadays and from I think for
+
+54
+00:06:34,640 --> 00:06:42,120
+the last 10 years it's more for the infrastructure but towards the future
+
+55
+00:06:42,120 --> 00:06:47,640
+of the application world we need to accelerate the applications more so this
+
+56
+00:06:47,640 --> 00:06:56,520
+is the main idea that the EAG well came from and the original concept and the
+
+57
+00:06:56,560 --> 00:07:03,560
+supporters is from the 10 over 10 years Ethereum builders and also there are lots
+
+58
+00:07:03,560 --> 00:07:09,520
+of the question that we figured out from the what's the past three years doing the
+
+59
+00:07:09,520 --> 00:07:18,240
+Shanghai Wu which is also a public city around the world and for we started the
+
+60
+00:07:18,240 --> 00:07:27,160
+Shanghai Wu in about the 2023 and at that time because of for the Asia
+
+61
+00:07:27,160 --> 00:07:32,880
+Ethereum community there are lack of exchange and the lack of communication
+
+62
+00:07:32,880 --> 00:07:39,560
+and during for the first year of Shanghai Wu we bring the main Asia
+
+63
+00:07:39,560 --> 00:07:46,320
+community and the developer Ethereum builders together in Beidahu to discuss
+
+64
+00:07:46,840 --> 00:07:52,280
+what we could do for the Ethereum community and then later at about two
+
+65
+00:07:52,280 --> 00:07:59,280
+years ago someone asked us because you know at that time in about 2024 at that
+
+66
+00:07:59,280 --> 00:08:06,320
+time the DIPCOM Bangkok was decided to host in Bangkok so at that time earlier
+
+67
+00:08:06,320 --> 00:08:13,440
+that year and someone asked us that okay well you know the
+
+68
+00:08:14,320 --> 00:08:20,040
+Shanghai Wu would be like to host the public city again in Chiang Mai just before the
+
+69
+00:08:20,040 --> 00:08:29,240
+DIPCOM that's why during the October of the 2024 lots of the public cities in
+
+70
+00:08:29,240 --> 00:08:35,640
+there you could see there is a public city season in Chiang Mai just before
+
+71
+00:08:35,640 --> 00:08:44,040
+DIPCOM and at that time lots of the it's not only for Asia builders but for
+
+72
+00:08:44,040 --> 00:08:49,360
+the whole global builders in the Ethereum ecosystem we collaborate we
+
+73
+00:08:49,360 --> 00:08:54,560
+exchange a lot communicate a lot that's how could we support a better
+
+74
+00:08:54,560 --> 00:08:59,840
+communication and to support the Ethereum community in Asia together and
+
+75
+00:08:59,840 --> 00:09:06,880
+also during that time we found that you know for public cities there are lots of
+
+76
+00:09:06,880 --> 00:09:13,360
+the builders in there lots of the good ideas on the early stage testing there
+
+77
+00:09:13,360 --> 00:09:19,520
+but there are but some of them are still very struggling because some of them
+
+78
+00:09:19,520 --> 00:09:26,200
+develop some open source tools and have the struggle with the fundraising
+
+79
+00:09:27,160 --> 00:09:34,440
+sustainable issue so during that time we are trying to bring all the VCs to
+
+80
+00:09:34,440 --> 00:09:40,480
+Chiang Mai to have the demo day for the builders that they could direct the pitch
+
+81
+00:09:40,480 --> 00:09:48,880
+for VCs and to communicate with VCs and to have the results and but later we
+
+82
+00:09:48,880 --> 00:09:55,280
+figured out that it's not enough for just doing one demo day or one pitch day
+
+83
+00:09:55,280 --> 00:10:03,240
+there are still lots of a gap between the individual builders to a more
+
+84
+00:10:03,240 --> 00:10:11,320
+mature project yeah so during that time we are trying to establish and help
+
+85
+00:10:11,320 --> 00:10:17,600
+builders more about it so that is the third year of Shanghai WUM which was the
+
+86
+00:10:17,600 --> 00:10:24,960
+location in Singapore because of the resources the founders the funding the
+
+87
+00:10:25,000 --> 00:10:31,320
+resources are located in Singapore and we also want to bring the 10 globally to
+
+88
+00:10:31,320 --> 00:10:40,080
+Singapore but the Singapore of you know it's very expensive so we also gave lots
+
+89
+00:10:40,080 --> 00:10:46,000
+of the scholarships for the builders from the Africa Latin America Australia
+
+90
+00:10:46,000 --> 00:10:53,000
+Indian to bring them together to build something during that time so for 30
+
+91
+00:10:53,040 --> 00:10:59,440
+year of Shanghai were in the evolving a lot from the traditional public city or
+
+92
+00:10:59,440 --> 00:11:07,440
+concept test to a more mature way to help builders from individual to show
+
+93
+00:11:07,440 --> 00:11:14,480
+mature project so during that time we invite lots of the VCs and the founders
+
+94
+00:11:14,480 --> 00:11:21,600
+to tell them their experience and what does they really want to know as when
+
+95
+00:11:21,600 --> 00:11:30,640
+they when they start their business and tell the and let the VCs to told the
+
+96
+00:11:30,640 --> 00:11:39,200
+developers the builders how could they have the sustainable fund their PMF or
+
+97
+00:11:39,200 --> 00:11:48,120
+to pitch with VCs or to do fundraising yeah so it's more like more like we
+
+98
+00:11:48,280 --> 00:11:56,080
+it's more like the accelerator but it's more for the builders from the whole
+
+99
+00:11:56,080 --> 00:12:06,620
+ecosystem so what we found in last three years is that although or what we have
+
+100
+00:12:06,620 --> 00:12:12,820
+done in Singapore where it's more like the accelerator but it's still not
+
+101
+00:12:12,820 --> 00:12:19,460
+enough there are still lots of gaps from the individual builder to became the
+
+102
+00:12:19,500 --> 00:12:26,780
+succeed project so just like if you being the individual builder at first
+
+103
+00:12:26,780 --> 00:12:32,780
+that way we need a lot of the education no matter from the community side and
+
+104
+00:12:32,780 --> 00:12:37,420
+lots of the local community no matter the Chinese-speaking community the
+
+105
+00:12:37,420 --> 00:12:42,300
+Thailand community Latin America community Africa community doing a lot
+
+106
+00:12:42,300 --> 00:12:49,440
+of jobs to educate the developers and help the project grow but lots of the
+
+107
+00:12:49,440 --> 00:12:57,160
+communities do very struggle with the sustainable issue because yeah and so
+
+108
+00:12:57,160 --> 00:13:03,480
+lots of the public goods are struggle so also for the individual builders if you
+
+109
+00:13:03,480 --> 00:13:09,680
+want to be more like the no matter the entrepreneur or the project could be
+
+110
+00:13:09,680 --> 00:13:15,100
+succeed there are still lots of the gaps we need to filter and also from the
+
+111
+00:13:15,860 --> 00:13:22,460
+individual builder nowadays we have lots of the hack zones here but after hack zone just
+
+112
+00:13:22,460 --> 00:13:27,420
+when the project of the hack zone what's happened okay we have lots of the
+
+113
+00:13:27,420 --> 00:13:33,660
+missing pieces in the whole life circle of the builders and we need to establish
+
+114
+00:13:33,660 --> 00:13:41,540
+a sustainable life circle for the builders could grow from the
+
+115
+00:13:41,540 --> 00:13:47,540
+individual to the project and from the project that if they succeed they also
+
+116
+00:13:47,540 --> 00:13:54,460
+could pay get back to the community which helps them a lot in the early stage
+
+117
+00:13:54,460 --> 00:14:06,260
+so this is what EAG truly came from. EAG is from is a NPO that to bring the
+
+118
+00:14:06,260 --> 00:14:14,140
+stakeholders the stakeholders in the Ethereum community together to support
+
+119
+00:14:14,140 --> 00:14:24,300
+and accelerate the Ethereum application ecosystem and what is EAG actually do
+
+120
+00:14:24,300 --> 00:14:31,060
+it's for builders and we gonna do through four passes just like the first
+
+121
+00:14:31,060 --> 00:14:36,380
+thing is to accelerate the real world impact applications and the second is to
+
+122
+00:14:36,380 --> 00:14:43,020
+cross the builders network to help builders to help to fill the missing
+
+123
+00:14:43,020 --> 00:14:50,220
+pieces that in the builders life circle and to share the evaluation and develop
+
+124
+00:14:50,220 --> 00:14:55,660
+the framework which is also very important because nowadays we are towards
+
+125
+00:14:55,660 --> 00:15:01,380
+in the future of the applications we want to build the truly depth but not
+
+126
+00:15:01,380 --> 00:15:08,820
+instead of just doing what the web applications do. This is how the
+
+127
+00:15:08,820 --> 00:15:15,180
+blockchain exists and the how the crypto value exists and also which is also very
+
+128
+00:15:15,180 --> 00:15:23,180
+important and the key issue to have the to create a sustainable mechanism to
+
+129
+00:15:23,180 --> 00:15:28,020
+help the public goods grow no matter on the company side on the education side
+
+130
+00:15:28,020 --> 00:15:35,020
+on each of the open open source tools that will help the whole ecosystem
+
+131
+00:15:35,020 --> 00:15:43,000
+growth. So the operational model for EAG which is it came from the different
+
+132
+00:15:43,000 --> 00:15:49,600
+aspect just like a today's event the Ethereum applications gallery is just
+
+133
+00:15:49,600 --> 00:15:56,720
+like the whole one day event that helps the audience helps everyone of us know
+
+134
+00:15:56,720 --> 00:16:03,600
+what is the recently latest update on the whole Ethereum ecosystem and what
+
+135
+00:16:03,600 --> 00:16:10,480
+is the latest update on each of each aspect of the applications and also
+
+136
+00:16:10,480 --> 00:16:17,880
+gave the early stage project builder a chance to show themselves to tell
+
+137
+00:16:17,880 --> 00:16:23,480
+everyone that what is they are doing just like the demo days it's a open
+
+138
+00:16:23,480 --> 00:16:28,640
+application from the public we have the form and everyone from the Twitter you
+
+139
+00:16:28,640 --> 00:16:34,320
+could see that everyone could apply for it and we have the evaluation from the
+
+140
+00:16:34,320 --> 00:16:42,400
+tech from commercial side and the judges to select the project even if you didn't
+
+141
+00:16:42,400 --> 00:16:49,040
+have raised the fund yet or you are individual developers or the open source
+
+142
+00:16:49,040 --> 00:16:55,680
+contributors you could have the chance to present or show show the world what
+
+143
+00:16:55,680 --> 00:17:02,720
+you are building. This is what EAG actually exists to support everyone to
+
+144
+00:17:02,720 --> 00:17:11,630
+support all of you to have the chance to tell the world what you are doing. So
+
+145
+00:17:11,630 --> 00:17:19,870
+there's also very important we have the core values here which is the EAG's main
+
+146
+00:17:19,870 --> 00:17:25,350
+core values the first is openness it's open for everyone no matter you are the
+
+147
+00:17:25,350 --> 00:17:30,270
+institution you are the community builder you are the company you are the
+
+148
+00:17:30,270 --> 00:17:36,750
+event organizer you are the founders and you are the PM PM or everyone of you it's
+
+149
+00:17:36,750 --> 00:17:43,390
+open for everyone and transparent because it's the governance the funding
+
+150
+00:17:43,390 --> 00:17:48,670
+flows because it's an appeal the funding flows it's all transparent and the
+
+151
+00:17:48,670 --> 00:17:55,030
+decentralization because it's not really a single entity or single
+
+152
+00:17:55,030 --> 00:18:01,590
+institutions it's the collaboration between every one of us and also public
+
+153
+00:18:01,590 --> 00:18:08,550
+goods first which is the main idea that EAG came from to support and have the
+
+154
+00:18:08,550 --> 00:18:16,660
+sustainable way to support the public goods. So if we want to create a
+
+155
+00:18:16,660 --> 00:18:22,620
+sustainable way to support the public goods the sustainable funding mechanism
+
+156
+00:18:22,620 --> 00:18:29,500
+is very important so EAG's funding is since it's an appeal effort yeah it's
+
+157
+00:18:29,500 --> 00:18:35,940
+funding from mean from two aspects the first is a membership fee that's why for
+
+158
+00:18:35,940 --> 00:18:40,740
+EAG funding members maybe we're gonna announce that in this month or next
+
+159
+00:18:40,740 --> 00:18:45,780
+month the main funding is from the membership fee from the
+
+160
+00:18:45,820 --> 00:18:52,260
+institutions from the foundations from the VCs who want to contribute for the
+
+161
+00:18:52,260 --> 00:18:57,860
+ecosystem to help the Ethereum applications grow this is the first
+
+162
+00:18:57,860 --> 00:19:04,460
+out of mainly from the membership fee the second is the stake in yield and for
+
+163
+00:19:04,460 --> 00:19:10,140
+lots of the long-term Ethereum supporters they willing to contribute
+
+164
+00:19:10,140 --> 00:19:15,580
+some of their stake in yield for the public for the sustainable funding
+
+165
+00:19:15,580 --> 00:19:25,680
+to support the applications ecosystem and what we actually we're gonna do
+
+166
+00:19:25,680 --> 00:19:31,200
+this year and today we're also gonna be launched this kind of a program it's
+
+167
+00:19:31,200 --> 00:19:39,120
+called the 2020 global applications and the builders initiative for EAG is not
+
+168
+00:19:39,120 --> 00:19:51,840
+focused on in the unique region but it's globally and for this year it be
+
+169
+00:19:51,840 --> 00:19:58,360
+gonna be happen lots of the event can be happening in the emerging market just
+
+170
+00:19:58,360 --> 00:20:01,800
+like the Africa

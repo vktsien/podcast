@@ -1,0 +1,1399 @@
+1
+00:00:00,000 --> 00:00:01,580
+that keeps the protocol whole
+
+2
+00:00:01,580 --> 00:00:03,600
+because someone's always gonna push the button
+
+3
+00:00:03,600 --> 00:00:05,280
+because you get paid to do that.
+
+4
+00:00:05,280 --> 00:00:07,400
+And this is one of those little aha moments
+
+5
+00:00:07,400 --> 00:00:09,320
+of building on top of Ethereum
+
+6
+00:00:09,320 --> 00:00:11,520
+is how you build something that runs
+
+7
+00:00:11,520 --> 00:00:12,960
+even when you walk away.
+
+8
+00:00:12,960 --> 00:00:16,080
+I was talking about the walk away test earlier.
+
+9
+00:00:16,080 --> 00:00:18,400
+You want to be able to deploy something
+
+10
+00:00:18,400 --> 00:00:20,080
+and be able to walk away.
+
+11
+00:00:20,080 --> 00:00:22,060
+And it's almost like a two-sided market
+
+12
+00:00:22,060 --> 00:00:23,300
+where people can coordinate
+
+13
+00:00:23,300 --> 00:00:24,640
+and they can do all the things
+
+14
+00:00:24,640 --> 00:00:26,080
+and everything is automatic
+
+15
+00:00:26,080 --> 00:00:28,240
+and you never have to touch anything.
+
+16
+00:00:28,280 --> 00:00:29,920
+And that's the beauty of building
+
+17
+00:00:29,920 --> 00:00:31,980
+a perfectly decentralized system
+
+18
+00:00:31,980 --> 00:00:33,760
+and building on top of Ethereum.
+
+19
+00:00:33,760 --> 00:00:35,640
+And you can learn all of these concepts
+
+20
+00:00:35,640 --> 00:00:38,120
+by going to speedrunetherium.com.
+
+21
+00:00:38,120 --> 00:00:42,160
+And there's a little QR code there to check that out.
+
+22
+00:00:42,160 --> 00:00:44,080
+Okay, so let me even show you,
+
+23
+00:00:44,080 --> 00:00:45,660
+let's jump over to,
+
+24
+00:00:45,660 --> 00:00:47,280
+so there's ETH skills, right?
+
+25
+00:00:47,280 --> 00:00:49,380
+All those concepts, really cool.
+
+26
+00:00:49,380 --> 00:00:51,240
+You just click that and it copies it
+
+27
+00:00:51,240 --> 00:00:53,600
+and you paste it and you give it to your agent.
+
+28
+00:00:53,600 --> 00:00:56,040
+But let's look at speedrunetherium real quick.
+
+29
+00:00:56,040 --> 00:01:00,120
+So there's all of these different lessons.
+
+30
+00:01:00,120 --> 00:01:03,260
+And what's really cool is this is AI driven.
+
+31
+00:01:03,260 --> 00:01:06,520
+So if we wanted to go to this crowdfunding one,
+
+32
+00:01:06,520 --> 00:01:08,100
+I have it right here,
+
+33
+00:01:08,100 --> 00:01:10,820
+you can download it locally and then you run it
+
+34
+00:01:10,820 --> 00:01:14,200
+and you basically just say slash start
+
+35
+00:01:14,200 --> 00:01:15,840
+and you get this little tutor.
+
+36
+00:01:15,840 --> 00:01:18,600
+You have this AI tutor that takes you through things.
+
+37
+00:01:18,600 --> 00:01:22,180
+And you can say like, keep going, keep building.
+
+38
+00:01:22,180 --> 00:01:24,640
+And it's basically telling me
+
+39
+00:01:24,640 --> 00:01:26,080
+that it wants to do this certain thing
+
+40
+00:01:26,080 --> 00:01:27,380
+and I tell it to keep going.
+
+41
+00:01:27,380 --> 00:01:28,320
+And now it's gonna go back
+
+42
+00:01:28,320 --> 00:01:30,200
+and start writing my smart contract for me.
+
+43
+00:01:30,200 --> 00:01:33,360
+So it's sitting here writing my smart contracts for me.
+
+44
+00:01:33,360 --> 00:01:34,860
+And I have a little tutor
+
+45
+00:01:34,860 --> 00:01:37,320
+that's going to even ask me questions.
+
+46
+00:01:37,320 --> 00:01:39,560
+I can ask my tutor questions.
+
+47
+00:01:39,560 --> 00:01:42,240
+And then you have a nice UI to interface with your app.
+
+48
+00:01:42,240 --> 00:01:45,460
+So you have this working smart contract app
+
+49
+00:01:45,460 --> 00:01:47,620
+with a front end and a smart contract.
+
+50
+00:01:47,620 --> 00:01:49,080
+And then you have an AI tutor
+
+51
+00:01:49,080 --> 00:01:51,320
+that's teaching you through the things.
+
+52
+00:01:51,320 --> 00:01:54,020
+Okay, let's wrap it up.
+
+53
+00:01:54,020 --> 00:01:55,880
+Speedrun Ethereum is there.
+
+54
+00:01:55,880 --> 00:01:59,720
+So for the human, you use speedrunetherium.com.
+
+55
+00:01:59,720 --> 00:02:03,220
+For your AI agent, you use ethskills.com.
+
+56
+00:02:03,220 --> 00:02:05,020
+Those are the two important links
+
+57
+00:02:05,020 --> 00:02:06,840
+that I wanna make sure I share.
+
+58
+00:02:06,840 --> 00:02:09,200
+Okay, so in a multi-agent future,
+
+59
+00:02:09,200 --> 00:02:10,520
+I think this is coming, right?
+
+60
+00:02:10,520 --> 00:02:13,760
+Imagine a whole company of agents talking.
+
+61
+00:02:13,760 --> 00:02:16,840
+Agents are gonna need to be able to trust each other.
+
+62
+00:02:16,840 --> 00:02:19,320
+One agent that's a generalized agent
+
+63
+00:02:19,320 --> 00:02:21,680
+will maybe need to hire a specialized agent
+
+64
+00:02:21,680 --> 00:02:25,040
+that does some things like say image generation
+
+65
+00:02:25,040 --> 00:02:26,840
+or text generation is pretty simple,
+
+66
+00:02:26,840 --> 00:02:28,760
+but maybe it's a travel agent, right?
+
+67
+00:02:28,760 --> 00:02:30,600
+It's actually someone that books a plan
+
+68
+00:02:30,600 --> 00:02:32,200
+or books a flight for you.
+
+69
+00:02:32,200 --> 00:02:34,200
+Maybe there's a flight booking agent
+
+70
+00:02:34,200 --> 00:02:36,540
+and your generalized agent would rather pay it
+
+71
+00:02:36,540 --> 00:02:38,640
+a fraction of a fraction of a cent.
+
+72
+00:02:38,640 --> 00:02:41,400
+I think agents are going to be hiring each other soon.
+
+73
+00:02:41,400 --> 00:02:44,060
+And I think what they'll need is some layer
+
+74
+00:02:44,060 --> 00:02:47,560
+to pay each other and some layer to trust each other.
+
+75
+00:02:47,560 --> 00:02:51,960
+And that's where ERC 8004 and X402 come in.
+
+76
+00:02:51,960 --> 00:02:54,360
+These are new standards that help agents
+
+77
+00:02:54,360 --> 00:02:57,480
+discover each other, trust each other with reputation
+
+78
+00:02:57,480 --> 00:02:58,720
+and pay each other.
+
+79
+00:02:58,720 --> 00:03:03,600
+So check out 8004 and X402.
+
+80
+00:03:03,600 --> 00:03:06,560
+Okay, and AI is the new UI.
+
+81
+00:03:06,560 --> 00:03:09,320
+Crypto is hard to use, it's complicated.
+
+82
+00:03:09,320 --> 00:03:11,360
+And sometimes like when you see the call data
+
+83
+00:03:11,360 --> 00:03:14,540
+or a smart contract, it's really nice to think about
+
+84
+00:03:14,540 --> 00:03:16,480
+you can just talk to an AI agent
+
+85
+00:03:17,280 --> 00:03:19,880
+and an AI agent can go make crypto transactions for you.
+
+86
+00:03:19,880 --> 00:03:22,760
+And you should be building apps that allow for this.
+
+87
+00:03:22,760 --> 00:03:24,460
+Aya talked about this real quick.
+
+88
+00:03:24,460 --> 00:03:27,000
+While you're building, you should be thinking of crops.
+
+89
+00:03:27,000 --> 00:03:28,860
+You should be building censorship resistant,
+
+90
+00:03:28,860 --> 00:03:32,640
+open source, private and secure applications.
+
+91
+00:03:32,640 --> 00:03:34,320
+Now, a lot of this comes out of the box
+
+92
+00:03:34,320 --> 00:03:36,200
+when you deploy something on Ethereum,
+
+93
+00:03:36,200 --> 00:03:37,720
+but there's a lot more that has to happen.
+
+94
+00:03:37,720 --> 00:03:40,320
+There was a new R skill within ETH skills
+
+95
+00:03:40,320 --> 00:03:44,640
+that'll help you build ZK circuits to do privacy.
+
+96
+00:03:44,640 --> 00:03:46,680
+Okay, that's it.
+
+97
+00:03:46,680 --> 00:03:48,520
+The last thing I wanna leave you with
+
+98
+00:03:48,520 --> 00:03:52,120
+is that it's never been a worst time in history
+
+99
+00:03:52,120 --> 00:03:54,160
+to be a junior developer,
+
+100
+00:03:54,160 --> 00:03:56,400
+but it's never been a better time in history
+
+101
+00:03:56,400 --> 00:03:58,360
+to be a solo entrepreneur.
+
+102
+00:03:58,360 --> 00:04:01,360
+And the difference between that is just your mindset.
+
+103
+00:04:01,360 --> 00:04:03,320
+Instead of trying to pad your resume
+
+104
+00:04:03,320 --> 00:04:07,200
+and get hired as a junior developer,
+
+105
+00:04:07,200 --> 00:04:09,000
+go be a solo entrepreneur
+
+106
+00:04:09,000 --> 00:04:11,600
+and build things that people wanna use.
+
+107
+00:04:11,600 --> 00:04:14,960
+It's never been easier to take a whole bunch of AI tools
+
+108
+00:04:14,960 --> 00:04:17,680
+off the shelf and get product market fit.
+
+109
+00:04:17,680 --> 00:04:19,480
+And you can get product market fit
+
+110
+00:04:19,480 --> 00:04:21,920
+and then hire your first developer.
+
+111
+00:04:21,920 --> 00:04:23,600
+All right, thank you very much.
+
+112
+00:04:23,600 --> 00:04:25,880
+I'm Austin Griffith from the EF.
+
+113
+00:04:25,880 --> 00:04:27,320
+I'm at Austin Griffith.
+
+114
+00:04:27,320 --> 00:04:28,640
+We've got the QR code there
+
+115
+00:04:28,640 --> 00:04:30,860
+for ETH skills for speed run Ethereum.
+
+116
+00:04:30,860 --> 00:04:32,200
+And then there's my Twitter.
+
+117
+00:04:32,200 --> 00:04:34,960
+I'm Austin at Ethereum.org if you wanna email me
+
+118
+00:04:34,960 --> 00:04:36,400
+and I'm at Austin Griffith.
+
+119
+00:04:36,400 --> 00:04:38,880
+Reach out, my DMs are open.
+
+120
+00:04:38,880 --> 00:04:40,720
+We're always building this cool skill file
+
+121
+00:04:40,720 --> 00:04:42,400
+and these cool tools to help you learn
+
+122
+00:04:42,400 --> 00:04:44,040
+how to build on Ethereum.
+
+123
+00:04:44,040 --> 00:04:45,460
+Thank you for having me.
+
+124
+00:04:45,460 --> 00:04:47,560
+Go build something awesome on Ethereum.
+
+125
+00:04:47,560 --> 00:04:48,880
+Thank you, Austin.
+
+126
+00:04:48,880 --> 00:04:51,160
+Thank you so much.
+
+127
+00:04:51,160 --> 00:04:59,320
+Thank you.
+
+128
+00:04:59,320 --> 00:05:02,600
+We have now reached the final speech of chapter one.
+
+129
+00:05:02,600 --> 00:05:05,940
+Ethereum as infrastructure for deep self sovereignty
+
+130
+00:05:05,940 --> 00:05:07,560
+by Shreem Shinder,
+
+131
+00:05:07,560 --> 00:05:11,880
+team lead of academic secretariat at Ethereum Foundation.
+
+132
+00:05:11,880 --> 00:05:13,220
+Please welcome Shreem.
+
+133
+00:05:28,010 --> 00:05:30,810
+Thank you so much everyone for coming down today
+
+134
+00:05:30,810 --> 00:05:33,950
+and for having me to give this talk.
+
+135
+00:05:33,950 --> 00:05:37,490
+So today I'm going to talk about two things.
+
+136
+00:05:37,490 --> 00:05:40,450
+The first thing is that Ethereum is probably
+
+137
+00:05:40,450 --> 00:05:43,210
+history's first very serious attempt
+
+138
+00:05:43,210 --> 00:05:45,050
+at actually building infrastructures
+
+139
+00:05:45,050 --> 00:05:48,610
+that can allow for deep and complete self sovereignty.
+
+140
+00:05:48,610 --> 00:05:52,130
+And I'm also gonna talk about how researchers
+
+141
+00:05:52,130 --> 00:05:53,810
+and everyone in this room in fact
+
+142
+00:05:53,810 --> 00:05:56,050
+has a very critical role to play
+
+143
+00:05:56,050 --> 00:06:01,070
+in order to ensure that we succeed in this attempt.
+
+144
+00:06:01,070 --> 00:06:04,950
+So let me first talk about the context
+
+145
+00:06:04,950 --> 00:06:08,850
+or rather the problem that motivated a lot of things
+
+146
+00:06:08,850 --> 00:06:10,630
+that we see today in the Ethereum space.
+
+147
+00:06:10,630 --> 00:06:14,050
+A problem that many scholars had spent years
+
+148
+00:06:14,050 --> 00:06:17,390
+and almost their entire careers trying to solve.
+
+149
+00:06:17,390 --> 00:06:21,090
+The problem of how can humans effectively coordinate
+
+150
+00:06:21,090 --> 00:06:23,510
+without explicitly trusting the system
+
+151
+00:06:23,510 --> 00:06:25,890
+that they used for coordination.
+
+152
+00:06:25,890 --> 00:06:28,690
+So there have been a lot of very serious scholars
+
+153
+00:06:28,690 --> 00:06:31,850
+like Ostrom and Hobbes who've spent their entire careers
+
+154
+00:06:31,850 --> 00:06:32,810
+trying to solve this problem.
+
+155
+00:06:32,810 --> 00:06:35,250
+But the unfortunate reality is that
+
+156
+00:06:35,250 --> 00:06:36,450
+it's not until very recently
+
+157
+00:06:36,450 --> 00:06:39,250
+that a viable solution was found.
+
+158
+00:06:39,250 --> 00:06:40,210
+And as a result of that,
+
+159
+00:06:40,210 --> 00:06:43,430
+a lot of the systems that we see today in the world
+
+160
+00:06:43,430 --> 00:06:45,410
+actually build around this problem
+
+161
+00:06:45,410 --> 00:06:48,610
+rather than trying to solve this problem heads on.
+
+162
+00:06:49,890 --> 00:06:52,370
+Which is why we see that a lot of the systems
+
+163
+00:06:52,370 --> 00:06:53,810
+that we deal with in today's world
+
+164
+00:06:53,810 --> 00:06:57,650
+actually has what is called a back door.
+
+165
+00:06:57,650 --> 00:07:02,330
+So for example, if you look at systems like banking systems,
+
+166
+00:07:02,330 --> 00:07:06,070
+it's very easy for the centralized authorities
+
+167
+00:07:06,070 --> 00:07:07,510
+to freeze your account.
+
+168
+00:07:07,510 --> 00:07:10,010
+If you look at platforms, whether it's social media platforms
+
+169
+00:07:10,010 --> 00:07:12,270
+or whether it's gaming platforms,
+
+170
+00:07:12,270 --> 00:07:15,930
+it's very easy in the name of violation
+
+171
+00:07:15,930 --> 00:07:19,090
+of an arbitrary set of rules of conduct.
+
+172
+00:07:19,090 --> 00:07:21,770
+It's very easy for people to get deplatformed
+
+173
+00:07:21,770 --> 00:07:26,770
+without possibly serious reasons for it.
+
+174
+00:07:26,770 --> 00:07:28,570
+And now with the advent of AI,
+
+175
+00:07:28,570 --> 00:07:30,490
+we have a whole new set of back doors,
+
+176
+00:07:30,490 --> 00:07:33,290
+which is the models that we use
+
+177
+00:07:33,290 --> 00:07:35,210
+or we heavily depend on today.
+
+178
+00:07:35,210 --> 00:07:37,490
+They can very arbitrarily be withdrawn.
+
+179
+00:07:37,490 --> 00:07:39,010
+Their API can be shut down
+
+180
+00:07:39,010 --> 00:07:40,290
+and their rates could be locked down,
+
+181
+00:07:40,290 --> 00:07:42,290
+meaning that no new training happens.
+
+182
+00:07:42,290 --> 00:07:44,170
+And all of this just goes to say that
+
+183
+00:07:44,170 --> 00:07:47,010
+back doors structurally exist in most systems around us.
+
+184
+00:07:47,890 --> 00:07:49,970
+Now, I don't want to talk about what would happen
+
+185
+00:07:49,970 --> 00:07:50,870
+if they are exercised,
+
+186
+00:07:50,870 --> 00:07:53,950
+because that is often considered an edge case
+
+187
+00:07:53,950 --> 00:07:57,210
+and those really vary from scenario to scenario.
+
+188
+00:07:57,210 --> 00:07:59,670
+But I'd like to make the point that the very fact
+
+189
+00:07:59,670 --> 00:08:03,590
+that they exist itself shapes behavior of its users.
+
+190
+00:08:03,590 --> 00:08:04,790
+And this is a very important point
+
+191
+00:08:04,790 --> 00:08:06,510
+because it's not about whether they get exercised,
+
+192
+00:08:06,510 --> 00:08:09,590
+but it's about whether they structurally actually exist.
+
+193
+00:08:09,590 --> 00:08:12,790
+So people can preemptively self-censor
+
+194
+00:08:12,790 --> 00:08:14,950
+under the fear of getting deplatformed.
+
+195
+00:08:14,950 --> 00:08:17,270
+People can preemptively not build things
+
+196
+00:08:17,270 --> 00:08:18,630
+that actually need to be built.
+
+197
+00:08:18,630 --> 00:08:20,470
+And in very extreme cases,
+
+198
+00:08:20,470 --> 00:08:23,970
+they can even try to circumvent some of these systems,
+
+199
+00:08:23,970 --> 00:08:27,390
+which ends up causing more harm than it does good.
+
+200
+00:08:27,390 --> 00:08:30,270
+So that's the fundamental reality
+
+201
+00:08:30,270 --> 00:08:36,040
+that structural dependencies actually shape user behavior,
+
+202
+00:08:36,040 --> 00:08:38,760
+which brings us to think about the question of,
+
+203
+00:08:38,760 --> 00:08:41,760
+okay, is it possible for this back door
+
+204
+00:08:41,760 --> 00:08:43,280
+to not exist by construction?
+
+205
+00:08:43,280 --> 00:08:44,120
+Is it possible?
+
+206
+00:08:44,120 --> 00:08:45,840
+And what would happen in a scenario
+
+207
+00:08:45,840 --> 00:08:48,240
+where there is no back door?
+
+208
+00:08:48,280 --> 00:08:51,500
+And I think cryptography was the first serious tool.
+
+209
+00:08:52,320 --> 00:08:54,240
+And using it for the first time,
+
+210
+00:08:54,240 --> 00:08:57,000
+you could actually build technical primitives
+
+211
+00:08:57,000 --> 00:08:58,680
+to help humans coordinate,
+
+212
+00:08:58,680 --> 00:09:01,920
+where arbitrary revocability is not just an edge case,
+
+213
+00:09:01,920 --> 00:09:04,200
+or it's not just an unlikely scenario,
+
+214
+00:09:04,200 --> 00:09:06,800
+but it's architecturally impossible.
+
+215
+00:09:06,800 --> 00:09:07,860
+And the question was, okay,
+
+216
+00:09:07,860 --> 00:09:10,760
+now that we have these beautiful tools,
+
+217
+00:09:10,760 --> 00:09:13,400
+is it possible to make these programmable?
+
+218
+00:09:13,400 --> 00:09:15,960
+Is it possible to make these composable?
+
+219
+00:09:15,960 --> 00:09:17,880
+And is it possible to make it available
+
+220
+00:09:17,880 --> 00:09:21,650
+at a large scale for everyone?
+
+221
+00:09:21,650 --> 00:09:24,890
+And that's kind of where Ethereum comes into play.
+
+222
+00:09:24,890 --> 00:09:27,690
+And then that's, in many sense,
+
+223
+00:09:27,690 --> 00:09:30,970
+a lot of the motivations behind why Ethereum exists
+
+224
+00:09:30,970 --> 00:09:32,390
+and why a lot of the applications
+
+225
+00:09:32,390 --> 00:09:35,290
+that are built on top of Ethereum exist.
+
+226
+00:09:35,290 --> 00:09:37,890
+So Ethereum's claim is very precise, right?
+
+227
+00:09:37,890 --> 00:09:39,650
+It's programmable in the sense that
+
+228
+00:09:39,650 --> 00:09:42,450
+any rule can be specified and can be enforced
+
+229
+00:09:42,450 --> 00:09:44,250
+without a trusted third party.
+
+230
+00:09:44,250 --> 00:09:48,210
+It's composable in the sense that it guarantees stack.
+
+231
+00:09:48,290 --> 00:09:50,330
+And I'm gonna talk about this a little more
+
+232
+00:09:50,330 --> 00:09:51,530
+in the next few slides,
+
+233
+00:09:51,530 --> 00:09:53,430
+but also it's available at scale,
+
+234
+00:09:53,430 --> 00:09:55,330
+which means that anyone, anywhere,
+
+235
+00:09:55,330 --> 00:09:57,590
+without permission from any platform,
+
+236
+00:09:57,590 --> 00:10:00,410
+can actually take part in the system.
+
+237
+00:10:01,610 --> 00:10:05,410
+And each of these properties has, in the past,
+
+238
+00:10:05,410 --> 00:10:07,730
+been attempted in some shape or form,
+
+239
+00:10:07,730 --> 00:10:09,570
+but it's almost for the first time
+
+240
+00:10:09,570 --> 00:10:13,410
+that all these three guarantees can be achieved
+
+241
+00:10:13,410 --> 00:10:14,810
+at this very same time.
+
+242
+00:10:14,810 --> 00:10:17,090
+And that's kind of Ethereum's claim.
+
+243
+00:10:18,810 --> 00:10:20,890
+But the truth is, it actually doesn't end
+
+244
+00:10:20,890 --> 00:10:22,330
+at the protocol layer.
+
+245
+00:10:22,330 --> 00:10:26,170
+So in Aya's talk, she had briefly touched upon
+
+246
+00:10:26,170 --> 00:10:28,110
+how there are very important decisions
+
+247
+00:10:28,110 --> 00:10:31,810
+and important constraints and trade-offs to be considered
+
+248
+00:10:31,810 --> 00:10:33,650
+while designing the protocol layer.
+
+249
+00:10:33,650 --> 00:10:37,530
+But the harsh reality is that, given that every,
+
+250
+00:10:37,530 --> 00:10:39,130
+like given that the system is composable
+
+251
+00:10:39,130 --> 00:10:41,870
+and every piece of stack just goes one on top of the other,
+
+252
+00:10:41,870 --> 00:10:43,490
+even if the protocol is built
+
+253
+00:10:43,490 --> 00:10:47,510
+keeping all these properties in mind,
+
+254
+00:10:47,510 --> 00:10:49,150
+anywhere in the stack,
+
+255
+00:10:49,150 --> 00:10:53,510
+if that notion of self-sovereignty is broken,
+
+256
+00:10:53,510 --> 00:10:55,710
+then it never reaches the user.
+
+257
+00:10:55,710 --> 00:10:57,990
+So even at the consensus layer, execution layer,
+
+258
+00:10:57,990 --> 00:10:59,870
+or, very importantly, the application layer,
+
+259
+00:10:59,870 --> 00:11:01,190
+if things break down,
+
+260
+00:11:01,190 --> 00:11:03,970
+these guarantees that we want to give to the final user
+
+261
+00:11:03,970 --> 00:11:06,070
+can never actually reach the final user.
+
+262
+00:11:07,390 --> 00:11:09,470
+So just to make it a little more concrete,
+
+263
+00:11:09,470 --> 00:11:12,430
+here are some very concrete examples or scenarios
+
+264
+00:11:13,270 --> 00:11:15,710
+where these aspirations could actually break down.
+
+265
+00:11:15,710 --> 00:11:17,350
+So if you look at RPC concentration,
+
+266
+00:11:18,230 --> 00:11:20,990
+in a scenario where there are only two to three providers
+
+267
+00:11:20,990 --> 00:11:24,390
+which stand between most users and the protocol,
+
+268
+00:11:24,390 --> 00:11:27,770
+coordinated censorship by these handful of providers
+
+269
+00:11:27,770 --> 00:11:29,410
+can very easily guarantee,
+
+270
+00:11:29,410 --> 00:11:32,110
+the base layer guarantees obsolete.
+
+271
+00:11:32,110 --> 00:11:33,950
+If you look at block builder concentration,
+
+272
+00:11:33,950 --> 00:11:36,190
+if in a theoretical scenario,
+
+273
+00:11:36,190 --> 00:11:38,110
+the MEV supply chains are actually produced
+
+274
+00:11:38,110 --> 00:11:40,990
+by only a handful of dominated builders,
+
+275
+00:11:40,990 --> 00:11:43,150
+and these builders start to collude with each other
+
+276
+00:11:43,150 --> 00:11:47,090
+and start to coordinate with each other,
+
+277
+00:11:47,090 --> 00:11:48,330
+then transaction ordering
+
+278
+00:11:48,330 --> 00:11:51,450
+almost becomes commercially permissioned.
+
+279
+00:11:51,450 --> 00:11:54,210
+And if you look at AI agent infrastructure,
+
+280
+00:11:54,210 --> 00:11:56,850
+what if the proprietary interface endpoints
+
+281
+00:11:56,850 --> 00:12:00,790
+managing on-chain assets become a centralized choke point?
+
+282
+00:12:00,790 --> 00:12:03,450
+This essentially causes a choke point
+
+283
+00:12:03,450 --> 00:12:05,090
+at a very sensitive layer,
+
+284
+00:12:05,090 --> 00:12:07,050
+like the layer that actually makes decisions
+
+285
+00:12:07,050 --> 00:12:08,390
+on behalf of the user.
+
+286
+00:12:09,590 --> 00:12:11,530
+So the promise of composability
+
+287
+00:12:11,530 --> 00:12:13,650
+is that trustlessness stacks upward,
+
+288
+00:12:13,650 --> 00:12:17,310
+and it also introduces a risk
+
+289
+00:12:17,310 --> 00:12:19,690
+that a single non-trustless component
+
+290
+00:12:19,690 --> 00:12:23,730
+can break the guarantee for the whole stack.
+
+291
+00:12:23,730 --> 00:12:26,090
+So that's the context,
+
+292
+00:12:26,090 --> 00:12:28,130
+and now I'm gonna talk a little bit about
+
+293
+00:12:28,130 --> 00:12:30,050
+what it means for your work
+
+294
+00:12:30,050 --> 00:12:31,850
+and what are the ways in which
+
+295
+00:12:32,890 --> 00:12:36,370
+research can engage more deeply with these problems
+
+296
+00:12:36,370 --> 00:12:38,270
+to ensure that this guarantee
+
+297
+00:12:38,270 --> 00:12:40,010
+goes all the way up to the end user.
+
+298
+00:12:41,010 --> 00:12:45,010
+So I often like to talk
+
+299
+00:12:45,010 --> 00:12:48,090
+in the language of academic disciplines
+
+300
+00:12:48,090 --> 00:12:50,730
+because a lot of the audience that I like to engage with
+
+301
+00:12:50,730 --> 00:12:52,490
+are serious researchers.
+
+302
+00:12:52,490 --> 00:12:54,890
+So here are some ways that your expertise
+
+303
+00:12:54,890 --> 00:12:56,930
+is genuinely needed to solve this problem
+
+304
+00:12:56,930 --> 00:12:59,770
+and to ensure that these guarantees go all the way on top.
+
+305
+00:12:59,770 --> 00:13:01,090
+So for mechanism designers,
+
+306
+00:13:01,090 --> 00:13:06,090
+it's almost fundamental that
+
+307
+00:13:06,490 --> 00:13:11,490
+without the right incentive structures,
+
+308
+00:13:11,490 --> 00:13:13,330
+these coordination mechanisms fail,
+
+309
+00:13:13,330 --> 00:13:15,330
+and people will immediately turn back
+
+310
+00:13:15,330 --> 00:13:17,450
+to centralized intermediaries.
+
+311
+00:13:17,450 --> 00:13:20,130
+Cryptographers are more direct
+
+312
+00:13:20,130 --> 00:13:22,010
+because privacy and proof aggregation
+
+313
+00:13:22,010 --> 00:13:23,850
+are still open problems,
+
+314
+00:13:23,850 --> 00:13:26,490
+and this critical research is what will ensure
+
+315
+00:13:26,490 --> 00:13:29,530
+that the protocol's promises are actually keepable.
+
+316
+00:13:29,530 --> 00:13:31,890
+For AI researchers and AI builders in this room,
+
+317
+00:13:31,890 --> 00:13:34,850
+trustless infrastructure with an opaque model
+
+318
+00:13:34,850 --> 00:13:38,650
+isn't trustless, and this is a very big opportunity
+
+319
+00:13:38,650 --> 00:13:39,970
+and a very big open problem
+
+320
+00:13:39,970 --> 00:13:42,810
+that's actually waiting for a solution.
+
+321
+00:13:42,810 --> 00:13:45,810
+If you're a legal scholar or governance scholar,
+
+322
+00:13:45,810 --> 00:13:47,530
+on-chain governance, jurisdiction,
+
+323
+00:13:47,530 --> 00:13:50,130
+independent enforcement, and doubt design,
+
+324
+00:13:50,130 --> 00:13:52,250
+all of them need actual people
+
+325
+00:13:52,250 --> 00:13:53,650
+who understand legal frameworks,
+
+326
+00:13:53,650 --> 00:13:55,170
+people who understand how power works,
+
+327
+00:13:55,170 --> 00:13:57,490
+and not just merely how code works.
+
+328
+00:13:57,490 --> 00:14:01,010
+And similarly, for political economists,
+
+329
+00:14:01,010 --> 00:14:03,590
+looking at how decentralized systems avoid capture,
+
+330
+00:14:03,590 --> 00:14:05,670
+how you can actually sustain public goods,
+
+331
+00:14:05,670 --> 00:14:10,270
+which are the backbone of a lot of the applications
+
+332
+00:14:10,270 --> 00:14:12,870
+and a lot of things that are built in the space,
+
+333
+00:14:12,870 --> 00:14:15,030
+and how can you actually sustain them,
+
+334
+00:14:15,030 --> 00:14:17,470
+and how do you prevent power concentration.
+
+335
+00:14:17,470 --> 00:14:21,670
+These are all important political economy questions
+
+336
+00:14:21,670 --> 00:14:24,030
+that is waiting for your expertise.
+
+337
+00:14:24,030 --> 00:14:26,830
+And similarly, when you look at science
+
+338
+00:14:26,830 --> 00:14:29,710
+and knowledge studies, there are a lot of questions
+
+339
+00:14:29,710 --> 00:14:32,750
+around open access, provenance, and credentialing,
+
+340
+00:14:32,750 --> 00:14:35,470
+and this is what makes this infrastructure
+
+341
+00:14:35,470 --> 00:14:37,030
+actually trustless.
+
+342
+00:14:37,030 --> 00:14:39,130
+And this is a very structural solution
+
+343
+00:14:39,130 --> 00:14:41,510
+or structural dependencies on which
+
+344
+00:14:41,510 --> 00:14:45,900
+this technical infrastructure relies on.
+
+345
+00:14:45,900 --> 00:14:47,500
+And one more thing that I want to mention here
+
+346
+00:14:47,500 --> 00:14:50,660
+is that open source is often thought of
+
+347
+00:14:50,660 --> 00:14:52,020
+as just a filing requirement,
+
+348
+00:14:52,020 --> 00:14:53,580
+or open source is often thought of
+
+349
+00:14:53,580 --> 00:14:56,480
+as just like an afterthought.
+
+350
+00:14:56,480 --> 00:14:59,860
+But the truth is, even if you have...

@@ -1,0 +1,1027 @@
+1
+00:00:00,000 --> 00:00:08,250
+The question of whether it has come or not has already come and is accelerating.
+
+2
+00:00:08,250 --> 00:00:12,690
+This is my opening speech today at EAG.
+
+3
+00:00:12,690 --> 00:00:13,690
+Thank you, everyone.
+
+4
+00:00:43,740 --> 00:00:47,580
+I'm curious about how many of you are builders on Ethereum right now.
+
+5
+00:00:47,580 --> 00:00:50,820
+You can raise your hand.
+
+6
+00:00:50,820 --> 00:00:54,460
+And how many of you are holders of Ethereum right now?
+
+7
+00:00:54,460 --> 00:00:56,020
+You can raise your hand.
+
+8
+00:00:56,020 --> 00:00:57,020
+Okay.
+
+9
+00:00:57,020 --> 00:00:59,020
+Thank you for coming.
+
+10
+00:00:59,020 --> 00:01:00,820
+Please welcome Ayat and Audrey.
+
+11
+00:01:00,820 --> 00:01:29,980
+Hello.
+
+12
+00:01:29,980 --> 00:01:33,260
+I think it's the third day of the Webster Festival.
+
+13
+00:01:33,260 --> 00:01:40,780
+So today we have the, you know, every year the Webster Festival is going to have the
+
+14
+00:01:40,780 --> 00:01:42,820
+East Day each year.
+
+15
+00:01:42,820 --> 00:01:49,020
+So today is the third day, and we will the whole day discussing about the Ethereum, which
+
+16
+00:01:49,020 --> 00:01:52,140
+is the truly innovation came from.
+
+17
+00:01:52,140 --> 00:01:59,220
+And I think Aya, it's your first time to be in Hong Kong, we are really happy to, really
+
+18
+00:01:59,220 --> 00:02:01,140
+glad to have you here.
+
+19
+00:02:01,820 --> 00:02:09,300
+Because I think for this year, there are lots of the audience from the broader ecosystem.
+
+20
+00:02:09,300 --> 00:02:16,340
+And maybe some of them may be familiar with Ethereum, but some of them may not.
+
+21
+00:02:16,340 --> 00:02:22,380
+And maybe you could introduce more about yourself and how is the Ethereum foundation's role
+
+22
+00:02:22,380 --> 00:02:26,020
+in the ecosystem.
+
+23
+00:02:26,020 --> 00:02:27,580
+Do my own introduction?
+
+24
+00:02:27,580 --> 00:02:28,580
+Okay.
+
+25
+00:02:28,580 --> 00:02:29,580
+Hi.
+
+26
+00:02:29,580 --> 00:02:30,580
+Hello, everyone.
+
+27
+00:02:30,580 --> 00:02:31,580
+My name is Aya Miyaguchi.
+
+28
+00:02:31,580 --> 00:02:35,540
+I am from the Ethereum Foundation.
+
+29
+00:02:35,540 --> 00:02:42,900
+I've been with the Ethereum Foundation since, officially since 2018, but before that, maybe
+
+30
+00:02:42,900 --> 00:02:53,420
+I can just share a little bit of myself, is that I joined the industry 2013.
+
+31
+00:02:53,620 --> 00:03:01,180
+I was like, early founding members of the Kraken Exchange, if you have heard of it.
+
+32
+00:03:01,180 --> 00:03:08,500
+But anyway, the reason why I joined the industry, that was a very early time still.
+
+33
+00:03:08,500 --> 00:03:14,820
+And I thought this technology, blockchain technology can, back then, this was before
+
+34
+00:03:14,820 --> 00:03:16,780
+Ethereum time.
+
+35
+00:03:16,780 --> 00:03:28,260
+So the Bitcoin, I thought it would be revolutionary for improving financial inclusion in the industry.
+
+36
+00:03:28,260 --> 00:03:30,980
+So that was my original interest.
+
+37
+00:03:30,980 --> 00:03:35,540
+And then I ended up joining Ethereum, the world of Ethereum.
+
+38
+00:03:35,540 --> 00:03:41,940
+I did meet Vitalik and the team when Ethereum was about to start.
+
+39
+00:03:42,660 --> 00:03:54,660
+My motivation to join the EF is this group of Ethereum is trying to maintain the properties
+
+40
+00:03:54,660 --> 00:04:03,300
+of blockchain, that blockchain promise to do purely, but also in a more broader way
+
+41
+00:04:03,300 --> 00:04:07,140
+than what Bitcoin was able to do.
+
+42
+00:04:07,140 --> 00:04:16,660
+So that mission itself was something that motivated me to participate and help.
+
+43
+00:04:16,660 --> 00:04:23,660
+And the Ethereum Foundation, what we do is actually support a lot of different activities
+
+44
+00:04:23,660 --> 00:04:29,500
+in the ecosystem, including protocols, development and research.
+
+45
+00:04:29,500 --> 00:04:36,420
+But Ethereum is a decentralized system that we do not own.
+
+46
+00:04:36,420 --> 00:04:40,740
+That's a very important statement, and everyone should know.
+
+47
+00:04:40,740 --> 00:04:47,540
+So at this point, you don't need to trust EF for Ethereum to be...
+
+48
+00:04:47,540 --> 00:04:52,340
+It's been up and running for a decade with no downtime.
+
+49
+00:04:52,340 --> 00:05:00,660
+So we call ourselves one gardener of this big garden.
+
+50
+00:05:00,660 --> 00:05:05,980
+So we try to support the ecosystem wherever the support is still needed.
+
+51
+00:05:05,980 --> 00:05:09,140
+If it doesn't need our help, that's great.
+
+52
+00:05:09,140 --> 00:05:10,140
+So that's...
+
+53
+00:05:10,140 --> 00:05:11,140
+Sorry, I don't know.
+
+54
+00:05:11,140 --> 00:05:12,140
+It's a very high level.
+
+55
+00:05:12,940 --> 00:05:19,260
+Yeah, because I think a lot of people, because the traditional way is that the foundation
+
+56
+00:05:19,260 --> 00:05:26,260
+or the organization to support everything or to control everything.
+
+57
+00:05:26,260 --> 00:05:31,260
+But I think it's totally different in the blockchain ecosystem, which especially in
+
+58
+00:05:31,260 --> 00:05:32,640
+the Ethereum ecosystem.
+
+59
+00:05:32,640 --> 00:05:41,300
+So what do you think of the positioning that maybe EF and the broader ecosystem could have?
+
+60
+00:05:42,300 --> 00:05:48,620
+So recently, we actually published this EF mandate.
+
+61
+00:05:48,620 --> 00:05:54,740
+It's a long 38 pages, so I don't know if anyone has actually was able to read it.
+
+62
+00:05:54,740 --> 00:06:06,260
+But the motivation is that, like I said, the Ethereum's original promise comes with properties
+
+63
+00:06:06,260 --> 00:06:12,660
+such as, like we call it clubs, like censorship, resistance, open source, security and privacy.
+
+64
+00:06:12,660 --> 00:06:18,620
+And those are the properties that actually can achieve that original promise.
+
+65
+00:06:18,620 --> 00:06:25,300
+And EF needs to be opinionated to protect those properties.
+
+66
+00:06:25,300 --> 00:06:29,620
+That's like a base layer, foundations of the platform, right?
+
+67
+00:06:29,620 --> 00:06:36,780
+And then only on this platform, only when the platform is preserved those properties,
+
+68
+00:06:36,780 --> 00:06:40,100
+and that's when real adoption can happen.
+
+69
+00:06:40,100 --> 00:06:44,420
+So there's a little bit of misunderstanding that after we published that, like people
+
+70
+00:06:44,420 --> 00:06:49,820
+thought, okay, EF is going to only focus on that protocol layer, and then we don't really
+
+71
+00:06:49,820 --> 00:06:51,820
+care about that option.
+
+72
+00:06:51,820 --> 00:06:56,340
+That's actually the opposite, is because we care about the real adoption.
+
+73
+00:06:56,380 --> 00:07:03,060
+The real adoption only happens when businesses are able to trust the foundational layer to
+
+74
+00:07:03,060 --> 00:07:12,340
+be able to handle like a billion dollar and also decade long operations.
+
+75
+00:07:12,340 --> 00:07:19,620
+So you don't want to build business on something that can actually stop working in five years,
+
+76
+00:07:19,620 --> 00:07:24,580
+or like we have to protect that layer first.
+
+77
+00:07:24,580 --> 00:07:31,460
+And then the real adoption can actually solution can be built, like Dr. Shaw was providing
+
+78
+00:07:31,460 --> 00:07:33,700
+some examples.
+
+79
+00:07:33,700 --> 00:07:42,340
+And so the way we see it is first that is for most important for any businesses, any
+
+80
+00:07:42,340 --> 00:07:47,980
+builders to be able to build real application, real solutions.
+
+81
+00:07:47,980 --> 00:07:53,860
+And then the rest is where is the gap, right?
+
+82
+00:07:53,860 --> 00:08:03,140
+And then this event and today's, your activity is the, congratulations, EAG to launch, is
+
+83
+00:08:03,140 --> 00:08:17,220
+that when we want to help, sometimes you don't even need us, but we want to help support
+
+84
+00:08:17,220 --> 00:08:23,620
+or at least encourage people to participate in the type of activities that can actually
+
+85
+00:08:23,620 --> 00:08:30,980
+multiply the benefits of the work everyone is doing.
+
+86
+00:08:30,980 --> 00:08:36,140
+So everyone has different expertise, some people have more expertise in security, and
+
+87
+00:08:36,140 --> 00:08:41,980
+then you can use that as a strength for your own project.
+
+88
+00:08:41,980 --> 00:08:50,740
+But then those security, privacy, those properties still needed in the applications there, because
+
+89
+00:08:50,860 --> 00:08:59,580
+we see every day in the ecosystem or globally, even outside of crypto, lack of those properties
+
+90
+00:08:59,580 --> 00:09:03,980
+are causing a lot of problems to the end users.
+
+91
+00:09:03,980 --> 00:09:11,060
+When end users are affected, that's when the business also get affected, right?
+
+92
+00:09:11,060 --> 00:09:18,420
+So you do have to care about the end users and then protect their own asset, their own
+
+93
+00:09:18,420 --> 00:09:20,240
+information.
+
+94
+00:09:20,240 --> 00:09:26,640
+So we don't really see the separation between, okay, we protect this on the protocol layer,
+
+95
+00:09:26,640 --> 00:09:32,000
+but also as a whole, as an ecosystem, everyone needs to care about those properties.
+
+96
+00:09:32,000 --> 00:09:44,000
+And then the application would be actually useful to help solve problems.
+
+97
+00:09:44,000 --> 00:09:50,080
+And those are the applications that can actually succeed and last long.
+
+98
+00:09:50,080 --> 00:09:57,960
+Everything needs to stick in your business idea, or whether it's a business or whether
+
+99
+00:09:57,960 --> 00:10:00,240
+it's a public system.
+
+100
+00:10:00,240 --> 00:10:01,240
+Yeah.
+
+101
+00:10:01,240 --> 00:10:02,240
+Yeah.
+
+102
+00:10:02,240 --> 00:10:09,920
+I still remember that during about 2018, i.com, you mentioned about the Infinity Garden, which
+
+103
+00:10:09,920 --> 00:10:17,960
+is really inspired at that time, because I seen lots of the foundations just to move
+
+104
+00:10:17,960 --> 00:10:26,440
+forward and to be very aggressive, but the Infinity Garden, it's more like the way establish
+
+105
+00:10:26,440 --> 00:10:35,240
+the fundamental things for the ecosystem, for the builders, and give the space for them.
+
+106
+00:10:35,240 --> 00:10:42,560
+And for the mandate, which is released for the last month, is I think just like the restatement
+
+107
+00:10:42,560 --> 00:10:45,240
+of the Infinity Garden.
+
+108
+00:10:46,160 --> 00:10:47,160
+What do you think?
+
+109
+00:10:47,160 --> 00:10:54,520
+Why this is the time again that we release that kind of the mandate?
+
+110
+00:10:54,520 --> 00:11:02,080
+And what do you see if the ecosystem, that EF doesn't play a central position, a central
+
+111
+00:11:02,080 --> 00:11:08,640
+role, that how could we still support the whole ecosystem and the builders?
+
+112
+00:11:08,640 --> 00:11:09,640
+Yeah.
+
+113
+00:11:09,640 --> 00:11:18,240
+So maybe I can give for some people who don't really know, Infinite Garden is the reframing
+
+114
+00:11:18,240 --> 00:11:25,440
+that I've been using to reflect and also describe the Ethereum ecosystem actually beyond.
+
+115
+00:11:25,440 --> 00:11:31,360
+We said that in the mandate, the Infinite Garden is actually bigger than Ethereum, is
+
+116
+00:11:31,360 --> 00:11:34,260
+the reason why is that is.
+
+117
+00:11:34,260 --> 00:11:40,300
+So there is a word we want to see, and that's the word, like people have freedom, like people
+
+118
+00:11:40,300 --> 00:11:45,100
+have control over their own asset and then on their own information, and then all the
+
+119
+00:11:45,100 --> 00:11:52,460
+businesses are running, preserving that, everyone's freedom.
+
+120
+00:11:52,460 --> 00:11:59,180
+And then for that to happen, if there's like a one organization, if EF says Ethereum is
+
+121
+00:11:59,180 --> 00:12:06,300
+ours and we control everything, and even if we hire the best developers, best researchers
+
+122
+00:12:06,300 --> 00:12:15,100
+inside EF, which was actually suggested when I joined EF as an ED, there was pressure or
+
+123
+00:12:15,100 --> 00:12:21,380
+advice that I received that, oh, you should hire the best developer, best researchers
+
+124
+00:12:21,380 --> 00:12:28,580
+internally and then build everything on our own.
+
+125
+00:12:28,580 --> 00:12:36,620
+That sounds short-term, a lot easier to manage or easier to coordinate, and then Ethereum
+
+126
+00:12:36,620 --> 00:12:43,740
+may be able to move quicker to make progress, but at the same time, the progress and the
+
+127
+00:12:43,740 --> 00:12:50,820
+level of innovation is very limited, because even if we are pretty small, but even if you're
+
+128
+00:12:50,820 --> 00:12:57,540
+a big corporation side, it's still limited, because the more we try to hold inside that
+
+129
+00:12:57,780 --> 00:12:59,740
+true innovation doesn't happen.
+
+130
+00:12:59,740 --> 00:13:05,900
+So the idea is to, how do we invite everyone to participate?
+
+131
+00:13:05,900 --> 00:13:11,020
+And that's how, it's open source, anyone can participate, open source and permissionless,
+
+132
+00:13:11,020 --> 00:13:17,900
+anyone can participate at the platform layer, but also anyone can participate in the middle
+
+133
+00:13:17,900 --> 00:13:28,500
+layer or business layer, and then that way, we're, as a whole, this is the only way for
+
+134
+00:13:28,500 --> 00:13:40,020
+us as a human to win this game, so that's the image of infinite game, but it's a garden
+
+135
+00:13:40,020 --> 00:13:45,900
+because there's a natural organic growth, like for example, we don't really control,
+
+136
+00:13:45,900 --> 00:13:52,020
+we didn't really know, like when you started Shanghai Wu, like we didn't really tell you
+
+137
+00:13:52,020 --> 00:13:58,420
+what to do, you came up, and that's where the strength is, and the beauty is that by
+
+138
+00:13:58,420 --> 00:14:08,260
+us letting the control, the size and the growth, it's way bigger and it can multiply, and so
+
+139
+00:14:08,260 --> 00:14:15,460
+this is not really us trying to do a nice thing, it is a strategy to, for as a whole,
+
+140
+00:14:15,460 --> 00:14:20,540
+it can become a lot bigger than what one organisation can own.
+
+141
+00:14:20,540 --> 00:14:27,780
+Yeah, and also, I think nowadays is a time from the infrastructure for move forward to
+
+142
+00:14:27,780 --> 00:14:36,300
+the application side, do you think why it's also the time that release the mandate at
+
+143
+00:14:36,300 --> 00:14:38,940
+this particular time?
+
+144
+00:14:39,620 --> 00:14:47,320
+Yes, so you know, like when people who've been in the industry for a while, at the earlier
+
+145
+00:14:47,320 --> 00:14:56,720
+time, when the ecosystem is smaller, it was easy for us to be all on the same page, right?
+
+146
+00:14:56,720 --> 00:15:04,400
+So we run DevCon every year, that's the only big event that Ethereum Foundation runs, and
+
+147
+00:15:04,400 --> 00:15:09,320
+then the first DevCon, DevCon 0, they call it DevCon 0, it was very small, like a fit
+
+148
+00:15:09,320 --> 00:15:16,520
+in this size in the Berlin office, and it was easy for everyone to agree on, yes, this
+
+149
+00:15:16,520 --> 00:15:22,400
+is the property, this is the values that we want to preserve, but once this is becoming
+
+150
+00:15:22,400 --> 00:15:32,760
+bigger, it is, it's becoming bigger than one room, and now it's global, we have people
+
+151
+00:15:32,920 --> 00:15:41,760
+in all different time zones, speak all different languages, and so there are principles we
+
+152
+00:15:41,760 --> 00:15:47,760
+have learned on the way, actually Ethereum has learned, also EF has learned on the way,
+
+153
+00:15:47,760 --> 00:15:57,090
+that how do we, first of all, when I came up with this flaming of Infinite Garden, the
+
+154
+00:15:57,090 --> 00:16:03,970
+reason why I thought that was needed, originally, to the people in the Ethereum Foundation was
+
+155
+00:16:03,970 --> 00:16:16,570
+that I want Ethereum not to lose the best part of Ethereum, which was how this global
+
+156
+00:16:16,570 --> 00:16:24,050
+communities collaborate, and then on all different layers, everyone can participate, you go to
+
+157
+00:16:24,050 --> 00:16:29,090
+hackathon, you learn, you teach each other, and then how do we preserve that, so that
+
+158
+00:16:29,090 --> 00:16:37,260
+was my motivation, so in the same way, at the protocol layer, the trade-offs are becoming
+
+159
+00:16:37,260 --> 00:16:45,180
+harder, because there is always motivation, how do we make the transaction quicker and
+
+160
+00:16:45,180 --> 00:16:54,220
+cheaper, and then that motivation is not crazy idea, that sounds very reasonable, then the
+
+161
+00:16:54,220 --> 00:17:04,260
+question is, do we achieve that by compromising security or compromising decentralisation,
+
+162
+00:17:04,260 --> 00:17:11,700
+and you need to make hard decisions, and then at this point, we recognise that it's actually
+
+163
+00:17:11,700 --> 00:17:20,020
+important for us to state that very clearly, what comes first, right, these properties
+
+164
+00:17:21,020 --> 00:17:28,900
+and then we think about usability and all this, because if we forget this, at the end
+
+165
+00:17:28,900 --> 00:17:34,660
+of the day, user won't get benefit, that means the business won't succeed, and the ecosystem
+
+166
+00:17:34,660 --> 00:17:42,820
+won't grow, so we just decided to be clear on the order of importance, and at least EF
+
+167
+00:17:42,820 --> 00:17:49,260
+is going to be very opinionated to preserve that, that's what Vitalik, myself, discussed
+
+168
+00:17:49,380 --> 00:17:59,900
+at the end of last year, now is the time for us to make it more explicit, like let's describe
+
+169
+00:17:59,900 --> 00:18:07,460
+how we are thinking and how we are going to do this, this is still 38 pages paper, it's
+
+170
+00:18:07,460 --> 00:18:13,820
+long but it still doesn't really explain everything, but at least the fundamental principles
+
+171
+00:18:13,820 --> 00:18:21,060
+are there, and that includes what you mentioned about how EF operates, we have this principle
+
+172
+00:18:21,060 --> 00:18:30,500
+of subtraction, EF only rules, we come in only when EF is needed, right, we don't need
+
+173
+00:18:30,500 --> 00:18:40,380
+to be there if we are not needed, so one example is what you're doing, is if Hong Kong communities
+
+174
+00:18:40,420 --> 00:18:47,700
+or Shanghai community or like other, work with other global communities and then start
+
+175
+00:18:47,700 --> 00:18:53,900
+supporting builders, you are connecting with investors and builders and businesses and
+
+176
+00:18:53,900 --> 00:19:01,460
+institutions, and we've been supporting part of that, but also it would be great if others
+
+177
+00:19:01,460 --> 00:19:12,580
+can join the support together, so that's where we see things and that's where we decided
+
+178
+00:19:12,580 --> 00:19:18,540
+to explain, make it clear on the mandate.
+
+179
+00:19:18,540 --> 00:19:26,180
+Yeah, I think since the industry grows a lot to the mainstream and a lot of the newcomers
+
+180
+00:19:26,180 --> 00:19:33,220
+join the industry, but there is still some key principles that we need to keep on, yeah,
+
+181
+00:19:33,220 --> 00:19:40,340
+and this is how our industry, we use blockchain, we use user to achieve that, not just to go
+
+182
+00:19:40,340 --> 00:19:47,540
+back to the web to have the centralized dive, something like that, yeah, but there is also
+
+183
+00:19:47,540 --> 00:19:56,660
+question about the builders, you can see that some people may think that, okay, EF will
+
+184
+00:19:56,660 --> 00:20:06,980
+not do everything and how could you achieve not be at the central party or at the center
+
+185
+00:20:06,980 --> 00:20:15,460
+of the stage, but still could support the builders, because some maybe think of EF is
+
+186
+00:20:15,460 --> 00:20:20,420
+so far away, yeah.
+
+187
+00:20:20,420 --> 00:20:29,450
+So one thing I didn't, sorry, explain with your previous question was that I can give
+
+188
+00:20:29,450 --> 00:20:35,690
+you more concrete example, Ethereum Foundation used to build a wallet, and Ethereum Foundation
+
+189
+00:20:35,690 --> 00:20:42,370
+used to provide only client geth, and that's how Ethereum started, right, if you remember
+
+190
+00:20:43,210 --> 00:20:50,650
+that time, and then people's expectation naturally was like, oh, EF is building a wallet, right,
+
+191
+00:20:50,650 --> 00:20:58,290
+and then no one was motivated to even think about, should I build a wallet, and then,
+
+192
+00:20:58,290 --> 00:21:04,610
+and back then, that wallet actually was not great, I mean, okay, like I can't really,
+
+193
+00:21:04,610 --> 00:21:09,850
+I respect the team, they tried, there was very new building Ethereum wallet was the
+
+194
+00:21:09,930 --> 00:21:16,730
+first thing and the new thing, but still, because EF doesn't have all the expertise
+
+195
+00:21:16,730 --> 00:21:22,410
+of everything, like security, you have to care about security, you have to care about
+
+196
+00:21:22,410 --> 00:21:30,130
+usability, and then it wouldn't be great if there's a wallet market, like natural competitions
+
+197
+00:21:30,130 --> 00:21:38,570
+out there, and so that's the challenge of one company, one organization try to own everything,
+
+198
+00:21:38,570 --> 00:21:48,930
+it sounds very effective in a way, but it's not, it's not as a whole, so that's, that's,
+
+199
+00:21:48,930 --> 00:21:56,730
+and then, so when we think about our position in supporting the ecosystem is how do we not
+
+200
+00:21:56,730 --> 00:22:02,210
+become a bottleneck for the ecosystem true growth, so it could be like this building
+
+201
+00:22:02,290 --> 00:22:09,890
+wallet, now actually our team, privacy team built Kohaku SDK, and that's like a tool for
+
+202
+00:22:09,890 --> 00:22:19,850
+wallets to be able to build privacy in a privacy system, and that kind of work is still there's
+
+203
+00:22:19,850 --> 00:22:27,330
+a gap, so our team worked on it, if anyone knows, actually our team worked together with other
+
+204
+00:22:27,370 --> 00:22:34,650
+community members too, that's always, we try to work together with other teams outside, because
+
+205
+00:22:34,650 --> 00:22:42,530
+then there is not too much reliance on the Ethereum foundation, we call it walk away test,
+
+206
+00:22:42,530 --> 00:22:50,170
+walk away test for Ethereum, like if all core devs walk away tomorrow, if can system survive,
+
+207
+00:22:50,170 --> 00:22:56,170
+and then stay up and running, right, that's the walk away, all walk away tests we want to do,
+
+208
+00:22:56,170 --> 00:23:02,690
+but also it's the same as ecosystem, if Ethereum foundation walks away tomorrow, can ecosystem
+
+209
+00:23:02,690 --> 00:23:12,210
+still be thriving and surviving, and I'm not saying that the answer is yes today yet, but
+
+210
+00:23:12,210 --> 00:23:19,210
+that's where we want, we need to be thinking about this, and whether thinking or not that's
+
+211
+00:23:19,250 --> 00:23:26,570
+important difference. Yeah, I still remember that there is a very sentence in the mandate that
+
+212
+00:23:26,570 --> 00:23:34,890
+inspired me a lot, is that EF were the first Ethereum steroids, but today we are one of
+
+213
+00:23:34,890 --> 00:23:45,210
+many, yeah, I think EAG is inspired by it a lot, because EAG doesn't ask for approval from EF,
+
+214
+00:23:45,210 --> 00:23:53,010
+but we are still standing out to, okay, we could do a lot of things together to bring the
+
+215
+00:23:53,010 --> 00:23:58,850
+ecosystem, stakeholders together to support more towards for the applications, yeah, so from your
+
+216
+00:23:58,850 --> 00:24:06,370
+perspective, what do you see that this kind of the organization, just like no matter EAG or used
+
+217
+00:24:06,370 --> 00:24:13,130
+to be EA or some other organizations, all the builders stand out, and what do we see them,
+
+218
+00:24:13,410 --> 00:24:23,130
+and what is the relation between them? So, yes, like you said, it's great that something like
+
+219
+00:24:23,130 --> 00:24:30,730
+EAG is happening without us much involved, we can probably support communicating about EAG,
+
+220
+00:24:30,730 --> 00:24:35,930
+but the rest is you can take care of it, seems like that's great, and like you said,
+
+221
+00:24:35,930 --> 00:24:46,650
+yes, we see ourselves as one of many now, excuse me, so that's why subtraction at EF is actually
+
+222
+00:24:46,650 --> 00:24:54,970
+addition to Ethereum as a whole, and then, so your work and activities is one great example,
+
+223
+00:24:54,970 --> 00:25:02,890
+and when we see what kind of activities, even if you don't need our own support, like we want to
+
+224
+00:25:02,890 --> 00:25:15,770
+spread the word and then help promote, is that what type of projects and organizations like EAG
+
+225
+00:25:15,770 --> 00:25:23,570
+are doing the work that actually impact can multiply, so like I said, do you also hold the
+
+226
+00:25:23,570 --> 00:25:32,250
+same principles like we do, like okay, you want to invite everyone, it's not about you, I'm in the
+
+227
+00:25:32,250 --> 00:25:39,050
+center, I have to control everything, I have to be the one to make all the decisions, and then the
+
+228
+00:25:39,050 --> 00:25:45,890
+gloss is not really, we don't really expect the gloss to be great for that, from that type of
+
+229
+00:25:45,890 --> 00:25:57,370
+activities, so when we see teams, it can be grantees, or like other events, or these community
+
+230
+00:25:57,410 --> 00:26:08,290
+organizers, what we try to see is that similar principles we have, are you willing to let go
+
+231
+00:26:08,290 --> 00:26:17,090
+of the control and then actually help the gloss to be, yeah, multiply from there, so when we give
+
+232
+00:26:17,090 --> 00:26:26,130
+support financially or just communication support, I always want to support things that the impact
+
+233
+00:26:26,170 --> 00:26:34,570
+doesn't stop there, there will be second order impact and third order impact, that's, you've been
+
+234
+00:26:34,570 --> 00:26:41,970
+seeing this already probably, that's why you believe in doing this way, I hope, yeah, because,
+
+235
+00:26:41,970 --> 00:26:50,970
+but also another thing I care about this local first approach, you said I came to Hong Kong for
+
+236
+00:26:51,010 --> 00:26:58,490
+first time today, and then I cannot really even pretend that I know a lot about Hong Kong, so if
+
+237
+00:26:58,490 --> 00:27:05,450
+someone asks, how do you run business in Hong Kong, what's the best way, my best answer should be,
+
+238
+00:27:05,450 --> 00:27:15,210
+I don't know, but I know people who know, right, and then I connect, so that's why I believe in
+
+239
+00:27:15,210 --> 00:27:23,210
+local first approach, because locals, there is like a local thing that only locals know, and then,
+
+240
+00:27:23,210 --> 00:27:32,570
+so how do we have global activities such as EAG, but still actually leverage locals' knowledge,
+
+241
+00:27:32,570 --> 00:27:40,370
+and then leverage locals' talents, and so who are thinking hard about that, we do pay attention to
+
+242
+00:27:40,370 --> 00:27:50,970
+this, I do pay attention to this, yes, yeah, and because I think for towards the future of the
+
+243
+00:27:50,970 --> 00:27:59,650
+applications, and there are lots of the application builders here, and I think for no matter the
+
+244
+00:27:59,650 --> 00:28:08,770
+Infinity Garden or the mandate, it's such a deep philosophy design to give more space for the
+
+245
+00:28:08,770 --> 00:28:15,810
+builders, for everyone, and they could stand out to, okay, I can do this kind of thing in the
+
+246
+00:28:15,810 --> 00:28:25,530
+ecosystem to support each other, and also to do my own business, something like that, yeah, so what
+
+247
+00:28:25,530 --> 00:28:35,410
+do you want to see to them, that if everyone wants to stand out, okay, I could do this kind of thing
+
+248
+00:28:35,410 --> 00:28:43,410
+to support the whole ecosystem, what is your, could you give some words for them? What is my
+
+249
+00:28:43,410 --> 00:28:53,890
+advice to them, or anything you want to encourage everyone, yeah, okay, yes, so I think this
+
+250
+00:28:53,890 --> 00:29:01,090
+Thermal Foundation doesn't often, or maybe, I don't have a lot of opportunity to talk to like
+
+251
+00:29:01,090 --> 00:29:09,970
+all the startups out there, or businesses, or funders, but I do think, like I said in the
+
+252
+00:29:09,970 --> 00:29:20,050
+beginning, what we are seeing in the ecosystem, or global tensions with all these geopolitics
+
+253
+00:29:20,050 --> 00:29:29,770
+situations, solution has to be real, right, and then, and then, so what is, so often there have
+
+254
+00:29:29,770 --> 00:29:36,930
+been attempts and then experiments in the industry that can be like a very short-term, quick, making
+
+255
+00:29:36,930 --> 00:29:45,970
+money type of businesses, and it might be tempting to go toward that, it was probably tempting to go
+
+256
+00:29:45,970 --> 00:29:50,970
+toward that way, but now we are seeing that is, you really need to think seriously about security,
+
+257
+00:29:50,970 --> 00:29:59,890
+for example, right, and it's not just your business, it's actually what is being built.

@@ -1,0 +1,257 @@
+for 10 years has had zero downtime. This is better than Google, this is better than Amazon,
+this is better than Azure. And government and institutions really recognize that, that
+resilience, that battle-testedness. And having been around for so long, there's almost this
+concept of lindiness. It's gone through enough that it's trusted. And people care about trust.
+People care about risk minimization. And there is no better network and there's no better
+ecosystem than Ethereum for doing this. And it's like very obvious. It's often the reason
+why it's the number one place to go. This is actually a good setup for my question for
+Samuel, actually. Because what Mo has spoken about is how battle-tested Ethereum is. And so,
+Samuel, you work for Lido, right? It's one of the largest, most battle-tested staking providers in
+the space. And since today I'm trying to be a bit more controversial, I'm going to just go straight
+to it. Lido is the largest staking provider in all of Ethereum. And some people have kind of
+criticized it as a centralization vector. However, Lido has taken a lot of efforts to help to
+decentralize its validator set. I mean, you've been also doing some of the work with community
+staking. So I'm curious, and I'm sure the audience is also curious, how meaningful is this
+decentralization aspect of the Lido staking set? And why, and is it effective in practice?
+Yeah, I guess it's true that Lido is the largest liquid staking protocol by TVL. And it's also the
+largest DeFi protocol today at 21 to 22 billion USD. Lido's liquid staking token, SDEath, also
+serves as a foundation for many of the leading DeFi use cases today, you know, in the likes of
+Pendle, Athena, Aave, Spark, Morpho, Fluid, you know, all these on-chain borrowing and lending
+protocols is also being used as collateral by, you know, asset managers, fund managers, hedge
+funds, on centralized exchanges, on even decentralized venues as well. And to address the,
+maybe the implied, you know, systemic risk concern here, right, is that there are at least four ways
+that Lido is addressing this. Number one, decentralization. Number two, security. Number
+three, transparency. And number four, an ever-improving protocol design. So Lido is
+not a single entity controlling all of the stake, you know. Lido as a protocol does not run any node
+infrastructure or validated infrastructure by itself. There are more than 700 independent node
+operators serving the TVL of the Lido protocol. So no single node operator has been programmatically
+delegated more than 1% of the total StakeEath market share. So that reduces or mitigates the
+correlation risk very significantly by itself. Decentralization also happens on the DAO level,
+the protocol level, or the governance level. So Lido is one of the only fully on-chain
+DAOs in the space where the voting outcomes are automatically implemented. You don't need a
+separate team of like, you know, small 5% council to actually implement the results of the governance
+voters. On top of that, Lido has pioneered this thing called the dual governance framework,
+where not only the governance token holders are able to vote on protocol upgrades,
+as the ETH holders, or the users of the protocol, are also able to delay the implementation of any
+contentious protocol upgrades or DAO proposals until they have had time to exit the protocol.
+So that's on the decentralization efforts part. In terms of security, the protocol has invested,
+I think, more than 4 million US dollars over the past five years into security efforts,
+audit reports, security research, bounty programs, etc. There's more than 70 audit
+reports produced. The protocol is also fully open source, so it benefits from the global
+mindshell of developers looking at the protocol every day. What's the third item? Transparency,
+yes. So the Lido protocol voluntarily reports a lot on the protocol performance, on the performance
+of its node operator set, on the protocol health, even like postmortems on security incidents. So
+it is one of the most transparent and data-rich DAOs you can find out there.
+And last but not least, an ever-improving protocol design. QZ, you mentioned there are new modules
+launched on the Lido protocol since the start of the protocol in 2020. So today there are three
+modules. Number one is the curated set, number two is the simple dbt module, and number three
+the community staking module, all of which adds up to more than 700 independent node operators.
+So Lido also pioneered the adoption of distributed validator technologies, which
+improves redundancy for and liveness for the Ethereum validator set, and also improves the
+decentralization. So that's a lot of work for liquid staking. Yeah, and I would also challenge
+the notion a little bit. It kind of implies that institutions would de facto try to use Lido
+when they first explore the space, but actually it's not true because they will have to explore
+native staking first. And they will, to what Serena mentioned, they want a familiar legal
+structure to interact with for a start, and they need some way to outsource the legal liability.
+So in essence, they need a traditional service contract when they first start exploring the
+space, and then slowly they'll move to liquid staking. Right, so I'm also genuinely curious,
+like that sounds like a lot of work to come on board. Why? Are institutions interested in
+DeFi so much? Right, why do they even want to do this? Yes. Yeah, so obviously DeFi brings a lot
+of cost efficiencies to their cost structure, right? It also brings a lot of new opportunities,
+new business cases for their businesses, right? So it's both a cost-saving endeavor and a revenue
+increasing endeavor. Yeah, I guess what institutions would look for when they explore liquid staking
+is twofold. Maybe I condense it to one sentence first. It's the optionality that comes with
+liquidity. So this optionality manifests itself in two layers. Number one, they are able to
+offer rapid withdrawals to their users, for example, or to their own entities. Number two
+is the opportunity to enhance their rewards through the Ethereum DeFi ecosystem. Yeah,
+and that can only happen when you have a liquidity layer on top of native staking,
+which is liquid staking. Yeah, so eventually they will want to explore liquid staking,
+but they will need to work with the regulators to get there. Do you have a QSC for your entity
+customer? For example, you attract the liquidity on LIDL? Yeah, so LIDL by itself is a permissionless
+protocol, so anyone anywhere can use it, right? The KYC component, it should be left to the
+institutions who are building on top of the LIDL protocol. Okay, thank you. So this is great because
+you mentioned that point, right? Because I want to talk a bit more about hash keychain.
+I mean, now that you've built the infrastructure and both of you have kind of touched base about
+the need for compliance and security, what are some of the most high in-demand applications that you
+think should be built or your clients or your partners are demanding looking for?
+Let me think about it. Do you want to know our new trend of the compliance product or
+what kind of point? Or maybe I hear people are interested in agentic payments? Agent payments?
+Yeah, well we got a RWA session, for example, the tokenization.
+And we participate in the Google payment. And we also have our own HSP payment protocol,
+and it's the base technology for the agent payment in the future.
+That sounds pretty exciting. Yeah. So just to get you right, I think
+hash key, when you launch a new chain, it kind of
+threads the line between strict institutional compliance and innovation.
+Yeah, it's a fine line, but there are something to do. For example, we're going to launch
+a native DAX of our hash keychain named HSKSwap. And the main feature for it is we will launch some
+RWA assets. And we will launch some pool, like stocks. And we're going to launch new features.
+We will put some stocks like SpaceX, like pre-IPO on it. And we cooperate with a
+licensed custodian store, Hybrid Trade. He will integrate their API on our HSKSwap.
+When the industry comes to today, if we only focus on the native DeFi, maybe
+we will have a little bit of a limitation on it. So we want to put a lot of effort on the stocks.
+First, maybe the American stocks. And the next, maybe we want to explore some other
+region's stocks. Yeah. That sounds actually pretty exciting to be able to get into SpaceX.
+So my next question is actually for Mo. And I think we've kind of seen a bit of a
+conversation about institutions and what Ethereum can provide. And you mentioned about Lindy.
+From an educational perspective, once again, how do you think we can better communicate what
+Ethereum can afford and what institutions are looking for? Because you can start to see there's
+a parallel here. Yeah, I think that's a fantastic question. I think one thing that is extremely
+important and we're already starting to do, I think we should continue doing is help define
+what types of adoption we think are important. The type of adoption that strengthens the core
+properties that we value in Ethereum. And if we don't do that, then that gets done for us.
+And I think we're starting to do that more and more. Now, I will say that that doesn't come
+in conflict with what institutions want to do. It turns out that institutions actually really
+do care about censorship resistance because they want to be able to do transactions without some
+other organization censoring them. They really do care about open source because they don't want
+to be locked into a vendor that they can't basically move away from. They actually really
+do care about privacy and they most definitely care about security. So oftentimes when people
+talk about these properties, they're like, oh, they come in conflict, but they don't.
+I think if we marry those two, tell people about what kinds of properties are important and why
+in a way that they understand is extremely important. And I think they are actually
+conducive. The second is actually being also transparent about what doesn't work.
+We were talking about earlier how the wallet infrastructure, the custody infrastructure,
+that stuff actually needs a lot of work. And if we can do that, I think that will help basically
+bring to light the areas that we can invest in some more. Those are the things that I think
+are really important that we should highlight more. And in terms of the adoption piece,
+why do institutions care about a lot of this stuff? Blockchains have been amazing for a couple
+of reasons. One is that they're open and inherently we've been building an adversarial environment,
+which means they're the most resilient, they're the most safe. And the opportunity with Ethereum
+in general is that it opens up new markets, like Stablecoin is an example of this. It's going to
+hear $400 billion, $500 billion, a trillion dollars. And every smart organization at scale
+understands that. So they really want to. And I think the space that we want to move forward
+is to get those two bridges a bit closer, and we're doing that. So that's a good point, which is
+that the key properties that you mentioned are actually not in tension with what institutions
+actively looking for. And if we can better communicate that, it would help. So what do
+you have to say for some of the feedback that we've gotten that Ethereum is too principled
+and that it's actually not being pragmatic? I think it ends up being a fantastic filter for
+the types of adoption that we want. So the principles are the things that keep us together
+and what we should continue to enhance. So following that tension, the last point
+would be about UX, because a lot of the attempts at improving Ethereum UX has been at the cost of
+some of these principles. So actually for Patrick, this is just a final question for you, which is
+that when you're in conversation with a lot of these institutions, how much of this progress
+about improving UX while still remaining true to our principles is visible to these institutions?
+And where do you think it's going to go from here? I think there's two ways to answer that. So I think
+first off, a lot of the problems institutions have when they interface with crypto is just the sheer
+technical difficulty to do so. You know, it's not even about trade-offs and principles. It's just
+they just try to download Metamask, they get their hardware wallet, they go and go and save or use
+Wallet Connect, and they're just like, boom, it didn't work. So then what they have to use is more
+like a custodial bank-like MPC service provider where there's a counterparty. And sometimes they
+like that. They like the idea they can call someone up and be like, oh, I'm logged out, help me.
+I like that too, yeah. Yeah, people do like that, of course. It's all about counterparty risk.
+But the problem is that if we can't get the software to work, they're forced to be in that
+direction and they no longer have a choice. It's not an option. So that's one thing we need to fix
+because otherwise they will rise up and all our goals towards removing counterparties and
+enabling the individual and institution. And by the way, institutions who hold millions of dollars,
+if they can reduce counterparty risk or remove it, that's a big win for them.
+Another way to answer, and I was sort of debating about how to answer this here, and I want to
+maybe get a flavor of the audience before I do. So one last time to raise your hands,
+if your job is to deal with like regulations or legal agreements or licenses as part of your job,
+you know, raise your hand if you have to deal with legal agreements on a daily basis.
+Anyone here has to deal with legal agreements. I think some people, I bet they do. Everyone's
+really shy, aren't they? So the reason why do I bring that up? So I think it's really important
+for institutions because they understand, you know, regulations. The whole point of a regulation
+is to set rules that protect consumers and they have to adhere to these rules.
+Legal agreements are about rules of engagement. I send an agreement review and this sets the rules
+of how we engage. And the license is really to say that I've proved to someone, you know,
+a trusted third party, maybe some, you know, authority that I adhere to the regulation
+and I'm a good actor and I'm doing my best. But in all three scenarios, the issue is that if I break
+the rules, it's not detected for a very long time. You know, a user can't detect when a rule is
+broken, neither can an authority. And when it does get detected, you have to spend like months or
+even a year, you know, winding back and working out when was the rule broken and what are the
+consequences of that. And obviously every institution hates that. It's difficult to
+detect when rules are broken and then it's hard to do recourse or resolve the dispute.
+What's really, really nice about blockchains is that they're publicly verifiable and the rules
+are enforced in real time. If you say these are the rules of engagement, these are the rules of how
+the system works and these are the rules you have to follow. The smart contract code will enforce
+that for every single transaction in real time. It's, you know, it's not instead of being, you know,
+I won't be evil, it's I can't be evil. And when you say that to an institution, they're like,
+boom, light bulb. I get it. That is why this is awesome. And I want to interact with it. And then,
+of course, the UI blows up because like, oh, this is too hard. So we really need to fix the UI
+because it has all the properties that institutions want. And they get it once you explain it in no
+manner in their language and you make that comparison. Thank you. And so that concludes the
+panel for today. Congratulations to the launch of the Ethereum Applications Guild. I think we
+have a bright future ahead and I'll see you next year. Thank you, everyone. Let's take a picture
+before you leave the stage. Camera. Thanks again to everyone for the great discussion.
+We now arrive at our final panel for this chapter, Ethereum Meets Hardware,
+From Devices to Autonomous Systems. Please welcome our moderator, Leo Lin,
+co-founder of Akring, along with our panelists, Ben Zhai, CEO of Robo AI,
+Wallace Lin, General Manager Hong Kong at Star5, Nijika, Head Product Manager at Liptik Tech,
+and Kelly Luo, VP at Face Technology. Please welcome them all. Good afternoon, everyone.
+Welcome to this panel. Yeah, Ethereum Meets Hardware, From Devices to Autonomous Systems.
+So I'm the co-founder of Akring. My name is Leo Lin and the Akring is the global renewable
+energy network and we connect the renewable energy sources like the solar panel, the strawberry,
+and the multi-time energy asset with the on-chain protocol. And we are quite focused on the
+IoT and the blockchain, the Web3, the hardware, the interior innovation, and also driving the
+initiative of the smart open machine economy. So it's super happy to be here to moderate the session
+so when people are talking about the Ethereum, so most people think about the finance, the asset,
+the smart contract, but today's panel we will discuss with a little bit different angle.
+So can the Ethereum be part of the coordination layer for the machine, the hardware, the device,
+the aging, and the open, the hardware, the system? Because when the hardware has the intelligence
+become the physical AI agent and we believe that gradually they will be the autonomous
+and definitely the device, the hardware will need the identity, the trust, the verification,
+the coordination, and in some cases also the economy interaction. So today we will explore
+this with the four different but highly connected examples by our four panelists and they are coming
+from the industry. It's very important and the RoboEye is a non-statistic company and
+offering the RoboCard, the Evoto, and all those are cool, you know, the mobile robotics
+are the solution and Starfy is leading the open source, the RISC-FI, the chipset, the platform,
+the provider. Last year they were just invited by the Hong Kong IC. Yeah, very cool.
+And the LipTik is the shining star. Cool. And they offer the AI-based camera and the AI
+visual solution. And FaceTech, they are very innovative. The solution provider offers the
+renewable energy and the solar battery, the solution. So let's start today's panel discussion.
+So firstly we let our panelists to have the self-introduction and also share
+what exactly does the hardware and the technology connecting with the easily and also the broader
+the ecosystem. Let's start with the Ben from the RoboEye. Thank you, Leo.
+Actually I've been looking forward to this session not only because of the fellow panelists
+and our dear friend from Akron, Leo, and a lot of friends sitting in the audience but also I really
+look forward to the next session to Mr. Xiaofeng and Vitalik. The reason I said this is we are a
+public listed company in Nasdaq but based in Dubai because you know you can imagine it took
+a lot of effort to come all the way from Dubai given what's going on over there to come to join
+this session. Why we think it's very important because our company RoboEye was listed in
+Nasdaq a few years ago but initially as an EV company as you know 10 years ago that was a really
+the starting point of the Chinese EV industry. We were quite lucky we started business more
+than 10 years ago and three years ago we went public initially as an EV company and then I
+think over the last couple years the EV industry has been extremely competitive and as a Dubai-based
+hardware company that you know our supply chain our manufacturing cost and technology and so on
+and so forth we need to find something very different from the traditional hardware manufacturer.
+So luckily over the last couple years the board and the management we looked around to see what's
+there for the future because UAE as a country has been always focusing on the technology of the future.
+So luckily we had a lot of interactions with the companies in blockchain, Hushkey, Hushglobal
+and Akron and over the last 12 months we have you know finally found our future direction
+and almost our destination, our destiny we call machine economy. That's when we see the potential
+that the smart mobility where we came from to connect with the smart machine where we are
+investing like a final panelist but eventually moving to the smart assets that to meet and
+connect with the blockchain. So that was a basically the high level visions of the company
+and I'm happy to share more in the next round. Thank you. Hello thank you for having us here.
+My name is Wallace, I'm from Star5 Hong Kong. Our company was founded in 2018. It's leading efforts
+in the RISC-V space in IPs as well as ship designs and more recently actually in also designing and
+deploying total solutions around RISC-V. Where I see RISC-V comes into play with Ethereum as well
+as the web-free ecosystem is really around free areas. I think one is about enhanced execution
+efficiency you know how our open architecture actually enables that. The other one is actually
+also about how we can actually support the zero knowledge proving with our technology and last
+but not least you know also is essentially how we can enable you know a lot of the you know off-chain
+activities via our technology as well. So our company is relatively new to this space but we're
+definitely very excited about what's happening in this space and definitely hope that the hard
+work can play a key role in integrating with the software solutions. Yeah thank you. Hello guys,
+it's so good to be here. I am Nijika, I'm from the Leap2Tech and I am working on the imaging
+technology and for recent years we see that the imaging devices like GoPros doesn't like
+like the cameras you just take the photos but only the it's not only for the capture moment
+but also they help the records and understand people's life and when you in the past and
+the people take the photos and you have to recognize this kind of thing and you should
+take the person and now the cameras come to continuous recording
+and it's not only for the creative materials anymore it is also data for the visual memory
+library. The device records automatically and then model understands, organizes, indexes
+and records that data, highlights rows, reminders, meeting notes and recommendations.
+Devices are becoming more and more connected in Webbrie and this is why we are here
+to build a corner in the layer to make these cameras, glasses,
+AI rings, like phones, like vacuums, cars, chips, we are building a family that
+all the computers work in the same works in the open network so thanks.
+Thank you Leo. Hello everyone. I'm from Shenzhen Face Technology, a national high tech enterprise
+focusing on IoT and new energy. We develop a four core household new energy system which is
+affordable, manageable and operational and sustainable built on our self-developed hardware.
+We mainly serve energy poor households in Africa, Asia and Latin America providing stable and clean
+distributed residential power solutions. We have a full chain research and development capabilities
+with core products including household energy storage, portable power stations and cloud
+management platform. Our products are reliable and easy to deploy and suitable for large-scale
+applications overseas. On how we interrogate our products in with Web3, first we connect
+our hardware with blockchain. All devices can generate real and traceable energy carbon data
+which is uploaded on chain and to clarify asset ownership. Second, we use Web3 to acculate

@@ -1,0 +1,795 @@
+1
+00:00:00,000 --> 00:00:05,740
+Latin America later we could see the list of the eight and from the main
+
+2
+00:00:05,740 --> 00:00:12,280
+three aspect of the pathway. The first is the developer education. In the emerging
+
+3
+00:00:12,280 --> 00:00:19,920
+region we're gonna have the developer education in each region to educate the
+
+4
+00:00:19,920 --> 00:00:26,080
+developers and to how could they use Ethereum to build the
+
+5
+00:00:26,080 --> 00:00:32,840
+native applications and also how could they use AI knowledge or AI
+
+6
+00:00:32,840 --> 00:00:38,240
+tools or genetics even if you are not a developer, you are a product manager, you
+
+7
+00:00:38,240 --> 00:00:44,000
+are an operation, you are a marketing and you could use the AI agent or use the AI
+
+8
+00:00:44,000 --> 00:00:50,960
+tools to do your own business, to create your own project. And the second is
+
+9
+00:00:50,960 --> 00:00:56,560
+the hack zone and the selection track. In each region we're gonna also have the
+
+10
+00:00:56,560 --> 00:01:02,280
+offline hack zone and online hack zone to select the builders around the world
+
+11
+00:01:02,280 --> 00:01:09,240
+and send them to the later, you know, about October in pop-up cities to
+
+12
+00:01:09,240 --> 00:01:15,680
+accelerate them and gonna have the chance to introduce your project
+
+13
+00:01:15,680 --> 00:01:23,040
+more during the dive count in Mumbai. And also in the region just like
+
+14
+00:01:23,040 --> 00:01:29,080
+Australia there are lots of the good researchers there and we're also gonna
+
+15
+00:01:29,080 --> 00:01:35,120
+to collaborate with the universities to have the research workshops to
+
+16
+00:01:35,120 --> 00:01:44,580
+discover more about the frontier research in each aspect. So for the whole
+
+17
+00:01:44,580 --> 00:01:50,820
+year's timeline you could see that today is the official launch of the EHE this
+
+18
+00:01:50,820 --> 00:01:57,580
+year's plan and from May to September they're gonna be just as we said is
+
+19
+00:01:57,580 --> 00:02:03,940
+there is a global builder applications and the builders initiatives from in
+
+20
+00:02:03,940 --> 00:02:12,580
+Africa, Australia, Latin America and the Indian and in about this gonna be
+
+21
+00:02:12,580 --> 00:02:17,140
+happen in half a year and in about October they are gonna be in Shanghai
+
+22
+00:02:17,140 --> 00:02:25,060
+in 2026 and welcome all of you to apply for it, to join the pop-up cities, to
+
+23
+00:02:25,060 --> 00:02:33,540
+find your co-founders there, to meet with the VCs, to exchange with
+
+24
+00:02:33,540 --> 00:02:38,220
+the directly information from the founders who have been succeed and we
+
+25
+00:02:38,220 --> 00:02:46,020
+will help all of you to do our best to support. And for Shanghai this year
+
+26
+00:02:46,020 --> 00:02:53,420
+gonna be happen in October in Hong Kong and some weeks in Shenzhen and for the
+
+27
+00:02:53,420 --> 00:03:00,300
+last week of Shanghai this year gonna be hosting Mumbai because of this
+
+28
+00:03:00,300 --> 00:03:05,420
+year's dive count which is the largest developer conference in Eastern
+
+29
+00:03:05,420 --> 00:03:12,060
+ecosystem gonna be happen in Mumbai in November. So the last week of this year's
+
+30
+00:03:12,060 --> 00:03:19,140
+Shanghai is in Mumbai and we hope that every of the builders around the world
+
+31
+00:03:19,140 --> 00:03:27,740
+could join what's happen in Mumbai and have the chance to present to show the
+
+32
+00:03:27,740 --> 00:03:39,950
+broader Eastern ecosystem what you are doing. So here is the whole planted cities
+
+33
+00:03:39,950 --> 00:03:47,590
+in each region. We're gonna be go to Kenya, Ghana, Bolivia, Australia, New Zealand,
+
+34
+00:03:47,590 --> 00:03:58,080
+Indian and come join us this trip, this explore together. Okay I think it's a
+
+35
+00:03:58,080 --> 00:04:04,360
+whole introduction for EAG. For last ten years we have built lots of the
+
+36
+00:04:04,360 --> 00:04:09,040
+infrastructure. Last ten years is for infrastructure but next ten years is
+
+37
+00:04:09,040 --> 00:04:16,200
+for applications. I think no matter you are the developer, you are everyone who
+
+38
+00:04:16,200 --> 00:04:22,640
+want to build on Ethereum or you have already have the institutions project on
+
+39
+00:04:22,640 --> 00:04:30,840
+the Ethereum. Let's join EAG together to accelerating the real world impact among
+
+40
+00:04:30,840 --> 00:04:42,790
+the Ethereum application ecosystem. Thank you. Thank you Audrey. As we are heading
+
+41
+00:04:42,790 --> 00:04:47,790
+into the later half of the event I'd like to welcome those who have just
+
+42
+00:04:47,790 --> 00:04:52,470
+joined us at Ethereum application gathering. Let's start chapter 3
+
+43
+00:04:52,470 --> 00:04:59,070
+application tracks, real world directions. We will have a deep dive into emerging
+
+44
+00:04:59,070 --> 00:05:04,850
+applications directions where Ethereum can create real projects. Next we have
+
+45
+00:05:04,850 --> 00:05:10,550
+YQ founder of Outlayer sharing his insight on agentic engineering on
+
+46
+00:05:10,550 --> 00:05:30,460
+Ethereum challenges and solutions. Please welcome YQ. Yeah great to see
+
+47
+00:05:30,500 --> 00:05:38,380
+everyone. So YQ here founder of Outlayer. So today I'm going to share sort of the
+
+48
+00:05:38,380 --> 00:05:43,540
+progress and also updates we've been working on on this agentic engineering
+
+49
+00:05:43,540 --> 00:05:51,340
+on Ethereum in general. And some of you may recognize like sort of the stuff I
+
+50
+00:05:51,340 --> 00:05:57,100
+was working on like since early this year. So I've been working on project
+
+51
+00:05:57,100 --> 00:06:03,980
+called Ease 2030. Basically I use like different models to do this agentic
+
+52
+00:06:03,980 --> 00:06:10,900
+engineering to really code sort of the all the new EIPs and the features for
+
+53
+00:06:10,900 --> 00:06:16,700
+the Ethereum for the next five years roadmap. And it actually came from one of
+
+54
+00:06:16,700 --> 00:06:23,560
+the batch I had with Vitalik. So we like we batched I sort of like whether I can
+
+55
+00:06:23,560 --> 00:06:28,120
+really code like sort of the the Ethereum roadmap for the next five years
+
+56
+00:06:28,120 --> 00:06:34,160
+in a week. And before this sort of this year Chinese New Year I really use like
+
+57
+00:06:34,160 --> 00:06:40,440
+this cloud code and also this codex to do this kind of a challenge within a
+
+58
+00:06:40,440 --> 00:06:46,280
+week. Basically code as you can see right are tons of lines, code and to
+
+59
+00:06:46,280 --> 00:06:52,320
+implement brand new Ethereum client for both execution client and also these
+
+60
+00:06:52,320 --> 00:06:58,040
+consensus client to achieve sort of the all the new features and the EIPs for
+
+61
+00:06:58,040 --> 00:07:04,320
+Ethereum for the next few years. And you can check out the website it's
+
+62
+00:07:04,320 --> 00:07:10,400
+eth2030.com and you can see it has all the details on the all the EIP and
+
+63
+00:07:10,400 --> 00:07:15,760
+features for the next few years. The cool things is not just about like okay we
+
+64
+00:07:15,760 --> 00:07:20,800
+can really web code or do this agentic engineering to code everything for
+
+65
+00:07:20,800 --> 00:07:26,720
+Ethereum core protocol in a week. We have a lot of license and the learnings
+
+66
+00:07:26,720 --> 00:07:32,280
+from this. As I mentioned here right we spent almost a week and to code it but
+
+67
+00:07:32,280 --> 00:07:37,000
+after that we spent another month to really fix all the bugs and do all the
+
+68
+00:07:37,000 --> 00:07:44,560
+debugging and to make it work and to have the sort of the DevNet. And also
+
+69
+00:07:44,560 --> 00:07:49,040
+based on our experience we also trying to figure out okay beyond these sort of
+
+70
+00:07:49,040 --> 00:07:54,760
+coding agents and also this engineering stuff right what kind of agents we need
+
+71
+00:07:54,760 --> 00:08:00,040
+Ethereum and for these agents like what kind of new features and tools we need
+
+72
+00:08:00,040 --> 00:08:04,520
+to develop to support them. And beyond that based on the experience and
+
+73
+00:08:04,520 --> 00:08:09,720
+learnings and also the challenges we face we also customize a bunch of these
+
+74
+00:08:09,720 --> 00:08:15,560
+tools like this Austin mentioned earlier like sort of the skills and we further
+
+75
+00:08:15,720 --> 00:08:21,400
+fine-tune some models to make it like we can have a better developer experience
+
+76
+00:08:21,400 --> 00:08:27,840
+and ship faster with all these new tools we develop and later I can share more
+
+77
+00:08:27,840 --> 00:08:33,400
+about it. And in the future if you really want to redo this kind of East 2030 or
+
+78
+00:08:33,400 --> 00:08:38,320
+similar kind of very hardcore engineering on Ethereum you can just
+
+79
+00:08:38,320 --> 00:08:46,000
+reuse these tools to like make your work ten times faster. As I just mentioned
+
+80
+00:08:46,000 --> 00:08:51,160
+right all the things that came from this batch I was Vitalik and and basically we
+
+81
+00:08:51,160 --> 00:08:59,520
+tried to basically work on it day and night for six or seven days and to
+
+82
+00:08:59,520 --> 00:09:04,520
+implement the Ethereum roadmap for the next five years it called a strong map
+
+83
+00:09:04,520 --> 00:09:11,920
+and it has a lot of brand new features as you can see right it has features
+
+84
+00:09:11,920 --> 00:09:20,080
+about its native account abstraction and also different this kind of ZK features
+
+85
+00:09:20,080 --> 00:09:25,840
+ZKVM and beyond that it also includes some of the post quantum cryptography to
+
+86
+00:09:25,840 --> 00:09:30,960
+protect the entire particle against like sort of these quantum computer attacks.
+
+87
+00:09:31,600 --> 00:09:37,360
+It has I think over like tons of these EIPs and some of them are public and
+
+88
+00:09:37,360 --> 00:09:43,400
+some but some of them are still under like sort of discussion phase so you
+
+89
+00:09:43,400 --> 00:09:50,880
+won't really have a lot of information on like sort of the website. And if you
+
+90
+00:09:50,880 --> 00:09:57,160
+look at like sort of the the codebase we developed for these brand new Ethereum
+
+91
+00:09:57,200 --> 00:10:02,080
+roadmap you can see that the structure is pretty good it follows the the golden
+
+92
+00:10:02,080 --> 00:10:08,160
+standard for a lot of these blockchain engineering and I at the same time we
+
+93
+00:10:08,160 --> 00:10:12,640
+all know that Ethereum has a different layers there's execution layer like
+
+94
+00:10:12,640 --> 00:10:16,960
+this gold Ethereum and also this consensus layer like this lighthouse and
+
+95
+00:10:16,960 --> 00:10:25,600
+some other ones. And the cool thing is I just to show you right like after the
+
+96
+00:10:25,640 --> 00:10:31,520
+first week we have all the codebase and then we spend a month to really debug
+
+97
+00:10:31,520 --> 00:10:37,680
+all that sort of the issues we have. And if you got like okay some of the issue
+
+98
+00:10:37,680 --> 00:10:42,840
+is not about like like sort of the the coding aging problem it's really like
+
+99
+00:10:42,840 --> 00:10:49,160
+the complexity of deployment and also development of the Ethereum
+
+100
+00:10:49,160 --> 00:10:54,160
+protocol is just a way to complicate it. For example if you want to set up
+
+101
+00:10:54,160 --> 00:10:58,600
+a damn net right you need proper tools to set up a bunch of nodes. We all know
+
+102
+00:10:58,600 --> 00:11:02,520
+that these physical cloud and codecs they're good on this web 2
+
+103
+00:11:02,520 --> 00:11:08,640
+development like this new UI, new backend, CRUD. But when they face this
+
+104
+00:11:08,640 --> 00:11:15,040
+sort of very complex tasks and the very complicated protocol especially in this
+
+105
+00:11:15,040 --> 00:11:21,080
+distributed environment it's not that straightforward. Even we set up
+
+106
+00:11:21,080 --> 00:11:27,080
+this kind of environment with a bunch of developers you can see that it requires
+
+107
+00:11:27,080 --> 00:11:30,960
+multiple nodes and you need have different configurations. You have the
+
+108
+00:11:30,960 --> 00:11:34,960
+consensus layer you also have the execution layer. So the coordination is
+
+109
+00:11:34,960 --> 00:11:39,400
+another problem. So these things are not like sort of in the public that's why
+
+110
+00:11:39,400 --> 00:11:44,080
+most of model don't really know this and that's sort of the thing we need to
+
+111
+00:11:44,080 --> 00:11:50,080
+instruct and teach the models to understand. And beyond that as I mentioned
+
+112
+00:11:50,080 --> 00:11:58,200
+typical is pretty cool to create a bunch of these codebase. I believe a lot
+
+113
+00:11:58,200 --> 00:12:03,720
+of you already have the experience like writing this code with web coding or
+
+114
+00:12:03,720 --> 00:12:08,360
+this agent engineering. At the beginning is pretty cool. Quickly we can like the
+
+115
+00:12:08,360 --> 00:12:15,320
+AI shape some code, shape the sort of the MVP. But when the codebase I mean the
+
+116
+00:12:15,360 --> 00:12:20,040
+lines of code increase a lot and we start to figure out it's pretty difficult
+
+117
+00:12:20,040 --> 00:12:25,160
+to debug. So that's sort of echo to the point I mentioned right. We spent six
+
+118
+00:12:25,160 --> 00:12:30,920
+days building it but another like sort of a month to really debug it to make
+
+119
+00:12:30,920 --> 00:12:35,360
+the first DevNet working. And if you look at like sort of some of the
+
+120
+00:12:35,360 --> 00:12:41,880
+learnings and challenges we are facing. So it basically is about like the scope
+
+121
+00:12:41,880 --> 00:12:48,880
+we can feed into the models. For example if it's just a single function fix or
+
+122
+00:12:48,880 --> 00:12:54,720
+like feature, single feature implementation is fine. But even for a
+
+123
+00:12:54,720 --> 00:13:00,040
+single EIP implementation is okay. Typically like after the implementation
+
+124
+00:13:00,040 --> 00:13:05,240
+with a bunch of tasks it works perfectly. But once you cross multiple
+
+125
+00:13:05,280 --> 00:13:13,080
+functions and multiple EIPs and it start to sort of having a lot of problems. The
+
+126
+00:13:13,080 --> 00:13:18,640
+reason now we know that it's real about the context, the context management. For
+
+127
+00:13:18,640 --> 00:13:23,440
+most of the models at that time, for example even for the Opals for
+
+128
+00:13:23,440 --> 00:13:31,320
+crowd, it only has like 20,000 this kind of a context. But right now it has
+
+129
+00:13:31,320 --> 00:13:36,160
+1 million. It probably mitigated the issues a little bit but in general it
+
+130
+00:13:36,160 --> 00:13:42,240
+couldn't really feed all these kind of tons of alliance code into this context.
+
+131
+00:13:42,240 --> 00:13:47,920
+And for most of the time it couldn't make the correct decision either for
+
+132
+00:13:47,920 --> 00:13:51,200
+implementation or for debugging. So that's why as you can see right, with
+
+133
+00:13:51,200 --> 00:13:59,040
+small this kind of context like injected into these kind of models it
+
+134
+00:13:59,040 --> 00:14:06,560
+becomes like not as efficient as if just for some simple functions or simple
+
+135
+00:14:06,560 --> 00:14:13,320
+tasks. And at the same time if you use a lot of this agentic and engineering
+
+136
+00:14:13,320 --> 00:14:18,760
+right, if you got like for most of time even we have proper test suites and also
+
+137
+00:14:18,760 --> 00:14:23,360
+a lot of these integration tasks. But for most of time we can see that there's
+
+138
+00:14:23,360 --> 00:14:29,880
+some silent failures. The model doesn't tell you but actually it tells, it works
+
+139
+00:14:29,880 --> 00:14:35,440
+but there are some hidden bugs, hidden failure crashes and make it like not
+
+140
+00:14:35,440 --> 00:14:40,760
+really work as we expect. So that's a part like if we really want to make
+
+141
+00:14:40,760 --> 00:14:47,720
+something as well as we want, it's better like to really make all these kind of
+
+142
+00:14:47,720 --> 00:14:52,320
+failures and errors to make as a crash. At least the models can recognize and
+
+143
+00:14:52,320 --> 00:14:57,560
+also human can recognize. Beyond that, during debugging we found hundreds of these
+
+144
+00:14:57,560 --> 00:15:02,720
+bugs and as I mentioned right, these bugs are basically hidden inside all
+
+145
+00:15:02,720 --> 00:15:07,440
+different places. Especially if it cross function, cross libraries and cross
+
+146
+00:15:07,440 --> 00:15:13,680
+EIPs, it's pretty tricky for the AI to figure out because like it doesn't have
+
+147
+00:15:13,680 --> 00:15:19,280
+enough context. And for a lot of these this kind of caveats, all these hidden
+
+148
+00:15:19,280 --> 00:15:24,280
+bugs actually is identified during our human testing and basically we roughly
+
+149
+00:15:24,280 --> 00:15:30,440
+know it will have some problems and in the end it really has the problems. And
+
+150
+00:15:30,440 --> 00:15:36,160
+beyond that, there's another thing we learned during this process that I we
+
+151
+00:15:36,160 --> 00:15:41,480
+really need some sort of these, right now we call it like shared memory or like
+
+152
+00:15:41,480 --> 00:15:46,720
+some this kind of shared context because like you may not just run one
+
+153
+00:15:46,720 --> 00:15:50,720
+agent, you may run multiple agents in different environments. So in that case
+
+154
+00:15:50,720 --> 00:15:55,760
+we definitely need some files or these kind of shared memories
+
+155
+00:15:55,760 --> 00:16:00,080
+across all the different agents. And typically if you are using cloud code,
+
+156
+00:16:00,080 --> 00:16:05,240
+the cloud.md is the best. You can treat it as bugs and sometimes you
+
+157
+00:16:05,240 --> 00:16:09,760
+can really treat it as a shared memory and a context. So in that case if you
+
+158
+00:16:09,760 --> 00:16:14,160
+pull some specific or explicit instructions in it, for most of the time
+
+159
+00:16:14,160 --> 00:16:20,520
+the coding agent will follow. For codecs it will be agent.md. That's why like
+
+160
+00:16:20,520 --> 00:16:25,880
+granularly figure out if we have a specific file, we can call it memory or
+
+161
+00:16:25,880 --> 00:16:31,520
+sometimes external files, and we ask the coding agent to follow it. But for most
+
+162
+00:16:31,520 --> 00:16:36,360
+of the time they don't really check. Even you write it specifically in the
+
+163
+00:16:36,360 --> 00:16:40,720
+document, but it doesn't check. But if you put it at this kind of cloud.md or
+
+164
+00:16:40,720 --> 00:16:48,000
+agents.md, typical these agents will check. And beyond that I also summarized
+
+165
+00:16:48,000 --> 00:16:54,120
+a bunch of these rules and the learnings in general. As I mentioned, if
+
+166
+00:16:54,120 --> 00:17:00,560
+you have a relatively complicated task or like sort of these kind of
+
+167
+00:17:00,560 --> 00:17:07,520
+codebase, you spend probably 10% of the time on this development, but the other
+
+168
+00:17:07,520 --> 00:17:11,360
+remaining time probably you just spend on the integration and also this
+
+169
+00:17:11,360 --> 00:17:15,800
+debugging. And beyond that as I mentioned, this autonomy of the agents
+
+170
+00:17:15,800 --> 00:17:22,680
+and agent engineering sort of decrease when sort of the scope grows
+
+171
+00:17:22,680 --> 00:17:27,440
+because the context doesn't have enough space to capture all this kind of
+
+172
+00:17:27,440 --> 00:17:33,520
+knowledge. And at the same time if we are working on some areas basically
+
+173
+00:17:33,520 --> 00:17:39,280
+there's not enough public knowledge, but with a lot of domain knowledge, then we
+
+174
+00:17:39,280 --> 00:17:43,200
+will see that most of the time we will still be on the experts time. They spend
+
+175
+00:17:43,200 --> 00:17:48,560
+time on debugging and help the AI to do the development and debugging. And in the
+
+176
+00:17:48,560 --> 00:17:55,200
+end I said another thing. If you are like sort of senior engineer, you will see
+
+177
+00:17:55,200 --> 00:18:00,200
+that this AI can be 100 times amplified. But if for not a lot of knowledge you
+
+178
+00:18:00,800 --> 00:18:06,080
+want AI to be the magic, at that time you will see that the AI won't really help
+
+179
+00:18:06,080 --> 00:18:11,140
+you much because there's a lot of, it may also further introduce a lot of
+
+180
+00:18:11,140 --> 00:18:19,220
+bugs. And beyond that as I also mentioned, apart from this East 2030, we
+
+181
+00:18:19,220 --> 00:18:24,080
+start to figure out, okay, beyond just doing this engineering for Ethereum
+
+182
+00:18:24,080 --> 00:18:29,200
+core protocol, we probably want to see in the future its agentic era. So what kind
+
+183
+00:18:29,200 --> 00:18:35,240
+of things we need to support all the different agents. So one thing that I'm
+
+184
+00:18:35,240 --> 00:18:40,040
+not sure whether you know there's a standard called 8004. It basically helps
+
+185
+00:18:40,040 --> 00:18:46,000
+to register agents and also provide this reputation validation for different
+
+186
+00:18:46,000 --> 00:18:52,080
+agents to register on chain. And we built this called 8004 scan. And right now we
+
+187
+00:18:52,080 --> 00:18:58,600
+already index over 20 different chains including Ethereum base, BNB chain, and
+
+188
+00:18:58,600 --> 00:19:03,520
+even Solana. So the EFT team will deploy the same contracts on different
+
+189
+00:19:03,520 --> 00:19:08,880
+chains and all the agents on different chains so they can register on this sort
+
+190
+00:19:08,880 --> 00:19:14,400
+of 8004. And our 8004 scan will index all the agents with all
+
+191
+00:19:14,400 --> 00:19:20,080
+different metrics and analytics. As you can see, right, for just three months we
+
+192
+00:19:20,080 --> 00:19:26,280
+grew from like sort of this zero to over like sort of a hundred seventy
+
+193
+00:19:26,280 --> 00:19:31,280
+thousand agents on chain. And beyond that as I mentioned, right, it's not just a
+
+194
+00:19:31,280 --> 00:19:37,480
+pure indexing or registration system for the on-chain agents. Actually we also
+
+195
+00:19:37,480 --> 00:19:43,200
+have different ways to measure the quality of the agents. We regularly
+
+196
+00:19:43,200 --> 00:19:49,420
+capture like sort of their their their wallet data and also we test the
+
+197
+00:19:49,420 --> 00:19:54,920
+liveness of the different sort of agent to make sure like if there are some
+
+198
+00:19:54,920 --> 00:19:59,400
+users or agent want to call them they are always online. And beyond that as
+
+199
+00:19:59,400 --> 00:20:01,880
+I mentioned

@@ -1,0 +1,217 @@
+Ladies and gentlemen, welcome to the Ethereum Application Gathering hosted by Ethereum Application Guild, aka EAG,
+a global non-profit collaborative organization dedicated to advancing the innovation, adoption, and real-world impact of the Ethereum native applications.
+I'm today's MC Yu Yan, and I'll be with you all day.
+The Ethereum infrastructure has reached a new level of maturity, and the focus is increasingly shifting towards applications.
+Today, we will have a four-chapter discussion towards where momentum is forming, what challenges remain, and how applications are beginning to take shape in practice.
+Let's start with Chapter 1, From Infrastructure to Applications, Ethereum's Next Phase.
+We will have an overview of the latest developments across Ethereum, its key infrastructure layers, and how these advances are shaping readiness for real-world applications.
+Our first chapter will kick off with an inspiring opening speech by Dr. Xiao Feng, Chairman of Wan Xiang Blockchain, Chairman and CEO of Hashkey Group.
+Please welcome the Chairman of Wan Xiang Blockchain, Chairman and CEO of Hashkey Group, Dr. Xiao Feng, to give us his opening speech. Please welcome.
+Good morning, everyone. Welcome to the Ethereum Application Gathering hosted by EAG.
+The Ethereum Application Gathering, EAG, originated in 2014.
+In 2014, I made a judgment, which I later shared with many of my friends,
+that blockchain technology has entered the Internet's 1950s.
+That is to say, blockchain technology has developed enough to support large-scale commercial applications.
+We know that most of the Internet platforms, we are now familiar with the Internet platforms,
+were actually born between 1995 and 2005.
+In addition to Amazon, which was founded in 1994, most of the applications were created in the 1950s.
+So the real large-scale applications of the Internet started in 1995.
+There are several conditions for the emergence of the Internet in 1995.
+First of all, if the computer's control system, operating system, is still DAO,
+and if it interacts with the computer by command line,
+I believe there will not be a big outbreak of Internet applications.
+Later, from the DAO browser, there was a dialogue box,
+and then developed a graphics operating system.
+The graphics operating system is like Windows.
+It allows more people to interact with computers in a more convenient way.
+With this condition, with the development of technology,
+Internet applications have only just begun to appear.
+Of course, there are other conditions, including bandwidth,
+a construction of communication facilities.
+So the reason why I say that since 2004,
+the blockchain has also entered a time when such an application broke out
+is because at that time, many technologies of the blockchain,
+some application tools, some mechanisms and means of construction of infrastructure,
+have also begun to be able to use some commercial applications.
+So I made such a judgment at that time.
+So, of course, in addition to this judgment,
+we also continue to discuss with people in the entire ecosystem
+and people with application scenarios
+how to establish such a commercial application on the blockchain.
+So last year, in the second half of the year,
+in Singapore, we launched the ETAFORM application alliance, EAG.
+The ETAFORM's title, this abbreviation,
+is because we discussed with the founder of ETAFORM, Vitalik,
+what kind of abbreviation would be better?
+In fact, Vitalik should be the name for this name.
+Vitalik is of course very supportive of us
+to launch such a global application alliance.
+So another background of EAG's establishment
+is that we have had a community activity in ETAFORM
+called the Three Seas House since 2024 and 2025.
+The Three Seas House was in Singapore last year in 2025.
+There were dozens of global developers
+gathered in Singapore for a month
+to discuss various applications on ETAFORM.
+More than 18 African developers came to Singapore
+during the Three Seas House event in Singapore last year.
+Most of the African developers,
+these 18 African developers, came to Asia for the first time,
+even walked out of Africa for the first time.
+In addition to the event in Singapore last year,
+there was also a three-seas house event in Thailand in 2024.
+It also gathered dozens and nearly hundreds of ETAFORM developers,
+especially application developers,
+to gather together and discuss with each other
+for a month.
+This is also the foundation of ETAFORM's application alliance.
+The Three Seas House has been in operation for three consecutive years.
+The first one in 2023 was in China,
+in a relatively cool place in the northeast of China.
+There was also a month's time.
+In the second half of 2023,
+almost 300 people arrived at the site.
+Some people stayed for one or two weeks and left.
+Some people stayed longer.
+Basically, based on these two foundations,
+one is that we think that ETAFORM technology has arrived
+and can support large-scale commercial applications.
+The other is that in the past two, three, four, five years,
+we have done some specific things in the form of the Three Seas House.
+In the third quarter, the influence of the Three Seas House
+has even exceeded that of Asia.
+It has already had a very, very big impact in Africa.
+So next, ETAFORM,
+we are planning to do an ETAFORM event in Africa,
+to really mobilize the African developers.
+This is the origin of ETAFORM
+and the preparation work that we have done before.
+This afternoon at 4.30 p.m.,
+we had a one-and-a-half-hour chat with Vittaric.
+What we want to discuss is the application of ETAFORM.
+From his point of view and from my point of view,
+we want to discuss the future applications of ETAFORM.
+What may be the trend, what may be the scenario,
+what may be the construction of the infrastructure.
+Yesterday, we also announced that
+the three major technologies,
+the blockchain, the zero-sensitivity certification,
+and the global encryption,
+after combining these three technologies,
+may bring a subversive innovation
+to the intelligent economy.
+We know that, like the zero-sensitivity certification,
+the formal verification,
+these topics have actually been discussed
+by the community of ETAFORM since 2016.
+I remember very clearly that in October 2016,
+the global development conference of ETAFORM was held in Shanghai.
+It was held in Shanghai by Dewekang.
+In the two consecutive days of the ETAFORM global development conference,
+several technical experts have actually been discussing
+the formal verification, the zero-sensitivity certification,
+and how to combine these tools,
+or the technology of privacy protection,
+with the blockchain technology.
+Over the past ten years, we have seen that
+the technologies of the zero-sensitivity certification,
+and the technology of the global encryption,
+are gradually approaching or entering
+a stage where they can support large-scale commercial applications.
+The optimization of the algorithm
+needs to be accelerated by hardware.
+It needs to have a wider bandwidth.
+After spending ten years,
+the technologies of the zero-sensitivity certification
+are gradually beginning to be able to support
+a large-scale application
+based on the combination of the blockchain and AI.
+In my speech yesterday,
+I specifically gave an example
+of how the combination of these three technologies
+can subvert the existing business.
+I gave an example of the hospital.
+This example is easier for everyone to understand.
+The hospital data, its medical data,
+its medical case,
+is absolutely very, very valuable data.
+But if the hospital only has its data without AI,
+then it cannot turn data into a token.
+If it cannot become a token,
+it is difficult to be called by others.
+But if only AI turns it into a token,
+then it faces a problem that
+the hospital data has a very high requirement
+for privacy protection.
+What is the requirement for privacy protection?
+It needs the zero-sensitivity certification,
+the privacy protection,
+and the privacy computing technology
+to support it.
+Because the medical data
+cannot be tolerated
+and can be easily leaked.
+But if only the zero-sensitivity certification
+or the privacy protection,
+the privacy computing technology
+like the privacy encryption,
+is still not enough.
+Of course, it is already enough.
+Because if only AI
+and these privacy computing technologies
+can be combined,
+then what will happen?
+If we want to use the data token
+of a hospital,
+we need to negotiate
+with the relevant departments
+of the hospital
+offline,
+sign contracts,
+and pay.
+This is obviously not beneficial to the hospital.
+Unless the hospital establishes
+a huge business operating system
+to sell its own data,
+it is obviously not beneficial to the hospital
+to expand its business
+in a token factory.
+If it can add blockchain technology
+like Bitcoin,
+like Ethereum,
+to become a business
+that does not need to be trusted
+and allowed,
+then the token factory
+of a hospital
+with all medical data
+can be used
+without the trust
+of the hospital.
+It can be used by people
+and by global
+developers
+and demanders.
+This is obviously a better
+and can reach
+a wider range
+of demanders
+in a new business model.
+This is what we said yesterday.
+So we have been discussing
+about
+how to
+create a new business model
+with the support
+of other technologies
+on Ethereum.
+So,
+today,
+at this moment,
+EAG
+in the year 2026,
+has strengthened
+our confidence.
+The blockchain
+in the year
+2026

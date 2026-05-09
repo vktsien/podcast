@@ -1,0 +1,354 @@
+addition to scalability is privacy.
+So we are actually enabling a new kind
+of a privacy preserving applications starting
+with ZK powered perpetual swap exchanges.
+For example, we are working with Aster that
+allows you to essentially submit orders that
+is privacy protected.
+So you don't actually, you want to be actually
+able to see others orders or others positions
+in the perpetual swap exchange that is fully decentralized
+while at the same time ensure that the security is actually
+maintained at a blockchain level.
+So in fact, more recently we have
+been working with an ecosystem like BNB Chain, which is also
+Ethereum VM based to enable a general framework
+for privacy preserving applications to bring off
+chain information to the on chain work.
+That is, you are able to essentially prove
+that you are, for example, a certain kind
+of a centralized exchange user to the on chain application
+without actually revealing your exact identity.
+So as I mentioned, we have been working a lot
+with stable token and real world assets.
+So the problem about stable token and the real world
+assets today is that once you issue these assets,
+the biggest problem is how do you get distribution?
+How do you get data adopted?
+Well, you actually need to integrate this
+with the entire on chain DeFi ecosystem
+and the financial ecosystem.
+So to do that, you actually need to have a distribution
+program that tracks user's interaction with your protocol
+across all these different applications and interactions.
+How do you build a trust free and transparent architecture
+for this so that a user can participate
+in this with high confidence in the security
+is something of an unsolved challenge
+until we arrive in the market.
+So we built something called continuous protocol
+incentivization that allows you to essentially build
+this transparent real world asset and stable token growth
+program.
+And we have helped with many different stable token
+protocols to distribute hundreds of millions
+of incentives and tokens per year to their end users.
+And we have been also helping many of the new chains
+growth here that allows you to essentially grow
+the new chain with the same kind of concept
+of building a transparent and trust
+free scalable and incentive distribution programs.
+So my conclusion here is that verifiable computing
+is a really kind of a cutting edge and noble concept
+in computing that allows you to offload
+some very complex computation away from blockchain
+to this off chain world so that you can actually
+tap into infinite amount of computing power
+that were not available before.
+And we believe that in 10 years, 99%
+of computation for a blockchain application
+is going to happen off chain.
+And it's going to be verifiable with ZK proof and hopefully
+by Brevis.
+So finally, I want to touch on how
+we build a decentralized network for this kind of a computation
+to happen, right?
+So this is happening off chain.
+So how do you make sure that this is actually
+kind of stable and secure from kind of a user's perspective
+with high liveness is something of a unique challenge.
+So in this entire computing stack,
+we also have something called a Brevis Prover Network.
+So any kind of a proving workload
+that you want to kind of do is actually
+distributed to this decentralized approving
+network that allows you to run this truthful online double
+auction system and to connect with an infinite amount
+of computing power off chain so they can actually
+generate these ZK proof for you securely
+and with extremely high availability.
+And we have this prover network live today.
+So that's all.
+Hopefully, I have given you guys a quick introduction
+of how verifiable computing work today
+and some of the amazing and exciting applications
+that you can build with.
+If you have any questions, I will be around after this session.
+Come find me and talk to me.
+Thank you.
+Thank you, Michael.
+Our next speaker is Tina Zheng, co-founder and steward
+at Flashbot, diving into application controlled
+execution, Ethereum competitiveness from DeFi
+to FinTech to agent applications.
+Please welcome Tina.
+Tess, Tess.
+All right.
+So it's really great to go right after Dong Mo's presentation
+about verifiable off chain infrastructure
+because this is basically how we can
+move the computation off chain while keeping our on chain
+guarantees, which is really important for enabling agency,
+human agency in our application design.
+So in this talk, I want to try to tie all of the bits
+and pieces that you've heard today
+in a more theoretical and more design framework focused talk.
+So the key question I want to zoom into in this talk
+is, what are we actually building with all of this?
+And I want to pause and let's think about for a moment,
+what is agency?
+Agency is the ability to act on your own behalf
+with knowledge of what you're doing
+and the ability to verify the outcome.
+At least that's my definition.
+And when we're entering the agentic era,
+when we speak about agentic applications,
+the system that matters will be the one that holistically
+can preserve human agency over execution.
+And I'll unpack this in my talk.
+So every application has this similar shape
+ever since the word application has been defined.
+Input, logic, outcome.
+It applies to payment, search, trading, even an LLM
+can be seen by some.
+The interface level feels like an application.
+At least you download it in your app stores, right?
+But what changed today is who controls
+how the outcome that you want, that the human intent
+is executed, and what outcome at the end of the day
+is produced for me and for each of you.
+So I want to quickly run through how applications has evolved.
+And so over time, ever since, is it better?
+I don't know how it sounds like for you guys.
+OK.
+Hi, Patrick.
+So yeah, so basically over time, I
+feel like our human interaction with the concept of computers
+has evolved.
+And the concept of applications has
+evolved from desktop, web, mobile, all the way to social.
+And you can see that as I laid out on the screen
+how control has moved away from each of us,
+how more and more layers of abstraction and intermediary
+has been added to make things more convenient,
+to make things happen for us.
+But we're losing, and we have been losing control.
+And here, specifically, I think that what
+I wanted to kind of zoom in on is circle,
+all the way through the right.
+I think that we're at this more or less pivotal moment
+in history where on-chain applications gives agency back
+to the users.
+And this is hardened through a set of infrastructure shifts
+in how our intents get executed.
+A key question I wanted to kind of focus on today
+is, can an application be built without handing the control
+to any single layers of the machine that
+make decisions for us that takes away control
+at the end of the day?
+So first, since we're on Ethereum Application Day
+at Web3 Festival, a concept we've been very familiar,
+or we think we've been very familiar,
+is decentralized applications.
+Sometimes they call it smart contract applications.
+And essentially, it's where chain,
+the execution environment, the app logic,
+secured by the chain's economic security,
+what together they can do for us.
+Decentralization is not the goal, but better application
+than enable human agency is.
+So there are many facets to a decentralized application.
+And here, I've laid out essentially the on-chain
+and off-chain component.
+What eventually goes on-chain, what gets written into the block
+is the final state that's enshrined and notarized
+into the distributed ledger, a set of valid state transitions
+that follows a set of rules.
+And without going into too much of the jargon here,
+I think that one thing I want to highlight, once again,
+we call it decentralized applications,
+but it's somewhat misleading.
+Because decentralization, in my view, is a design commitment
+and is how to make things work under the hood
+to preserve certain guarantees that we want.
+And it should not interfere with,
+nor should it hinder the application experience
+that, at the end of the day, how do our intents get executed?
+And there are a lot of details that we can dive into,
+but I'll probably gloss over that when we think
+about decentralization, we should,
+in terms of the design process, we should separately
+think about the chain, what the chain provides as a guarantee,
+what the off-chain substrate enables,
+and what does your smart contract application that,
+in my view, smart contracts are just dumb contracts.
+They don't move by themselves, but they're rule-based,
+and you can reason about it, and you can verify it.
+And so in the past, we have been thinking about application
+in a way that separates the app and the protocol,
+but the lines are blurring.
+Perhaps before I dive further into these kind of design
+thinking and how things work under the hood,
+before I lost you, I think one of the things
+that you may have in mind, and this may be the burning
+question that you've had all day long,
+is how does blockchain help us in applications,
+or what is even blockchain's role?
+I think a lot of the speakers before me
+have explained in their own words
+and what they're working on, and we have inherited or assumed,
+this is the truth, but in my view,
+I view this question as quite important,
+and my mental model has been blockchain
+help us define our shared digital reality.
+Today we live in a world where it's
+full of misinformation, malinformation.
+Every single app, every single algorithm
+is manipulating how we think, what we think.
+And our interaction, my interaction with TikTok
+is different than my interaction with Doubao or chat GPT.
+And in fact, if you ask each of the algorithms what
+they think of me, they will tell you
+completely different versions that I wouldn't even
+want to admit.
+But precisely in this world, I think
+that there is something that needs to lay the ground truth
+as what is our shared reality?
+And so when we think about applications,
+when we think about the human relationship with machines
+that help us achieve what we want to achieve,
+maybe the first question is, what is missing?
+How do you know if something is real?
+So this is more so on a philosophical level,
+and I won't go into the details because I can't even
+read the fine prints on my own slides.
+It's too far away.
+And one more thing that I want to help
+set the stage in terms of a shared mental model
+is that when we think about a blockchain,
+blockchains have blocks, right?
+And the block production process nowadays
+we call block building is simply a contest
+under deadline with rewards.
+This has been true since the Bitcoin days,
+and this continues to be true in Ethereum
+and the future of blockchain substrate.
+And within the deadline, it's all
+about how can we pack the optimal block,
+or how do we produce the most valuable block?
+And it is this process that actually
+goes into essentially the most important execution substrate
+for blockchains.
+And how does this relate to what you're familiar with?
+Essentially, it's an ordering process,
+finding what is valuable at the end of the day for you
+based on order leverage the market.
+So OK, so I'm going to try to speed run through the smart
+contract application patterns, or else I
+think your next panel will never start.
+This may bore some of you, so I'll be quick.
+So essentially, here are a few, I
+would say, characteristics of a smart contract application.
+Essentially, I really can't really see what's on my slides.
+Yeah, so basically, there is the deterministic aspect
+that guarantees the same input, and you get the same output.
+There is the aspect of public state that's visible to all.
+There's the importance of composability
+that makes essentially today what you see as Ethereum
+very competitive when it comes to DeFi applications,
+because composability is super important for liquidity.
+And finally, the permissionless nature of it,
+that anyone can participate in the market,
+anyone can deploy contracts.
+And there are different roles, of course, in the system.
+When you think about a smart contract application,
+I view it as a design that is intentionally incomplete,
+as in smart contracts are dumb contracts,
+as I mentioned earlier.
+And they rely on external third party, such as bots,
+and mostly bots, to update the state.
+And so DeFi design, ever since inception,
+has always been, in my view, designing
+how to leave money on the table for bots to help arbitrage
+and move the markets.
+And so in AMMs, as we know, arbitrage bots
+help align the price.
+Liquidations is super important for lending protocol,
+and that's basically who's doing the most valuable work
+in those most fundamental smart contract applications
+that we're familiar with, is actually the bots.
+And with intent-based architecture, aside from AMMs,
+the state of the art has become a hybrid of essentially AMMs
+and off-chain solvers, as well as nowadays,
+you may have heard the fancy term this year, is prop AMM.
+But essentially, how do all of these work?
+What are the invisible humming bees
+that's making the market for you?
+Those are bots.
+So in other words, application is contract,
+the smart or dumb contract, plus the market that completes it.
+And so there's also another concept
+that I won't dwell too much into it.
+There's atomic execution, the atomicity,
+the importance of atomicity, and the importance
+of composability.
+Those are technical jargons that just keep in mind
+they will be important and relevant when
+we speak about today and future agentic application.
+So to sum it up, basically, when it comes to smart contract
+applications, it's an open ecosystem.
+And this design pattern helps preserve agency
+because it gives us the ability to understand,
+to act under known rules towards outcome that we can verify.
+So in fact, there is much more to the on-chain contracts
+and the off-chain bots aspect when
+it comes to the design pattern of designing applications
+that serve as human agency.
+So on Ethereum, we already have atomic composition
+that's basically inside one transaction, the atomicity
+aspect.
+But now, how do we extend it across
+in the entire execution pipeline to ensure
+that the guarantees that we need to execute our intent
+faithfully, that give us the best execution, is there?
+So again, it goes into this part that you don't usually
+hear explained when we speak about or think
+about applications.
+Again, I go back to blocks.
+So essentially, blockchains have blocks.
+And it's this contest under deadline, as I mentioned.
+And in fact, in the production to produce
+through a competition, the most valuable block
+under this deadline, thousands of counterfactual futures,
+thousands of blocks are submitted,
+in fact, by each of the block builder that
+enters in this competition.
+Just within that 12 seconds of Ethereum slot time.
+One way I like to think about it is,
+if you remember the Marvel comics,
+I think one of the Avengers series,
+there is a scene where Doctor Strange looks
+into the millions of future worlds
+and finally found one where Xenos was not going to win.
+And so you can think about the block building process
+as in real time, taking into account the entire world's
+information.
+And then as every milliseconds go by,
+and then compute and recompute what is the optimal outcome.
+And then submit it as the deadline approaches
+into this block construction process, this market,
+this contest.
+And so in fact, why I focus on this analogy
+and this point of many possible futures
+with one canonical block is because if you want
+the state of the world, if you want something to happen.

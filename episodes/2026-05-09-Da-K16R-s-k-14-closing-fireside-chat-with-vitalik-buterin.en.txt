@@ -1,0 +1,601 @@
+carbon value circulation, including carbon asset conformation, the global carbon trading,
+and automatic revenue sharing, combining with smart contracts supports pay-go remote control
+and automatic revenue sharing, greatly reducing overseas operation costs.
+Our goal is to make every energy device a node in a decentralized Web3 world and integrating
+energy green system into the Web3 value system and finally realizing energy inclusiveness
+and global energy equity.
+That's all.
+Thank you.
+Okay.
+So yeah, our panelists gave a very good example.
+So from the robot car, the smart vehicle to the open source chipset to the AI-based camera
+and also energy devices.
+So we see that it's not just the hardware.
+If the hardware can sense, can take the duration by the AI and can take the action, then we
+believe that this device, this hardware should have the machine ID, should have the machine
+wallet and they must have the right to participate in the machine economy as the independent
+economy agent.
+So yes, our panelists gave us the very good, you know, the use case, the example.
+So we go to the next question and because we have the panel topic today is from the
+device to the autonomous system.
+So the second question is, what do you see as the biggest challenge or the biggest opportunity?
+Then we try to integrate the blockchain, the Web3 into the autonomous, the hardware, like
+the AI robot, the robot car, the open source chipset, the AI camera, the imaging equipment
+or the energy devices.
+So yeah, let's start with Ben.
+Well I think the biggest challenge for us, for me, because we are relatively new to this
+Web3 world, but we saw this as our destiny because we know where we are heading.
+The biggest challenge is traditionally, I think, is for the native Web3 companies and
+then for the traditional hardware companies.
+I will speak from my perspective.
+Yesterday, last year actually, we came over for the Fintech week that was much bigger
+and all the Token 2049 in Singapore, in Dubai, we see all the hot waves.
+Today is much more rational, but the major differences we saw, I saw this year is there's
+much more participation from the so-called traditional hardware company and also the
+smart machine company.
+I think for us, the biggest challenge for us is just to really understand the fundamental
+logic of the Web3 world.
+When we believed in this, and then the next challenge for us is how, because all the traditional
+machines and also the Web3 world, the crypto world, were not built for the human world,
+but the machine was built for the human world, but not built for the machine world.
+So biggest challenge for us is how can we, this machine economy, can integrate the smart
+mobility and the smart machine and combine it into smart assets.
+But certainly, at the same time, it's also the biggest opportunity for us.
+I remember last year, I think it was eight months ago, when we were having this Fintech
+week in Hong Kong, Leo and me, I think Du Yu and KK, a few others, we were sitting there,
+and Leo showed me this X post from Vitalik.
+That day, Vitalik, the speaker you're going to see in the next 20 minutes, he's the founder
+of Ethereum.
+Basically, he posted an X on that day.
+If I remember correctly, he says, I really believe the open, verifiable, and autonomous
+will be the key requirement to build a genuine machine economy.
+So that's when we, I felt very excited by his statement, because he was saying exactly
+what we wanted to do, because we, as a traditional smart machine company, we have a lot of application
+scenarios, and if we can work with the blockchain companies, the Web3 companies, we can transform
+the traditional application scenarios into open, autonomous, and verifiable, and foundation
+for the machine economy.
+So for me, that's why we decided, after a week, we decided to invest in Akron.
+When I was interviewed by one of his co-founders, he said, as a NASDAQ company, why are you
+invested in this blockchain company?
+I said, look, we believe this is the future, because we treat this investment not only
+as an investment, but like a token for the future, and almost for me, it's like a tuition
+fee to learn from you guys.
+So that's how we see this.
+Thanks, Ben.
+So what's your opinion?
+Sure.
+In terms of the challenges, I guess this is what I see is, basically, if you really want
+to enable edge devices to be able to have sufficient compute power, also not too much
+of latency, to be able to do a lot of the cryptographic operations, I think there's
+we're still getting there, and I think we need to continue to invest in this open source
+space to help invent and improve technology that can actually does that.
+I think that's one of the challenges I still see, but I think once we get over that with
+the improvements in technology, I think the opportunities is huge.
+With respect to being able to tie a lot of the assets, off-chain assets, to be able to
+execute offline and then tie it back on-chain in terms of the settlement, et cetera, I think
+that's very exciting.
+Imagine a world where we have the assets be able to self-monetize some of their idle resource
+and also compute storage, et cetera, to be able to really utilize that, and at the end
+of the day, if they're able to do that, they can actually self-pay the hardware and get
+over that initial hurdle, and then you'd be able to go into a very good positive loop
+in that.
+I do think it's a great opportunity ahead while we are trying to figure out some of
+the initial challenges.
+Thank you.
+I think they really need this kind of infrastructure from the vendor to create the chip-cell layer
+for the whole crypto, the web-street, the industry.
+So how about Dijika?
+I think the biggest opportunity is that blockchain can isolate devices into networks that can
+share rules, identities, and such like we have lots of rings.
+We have an iWatch.
+We have iPhones.
+They are very smart, but it's a standstill intelligence.
+In the future, when we build a smart device, we not build a single device smarter.
+It's helping the whole network work better around identity, trust records, permission,
+and insafes.
+But the biggest challenge is also clear.
+The physical world is a real-time where blockchains have latency and costs.
+Many decisions must happen locally, especially in robots, cars, and wearables.
+So I do not think that every action will go on-chain, but a better model is that the devices
+handle real-time sensing and collect data and do the cost.
+With user permission, they also contribute to sensing, memory, or compute, and receive
+transparent record.
+Because I work on the intelligence imaging and AI devices, I believe that the next generation
+of the hardware will not be defined only the better spats or bigger models.
+It will define who can truly connect to the hardware.
+AI and services that run over time.
+And when the Ethereum and Wear 3 can help make this happen, I want the most of the concept
+but a practical system that the device should not only sense and act, but each device, just
+like the host, it owns the Wear 3 ID and the wallet.
+To exchange the data, also collaborate and share value in the open network.
+Great.
+Great.
+You mentioned the very key part, the coordination, by the blockchain, by Wear 3.
+So how about Kelly?
+We have limited time, so yeah, please, I'll start with you.
+In our energy industry, we can buy so many things like PV, intelligent controllers, and
+energy storage, put our stations together.
+Of course, in this kind of interrogation, we will meet huge challenges and opportunities.
+About challenges, most IoT and hardware has low power and limited computing, which causing
+latency and high fees.
+And second is hardware security and on-chain data privacy and decentralization brings
+data risks.
+And the last one is unclear regulations and grid barrier and on-chain cooperation models
+will block commercial closed loop.
+And about opportunities, data ascentization connects energy, carbon assets, and finance
+together with carbon revenue and inclusive finance.
+We will balance the affordability and the long-term instantiability.
+That's all.
+Thanks, Kelly.
+So since we are almost out of time, so let's ramp up with some takeaway.
+So yeah, I think the first takeaway is converging the hardware and the blockchain is not just
+the idea or the concept.
+Yeah, we already see so many cool use cases.
+And yeah, it's becoming the real design space.
+From the robot car, the AI robotics, the open source chipset, camera, the energy devices
+to serve the real community.
+And the second takeaway is moving from the device to the autonomous system.
+It's not the software or the hardware challenge, it's the coordination challenge.
+So that is the way the Ethereum or the Web3 blockchain can play a very meaningful role.
+It's not to put everything on-chain, but you need to by enabling the device with the identity,
+the trust, the verification, coordination, and also the interoperability.
+And the last takeaway, I think maybe a deep message from today's panel is if we see the
+Ethereum was the first about the coordination, the asset, the finance, the capital, and the
+smart contract.
+And next, the chapter may come to coordinate the machine, the device, the aging, the real-world
+infrastructure in the coming machine economy.
+So thanks to all the panelists for giving us those very valuable insights and sharing.
+And thanks to all to join this panel.
+Thank you.
+Please take a photo before you leave the stage.
+Thank you everyone for sharing.
+While we get the stage set up for our last session, a quick note for those who may just
+have joined us.
+This gathering is hosted by Ethereum Application Guild, or EAG, a global non-profit collaborative
+organization dedicated to advancing the innovation, adoption, and real-world impact of Ethereum
+native applications.
+We have now reached our final chapter.
+What's next?
+The future of Ethereum applications.
+Please welcome Dr. Xiaofeng and Vitalik Buterin to the stage as they look ahead to the next
+stage of Ethereum, moving towards real-world deployment and adaptation.
+Now we have reached the final chapter of today's conference.
+Please welcome Dr. Xiaofeng and Vitalik Buterin to the stage as they look ahead to the next
+stage of Ethereum, moving towards real-world deployment and adaptation.
+Please welcome.
+Let's give them a round of applause.
+Dear friends, welcome to the second session of Vitalik Buterin's talk show.
+Last year, we also held a talk show.
+So, Vitalik, would you like to say hello to everyone?
+What should I say?
+Hello everyone.
+Hello.
+Everyone is very good.
+Everyone is always good.
+Actually, before this, before we came on stage, there was a discussion about a combination
+of intelligent hardware and blockchain.
+I also know that in recent weeks, Vitalik has seen a lot of companies and chips.
+Some companies and entrepreneurs related to chip and intelligent hardware manufacturing.
+I am also very curious.
+I heard this news.
+I am also very curious.
+Why are you suddenly interested in these intelligent hardware and chips at this moment?
+Why are you interested in these things?
+What kind of interactions do you think there will be with Ethereum?
+I would like to invite you to talk about this topic first.
+Okay.
+We have recently started to discuss a lot of topics.
+We say that it is a full stack open source security.
+Full stack is an application of every layer, including the application layer.
+If it is a website, then the blockchain is also a layer.
+The operating system is also a layer.
+The hardware is also a layer.
+There are many different layers.
+If any layer is not safe, then the whole system is not safe.
+We have been saying that we should do something safe.
+We don't need to be centralized.
+But if we really want to do this, then we need to care about each layer.
+You can think about it.
+I saw a lot of people saying that they are the owners of Ethereum.
+If you have Ethereum, then how do you ensure the security of Ethereum?
+First, you have your wallet.
+Second, you have your computer's operating system.
+Third, if you use hardware, then how can you be sure that your hardware is safe?
+There are many applications that have been discussing this topic for the past two years.
+Everyone wants to use blockchain platforms to do more things in the real world.
+This also depends on hardware.
+The hardware layer is important no matter what we do.
+It is not only about the security of Ethereum L1.
+In the second layer of Ethereum, some hardware needs to be accelerated for some calculations.
+After all, the acceleration of hardware is one of the methods to solve the performance problem.
+Maybe today, when blockchain Ethereum is a infrastructure,
+it needs to support more applications.
+It may also need to use some hardware to keep it safe or provide better efficiency and performance.
+This is the topic we want to talk about.
+Next, I noticed that you have been discussing this topic for a long time,
+but I think it is a very important topic.
+We know that blockchain Ethereum has a very high threshold for ordinary users.
+Not only the wallet, but also the smart contract.
+Not everyone has the ability to write a perfect smart contract.
+You have also mentioned the simplification of Ethereum.
+Simplification is a fact.
+My understanding is to reduce the threshold of Ethereum application
+so that more people can use Ethereum conveniently.
+This reminds me that we started from the computer.
+The original operating system of the computer is the command line.
+Before Bill Gates, Bill Gates used the DAO operating system.
+The DAO operating system is a command line.
+If the operating system is still the command line,
+I believe that 90% of the current computer users cannot use the computer.
+It is extremely difficult to learn.
+Later, the browser appeared.
+After the browser, there was the Windows graphics operating system.
+As the threshold of the computer became lower and simpler,
+the operating process of the computer became simpler,
+more and more people could use the computer.
+The biggest simplification came from the mobile Internet.
+Then the App appeared.
+We know that WeChat is a very complex system,
+but it is sealed into an App.
+You only need to use one finger to operate WeChat.
+That is to say, you can operate a certain function or program of the computer.
+Therefore, from this perspective,
+we are very much looking forward to Ethereum being simplified more and more.
+Simplification, automation, or intelligentization.
+We want to make it easier for more people to use Ethereum with just one finger.
+Of course, we are very much looking forward to this.
+I would also like to hear from you.
+Can you tell us about what you have mentioned
+or what you are thinking of simplifying Ethereum?
+What is its journey and final goal?
+I think the word simplification has two meanings.
+The first meaning is the iPhone simplification.
+You can see that you have a mobile phone.
+It looks very simple to the user.
+You can press a button and know what it will do.
+But behind the screen, there is a very complicated system.
+This is the first meaning.
+The second meaning is to simplify the very complicated system.
+Both are important.
+Why is the second meaning important?
+The second meaning is important
+because if a system is too complicated,
+it means that there are very few people who can participate.
+There are very few people who can participate.
+For example, the process of core development.
+You can say that a system is theoretically a trustluster.
+It doesn't need to trust people.
+But if there is a very, very complicated system in the core of this system,
+there are only 200 or 50 people who know how to do it.
+All people in the world still need to believe in those 50 people.
+So a system that is too complicated cannot be a trustluster.
+So this is one thing.
+Another thing is the future of user experience.
+I think the Minglin Bank and the current GUI have a lot of differences.
+One difference is that the different users of the GUI are more useful.
+But the Minglin Bank also has its own advantages.
+For example, a very important advantage is
+that 50 years ago, at the beginning of the Minglin Bank,
+there was a philosophy called Unix philosophy.
+Unix philosophy has a lot of parts.
+But one of its parts is that
+we should do a lot of simple things.
+One operation of a user may use a lot of different systems at the same time.
+It is possible that the input of a user will be input to the first system.
+The output of the first system will become the input of the second system.
+The output of the second system will become the input of the third system.
+That is the concept of the pipe.
+This concept has an advantage.
+In the era of GUI,
+there are a lot of people who criticize or are not satisfied.
+Some people will say that a number is a nonsense or a feudalism.
+The natural result of a GUI is that
+you have a UI that is controlled by a company.
+You live in a small universe of a company.
+Your digital life is controlled by a company.
+Unix philosophy is completely opposite.
+There are many different cities.
+Each city is made by a different company.
+They can operate each other through the Minglin Bank.
+This is the third step.
+This is AI.
+Actually, we have started to pay more attention to AI in the Taiwan summit.
+Last year, we opened the Kohaku team.
+They are a team that makes money.
+Last month, the first version of the Kohaku came out at the FCC.
+They have said that
+they are going to release a version of Zhu Wang.
+But after the Zhu Wang version,
+we all think that the concept of the current wallet
+may disappear in two years.
+The future is AI.
+So we need to start thinking about AI wallet.
+We need to start thinking about how to make AI wallet safe.
+So we are thinking about the AI user interface more.
+We found that AI is actually a Minglin Bank.
+AI is you talking to a computer.
+Using natural language.
+Yes.
+It is a Minglin Bank that uses natural language.
+So in fact, the third generation can say that
+it also has the advantages of the second generation.
+It has the advantages of the Minglin Bank.
+We can have a lot of different people,
+different companies, small cities.
+They can operate each other through the Minglin Bank.
+But the user experience of this system will also be very good.
+So in fact, if we do it well,
+we can combine the advantages of the Minglin Bank
+and the advantages of the GUI.
+So if we do it well,
+the results may be particularly good.
+But we need to do it well.
+Yes.
+The operation of the Minglin Bank
+can face a lot of developers,
+a lot of computer programs.
+But the APP is integrated into this APP by one company.
+So from a consumer benefit perspective,
+of course,
+a lot of developers and a lot of programs
+can be easily used by a consumer.
+This is the biggest benefit of a consumer.
+If you can't do this,
+you have to simplify it and let everyone use it.
+Then it becomes an APP.
+There are actually a lot of other developers behind this APP.
+But it is integrated into a platform.
+So now,
+AI is coming.
+When AI comes,
+there may be a reverse phenomenon
+that goes back to the Minglin Bank
+to operate a computer.
+Of course, the Minglin Bank at that time
+was not the Minglin Bank we used to learn.
+Instead, it uses natural language.
+When you say it,
+the computer will move the data behind it.
+This is the biggest benefit of the Minglin Bank.
+It can be said that
+when you say it,
+the computer will move the data behind it
+to help you accomplish your goal,
+to achieve your goal.
+Obviously, I am looking forward to
+to doing something like this
+with the help of AI.
+I would also like to say.
+When we spoke about lapping at antioxidants,
+Actually, I remember that in 2016,
+when DevCon was held in Shanghai at the World Development Conference in Itaewon,
+we had already started to discuss tools and technical means
+such as simplification, such as the writing of smart contracts.
+I remember that two different technical development teams
+discussed formal verification in 2016.
+Formal verification means using formal verification
+to verify all the applications on Itaewon,
+including various smart contracts,
+to find its bugs,
+to make it a very perfect smart contract.
+Now AI is coming again.
+With AI and formal verification,
+is it possible for any individual,
+even if he has no programming ability,
+he is not a computer engineer,
+he can also build his own smart contract
+for his own purpose, for his own needs.
+This smart contract will indeed not have any bugs,
+it will not be found by hackers,
+and it can run very well.
+This is the premise.
+Or, from another angle,
+formal verification.
+We started to discuss formal verification 10 years ago.
+To date, if we add AI,
+is it possible for those who have computer programming abilities
+or those who do not have computer programming abilities
+to write their own smart contracts
+and run them on Itaewon?
+Yes.
+Formal verification is very important now.
+In fact, writing this smart contract
+is a very important part.
+We may have talked a lot about it in 2016,
+because the attack on Dao took place in 2016,
+so everyone has just realized
+the importance of the smart contract security issue.
+But this year, the quad mythos came out.
+Many people were very surprised by this,
+and even very afraid.
+According to my current understanding,
+the quad mythos is indeed stronger than the previous AI,
+but as everyone said, it also has some flaws.
+But we can't just look at the current quad mythos.
+We need to look at the trend.
+The trend is that the quad mythos is much better than the AI of a year ago.
+The AI of next year will be much better than the quad mythos.
+The AI of 2029,
+which is looking for various activities,
+may be very scary.
+So now I think the only way is
+that we need to use AI plus formal verification
+plus more methods.
+There are some really safe codes.
+There are no very serious codes of activity.
+Now, because of the AI,
+it is almost possible now.
+Then, because of the AI's ability to look for various activities,
+it is necessary to do this.
+So now we are at Lean Ethereum,
+which is a team in the next version of Ethereum.
+They are now working on the next version of Ethereum's POS.
+They have many goals,
+The first goal is faster.
+The final time is 16 minutes.
+Maybe 16 seconds, maybe 8 seconds, maybe less.
+The second goal is faster.
+Since last year,
+all the things we are thinking about and developing now,
+we all say that it is necessary to measure.
+The third goal is more centralized and safer.
+So they have many needs.
+One of the things they are doing now
+is that they are using the Lean Consensus,
+which is the next version of the POS,
+to prove that they are safe.
+This includes the signature of the two sides,
+including the signature of the two sides,
+including the recursive stark.
+So this includes a lot of complicated things.
+Maybe two years ago,
+everyone thought that it would be impossible
+to prove such a complicated thing in a computerized way.
+It may never be possible.
+But now, because of the rapid development of AI,
+these things are more likely.
+So AI is now an important part of our L1 core development.
+It is also very important to write the L1 core.
+Recently, the time for recursive stark is getting more and more serious.
+In fact, in the last two years,
+the L1 core on the face is still good.
+Recently, more problems are in the UI core.
+Yes, it is on the bottom of the chain.
+AI can also help.
+If we have AI,
+you can search for the last year's safe tool.
+The safe tool is an unexpected tool.
+If you use safe through local AI,
+it will never happen.
+So if you do it right,
+AI can also help.
+Because it can replace the third-party UI,
+it can also help with security.
+But AI also has its own security issues.
+So this is also what we are thinking about.
+In the last year,
+Viper is the second language that can only be created.
+Solidity is the first, Viper is the second.
+They have announced that they are now supporting the implementation.
+It is possible that their capabilities will become better and better.
+Solidity will also become better.
+So, yes, it will become more serious.
+This tool is not perfect.
+It cannot solve all the problems immediately.
+But its capabilities and its ability to add AI are indeed very powerful.
+We were talking about formal verification.
+How to make it possible for everyone to write their own reliable smart contracts.
+You mentioned two topics that I want to discuss with you.
+One is quantum computing and anti-quantum computing.
+Of course, this is a paper published by Google.
+Some people comment that Google's paper
+has more risks than Bitcoin.
+Instead, it is the signature algorithm of Ethereum.
+How do you look at this?
+I have also asked some cryptologists.
+Of course, the cryptologists gave me the opinion that
+it is very difficult to solve quantum computing,
+especially with Bitcoin.
+Quantum computing itself is a very difficult thing.
+It is also very difficult to solve this kind of algorithm.
+At the same time, it is very difficult to solve quantum computing.
+The algorithm for anti-quantum computing is also developing very fast.
+In fact, seven or eight years ago,
+I visited some very famous cryptologists in China.
+They have a lot of money to study the encryption algorithm for anti-quantum computing.
+Quantum computing is not only decrypted for crypto or blockchain.
+The global encryption algorithm is facing such a threat.
+Therefore, many countries have invested a lot of money
+to develop the encryption algorithm for anti-quantum computing.
+For example, eight years ago, I received a concept called revolution code.
+At that time, I had the impression that
+the model is high, the value is high, and the model is high, and the value is high.
+This is a process of balance between each other.
+It is not a phenomenon that occurs while falling.
+How do you understand the encryption algorithm for anti-quantum computing?
+Because we have already discussed a lot about quantum computing.
+There may be a threat to Ethereum, to Bitcoin, and other different algorithms.
+But I think we have discussed less about the encryption algorithm for anti-quantum computing.
+How far has the development of this side gone?
+Of course, let me add something.
+I have asked a cryptologist who is very creative so far.
+What if there is a situation like this?
+For example, there are many accounts on Bitcoin that may not be able to sign up.
+First of all, it is difficult to change the encryption algorithm.
+In the process of changing the encryption algorithm,
+some people do not respond in time,
+do not update their wallet.
+What should we do?
+It will also cause a huge loss and impact to the system,
+and even make the whole system unbelievable.
+What if this happens?
+In fact, it is easy to do.
+You can add another layer of encryption on the existing encryption algorithm.
+Add another layer of anti-quantum encryption algorithm.
+Of course, this will affect the performance and a lot of experience.
+But then it will take time.
+Even if it takes three years, it can be done again.
+Of course, this is the most difficult solution.
+I would like to ask you to discuss the issue of anti-quantum encryption algorithm again.
+In fact, anti-quantum encryption algorithm is a more mature topic.
+We have known for more than 20 years that there are two types of anti-quantum encryption algorithms.
+The first is Jiu-Haxi.
+Jiu-Haxi includes a lot of Jiu-Haxi signature algorithms.
+The second type is Stark.
+The anti-quantum encryption algorithm is also Jiu-Haxi.
+The second type is Jiu-Haxi.
+Jiu-Haxi is a type of algorithm that can not be solved by quantum computing.
+Nowadays, a lot of people will use lattice-based cryptography.
+Lattice-based cryptography, all FHEs are also Jiu-Lattice.
+So there are probably two types.
+Jiu-Haxi's signature is okay.
+Jiu-Lattice's signature is okay.
+But the public key, Jiu-Lattice's signature is not okay.
+Maybe 40 years ago, some scientists proved that Jiu-Haxi is not okay.
+So any Jiu-Lattice's signature, including FHE,
+needs some other technologies.
+Lattice-based.
+In L1, our current idea is that we want to push Jiu-Haxi more purely.
+Why?
+Because we don't just want to create a two-sided chain.
+We also want to create a chain against AI.
+If we have this possibility,
+AI will make all those GME algorithms better.
+Including RSAs and lattice-based algorithms.
+If there is only one cryptography that can face AI,
+it must be Jiu-Haxi.
+Why?
+Because Jiu-Haxi is something that has absolutely no mathematical structure.
+Jiu-Haxi's solution can be said to be a random tree.
+The cryptography scientists will say that Jiu-Haxi is a random oracle.
+It cannot distinguish between a Jiu-Haxi tree.
+Is it Jiu-Haxi or a computer tree?
+If there is only one safe thing, it is Jiu-Haxi.
+So we hope that in L1, if we can do everything Jiu-Haxi,
+we can do everything Jiu-Haxi.
+Jiu-Haxi includes Jiu-Haxi.
+But there is a drawback in those algorithms.
+The drawback of Jiu-Haxi is that
+the signatures of the current Ethereum are all based on the elliptic curve.
+A signature based on the elliptic curve is 65 bytes.
+A Jiu-Haxi is more than 2,000 bytes.
+2 KB.
+In fact, the lattice-based ones are about 0.6 or 3 kilobytes each.
+So they are also bigger.
+Then there is a ZK-Synarch.
+Now it may be 500 megabytes.
+But a Stark is at least 300 KB more.
+So we have to face some flow issues.
+We know how to face these flow issues.
+We have a way called aggregation.
+Aggregation means that if there is a block
+that needs to include a lot of signatures,
+that needs to include a lot of signatures,
+then a Jiu-Haxi node can make its own signature,
+a 300 KB signature.
+This signature is a Stark.
+It can prove all the other signatures and signatures.
+So no matter how many transactions,
+no matter how complicated the transactions are,
+it doesn't need to include all the signatures in the block.
+It only needs to include a 300 KB Stark.

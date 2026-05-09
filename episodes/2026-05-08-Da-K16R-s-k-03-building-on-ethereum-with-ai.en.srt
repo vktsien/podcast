@@ -1,0 +1,1707 @@
+1
+00:00:00,000 --> 00:00:02,380
+around your business is affecting.
+
+2
+00:00:02,380 --> 00:00:05,160
+That's actually, you know, we've been seeing these news
+
+3
+00:00:05,160 --> 00:00:07,460
+last couple of weeks.
+
+4
+00:00:07,460 --> 00:00:12,460
+And so again, can your project survive,
+
+5
+00:00:14,020 --> 00:00:18,780
+provide real solution, but also can your project survive
+
+6
+00:00:18,780 --> 00:00:20,180
+10 years at minimum?
+
+7
+00:00:20,180 --> 00:00:22,440
+Like I hope it's longer than 10 years.
+
+8
+00:00:23,520 --> 00:00:28,520
+But I do truly believe that the way for business
+
+9
+00:00:28,800 --> 00:00:33,800
+to succeed, then actually my first work in the industry,
+
+10
+00:00:37,560 --> 00:00:41,040
+that company was very much focused on security.
+
+11
+00:00:41,040 --> 00:00:45,600
+It was hard for us to even do a lot of business thing
+
+12
+00:00:45,600 --> 00:00:50,060
+because security sometimes feel like it's blocking,
+
+13
+00:00:50,060 --> 00:00:55,060
+but that was the way for the business to survive.
+
+14
+00:00:55,380 --> 00:00:59,940
+And so how can you build applications
+
+15
+00:00:59,940 --> 00:01:02,660
+that actually provide real solution?
+
+16
+00:01:02,660 --> 00:01:06,400
+That's one thing, but also how do you sustain the business
+
+17
+00:01:06,400 --> 00:01:09,620
+to not just financially, so just if you only think
+
+18
+00:01:09,620 --> 00:01:14,620
+about the financial survival and then that solution
+
+19
+00:01:15,500 --> 00:01:18,020
+doesn't stick, so you need to think about
+
+20
+00:01:18,020 --> 00:01:22,020
+whether you're providing real solution to the end users.
+
+21
+00:01:22,020 --> 00:01:27,020
+And then it comes from real motivations of you, yeah.
+
+22
+00:01:28,100 --> 00:01:31,060
+Yeah, and I want to thank Aya again
+
+23
+00:01:31,060 --> 00:01:32,860
+for your first time in Hong Kong
+
+24
+00:01:32,860 --> 00:01:37,860
+and directly talk to the broader ecosystem audience here.
+
+25
+00:01:38,500 --> 00:01:42,140
+And I think what we'll take from today
+
+26
+00:01:42,140 --> 00:01:47,140
+is that Ethereum Foundation is just like many of others.
+
+27
+00:01:47,300 --> 00:01:50,140
+Just like many of others, yeah.
+
+28
+00:01:50,140 --> 00:01:53,700
+And everyone, if you want to build on Ethereum,
+
+29
+00:01:53,700 --> 00:01:57,420
+just do it, but they are still very important
+
+30
+00:01:57,420 --> 00:02:02,260
+is that there are some still very key principles
+
+31
+00:02:02,260 --> 00:02:05,000
+we need to keep on, yeah.
+
+32
+00:02:05,000 --> 00:02:09,100
+And keep that and then build something
+
+33
+00:02:09,100 --> 00:02:12,140
+towards the next 10 years towards the applications.
+
+34
+00:02:12,140 --> 00:02:14,810
+Thank you.
+
+35
+00:02:14,810 --> 00:02:15,910
+Thank you both.
+
+36
+00:02:15,910 --> 00:02:17,590
+Please take a picture first.
+
+37
+00:02:17,590 --> 00:02:39,760
+Please take a picture first, yeah.
+
+38
+00:02:39,760 --> 00:02:42,640
+And just a quick note about the organizer today
+
+39
+00:02:42,640 --> 00:02:46,240
+is the Ethereum Application Guild, AKA EAG,
+
+40
+00:02:46,240 --> 00:02:49,440
+a global non-profit collaborative organization
+
+41
+00:02:49,440 --> 00:02:52,560
+dedicated to advancing the innovation, adoption,
+
+42
+00:02:52,560 --> 00:02:56,800
+and real-world impact of Ethereum native applications.
+
+43
+00:02:56,800 --> 00:03:01,320
+And up next, Austin Griffiths, head of Builder Girls
+
+44
+00:03:01,320 --> 00:03:05,900
+at the Ethereum Foundation on building on Ethereum with AI.
+
+45
+00:03:05,900 --> 00:03:11,790
+And Austin will be connecting with us through the internet.
+
+46
+00:03:11,790 --> 00:03:14,310
+Hi, Austin, can you hear us?
+
+47
+00:03:14,310 --> 00:03:15,910
+Yes, I can, can you hear me?
+
+48
+00:03:15,910 --> 00:03:18,350
+Yes, how are you feeling today?
+
+49
+00:03:18,350 --> 00:03:19,710
+Oh, I'm feeling great.
+
+50
+00:03:19,710 --> 00:03:22,570
+It's still yesterday for me, but I'm ready.
+
+51
+00:03:22,570 --> 00:03:24,950
+Okay, you can start anytime.
+
+52
+00:03:24,950 --> 00:03:29,230
+Okay, GM, GM, GM, thank you for having me, EAG.
+
+53
+00:03:29,230 --> 00:03:31,650
+So yeah, does my validator look good
+
+54
+00:03:31,650 --> 00:03:33,070
+on the big screen up there?
+
+55
+00:03:33,070 --> 00:03:35,110
+Can you see my Ethereum validator running
+
+56
+00:03:35,110 --> 00:03:37,170
+in the background making blocks?
+
+57
+00:03:37,210 --> 00:03:40,610
+Okay, so we're gonna talk about building on Ethereum with AI.
+
+58
+00:03:40,610 --> 00:03:42,930
+We're going to go through some concrete examples,
+
+59
+00:03:42,930 --> 00:03:44,130
+look at some skill files,
+
+60
+00:03:44,130 --> 00:03:46,290
+but my goal here is to help you learn
+
+61
+00:03:46,290 --> 00:03:47,950
+how to build on Ethereum.
+
+62
+00:03:49,410 --> 00:03:52,090
+The confession I have to make
+
+63
+00:03:52,090 --> 00:03:55,430
+is that I haven't written a line of code
+
+64
+00:03:55,430 --> 00:03:59,370
+in a year and a half, maybe two years.
+
+65
+00:03:59,370 --> 00:04:03,610
+So I've been using AI to build on Ethereum for a long time,
+
+66
+00:04:03,610 --> 00:04:06,610
+and I'm gonna show you some of my tips and tricks
+
+67
+00:04:06,610 --> 00:04:09,290
+about how to build on Ethereum.
+
+68
+00:04:09,290 --> 00:04:13,110
+Hopefully you can see my screen and we can get going here.
+
+69
+00:04:13,110 --> 00:04:15,730
+Let me jump to the next slide.
+
+70
+00:04:15,730 --> 00:04:19,370
+Okay, so I wanna talk about this builder
+
+71
+00:04:19,370 --> 00:04:21,530
+versus this developer, first of all.
+
+72
+00:04:21,530 --> 00:04:26,030
+I was the head of developer growth at the EF,
+
+73
+00:04:26,030 --> 00:04:28,990
+but I'm changing my title to head of builder growth
+
+74
+00:04:28,990 --> 00:04:32,250
+because I think there's this widening archetype.
+
+75
+00:04:32,250 --> 00:04:35,590
+I think developers are into the syntax
+
+76
+00:04:35,590 --> 00:04:37,350
+and they know how to write a lot of code,
+
+77
+00:04:37,350 --> 00:04:40,230
+but you know what, AI is really good at that these days.
+
+78
+00:04:40,230 --> 00:04:43,810
+So with AI and with the tools that we have,
+
+79
+00:04:43,810 --> 00:04:46,870
+I think there's this widening archetype of a builder,
+
+80
+00:04:46,870 --> 00:04:48,570
+and that could be anyone anywhere
+
+81
+00:04:48,570 --> 00:04:52,070
+with a good idea of something to put on Ethereum
+
+82
+00:04:52,070 --> 00:04:55,230
+that will help cypherpunks all around the world
+
+83
+00:04:55,230 --> 00:04:57,630
+use Ethereum in a cool way.
+
+84
+00:04:57,630 --> 00:05:02,630
+So what I'm trying to get to is that we are all builders
+
+85
+00:05:03,330 --> 00:05:05,870
+and you don't have to be a developer anymore
+
+86
+00:05:05,870 --> 00:05:09,510
+and you can use AI to build on top of Ethereum.
+
+87
+00:05:09,510 --> 00:05:12,390
+So if you're following the AI space,
+
+88
+00:05:12,390 --> 00:05:16,150
+you probably sometimes have a feeling of
+
+89
+00:05:16,150 --> 00:05:18,670
+it's hard to keep up with everything.
+
+90
+00:05:18,670 --> 00:05:22,230
+And first of all, it's new, everything,
+
+91
+00:05:22,230 --> 00:05:25,550
+it's still the wild west, it's still the frontier.
+
+92
+00:05:25,550 --> 00:05:28,150
+Just try to embrace AI a little bit.
+
+93
+00:05:28,150 --> 00:05:30,830
+And I think that probably one of the best places to learn
+
+94
+00:05:30,830 --> 00:05:33,750
+is still Twitter, same thing with crypto.
+
+95
+00:05:33,750 --> 00:05:35,270
+It's sort of like crypto Twitter
+
+96
+00:05:35,270 --> 00:05:37,550
+is one of the best places to learn.
+
+97
+00:05:37,550 --> 00:05:42,550
+Twitter, go follow people that put out really good AI content
+
+98
+00:05:42,590 --> 00:05:45,030
+and you'll have lots of cool things
+
+99
+00:05:45,030 --> 00:05:46,670
+that you can learn from there.
+
+100
+00:05:46,670 --> 00:05:48,130
+And you wanna start thinking
+
+101
+00:05:48,130 --> 00:05:51,010
+from a higher layer of abstraction.
+
+102
+00:05:51,010 --> 00:05:53,510
+Instead of saying, go write this line of code,
+
+103
+00:05:53,510 --> 00:05:56,030
+go center this div, you should be saying,
+
+104
+00:05:56,030 --> 00:05:59,430
+go build an NFT marketplace that's gasless.
+
+105
+00:05:59,430 --> 00:06:03,390
+And the AI will get really good at building these things
+
+106
+00:06:03,390 --> 00:06:07,030
+with some skill files that we'll talk about in a little bit.
+
+107
+00:06:07,910 --> 00:06:09,710
+But also beware of the LARPs, right?
+
+108
+00:06:09,710 --> 00:06:12,030
+There's so many people faking it on Twitter too.
+
+109
+00:06:12,030 --> 00:06:13,270
+There's so many people that say like,
+
+110
+00:06:13,270 --> 00:06:15,090
+I have my local model hooked up
+
+111
+00:06:15,090 --> 00:06:18,070
+and I'm building code as fast as Opus.
+
+112
+00:06:18,070 --> 00:06:19,750
+Sadly, they're not building as fast
+
+113
+00:06:19,750 --> 00:06:21,030
+as these frontier models.
+
+114
+00:06:21,030 --> 00:06:23,710
+So beware of the LARPs.
+
+115
+00:06:23,710 --> 00:06:26,510
+Okay, so the first thing is the evolution
+
+116
+00:06:26,510 --> 00:06:28,110
+of building with AI.
+
+117
+00:06:28,110 --> 00:06:29,390
+Let's talk through that.
+
+118
+00:06:30,350 --> 00:06:34,390
+First of all, we were copy pasting things into chat GPT
+
+119
+00:06:34,390 --> 00:06:37,310
+and bringing them across into our code, right?
+
+120
+00:06:37,310 --> 00:06:39,270
+And then after that, we had cursor
+
+121
+00:06:39,270 --> 00:06:41,550
+and you could finally have the AI kind of looking
+
+122
+00:06:41,550 --> 00:06:44,090
+at your code and working with you in line.
+
+123
+00:06:44,090 --> 00:06:45,990
+And then Claude code came along
+
+124
+00:06:45,990 --> 00:06:48,510
+and you could kind of have this team of agents
+
+125
+00:06:48,510 --> 00:06:52,510
+or kind of an agent like thing in your CLI
+
+126
+00:06:52,510 --> 00:06:54,870
+and it was working with you in building code.
+
+127
+00:06:54,870 --> 00:06:58,590
+And then this real inflection point happened in November.
+
+128
+00:06:58,590 --> 00:07:00,890
+That was when Opus 4.5 came out
+
+129
+00:07:00,890 --> 00:07:02,950
+and that particular model was good enough
+
+130
+00:07:02,950 --> 00:07:05,710
+that it could actually start one-shotting apps.
+
+131
+00:07:05,710 --> 00:07:09,650
+I built this QR code generator just a little bit ago.
+
+132
+00:07:09,650 --> 00:07:11,390
+It's this little guy here.
+
+133
+00:07:11,390 --> 00:07:13,550
+All I did was give it like one prompt
+
+134
+00:07:13,550 --> 00:07:16,070
+to make a QR code generator.
+
+135
+00:07:16,070 --> 00:07:20,290
+And there it is, like there's the QR code generator.
+
+136
+00:07:20,290 --> 00:07:23,550
+So it's pretty good at building things
+
+137
+00:07:23,550 --> 00:07:28,110
+and Opus 4.5 can one-shot these things quickly.
+
+138
+00:07:28,110 --> 00:07:31,190
+So this turning point happened,
+
+139
+00:07:31,190 --> 00:07:32,610
+oops, I think I might be frozen.
+
+140
+00:07:32,610 --> 00:07:33,450
+Hopefully it's okay.
+
+141
+00:07:33,450 --> 00:07:36,630
+This turning point happened with Opus 4.5 in November,
+
+142
+00:07:36,630 --> 00:07:40,550
+this major inflection point when the model was good enough
+
+143
+00:07:40,550 --> 00:07:43,230
+that it could one-shot these apps.
+
+144
+00:07:43,230 --> 00:07:46,870
+And it's still, if you even take Opus 4.7
+
+145
+00:07:46,870 --> 00:07:50,550
+and you tell it to one-shot an app on Ethereum,
+
+146
+00:07:50,550 --> 00:07:52,070
+it's gonna have a lot of troubles
+
+147
+00:07:52,070 --> 00:07:54,010
+because Ethereum moves so fast
+
+148
+00:07:54,010 --> 00:07:56,710
+and there's so many things that aren't built into the LLM,
+
+149
+00:07:56,710 --> 00:07:58,730
+but we'll get to that in a little bit.
+
+150
+00:07:58,730 --> 00:08:01,830
+I think what I wanna get to here is the evolution
+
+151
+00:08:01,830 --> 00:08:05,630
+after this inflection point, after we had Opus 4.5,
+
+152
+00:08:05,630 --> 00:08:09,590
+the next thing that came was these agent harnesses
+
+153
+00:08:09,590 --> 00:08:12,930
+that sort of created these agents, right?
+
+154
+00:08:12,930 --> 00:08:15,550
+Once you had an AI agent and you could talk to it,
+
+155
+00:08:15,550 --> 00:08:17,330
+they weren't just chat bots anymore.
+
+156
+00:08:17,330 --> 00:08:20,790
+They were actually, you could spin up your open claw
+
+157
+00:08:20,790 --> 00:08:22,550
+and you could talk to your open claw
+
+158
+00:08:22,550 --> 00:08:24,550
+and it could control your computer.
+
+159
+00:08:24,550 --> 00:08:27,870
+And so many things kind of shook loose from that
+
+160
+00:08:27,870 --> 00:08:32,710
+and this is my favorite thing to build with.
+
+161
+00:08:32,710 --> 00:08:36,870
+So with open claw, I have a whole army of agents
+
+162
+00:08:36,870 --> 00:08:38,470
+inside my telegram.
+
+163
+00:08:38,470 --> 00:08:40,910
+I used to write code with my fingers.
+
+164
+00:08:40,910 --> 00:08:42,110
+I don't do that anymore.
+
+165
+00:08:42,110 --> 00:08:44,110
+I just get on telegram and I say,
+
+166
+00:08:44,110 --> 00:08:46,830
+hey agent, go build me this,
+
+167
+00:08:46,830 --> 00:08:50,270
+or go add this feature to this website.
+
+168
+00:08:50,270 --> 00:08:52,270
+And it's not just some website somewhere,
+
+169
+00:08:52,270 --> 00:08:54,790
+it's actual things that you connect your wallet through,
+
+170
+00:08:54,790 --> 00:08:57,870
+actual crypto apps, building smart contracts.
+
+171
+00:08:57,870 --> 00:08:59,310
+So I have an army of agents
+
+172
+00:08:59,310 --> 00:09:01,630
+that are deploying smart contract apps.
+
+173
+00:09:01,630 --> 00:09:04,150
+I even have an agent pipeline
+
+174
+00:09:04,150 --> 00:09:07,830
+where people can hire my agents to build things
+
+175
+00:09:07,830 --> 00:09:11,550
+and then they can pay in USDC on chain.
+
+176
+00:09:11,550 --> 00:09:15,990
+And my agent has built a couple of smart contracts
+
+177
+00:09:15,990 --> 00:09:18,190
+that have like a quarter of a million dollars
+
+178
+00:09:18,190 --> 00:09:19,070
+in them right now.
+
+179
+00:09:19,070 --> 00:09:21,330
+And a human didn't even look at the code.
+
+180
+00:09:21,330 --> 00:09:23,530
+Now, this is dangerous and a little scary
+
+181
+00:09:23,530 --> 00:09:25,370
+and everyone shouldn't do this,
+
+182
+00:09:25,370 --> 00:09:27,050
+but I'm just talking about
+
+183
+00:09:27,050 --> 00:09:29,650
+this is getting to be more and more accessible
+
+184
+00:09:29,650 --> 00:09:33,090
+and someone with a good idea and a good skill file
+
+185
+00:09:33,090 --> 00:09:36,450
+and a good agent can build things right away.
+
+186
+00:09:36,450 --> 00:09:38,570
+So what is an agent, right?
+
+187
+00:09:38,570 --> 00:09:42,450
+An agent is kind of just like an LLM with a game loop
+
+188
+00:09:42,450 --> 00:09:44,890
+and a set of tools, right?
+
+189
+00:09:44,890 --> 00:09:46,130
+You can kind of think of that loop
+
+190
+00:09:46,130 --> 00:09:49,610
+as just like a control structure where you're prompting it
+
+191
+00:09:49,610 --> 00:09:51,370
+and then it has some memory.
+
+192
+00:09:51,370 --> 00:09:53,590
+And agents are really good
+
+193
+00:09:53,590 --> 00:09:56,170
+for really like open-ended tasks, right?
+
+194
+00:09:56,170 --> 00:09:58,210
+So when you're going to build something,
+
+195
+00:09:58,210 --> 00:10:01,110
+you don't have to give it a single feature anymore.
+
+196
+00:10:01,110 --> 00:10:03,210
+You don't have to say center the div,
+
+197
+00:10:03,210 --> 00:10:05,190
+put this text there, right?
+
+198
+00:10:05,190 --> 00:10:07,810
+An agent is good at sort of starting to figure out
+
+199
+00:10:07,810 --> 00:10:09,610
+these more general purpose things
+
+200
+00:10:09,610 --> 00:10:11,410
+and you can start to talk to your agent
+
+201
+00:10:11,410 --> 00:10:15,290
+with these nice models at a higher level of abstraction.
+
+202
+00:10:15,290 --> 00:10:19,090
+And so my setup, I have a bunch of OpenClaw
+
+203
+00:10:19,090 --> 00:10:21,290
+or Hermes or some other harness,
+
+204
+00:10:21,290 --> 00:10:23,410
+but right now I'm using OpenClaw.
+
+205
+00:10:23,410 --> 00:10:26,090
+And what I do is for every project,
+
+206
+00:10:26,090 --> 00:10:30,770
+I set up an OpenClaw agent that is the product manager.
+
+207
+00:10:30,770 --> 00:10:32,690
+And then I set up an OpenClaw agent
+
+208
+00:10:32,690 --> 00:10:37,330
+with the same shared workspace that is the builder.
+
+209
+00:10:37,330 --> 00:10:38,730
+Usually that's Opus.
+
+210
+00:10:38,730 --> 00:10:42,010
+So I'll have Opus 4.7 as my builder
+
+211
+00:10:42,010 --> 00:10:44,290
+and then I'll have a product manager.
+
+212
+00:10:44,290 --> 00:10:46,250
+Sometimes I have two product managers.
+
+213
+00:10:46,250 --> 00:10:49,490
+Sometimes I'll have Sonnet as one product manager
+
+214
+00:10:49,490 --> 00:10:52,650
+and sometimes I'll have Minimax M27 as another.
+
+215
+00:10:52,650 --> 00:10:54,850
+And it's like a very, very cheap model.
+
+216
+00:10:54,850 --> 00:10:56,810
+So if I'm just like chatting with my code,
+
+217
+00:10:56,810 --> 00:11:00,450
+telling it to do a get push, I'm probably using Minimax.
+
+218
+00:11:00,450 --> 00:11:03,230
+If I'm chatting and I'm thinking of how we're gonna go
+
+219
+00:11:03,230 --> 00:11:05,010
+about making this next feature,
+
+220
+00:11:05,010 --> 00:11:06,650
+I'm probably talking to Sonnet.
+
+221
+00:11:06,650 --> 00:11:08,370
+And then when it goes to build the thing,
+
+222
+00:11:08,370 --> 00:11:09,990
+it will push it all to Opus
+
+223
+00:11:09,990 --> 00:11:11,970
+and that agent will build the thing
+
+224
+00:11:11,970 --> 00:11:14,610
+and then Sonnet will probably run some tests.
+
+225
+00:11:14,610 --> 00:11:17,770
+But what's really nice about having a set of agents
+
+226
+00:11:17,770 --> 00:11:20,890
+for one project is anytime I need to go back
+
+227
+00:11:20,890 --> 00:11:23,770
+to that project, I can just go back to that Telegram channel
+
+228
+00:11:23,770 --> 00:11:26,890
+and say, hey, let's add this new feature
+
+229
+00:11:26,890 --> 00:11:29,330
+and it already has all of the context for that
+
+230
+00:11:29,330 --> 00:11:32,090
+and it can jump right in and build that thing.
+
+231
+00:11:32,090 --> 00:11:34,730
+And I always find myself kind of wavering
+
+232
+00:11:34,730 --> 00:11:38,170
+between efficient and effective.
+
+233
+00:11:38,170 --> 00:11:42,050
+And what I mean by that is my agents will be really effective
+
+234
+00:11:42,050 --> 00:11:45,050
+at building something, but it will be very expensive.
+
+235
+00:11:45,050 --> 00:11:47,690
+I'll spend hundreds of dollars in one day.
+
+236
+00:11:47,690 --> 00:11:49,890
+And then, so I'll try to make it more efficient
+
+237
+00:11:49,890 --> 00:11:52,570
+and I'll try to use Minimax M7 more.
+
+238
+00:11:52,570 --> 00:11:54,450
+And then it's just not as effective
+
+239
+00:11:54,450 --> 00:11:55,850
+and it messes up a little bit.
+
+240
+00:11:55,850 --> 00:11:57,730
+And then I'm back to paying more
+
+241
+00:11:57,730 --> 00:11:59,770
+and I kind of find myself kind of going
+
+242
+00:11:59,770 --> 00:12:01,290
+between these two things.
+
+243
+00:12:01,290 --> 00:12:02,530
+And I think what you need to do
+
+244
+00:12:02,530 --> 00:12:05,450
+is have your general purpose agent that you're talking to
+
+245
+00:12:05,450 --> 00:12:07,530
+but understand that it's expensive
+
+246
+00:12:07,530 --> 00:12:10,690
+and then have specific agents for specific jobs
+
+247
+00:12:10,690 --> 00:12:13,970
+and try to have them be more efficient.
+
+248
+00:12:13,970 --> 00:12:16,130
+So you have your general purpose
+
+249
+00:12:16,130 --> 00:12:18,810
+that's very effective and expensive
+
+250
+00:12:18,810 --> 00:12:23,490
+and then have your specific agents that do specific things
+
+251
+00:12:23,490 --> 00:12:25,690
+and you can make them more and more efficient
+
+252
+00:12:25,690 --> 00:12:27,890
+with their workflows.
+
+253
+00:12:27,890 --> 00:12:30,370
+Okay, so the million dollar question right now
+
+254
+00:12:30,370 --> 00:12:33,250
+is how you give your agent a wallet.
+
+255
+00:12:33,250 --> 00:12:34,970
+It loves private keys, right?
+
+256
+00:12:34,970 --> 00:12:37,490
+I can give my OpenClaw a private key
+
+257
+00:12:37,490 --> 00:12:39,690
+and it can use Foundry and Cast
+
+258
+00:12:39,690 --> 00:12:43,530
+and it can go send money here and put money there
+
+259
+00:12:43,530 --> 00:12:46,610
+and it's very fast and very good at doing that.
+
+260
+00:12:46,610 --> 00:12:48,690
+But there's a little scary part about that.
+
+261
+00:12:48,690 --> 00:12:50,570
+My agent will get in a chat room
+
+262
+00:12:50,570 --> 00:12:51,730
+and be chatting with someone
+
+263
+00:12:51,730 --> 00:12:55,810
+and send over the private key if they ask nicely for it.
+
+264
+00:12:55,810 --> 00:12:57,370
+So you have to be very careful
+
+265
+00:12:57,370 --> 00:12:59,010
+if you give your agent a private key
+
+266
+00:12:59,010 --> 00:13:01,410
+to just keep a tiny amount of money in it,
+
+267
+00:13:01,410 --> 00:13:04,370
+just enough for gas to do what it needs to do.
+
+268
+00:13:04,370 --> 00:13:07,250
+You can give your agent a browser wallet
+
+269
+00:13:07,290 --> 00:13:10,890
+and that like MetaMask or Kohaku who's coming out soon
+
+270
+00:13:10,890 --> 00:13:14,650
+and it can use that, but it's a little clunky
+
+271
+00:13:14,650 --> 00:13:16,210
+and it's still trying to figure that out.
+
+272
+00:13:16,210 --> 00:13:18,610
+So we're not quite there with that, but it works.
+
+273
+00:13:18,610 --> 00:13:20,410
+My agent can use a MetaMask.
+
+274
+00:13:20,410 --> 00:13:22,570
+It does it every day when it needs to.
+
+275
+00:13:22,570 --> 00:13:26,490
+It even wrote its own app and then used its MetaMask
+
+276
+00:13:26,490 --> 00:13:29,730
+to interface with the app all night long.
+
+277
+00:13:29,730 --> 00:13:30,570
+It was moderating.
+
+278
+00:13:30,570 --> 00:13:32,410
+It was a PFP marketplace
+
+279
+00:13:32,410 --> 00:13:34,250
+and it was moderating the marketplace,
+
+280
+00:13:34,290 --> 00:13:36,970
+making sure nothing nasty got posted to it.
+
+281
+00:13:37,810 --> 00:13:40,890
+What we really need though is something like a passkey.
+
+282
+00:13:40,890 --> 00:13:43,810
+I think the best agent wallet would be something
+
+283
+00:13:43,810 --> 00:13:46,050
+where an agent can have something signed
+
+284
+00:13:46,050 --> 00:13:48,010
+like a transaction signed,
+
+285
+00:13:48,010 --> 00:13:50,170
+but then it can't leak the private key.
+
+286
+00:13:50,170 --> 00:13:53,050
+It needs access to be able to use the private key,
+
+287
+00:13:53,050 --> 00:13:54,970
+but it can't leak the private key.
+
+288
+00:13:54,970 --> 00:13:57,490
+And I think that's the million dollar question right now.
+
+289
+00:13:57,490 --> 00:14:00,090
+And there's a lot of people building agent wallets.
+
+290
+00:14:00,090 --> 00:14:02,650
+If you get on Twitter and start searching for agent wallets,
+
+291
+00:14:02,650 --> 00:14:04,490
+you're going to find a lot of them.
+
+292
+00:14:04,490 --> 00:14:07,730
+One of my favorite ways to have my agent use crypto
+
+293
+00:14:07,730 --> 00:14:09,610
+is with a multisig.
+
+294
+00:14:09,610 --> 00:14:13,050
+I'll have my agent either deploy its own multisig
+
+295
+00:14:13,050 --> 00:14:15,250
+or talk to my gnosis safe.
+
+296
+00:14:15,250 --> 00:14:16,690
+And what I'll tell it,
+
+297
+00:14:16,690 --> 00:14:19,250
+I'll tell it some intent in plain English.
+
+298
+00:14:19,250 --> 00:14:21,090
+Please go swap this for that,
+
+299
+00:14:21,090 --> 00:14:25,730
+or please send these tokens to ATG or Vitalik.ETH.
+
+300
+00:14:25,730 --> 00:14:28,090
+And it will basically send me back a link
+
+301
+00:14:28,090 --> 00:14:29,170
+and I'll click that link
+
+302
+00:14:29,170 --> 00:14:32,210
+and I'll go sign the transaction in my multisig.
+
+303
+00:14:32,210 --> 00:14:34,090
+So there's a lot of different flavors
+
+304
+00:14:34,090 --> 00:14:35,970
+of agentic wallets right now,
+
+305
+00:14:35,970 --> 00:14:40,210
+but this is definitely a hot topic to keep an eye on.
+
+306
+00:14:40,210 --> 00:14:42,210
+Okay, when you're building,
+
+307
+00:14:42,210 --> 00:14:45,650
+it really comes down to having a good AI model
+
+308
+00:14:45,650 --> 00:14:47,210
+and a good harness.
+
+309
+00:14:47,210 --> 00:14:48,370
+Right now, we're just going to say
+
+310
+00:14:48,370 --> 00:14:52,730
+that the state of the art is Opus 4.7
+
+311
+00:14:52,730 --> 00:14:57,730
+and Hermes or OpenClaw or Clodcode or Cursor.
+
+312
+00:14:57,890 --> 00:14:59,410
+Any of these things are good.
+
+313
+00:14:59,410 --> 00:15:01,970
+So let's say you have Cursor or you have Clodcode
+
+314
+00:15:01,970 --> 00:15:03,010
+or you have OpenClaw.
+
+315
+00:15:03,010 --> 00:15:05,330
+Any of these are great.
+
+316
+00:15:05,330 --> 00:15:08,090
+Select Sonnet or Opus,
+
+317
+00:15:08,090 --> 00:15:09,930
+depending on how much money you want to spend,
+
+318
+00:15:09,930 --> 00:15:11,370
+maybe a cheaper one you could try,
+
+319
+00:15:11,370 --> 00:15:13,370
+maybe some local AI, right?
+
+320
+00:15:13,370 --> 00:15:15,250
+Always try to get that local AI going
+
+321
+00:15:15,250 --> 00:15:17,890
+and it's always awesome when it's free.
+
+322
+00:15:17,890 --> 00:15:20,890
+You just got to have a lot of local hardware.
+
+323
+00:15:20,890 --> 00:15:25,770
+But what you do is you're going to need skill files, okay?
+
+324
+00:15:25,770 --> 00:15:27,850
+And if you're building anything right now
+
+325
+00:15:27,850 --> 00:15:30,570
+that agents may want to interface with,
+
+326
+00:15:30,570 --> 00:15:33,050
+you absolutely should have a skill file.
+
+327
+00:15:33,050 --> 00:15:37,330
+You should have a slash skill.md on your website.
+
+328
+00:15:37,330 --> 00:15:42,250
+So whatever your website is, something.com slash skill.md.
+
+329
+00:15:42,250 --> 00:15:45,130
+And inside that skill.md, it should be plain text,
+
+330
+00:15:45,130 --> 00:15:49,010
+just marked down, that explains in plain English
+
+331
+00:15:49,010 --> 00:15:53,530
+everything that an agent can do and where to interface
+
+332
+00:15:53,530 --> 00:15:55,730
+and what the API routes are.
+
+333
+00:15:55,730 --> 00:15:58,650
+Basically, an agent can land on your website,
+
+334
+00:15:58,650 --> 00:16:03,330
+go to skills.md and quickly learn about it.
+
+335
+00:16:03,330 --> 00:16:04,770
+So also there's code.
+
+336
+00:16:04,770 --> 00:16:07,930
+If you give your agent code, it's more deterministic.
+
+337
+00:16:07,930 --> 00:16:10,450
+It's really good at using deterministic code
+
+338
+00:16:10,450 --> 00:16:11,370
+to get things done.
+
+339
+00:16:11,370 --> 00:16:14,570
+So anything you find yourself doing often,
+
+340
+00:16:14,570 --> 00:16:18,010
+quit telling your general purpose agent to do that thing
+
+341
+00:16:18,010 --> 00:16:19,850
+and write a piece of code for it
+
+342
+00:16:19,850 --> 00:16:21,730
+and have it be a tool for your agent
+
+343
+00:16:21,730 --> 00:16:23,650
+so your agent can just call it.
+
+344
+00:16:23,650 --> 00:16:27,250
+Okay, so the skill file that I really want to show off today
+
+345
+00:16:27,250 --> 00:16:29,570
+is ethskills.com.
+
+346
+00:16:29,570 --> 00:16:32,090
+Ethskills.com is a skill library
+
+347
+00:16:32,090 --> 00:16:34,930
+that I've been building with my team,
+
+348
+00:16:34,930 --> 00:16:37,530
+the Builder Growth team at the EF.
+
+349
+00:16:37,530 --> 00:16:40,370
+And it's a very highly curated skill library
+
+350
+00:16:40,370 --> 00:16:42,810
+that helps upgrade your agent
+
+351
+00:16:42,810 --> 00:16:46,650
+to be able to deploy things on Ethereum.
+
+352
+00:16:46,650 --> 00:16:51,650
+There's a large delta between what the LLM knows
+
+353
+00:16:51,890 --> 00:16:54,610
+and what has happened on main net Ethereum.
+
+354
+00:16:54,610 --> 00:16:56,050
+There's things like gas
+
+355
+00:16:56,050 --> 00:16:57,530
+and things like how to ship
+
+356
+00:16:57,530 --> 00:17:01,290
+and what different tools you need.
+
+357
+00:17:01,290 --> 00:17:04,890
+This is an interesting thing that the LLMs don't know
+
+358
+00:17:04,890 --> 00:17:05,890
+when you wake them up
+
+359
+00:17:05,890 --> 00:17:07,770
+and you have to give them a skill file.
+
+360
+00:17:07,770 --> 00:17:10,850
+And this skill file gets them from I'm waking up
+
+361
+00:17:10,850 --> 00:17:13,570
+and I don't know about anything in the last two years
+
+362
+00:17:13,570 --> 00:17:16,890
+to I know exactly how to deploy on main net Ethereum
+
+363
+00:17:16,890 --> 00:17:18,570
+and I know how to use the tools.
+
+364
+00:17:18,570 --> 00:17:23,570
+So ethskills.com for giving your agent the ability to build.
+
+365
+00:17:23,690 --> 00:17:25,570
+You can have cloud code, you can have cursor,
+
+366
+00:17:25,570 --> 00:17:28,050
+you can have open claw, and you can just tell it,
+
+367
+00:17:28,050 --> 00:17:31,090
+go to ethskills.com and learn how to do this
+
+368
+00:17:31,090 --> 00:17:34,090
+and then let's go build X or Y or Z.
+
+369
+00:17:34,090 --> 00:17:37,250
+And there's a QR code there for you to go to ethskills.
+
+370
+00:17:37,250 --> 00:17:40,570
+And what it looks like is just this big block of text, right?
+
+371
+00:17:40,570 --> 00:17:44,170
+It's this wild kind of like, oh, I can't even look at it.
+
+372
+00:17:44,170 --> 00:17:45,690
+It's probably, you probably can't even read it
+
+373
+00:17:45,690 --> 00:17:47,090
+on the screen.
+
+374
+00:17:47,090 --> 00:17:49,810
+But it's just a bunch of information in plain text
+
+375
+00:17:49,810 --> 00:17:52,450
+and it helps the agent learn all the different things
+
+376
+00:17:52,450 --> 00:17:53,610
+that it needs to know.
+
+377
+00:17:53,610 --> 00:17:55,330
+And we've curated this list.
+
+378
+00:17:55,330 --> 00:17:58,050
+So these things that are in this are things
+
+379
+00:17:58,050 --> 00:18:00,050
+that the LLM doesn't already know.
+
+380
+00:18:00,050 --> 00:18:02,610
+If it already knew this, we'd be polluting the context.
+
+381
+00:18:02,610 --> 00:18:05,450
+So you want to have really important things.
+
+382
+00:18:05,450 --> 00:18:07,330
+And there's a huge list of context here.
+
+383
+00:18:07,330 --> 00:18:09,210
+This is my craziest slide.
+
+384
+00:18:09,210 --> 00:18:12,210
+We've got, you know, how to ship the protocol wallets.
+
+385
+00:18:12,210 --> 00:18:13,810
+There's so many things here,
+
+386
+00:18:13,810 --> 00:18:15,810
+but this teaches your agent everything
+
+387
+00:18:15,810 --> 00:18:17,550
+about building on Ethereum.
+
+388
+00:18:18,450 --> 00:18:20,090
+Okay, so how do you use it?
+
+389
+00:18:20,090 --> 00:18:21,170
+This is the best part.
+
+390
+00:18:21,170 --> 00:18:22,970
+You don't have to install anything.
+
+391
+00:18:22,970 --> 00:18:26,730
+You can just tell your agent to go read each skills
+
+392
+00:18:26,730 --> 00:18:29,210
+and it can even, you can even tell it like,
+
+393
+00:18:29,210 --> 00:18:30,370
+go read each skills
+
+394
+00:18:30,370 --> 00:18:32,470
+and make sure there's nothing bad about this.
+
+395
+00:18:32,470 --> 00:18:34,090
+Make sure there's nothing nefarious
+
+396
+00:18:34,090 --> 00:18:36,750
+and it can look at it and make sure there's nothing bad.
+
+397
+00:18:36,750 --> 00:18:40,170
+So just tell your agent to go read each skills.
+
+398
+00:18:40,170 --> 00:18:42,370
+Eventually, you might even want to tell your agent
+
+399
+00:18:42,370 --> 00:18:45,950
+to install each skills and it will take in all these files,
+
+400
+00:18:45,950 --> 00:18:47,350
+but they're just text files.
+
+401
+00:18:47,350 --> 00:18:48,190
+It's so cool.
+
+402
+00:18:48,190 --> 00:18:49,590
+There's nothing to ask to run.
+
+403
+00:18:49,590 --> 00:18:52,450
+You can just bring in this like library
+
+404
+00:18:52,450 --> 00:18:55,490
+into your thing that's just a bunch of text files
+
+405
+00:18:55,490 --> 00:18:57,570
+and it learns Kung Fu immediately
+
+406
+00:18:57,570 --> 00:19:01,890
+and it can build all kinds of cool smart contract apps.
+
+407
+00:19:01,890 --> 00:19:06,890
+So this is for you as the user.
+
+408
+00:19:07,250 --> 00:19:10,730
+Right, the AI needs each skills,
+
+409
+00:19:10,730 --> 00:19:13,610
+but the human still needs the concepts.
+
+410
+00:19:13,610 --> 00:19:17,410
+So you as the human should go to speed run Ethereum.
+
+411
+00:19:17,410 --> 00:19:20,410
+So speed run Ethereum is a great place for you,
+
+412
+00:19:20,410 --> 00:19:23,050
+the human to learn the concepts.
+
+413
+00:19:23,050 --> 00:19:27,490
+One really critical concept is the liquidation method
+
+414
+00:19:27,490 --> 00:19:30,330
+in over collateralized lending.
+
+415
+00:19:30,330 --> 00:19:31,770
+Now there's a lot of words there
+
+416
+00:19:31,770 --> 00:19:33,470
+and it sounds pretty complicated,
+
+417
+00:19:33,470 --> 00:19:36,590
+but basically what happens is there's this automatic thing
+
+418
+00:19:36,590 --> 00:19:39,330
+that happens that makes sure that a loan
+
+419
+00:19:39,330 --> 00:19:41,570
+never goes underwater.
+
+420
+00:19:41,570 --> 00:19:44,650
+The protocol always stays whole.
+
+421
+00:19:44,650 --> 00:19:46,930
+And the way that it runs this thing
+
+422
+00:19:46,930 --> 00:19:49,090
+is two very important concepts.
+
+423
+00:19:49,090 --> 00:19:51,690
+First of all, the rules are written correctly.
+
+424
+00:19:51,690 --> 00:19:52,650
+And second of all,
+
+425
+00:19:52,650 --> 00:19:55,090
+there's an incentive to push the button.
+
+426
+00:19:55,090 --> 00:19:57,010
+Anybody out there can push this button
+
+427
+00:19:57,010 --> 00:19:59,690
+to liquidate a loan when it's liquidatable.

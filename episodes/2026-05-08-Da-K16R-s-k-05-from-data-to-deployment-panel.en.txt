@@ -1,0 +1,736 @@
+A completely transparent audit chain on chain,
+like an audit trail on chain.
+If your code is not open source, it
+is automatically introducing certain backdoors.
+Codes which cannot be forked and run independently
+causes a situation where users cannot really and truly exit
+the system.
+And if they can't exist the system,
+like this itself creates a backdoor.
+So my message here is that it's very important
+to look at the different licenses,
+look at the different options available.
+And if you don't choose open source in the right
+and responsible way, that's already
+introducing a lot of intermediaries
+that you cannot easily get over.
+And finally, I would like to end off
+by talking a little bit about what
+we do at the Secretariat and also giving a short invitation
+for all of you to be involved in some capacity.
+So just to very briefly introduce the Ethereum
+Foundation's academic secretariat,
+we want to try and create the conditions under which
+rigorous academic work and Ethereum's development
+can go hand in hand and can actually
+go and inform each other.
+Our long-term vision is to see Ethereum integrated
+as a serious research object, one that
+sustains over the longest time horizons,
+probably outlives a lot of the organizations,
+probably outlives all of us.
+And this is a very ambitious mission.
+And it actually requires people who can very honestly engage
+with these problems.
+So if you're a researcher and you're
+looking to get more involved in Ethereum,
+please feel free to reach out.
+If you're someone from the application groups
+or like the industry who's looking
+to get their problems in front of the right academics
+or who's looking to seriously test and rigorously test
+where all their assumptions break down,
+please do reach out to us.
+We are always willing to engage with people who can help us
+in this ambitious mission.
+And yeah, that's my time.
+Thank you very much.
+You can reach me at my email, or you can also
+reach me on Twitter.
+Thank you.
+Thank you, Xuan.
+While we get the stage set up of our next session,
+a quick note for those who may just join us.
+Today's gathering is hosted by the Ethereum Application
+or EAG, a global nonprofit collaborative organization
+dedicated to advancing the innovation, adoption,
+and real world impact of Ethereum native applications.
+Next up, we are moving to chapter two.
+What should we build now to shift to real applications?
+We will discuss what meaningful Ethereum applications look
+like today and how to distinguish real signals
+from noise.
+A panel on From Data to Deployment
+in Serum in Real-World Systems, moderated
+by Du Yu, General Manager of Wan Xiang Blockchain Labs.
+The panelists are Rachel Li, Director of Blockchain
+and Digital Assets of Cyberport, Colin Cao, CEO of JetBay,
+and Kevin Wong, co-founder of Codata.
+Please welcome them all.
+Good afternoon, everyone.
+It's already past lunchtime.
+Today, we have invited a few experts
+from the industrial industry to join us at the Ethereum Application Alliance.
+The main purpose of this panel is to discuss
+how to better support Ethereum in real-world applications,
+non-financial applications, and how to make Ethereum
+a better financial infrastructure for AI development and data development.
+This panel will be related to data.
+AI is very popular recently, but the core of AI is data.
+Whether you use AI or train,
+the most important step is to build a database of data.
+That's why we have this session today.
+First of all, I would like to ask the guests to introduce themselves.
+Let's start with Rachel.
+Thank you very much, Mr. Du and everyone.
+I am Rachel from Shumangang, Hong Kong.
+I used to work in finance.
+In the past three years, I have witnessed the whole of Hong Kong's WES3.
+Since then, more and more companies have joined us.
+Three years ago, we established WES3 Hub in Shumangang.
+At that time, there were seven or eight WES3 companies.
+Now, there are more than 310 companies.
+We can see the real development of Hong Kong.
+Now, there are many more native companies,
+such as DeFi and other cross-chain protocols.
+There are also many traditional industries,
+including RWA and payment.
+Payment and AI are more common.
+These are some of the development directions we have seen recently.
+Thank you, everyone.
+Next guest.
+Hello, everyone.
+My name is Chaoyuan.
+I am an airline entrepreneur.
+You may find it strange.
+The combination of airline industry and WES3.0 is like this.
+In fact, we are a data service provider in the field of airline industry.
+In the past seven years,
+we have been digging deep into airline industry data.
+In the past, there were relatively few applications of airline industry data.
+Now, we can combine airline industry data
+with WES3.0's basic facilities
+to make it more profitable and become a real living asset.
+Then, we can provide new value in our industry.
+Okay, next guest.
+Kevin.
+Thank you for inviting me.
+Hello, everyone.
+Kevin, I am the founder of CoreData.
+We did CoreData quite early.
+Now, everyone knows about AI.
+In fact, everyone is familiar with the industry and the company's business model.
+We were the first to provide AI training data to large model companies.
+Now, we focus on data collection and marking for medical companies
+and machine companies in China and the United States.
+At that time, CoreData was also a data service provider
+in the early days of Shumagang.
+It was also a data service provider in the early days of Wanxiang.
+This year, Ethereum issued an agreement of 804 and 402.
+It provided us with more payment between agents
+and provided us with more possibilities
+to expand later.
+Okay, thank you for your introduction.
+My first question is for Kevin.
+In my opinion, CoreData solves the issue of data security and back-to-back distribution.
+Because when you do a lot of model training,
+you need data from many different sources.
+So, what kind of benefits do you think blockchain can bring you in this field?
+How did you come up with the idea of combining Web3 and data in this industry?
+That's a good question.
+In fact, a lot of people asked this question in the beginning of last year.
+They discussed the combination of AI and crypto.
+They tried various things.
+What we saw was an intersection between AI data and crypto.
+At that time, we were just getting started.
+In fact, in the traditional market,
+there is also a way to provide the United States with skill AI and color AI.
+Of course, it's a storyline.
+We can use crypto to do this better.
+We are also thinking about how to do it better.
+In the first step, we didn't use the source and trace.
+There are actually two points.
+First, we want to use the incentive mechanism of crypto tokenization
+to make my global annotator better to make more marks for our real business.
+When our business is more stable,
+our real customers are more concerned about
+whether they can get skill AI to the level of data.
+What are the advantages of CoreData?
+First, we can track who is contributing how much to each level.
+And I don't sell data to you all at once.
+If I sell it to Meta today,
+I may sell it to OpenAI.
+But I know that the contributor's data has been reselled.
+I can track it through this blockchain.
+It continues to make contributions.
+It will continue to get its profits in the process of reselling.
+This is actually more down to earth.
+Blockchain is really helping us to solve
+the whole lineage of data sources,
+including the whole contribution calculation.
+What you just said is more about
+how we can collect more multi-dimensional data
+to train AI more
+and monetize these data.
+When I was communicating with Mr. Cao,
+Mr. Cao just said that he is an aerospace engineer.
+I was wondering how to combine this with YF3.
+In fact, when I was communicating with Mr. Cao,
+I suddenly found that in our imagination,
+aerospace is also a very high-tech field.
+If you go on a business trip or take a plane every day,
+it's the most advanced technology.
+Everything you see is very advanced.
+But when I was communicating with Mr. Cao,
+I found that in operation,
+there are a lot of traditional ways
+to operate in the aviation industry
+or in the entire civil aviation system.
+There are a lot of data isolation.
+So I think YF3 can play a big role in this industry.
+First, how to solve the problem of data isolation.
+Second, everyone has a lot of broken data.
+How to connect these data
+to make the aviation industry better digitized and intelligent.
+And furthermore,
+after having the data,
+a lot of venues have been talking about
+tokenization and RWA.
+Mr. Cao, what kind of opportunity do you see in this?
+Mr. Du, we have discussed this before.
+The aviation industry is an industry
+that relies on data to drive.
+In fact, because of data,
+we say data isolation.
+In the aviation industry,
+it is not only a problem of data isolation,
+but also a problem of data quality.
+Because sometimes we find that
+the quality of these data from a data source
+is incomparable.
+In fact, it will bring a lot of misunderstandings
+to the end users of these data.
+So when we do the AVGO project,
+the first problem we have to solve is
+how to form a high-quality data
+for the entire aviation industry.
+This data comes from,
+we say, a plane being produced
+and put into operation by this plane.
+All kinds of data from the airport
+and maintenance.
+So these data,
+I often say that the aviation industry
+is more like a insurance industry.
+It especially needs to calculate.
+For example,
+we say that some airlines
+have very high operating efficiency
+and very good profits.
+How does the profit come?
+How to drive it through data?
+Do you know that
+some airlines will even
+ask our pilots
+how many minutes
+they will take
+to get on the plane
+and what kind of
+power they will use
+to step on the throttle.
+This data can bring
+for example, spring and autumn.
+In the spring and autumn,
+through the specific movement
+of these pilots,
+the blue oil will bring
+the oil consumption to 1.3 billion.
+So the aviation industry is very dependent
+on this high-quality data
+to drive it.
+This is my first impression.
+The second one is about the RWA.
+Sometimes we say that
+aviation industry is a heavy asset industry.
+A plane costs a few hundred million.
+It's easy for us to say that
+what about assets?
+In aviation industry,
+we think that there is a very big chance.
+But the key is
+the value of assets
+and the operating value
+of assets.
+In fact, there are two parts.
+The value of assets
+and the added value
+of its operation.
+Combining them together
+is the biggest scale
+to play the value of assets.
+I think in the WIP-3 era,
+aviation industry should have
+a lot of opportunities
+to improve efficiency.
+Because we are facing
+the entire user scale of AVGO.
+Maybe we can reach
+more than a million individual users
+and 50,000 corporate users this year.
+Those corporate users
+who use these data on the AVGO platform
+will find that the enterprise
+is not so blind anymore.
+When everyone is doing this,
+I think the efficiency is higher.
+So now, from 2024,
+aviation industry found
+the destruction of
+large-scale aviation industry.
+We don't need the traditional way
+to sell and promote anymore.
+Instead, we use the data platform
+to improve our efficiency.
+In fact,
+whether it is data-driven
+or AI-driven,
+it brings a lot of opportunities
+to improve efficiency
+and new business model
+in many mainstream or traditional industries.
+In the past two years,
+we have made a lot of
+investments in AI in Hong Kong.
+In addition to the fact that
+there are hundreds of companies
+in the world,
+we have also built a large AI data center.
+Recently,
+we have been discussing
+a lot of financial applications.
+A few days ago,
+many officials in Hong Kong
+were talking about financial supervision.
+Have you seen any interesting
+applications
+that combine with AI
+and data?
+Or do you think there will be
+interesting applications in the future
+in the field of Web3, AI, and data-driven?
+OK, thank you.
+In fact, there must be a lot in this area.
+Some are still in the early stages.
+But in fact,
+there is a lot of potential in the future.
+In fact,
+in terms of DID,
+it will be a very important bridge.
+In terms of AI agents,
+how do you give them
+an identity?
+In terms of data
+or in terms of
+payment,
+we have seen
+a relatively important part.
+Recently,
+in terms of
+stable currency,
+it is closely related to DID.
+If you hope that
+the adoption
+will be higher,
+and
+in terms of
+different aspects,
+we have seen
+some traditional custodian companies
+or traditional
+payment companies.
+Many of them
+are already doing it.
+Some have already launched
+some wallets for agents.
+In this aspect,
+we see
+that they have a lot of assets.
+After all, they are native
+and use encrypted currency
+to pay.
+This should have a big impact
+on any industry.
+We also see
+some AI companies.
+AI itself is a productivity.
+It generates a lot of content.
+Some companies
+use this
+to make a lot of movies
+or
+animations.
+They are also
+looking at how to use
+to combine
+RWA
+and other ways
+to
+pay
+for their own rights and benefits
+or IP.
+This is a new
+way of playing.
+So,
+in these different areas,
+we see that
+some companies are already doing it.
+But I think
+if we really want to use
+large-scale applications,
+it will take some time.
+When Richard was introducing,
+you may find that
+the entire digital economy
+of WIFE 3
+is still in a state
+where a lot of infrastructure is being supplemented.
+For example, DID.
+DID has been talked about for many years.
+I think it's a good time for
+people to use it.
+For example, Mr. Cao,
+they need a lot of resources.
+But the solution
+is not that mature.
+If you have,
+please let us know.
+We hope to have more projects like this.
+In fact, I think
+WIFE 3 is in a good position.
+It can see
+the different areas of the industry
+from the infrastructure,
+and it will know that
+when the entire industry is developing,
+we still lack something
+in terms of technology and service.
+In fact, many people
+sometimes do some so-called
+follow-up or set up questions.
+I think WIFE 3
+can give us a lot of
+WIFE 3 entrepreneurs
+some guidance to say
+which companies have what needs.
+You have a lot of connection with many big companies.
+Thank you, Mr. Du.
+I think there are some
+traditional companies.
+If they need some
+technology solutions,
+including those related to WIFE 3,
+they will come to us
+to see if there are any suitable companies.
+Then we can make a bridge
+to connect both sides.
+So I'll go back to Codata.
+You can tell us
+what kind of
+image your customers have.
+Rachel can introduce
+what kind of customers
+have similar needs.
+What kind of services
+will you provide to customers
+and solve their problems?
+For example, we can take Mr. Cao's
+data from the aviation industry.
+For example, you can give them
+the data of the industry,
+whether they are
+players, providers,
+or service providers.
+What kind of services
+can you provide?
+Thank you, Mr. Du.
+This is a very good question.
+Please help me introduce the customers.
+When Codata first started,
+it was very crypto-native.
+So in the beginning,
+we targeted the transaction
+of the address on the chain
+and the authenticity
+of the address.
+Then we provided some rules
+for North America.
+Of course, AI is popular these two years,
+so we have more clients
+in the past year.
+One of them is a hot robot,
+and the other one is medical.
+Medical is a bit simpler.
+In the medical field,
+people want to try
+medical model.
+But there are many details,
+such as the breast or
+a rare disease.
+Usually, a picture
+needs a lot of doctors to mark it.
+In one hour,
+the value is about
+1 to 200 US dollars.
+In this direction,
+some clients will give it to us,
+including domestic and overseas
+companies that need to be listed.
+For example,
+I have a batch of medical data
+or patient data.
+I need a more professional doctor
+in Europe and America.
+Codata is still a bridge in the middle.
+It's a professional mark.
+I think the audience here
+is starting to get familiar with the robot.
+There is a very popular video
+in India.
+All the Indian workers
+are wearing an iPhone
+and collecting data.
+The idea is that
+the robot in China
+is a very popular direction.
+Some traditional real estate owners
+are coming in
+to build a real equipment factory.
+They get the data.
+Of course, the robot is still learning
+in the early stages.
+The learning of the original data
+is still very useful.
+But now everyone has begun
+to evolve to the next step.
+For example,
+your real-time data
+or the data of human hands
+or the data of remote control,
+where is your starting point?
+Where is the starting point?
+If the robot fails after learning,
+what borders does it have?
+This requires the real person,
+the human loop, to intervene.
+At that time, we did a big event
+with BN.
+We had several million
+effective users around the world.
+Now we can guarantee that
+there are about 70-80,000
+active users around the world.
+Even in Europe and the US,
+there are some high-end users.
+Usually, these materials
+will give us the data.
+This is our customer's SOP.
+For example, in two to three days,
+I need to make a random
+request.
+This is our current model.
+Of course, whether it is
+digital or commercial,
+the future of aerospace data
+is also a new
+blue sea market.
+If this direction of customers
+can introduce it to us,
+thank you very much, Colin and Richard.
+Thank you, Mr. Du.
+I think
+especially with Mr. Cao's
+relationship with aerospace,
+at the end of each data,
+it has a very direct effect.
+Just like what Mr. Cao said earlier,
+like the Spring and Autumn Airlines,
+through very detailed data training,
+it can save costs very well.
+In fact, when I talked to Mr. Cao before,
+I was very surprised
+that Mr. Cao's J-Bay
+is actually a packaging business.
+Then
+you will find that after a packaging,
+especially after international flights,
+the bill seems to wait at least half a year
+for a certain amount of money to come out.
+For example, from Hong Kong to North America,
+its flight will pass
+Hong Kong,
+then the mainland,
+then to Japan, Korea,
+Alaska, Canada, the United States,
+it involves a lot of different countries,
+different areas of control,
+and then to the local airport.
+Each of them is a lot of different service providers.
+I don't know how they connect
+but the result is
+that when you have to pay these flight fees,
+like the local fuel costs,
+the bill will take more than half a year
+to come back.
+Mr. Cao also told me that
+they received the stable currency
+very early overseas to pay.
+In fact, there is a lot of
+efficiency in this place.
+So, Mr. Cao,
+you seem to have provided a lot today
+from the data sharing training,
+or from the financial payment,
+including the asset currencyization
+we just talked about.
+Do you think
+why hasn't everyone started using it yet?
+Or is it because
+today's website is not mature enough?
+Or is it because they don't know about it?
+Or is it because of other reasons?
+What do you think are the opportunities
+for everyone in the future?
+OK.
+I think Kevin's sharing is actually quite good.
+The aviation industry
+is actually not
+the stage
+where they haven't started using these technologies
+yet.
+How do we do
+the aviation data
+ourselves?
+When we started doing it
+seven years ago, we found that
+the aviation data
+is almost a very low-quality data vacuum.
+So, for example,
+if you want to have the data
+of tens of thousands of airports
+in the world,
+what should you do?
+You have to build a data team
+to do this kind of thing.
+So, we have been using
+the self-building model for the past few years.
+But what is
+the drawback of this self-building data?
+It is your efficiency.
+Of course, now that
+AI has appeared,
+our efficiency has changed a lot.
+In the previous data team,
+we had almost 80
+colleagues to do the data.
+Now, our staff
+are slowly doing some optimization.
+The data of the aviation industry
+is also slowly changing.
+Of course, these years,
+we said,
+the improvement in hardware,
+manpower, and computing power
+have brought a lot of
+unprecedented changes to the aviation industry.
+But it may not be that fast.
+Kevin just talked about
+the medical industry.
+Last week,
+I went to the hospital
+to see a patient.
+Three doctors
+saw three different results.
+The aviation industry
+is slowly
+changing.
+We are the company
+that does high-quality
+data mining
+in the aviation industry.
+I would like to talk to Kevin about
+the aviation industry.
+The industry has a long history.
+From production to production,
+to operation,
+Mr. Du,
+you have these needs
+related to aviation industry.
+So I think
+the value of the data
+should be very big in the aviation industry.
+OK.
+Let's continue with Rachel.
+In addition to
+the whole of Hong Kong,
+you are also working with
+the global startup ecosystem.
+I know that you have
+a lot of big companies
+and a lot of global companies.
+You have a lot of exchanges.
+What do you think?
+Mr. Du, you were talking about
+Ethereum applications.
+There are not many applications now.
+Do you think
+there is still a gap
+or a problem
+that prevents big companies
+from doing things
+on public goods
+like Ethereum?
+OK, thank you.
+This is a very
+difficult question.
+I think
+there are two main aspects.
+First, in terms of
+user experience,
+if we can do it later,
+for example,
+we can do it without feeling.
+You are actually
+using Ethereum later.
+But in fact, the apps you usually use
+are similar.
+Mass adoption will be much easier.
+This is the first point.
+Secondly,
+I think it is more advanced.
+It may be a balance
+between
+corporate and private.
+I think this is
+very important.
+But this
+is also
+the most important
+value of
+Ethereum.
+It is an open platform.
+There is no
+boundary.
+Sometimes,
+if you add a lot of privacy,
+who can see
+and who can't,
+there will be
+some consideration and balance.
+So this is
+a very difficult
+aspect to solve.
+In the past few years,
+the development of the entire ecosystem has grown.
+From the level of
+layer 1 and layer 2,
+but there have been some changes in the last few days.

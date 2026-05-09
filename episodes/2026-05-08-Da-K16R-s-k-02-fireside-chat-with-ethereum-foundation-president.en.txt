@@ -1,0 +1,257 @@
+The question of whether it has come or not has already come and is accelerating.
+This is my opening speech today at EAG.
+Thank you, everyone.
+I'm curious about how many of you are builders on Ethereum right now.
+You can raise your hand.
+And how many of you are holders of Ethereum right now?
+You can raise your hand.
+Okay.
+Thank you for coming.
+Please welcome Ayat and Audrey.
+Hello.
+I think it's the third day of the Webster Festival.
+So today we have the, you know, every year the Webster Festival is going to have the
+East Day each year.
+So today is the third day, and we will the whole day discussing about the Ethereum, which
+is the truly innovation came from.
+And I think Aya, it's your first time to be in Hong Kong, we are really happy to, really
+glad to have you here.
+Because I think for this year, there are lots of the audience from the broader ecosystem.
+And maybe some of them may be familiar with Ethereum, but some of them may not.
+And maybe you could introduce more about yourself and how is the Ethereum foundation's role
+in the ecosystem.
+Do my own introduction?
+Okay.
+Hi.
+Hello, everyone.
+My name is Aya Miyaguchi.
+I am from the Ethereum Foundation.
+I've been with the Ethereum Foundation since, officially since 2018, but before that, maybe
+I can just share a little bit of myself, is that I joined the industry 2013.
+I was like, early founding members of the Kraken Exchange, if you have heard of it.
+But anyway, the reason why I joined the industry, that was a very early time still.
+And I thought this technology, blockchain technology can, back then, this was before
+Ethereum time.
+So the Bitcoin, I thought it would be revolutionary for improving financial inclusion in the industry.
+So that was my original interest.
+And then I ended up joining Ethereum, the world of Ethereum.
+I did meet Vitalik and the team when Ethereum was about to start.
+My motivation to join the EF is this group of Ethereum is trying to maintain the properties
+of blockchain, that blockchain promise to do purely, but also in a more broader way
+than what Bitcoin was able to do.
+So that mission itself was something that motivated me to participate and help.
+And the Ethereum Foundation, what we do is actually support a lot of different activities
+in the ecosystem, including protocols, development and research.
+But Ethereum is a decentralized system that we do not own.
+That's a very important statement, and everyone should know.
+So at this point, you don't need to trust EF for Ethereum to be...
+It's been up and running for a decade with no downtime.
+So we call ourselves one gardener of this big garden.
+So we try to support the ecosystem wherever the support is still needed.
+If it doesn't need our help, that's great.
+So that's...
+Sorry, I don't know.
+It's a very high level.
+Yeah, because I think a lot of people, because the traditional way is that the foundation
+or the organization to support everything or to control everything.
+But I think it's totally different in the blockchain ecosystem, which especially in
+the Ethereum ecosystem.
+So what do you think of the positioning that maybe EF and the broader ecosystem could have?
+So recently, we actually published this EF mandate.
+It's a long 38 pages, so I don't know if anyone has actually was able to read it.
+But the motivation is that, like I said, the Ethereum's original promise comes with properties
+such as, like we call it clubs, like censorship, resistance, open source, security and privacy.
+And those are the properties that actually can achieve that original promise.
+And EF needs to be opinionated to protect those properties.
+That's like a base layer, foundations of the platform, right?
+And then only on this platform, only when the platform is preserved those properties,
+and that's when real adoption can happen.
+So there's a little bit of misunderstanding that after we published that, like people
+thought, okay, EF is going to only focus on that protocol layer, and then we don't really
+care about that option.
+That's actually the opposite, is because we care about the real adoption.
+The real adoption only happens when businesses are able to trust the foundational layer to
+be able to handle like a billion dollar and also decade long operations.
+So you don't want to build business on something that can actually stop working in five years,
+or like we have to protect that layer first.
+And then the real adoption can actually solution can be built, like Dr. Shaw was providing
+some examples.
+And so the way we see it is first that is for most important for any businesses, any
+builders to be able to build real application, real solutions.
+And then the rest is where is the gap, right?
+And then this event and today's, your activity is the, congratulations, EAG to launch, is
+that when we want to help, sometimes you don't even need us, but we want to help support
+or at least encourage people to participate in the type of activities that can actually
+multiply the benefits of the work everyone is doing.
+So everyone has different expertise, some people have more expertise in security, and
+then you can use that as a strength for your own project.
+But then those security, privacy, those properties still needed in the applications there, because
+we see every day in the ecosystem or globally, even outside of crypto, lack of those properties
+are causing a lot of problems to the end users.
+When end users are affected, that's when the business also get affected, right?
+So you do have to care about the end users and then protect their own asset, their own
+information.
+So we don't really see the separation between, okay, we protect this on the protocol layer,
+but also as a whole, as an ecosystem, everyone needs to care about those properties.
+And then the application would be actually useful to help solve problems.
+And those are the applications that can actually succeed and last long.
+Everything needs to stick in your business idea, or whether it's a business or whether
+it's a public system.
+Yeah.
+Yeah.
+I still remember that during about 2018, i.com, you mentioned about the Infinity Garden, which
+is really inspired at that time, because I seen lots of the foundations just to move
+forward and to be very aggressive, but the Infinity Garden, it's more like the way establish
+the fundamental things for the ecosystem, for the builders, and give the space for them.
+And for the mandate, which is released for the last month, is I think just like the restatement
+of the Infinity Garden.
+What do you think?
+Why this is the time again that we release that kind of the mandate?
+And what do you see if the ecosystem, that EF doesn't play a central position, a central
+role, that how could we still support the whole ecosystem and the builders?
+Yeah.
+So maybe I can give for some people who don't really know, Infinite Garden is the reframing
+that I've been using to reflect and also describe the Ethereum ecosystem actually beyond.
+We said that in the mandate, the Infinite Garden is actually bigger than Ethereum, is
+the reason why is that is.
+So there is a word we want to see, and that's the word, like people have freedom, like people
+have control over their own asset and then on their own information, and then all the
+businesses are running, preserving that, everyone's freedom.
+And then for that to happen, if there's like a one organization, if EF says Ethereum is
+ours and we control everything, and even if we hire the best developers, best researchers
+inside EF, which was actually suggested when I joined EF as an ED, there was pressure or
+advice that I received that, oh, you should hire the best developer, best researchers
+internally and then build everything on our own.
+That sounds short-term, a lot easier to manage or easier to coordinate, and then Ethereum
+may be able to move quicker to make progress, but at the same time, the progress and the
+level of innovation is very limited, because even if we are pretty small, but even if you're
+a big corporation side, it's still limited, because the more we try to hold inside that
+true innovation doesn't happen.
+So the idea is to, how do we invite everyone to participate?
+And that's how, it's open source, anyone can participate, open source and permissionless,
+anyone can participate at the platform layer, but also anyone can participate in the middle
+layer or business layer, and then that way, we're, as a whole, this is the only way for
+us as a human to win this game, so that's the image of infinite game, but it's a garden
+because there's a natural organic growth, like for example, we don't really control,
+we didn't really know, like when you started Shanghai Wu, like we didn't really tell you
+what to do, you came up, and that's where the strength is, and the beauty is that by
+us letting the control, the size and the growth, it's way bigger and it can multiply, and so
+this is not really us trying to do a nice thing, it is a strategy to, for as a whole,
+it can become a lot bigger than what one organisation can own.
+Yeah, and also, I think nowadays is a time from the infrastructure for move forward to
+the application side, do you think why it's also the time that release the mandate at
+this particular time?
+Yes, so you know, like when people who've been in the industry for a while, at the earlier
+time, when the ecosystem is smaller, it was easy for us to be all on the same page, right?
+So we run DevCon every year, that's the only big event that Ethereum Foundation runs, and
+then the first DevCon, DevCon 0, they call it DevCon 0, it was very small, like a fit
+in this size in the Berlin office, and it was easy for everyone to agree on, yes, this
+is the property, this is the values that we want to preserve, but once this is becoming
+bigger, it is, it's becoming bigger than one room, and now it's global, we have people
+in all different time zones, speak all different languages, and so there are principles we
+have learned on the way, actually Ethereum has learned, also EF has learned on the way,
+that how do we, first of all, when I came up with this flaming of Infinite Garden, the
+reason why I thought that was needed, originally, to the people in the Ethereum Foundation was
+that I want Ethereum not to lose the best part of Ethereum, which was how this global
+communities collaborate, and then on all different layers, everyone can participate, you go to
+hackathon, you learn, you teach each other, and then how do we preserve that, so that
+was my motivation, so in the same way, at the protocol layer, the trade-offs are becoming
+harder, because there is always motivation, how do we make the transaction quicker and
+cheaper, and then that motivation is not crazy idea, that sounds very reasonable, then the
+question is, do we achieve that by compromising security or compromising decentralisation,
+and you need to make hard decisions, and then at this point, we recognise that it's actually
+important for us to state that very clearly, what comes first, right, these properties
+and then we think about usability and all this, because if we forget this, at the end
+of the day, user won't get benefit, that means the business won't succeed, and the ecosystem
+won't grow, so we just decided to be clear on the order of importance, and at least EF
+is going to be very opinionated to preserve that, that's what Vitalik, myself, discussed
+at the end of last year, now is the time for us to make it more explicit, like let's describe
+how we are thinking and how we are going to do this, this is still 38 pages paper, it's
+long but it still doesn't really explain everything, but at least the fundamental principles
+are there, and that includes what you mentioned about how EF operates, we have this principle
+of subtraction, EF only rules, we come in only when EF is needed, right, we don't need
+to be there if we are not needed, so one example is what you're doing, is if Hong Kong communities
+or Shanghai community or like other, work with other global communities and then start
+supporting builders, you are connecting with investors and builders and businesses and
+institutions, and we've been supporting part of that, but also it would be great if others
+can join the support together, so that's where we see things and that's where we decided
+to explain, make it clear on the mandate.
+Yeah, I think since the industry grows a lot to the mainstream and a lot of the newcomers
+join the industry, but there is still some key principles that we need to keep on, yeah,
+and this is how our industry, we use blockchain, we use user to achieve that, not just to go
+back to the web to have the centralized dive, something like that, yeah, but there is also
+question about the builders, you can see that some people may think that, okay, EF will
+not do everything and how could you achieve not be at the central party or at the center
+of the stage, but still could support the builders, because some maybe think of EF is
+so far away, yeah.
+So one thing I didn't, sorry, explain with your previous question was that I can give
+you more concrete example, Ethereum Foundation used to build a wallet, and Ethereum Foundation
+used to provide only client geth, and that's how Ethereum started, right, if you remember
+that time, and then people's expectation naturally was like, oh, EF is building a wallet, right,
+and then no one was motivated to even think about, should I build a wallet, and then,
+and back then, that wallet actually was not great, I mean, okay, like I can't really,
+I respect the team, they tried, there was very new building Ethereum wallet was the
+first thing and the new thing, but still, because EF doesn't have all the expertise
+of everything, like security, you have to care about security, you have to care about
+usability, and then it wouldn't be great if there's a wallet market, like natural competitions
+out there, and so that's the challenge of one company, one organization try to own everything,
+it sounds very effective in a way, but it's not, it's not as a whole, so that's, that's,
+and then, so when we think about our position in supporting the ecosystem is how do we not
+become a bottleneck for the ecosystem true growth, so it could be like this building
+wallet, now actually our team, privacy team built Kohaku SDK, and that's like a tool for
+wallets to be able to build privacy in a privacy system, and that kind of work is still there's
+a gap, so our team worked on it, if anyone knows, actually our team worked together with other
+community members too, that's always, we try to work together with other teams outside, because
+then there is not too much reliance on the Ethereum foundation, we call it walk away test,
+walk away test for Ethereum, like if all core devs walk away tomorrow, if can system survive,
+and then stay up and running, right, that's the walk away, all walk away tests we want to do,
+but also it's the same as ecosystem, if Ethereum foundation walks away tomorrow, can ecosystem
+still be thriving and surviving, and I'm not saying that the answer is yes today yet, but
+that's where we want, we need to be thinking about this, and whether thinking or not that's
+important difference. Yeah, I still remember that there is a very sentence in the mandate that
+inspired me a lot, is that EF were the first Ethereum steroids, but today we are one of
+many, yeah, I think EAG is inspired by it a lot, because EAG doesn't ask for approval from EF,
+but we are still standing out to, okay, we could do a lot of things together to bring the
+ecosystem, stakeholders together to support more towards for the applications, yeah, so from your
+perspective, what do you see that this kind of the organization, just like no matter EAG or used
+to be EA or some other organizations, all the builders stand out, and what do we see them,
+and what is the relation between them? So, yes, like you said, it's great that something like
+EAG is happening without us much involved, we can probably support communicating about EAG,
+but the rest is you can take care of it, seems like that's great, and like you said,
+yes, we see ourselves as one of many now, excuse me, so that's why subtraction at EF is actually
+addition to Ethereum as a whole, and then, so your work and activities is one great example,
+and when we see what kind of activities, even if you don't need our own support, like we want to
+spread the word and then help promote, is that what type of projects and organizations like EAG
+are doing the work that actually impact can multiply, so like I said, do you also hold the
+same principles like we do, like okay, you want to invite everyone, it's not about you, I'm in the
+center, I have to control everything, I have to be the one to make all the decisions, and then the
+gloss is not really, we don't really expect the gloss to be great for that, from that type of
+activities, so when we see teams, it can be grantees, or like other events, or these community
+organizers, what we try to see is that similar principles we have, are you willing to let go
+of the control and then actually help the gloss to be, yeah, multiply from there, so when we give
+support financially or just communication support, I always want to support things that the impact
+doesn't stop there, there will be second order impact and third order impact, that's, you've been
+seeing this already probably, that's why you believe in doing this way, I hope, yeah, because,
+but also another thing I care about this local first approach, you said I came to Hong Kong for
+first time today, and then I cannot really even pretend that I know a lot about Hong Kong, so if
+someone asks, how do you run business in Hong Kong, what's the best way, my best answer should be,
+I don't know, but I know people who know, right, and then I connect, so that's why I believe in
+local first approach, because locals, there is like a local thing that only locals know, and then,
+so how do we have global activities such as EAG, but still actually leverage locals' knowledge,
+and then leverage locals' talents, and so who are thinking hard about that, we do pay attention to
+this, I do pay attention to this, yes, yeah, and because I think for towards the future of the
+applications, and there are lots of the application builders here, and I think for no matter the
+Infinity Garden or the mandate, it's such a deep philosophy design to give more space for the
+builders, for everyone, and they could stand out to, okay, I can do this kind of thing in the
+ecosystem to support each other, and also to do my own business, something like that, yeah, so what
+do you want to see to them, that if everyone wants to stand out, okay, I could do this kind of thing
+to support the whole ecosystem, what is your, could you give some words for them? What is my
+advice to them, or anything you want to encourage everyone, yeah, okay, yes, so I think this
+Thermal Foundation doesn't often, or maybe, I don't have a lot of opportunity to talk to like
+all the startups out there, or businesses, or funders, but I do think, like I said in the
+beginning, what we are seeing in the ecosystem, or global tensions with all these geopolitics
+situations, solution has to be real, right, and then, and then, so what is, so often there have
+been attempts and then experiments in the industry that can be like a very short-term, quick, making
+money type of businesses, and it might be tempting to go toward that, it was probably tempting to go
+toward that way, but now we are seeing that is, you really need to think seriously about security,
+for example, right, and it's not just your business, it's actually what is being built.

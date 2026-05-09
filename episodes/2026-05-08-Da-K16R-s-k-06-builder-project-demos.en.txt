@@ -1,0 +1,178 @@
+model company. So basically you just set up, okay I need a robotic campaign and I
+need a maybe person from the Philippines to annotate this side of the data and
+the task will render automatically. You can see the revenue stream all the way.
+That's our takeaway. So we just leverage the blockchain to track our
+DID or 402 protocol to track our revenue and also data lineage.
+Thanks. Thank you Kevin for the inspiring speech. And next we will welcome Primus.
+Hello everyone. I'm Xavier from Primus. I'm the developer and the co-founder of the
+team. So today I would like to show you something that solves a fundamental
+blockchain problem. So that is how can we keep the financial transaction private
+while still making it auditable. Primus is building a verification and the
+privacy layer with two core technologies. One is CKTS, the Zero Knowledge Transport
+Layer Security. It's a very cool technology that lets you to prove any off-chain
+data. Something like your account ownership, your API execution, your
+bank balance. And the power is it allows you to prove the data is correct without
+even revealing the underlying content. And the second technology, FHE,
+fully homomorphic encryption, which is the star of the demo. It allows you to
+perform arbitrary computation on the encrypted data. So basically the data
+doesn't need to be decrypted and to be processed. And the Primus is even
+building a new protocol called ZKFHE or Verifiable FHE. It provides the
+further computation integrity to the homomorphic encryption. So which means
+the data is during the data processing you not only get the result from the
+encrypted computation process, you also get a proof which states the data is
+correctly computed. So Primus is offering this kind of cryptographic
+native verifiability and the privacy for multiple blockchains and for different
+applications including AI agents. On the technical side, the FHE
+computing infrastructure we built here. We just built some system contract
+on the host blockchain and the core component we call the alpha chain is a
+real FHE engine doing the FHE operations of chain. And also we use the TE
+technologies to handle the key measurement to further secure the whole
+system. So here's a demo we built called Auditable Private Transfer. It's very
+simple. It allows you to transfer any plan money into the encrypted money we
+call the encrypted USDC here. And you can just transfer this encrypted money
+between different wallet adjusts which means no one can see the details of the
+transfer transaction. And you can further withdraw this money back, convert the
+money from the encrypted version to the plain version. And also we support
+audit which means the audit is able to review and to see the details of
+the transaction and of the account details. And we just use a very
+lightweight architecture here. We build it on the EVM chain. Here we use the
+Firest testnet and then we use just a full core cloud instance to
+do such a demo. So here is the demo. So basically you just connect your wallet.
+Your first login with user we call Alice and you can decrypt to view how
+much money Alice already has here. So he has some EUSDC which is the
+encrypted money and some USDC here. So first let's make Alice deposit
+some USDC into her own account. So you just confirm the
+transaction and wait a few seconds here after the transaction has been
+broadcasted and confirmed on the blockchain. So you just review and
+decrypt your balance. Wait a few seconds. So here is the FHC result. You got
+your balance here and you can further transfer your encrypted money which
+means you can transfer your EUSDC to another account or to your
+friends. So let's copy the address from Bob and you'll copy the address here and
+you specify how much money you want to transfer and they'll confirm the
+transaction. So again the transaction is being broadcasted and being confirmed
+and they'll just further wait for a few seconds to make sure the transaction is
+finalized. Okay you have the new money here and Alice is not able to be the
+auditor. He cannot see anyone else's balance or account details. So let's
+switch to another account. Let's use Bob's account here. So since Bob is
+auditor already so he is able to access the audit portal and he is able to first
+can add other auditor to this portal which makes them be able to access the
+details of the system and also he can first synchronize all the
+system users in this panel and he can further decrypt the balance of the
+other users here like this. So here's a demo and this is a very simple app we
+build with FHE and we think this is not just a starting point of the
+technology but also it's very useful for the like institutions and the
+compliant crypto financial here. So yeah thanks for watching. Thank you Primus
+for the live demo and next up please welcome Ninja. Hello so let's start. Okay
+four years ago most of the on-chain theft was called hack but two years later
+much of it has shifted to interface fraud. Attacast moved but defenders
+didn't. So what you see is what you sign is an essential idea to protect your
+assets but it is not enough. See and understand. You need to understand with
+complex transactions. So what you read is what you sign. It's a new idea simple
+idea. Why is it read? This is a real attack contract you may remember it. There are a
+lot of hex characters. Can you read it? But we can do that. Let me ask Ninja.
+Let's start. So it is a ninja scan demo screen so on Trillium bot. So initialize
+the ninja scan and paste the suspicious contract code and then ninja scan
+analyze and oh it's danger malicious proxy and war trainers and if you want
+to see the details you can see it by natural language by LLM. If only ninja
+scan had been there before signing. 2.4 billion jealous last year was theft.
+Fishing, honey pots, others poisoning, most of them was catchable. So ninja is
+trust and risk intelligence layer between intent and execution. Three
+inputs. Entity is a smart contract and action transaction and position your
+financial portfolio. Ninja, AI engine, analyze and visualize and two outputs.
+One is a deterministic verdict safe or not by machine learning. We don't use
+LLM at that time. So we only use LLM natural language explanation of the
+transaction or code. Three diverse channels. Ninja scan, Trillium bot, API and
+MCP. Why should you trust us? We already analyze over 90 millions of contracts.
+Every contract on AVM. We classify nine vulnerabilities and we
+score the similarity of existing vulnerable or malicious contract types.
+Ninja is built for human today and ready for agents tomorrow. So we decided to
+adopt ELC 8004. It's a new standard of agents identity. This is our team. My name
+is Kazuki Kaneshiro, ZKAC founder and the ninja founders. So for many years I worked
+on financial and AI a lot of projects in Japan and with me is Kai Otsuki, chief
+scientist. He's an Ethereum committer. Two asks. We are looking for POC partners.
+World developers and DeFi protocols and AI agent developers. Talk to me later.
+And investors. We are raising. Just talk to me later too. Two QRs. Left one is a
+ninja scan. Try. You can try it from now on any contract and right one is my
+cherry-gum QR. So give me feedback and talk to me later. Ninja is human today
+and agents tomorrow. Thank you. Thank you, Ninja, for the live demo. Next up, please
+welcome Sysic AI. Hello everyone. This is Leo from Sysic. So today I'm going to
+give you a preview of the things that we are building on our AI side. So AI
+products like previously like we used to deliver four thousand four hundred
+thousands of lines of code and we thought like without any human in the loop for
+this like amount of coding project and the performance like we of this like
+deliver code is like at least like 10 to 15 percent faster than the state of
+art in the ZK proving site. Yeah we think like this this product may be also like
+beneficial to the Ethereum or like a border community and like the whole
+blockchain community. So I'm here to give you a like preview of the demo like we
+use we use this like AI product to build a flappy bird this kind of like a games
+without any human in the loop thing. Okay so now let's take a look at the demo.
+Okay yeah so this AI product allows you to download the code like after like
+it's finished the job but you can also like integrate this AI product with
+with your github. So like it will allow the agent to push code to your github
+repository and also like be author of this thing. So right now it's like doing
+this like API integration. So integrate the API in the in this tool and then
+then analysis to push code like to the to the to the github repository. So right
+now like all the themes are set and you have this like API key then you can put
+it in there and then you can choose your like AI models like you can plug in
+basically every open source model plus the closed source model and then after
+that you start the process. So here is like you input the description of this
+game the flappy bird. There will be just a one round of interaction between you
+and and the AI and now it starts working. So it will automatically generate all
+the codes in several hours. Without any human in the loop you do not need to
+check the status of the theme. There will be like a bunch of like AI agents doing
+the coding while another bunch of like AI agents doing the like a review review.
+It's basically the rough loop with code review if you are familiar with that.
+Yeah so like here is like generating all the code and like for each round it will
+provide you with a summary of like what they are doing what kind of like feature
+they add to your product. Yeah so right now still like working on the code and
+you can set the maximum rounds complexity to be like five or ten it all
+depends on you. So after all after the code are you generated it will push the
+codes to GitHub repository and you can check the commit you can check the
+Remy to find out like what they are actually doing and the contributors
+realize cloud. So you push like the agent will push all the things like to the to
+the github and like without any human interaction. Yeah so that's the code
+like we're just going through all the files you changed and like all the
+commits it made to this GitHub repository. Okay so now let's take a look at
+the same. Like we asked them to to do like 70 or 80 something this flappy
+So it's deliver the game in about like two hours and we have already show
+that this idea can be used to also do like a very complicated project. So
+basically you don't need a very large team or like several several months to
+do the product development. You just need one or two people and you can do
+iteration like in weeks or probably like in days instead of in months. We are
+about to launch this like product. If you are interested please stay tuned to
+our Twitter account. You can search it online. Okay bye. Thank you
+Sysic AI. Thank you for bringing us a useful tool for the builders and next up
+please welcome Privacy Pools. Thank you everyone. I'm really honored to be here.
+I've been told that I'm given four minutes so I'll try and make this
+relevant to you, interesting and entertaining. So I am Vailin. I am the
+APAC relations at Oxbow. At Oxbow we build privacy tooling such as privacy
+pools and compliant toolings for enterprises.
+We are a company that develops and uses online transaction privacy tools.
+Products including privacy pools are tools for business and customers. So in this
+demo I will be talking about what your crypto card tells the world with the
+increasing adoption of stable coins and stable coin payments. We need to think
+seriously about improving the design choices of these products because every
+transaction is permanent and transparent on chain. And in this demo I'll be using
+Gnosis Pay card as an example but my analysis in this presentation applies
+for all self-custody card. So for Gnosis Card it has a lot of users. It has
+31,000 weekly card payments, 3,500 active card holders, 2 million weekly volume
+and most significantly 420% year-on-year growth. So every one of these
+transactions is permanently stored on chain and there's no way of you deleting
+that information or preventing other people from looking at your information.
+So how Gnosis Pay actually works is that when you pull out your card to
+pay for a coffee for example, Visa sends the auth request to Gnosis Pay, stable
+coin transfer executes on chain from your wallet to the Gnosis Pay settlement
+safe and then after that to Visa. So what's public is actually how much you
+spend, the exact time spent when you spend that amount of money, your current
+balance and your entire transaction history. We don't know the merchant name,
+we don't know what you exactly buy and we don't know where you exactly buy the
+thing from but we don't need to know to identify your entire financial footprint
+because the amount and the timing is enough and what I mean by that, so my
+team and I actually found every card holder on the Gnosis Pay card and all we
+need to do is to find a single settlement vault to identify their
+spending patterns. So take this pseudonymous person for example, we
+found eight different points where he spent their money and we could
+make educated guesses what exactly they spent on when and how. So we could guess
+that at 8 a.m. they woke up and then they had a cup of coffee before taking the
+transport to their work so they probably have a 9 to 5 job and then we could also
+determine using assumption.

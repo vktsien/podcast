@@ -1,0 +1,1527 @@
+1
+00:00:00,000 --> 00:00:10,840
+It contains multiple registries. Right now, this registration contract is online for a lot of these chains.
+
+2
+00:00:10,840 --> 00:00:23,540
+And later on, this reputation validation system will also be online to help these users to really validate and give reputation on different agents.
+
+3
+00:00:23,580 --> 00:00:32,580
+If you really want to check out what's online and what's on-chain for the different agents, feel free to check out this 8004scan.io.
+
+4
+00:00:32,580 --> 00:00:44,140
+Beyond that, as we can see, we already support most of the chains, and at the same time, we can see different chains that have different types of agents.
+
+5
+00:00:44,140 --> 00:00:54,140
+Some agents do this DeFi trading, and some of them do this kind of portfolio management. Some of them do this yield farming across different chains.
+
+6
+00:00:54,140 --> 00:00:59,140
+And the growth is pretty fast across all different chains.
+
+7
+00:00:59,140 --> 00:01:09,140
+At the same time, as Austin in the morning mentioned about, he created these easy skills. It covers Ethereum and different L2s.
+
+8
+00:01:09,140 --> 00:01:16,140
+Beyond that, we found that for a lot of the agents on this 8004scan, they probably want something extra.
+
+9
+00:01:16,140 --> 00:01:28,140
+For example, they also want to know the knowledge of the chain itself, the protocol itself, and they also want to further know all the different endpoints for different DeFi protocols.
+
+10
+00:01:28,140 --> 00:01:33,140
+And typically, some DeFi protocols have different contract deployment on different chains.
+
+11
+00:01:33,140 --> 00:01:39,140
+To provide very accurate information, we also developed this CryptoSkill.org.
+
+12
+00:01:39,140 --> 00:01:46,140
+It indexes all the crypto and blockchain information, not just on-chain, not just all the DAX.
+
+13
+00:01:46,140 --> 00:01:57,140
+It also supports a bunch of the CEX and all the necessary information for different blockchain builders, crypto builders, and all traders.
+
+14
+00:01:57,140 --> 00:02:11,140
+Beyond that, as I mentioned, after all these learnings and practices, we figured that just providing this information and doing the engineering ourselves is not enough.
+
+15
+00:02:11,140 --> 00:02:18,140
+And it's better, based on our experience, to provide some tools for blockchain builders in general.
+
+16
+00:02:18,140 --> 00:02:28,140
+So that's why we built a complete engineering suite for all the developers who are using this web coding and engineering.
+
+17
+00:02:28,140 --> 00:02:36,140
+It includes a very fine-tuned, not just one, multiple fine-tuned models we call AltLM.
+
+18
+00:02:36,140 --> 00:02:47,140
+Right now you can visit altlm.ai and you can choose different models, and the model itself has all the necessary information of crypto and blockchain.
+
+19
+00:02:47,140 --> 00:02:52,140
+So then in that case, you don't really need to import extra MCP skills.
+
+20
+00:02:52,140 --> 00:02:58,140
+You can just call the models and then you can get what you want from these blockchain and crypto.
+
+21
+00:02:58,140 --> 00:03:09,140
+And beyond that, I know a lot of these developers, they prefer CLI, all these kind of terminals, instead of this website or chat box.
+
+22
+00:03:10,140 --> 00:03:14,140
+So we also built another CLI called AltCode.
+
+23
+00:03:14,140 --> 00:03:25,140
+Based on the benchmark from Cloud Code and Codex, Alice did rank AltCode even better than Cloud Code and also this Codex CLI.
+
+24
+00:03:25,140 --> 00:03:29,140
+And beyond that, we have another product called CloudCrawl.
+
+25
+00:03:29,140 --> 00:03:36,140
+And we empower all different agents and hosted on-chain and also on the cloud.
+
+26
+00:03:36,140 --> 00:03:43,140
+So you can just click once and then you can have the agent to do all the different tasks for you.
+
+27
+00:03:43,140 --> 00:03:49,140
+And I just mentioned, for normal users, you can just use this RM.
+
+28
+00:03:49,140 --> 00:03:58,140
+It has the chat box, you can just click and go through and right now it has some welcome gifts.
+
+29
+00:03:58,140 --> 00:04:06,140
+If you want some extra credits, you can go to our booth and our team members will give you some extra credits to use it.
+
+30
+00:04:06,140 --> 00:04:12,140
+Beyond that, it has all different MCP tools already embedded into the models.
+
+31
+00:04:12,140 --> 00:04:19,140
+So you can directly use it to code whatever, for example, do the engineering for the Ethereum core protocol.
+
+32
+00:04:19,140 --> 00:04:24,140
+Beyond that, it's self-learning, self-evolving protocol.
+
+33
+00:04:24,140 --> 00:04:33,140
+And we're automatically learning and creating new skills for blockchains and crypto.
+
+34
+00:04:33,140 --> 00:04:36,140
+And beyond that, it has all different types of models.
+
+35
+00:04:36,140 --> 00:04:39,140
+You can use these models for different tasks.
+
+36
+00:04:39,140 --> 00:04:46,140
+For example, you can use a basic model for this kind of normal checking.
+
+37
+00:04:46,140 --> 00:04:52,140
+You can also use some other models for coding all these more complex tasks.
+
+38
+00:04:52,140 --> 00:04:58,140
+And beyond that, as I mentioned, if you are these kind of expert developers or senior engineers,
+
+39
+00:04:58,140 --> 00:05:05,140
+you can just use Oracle CLI to enjoy this crypto-native coding experience.
+
+40
+00:05:05,140 --> 00:05:09,140
+And beyond that, if you want to try out these crypto-native agents,
+
+41
+00:05:09,140 --> 00:05:14,140
+you can also visit the website and launch the agent just by a few clicks.
+
+42
+00:05:16,140 --> 00:05:18,140
+And I share a lot of things.
+
+43
+00:05:18,140 --> 00:05:23,140
+You can just quickly check out various different websites.
+
+44
+00:05:23,140 --> 00:05:29,140
+But my point is that we are already at the beginning of this agentic era.
+
+45
+00:05:29,140 --> 00:05:36,140
+And for most of the time in the future, it's not like whether you are sort of powerful enough.
+
+46
+00:05:36,140 --> 00:05:43,140
+For most of the time, it's like whether you can leverage the AI or different tools to make yourself more powerful enough.
+
+47
+00:05:44,140 --> 00:05:48,140
+And as I mentioned, agent is not the master. You are the master.
+
+48
+00:05:48,140 --> 00:05:51,140
+And the AI is just the tools.
+
+49
+00:05:51,140 --> 00:05:59,140
+You should figure out how to use these AI tools to empower yourself to be a much bigger person
+
+50
+00:05:59,140 --> 00:06:05,140
+and to really enjoy this agentic era in the future.
+
+51
+00:06:05,140 --> 00:06:08,140
+That's all my sharing. Thanks, everyone.
+
+52
+00:06:08,140 --> 00:06:13,720
+Thank you, YQ.
+
+53
+00:06:13,720 --> 00:06:20,720
+Thank you for giving us the insight and suggestions on using AI agents on Ethereum.
+
+54
+00:06:20,720 --> 00:06:28,720
+Moving forward, Joseph Schallen, CEO of SharpLink, will have a conversation with Henry Chen, CBO of SNZ.
+
+55
+00:06:28,720 --> 00:06:31,720
+Please welcome Joseph and Henry.
+
+56
+00:06:31,720 --> 00:07:01,480
+Thank you, Joseph. Thanks, everyone, for participating in the afternoon.
+
+57
+00:07:01,480 --> 00:07:05,480
+My name is Henry Chen. I'm the CBO of SNZ.
+
+58
+00:07:05,480 --> 00:07:11,480
+Very happy to host the Fireside Chat together with Joseph Schallen, CEO of SharpLink.
+
+59
+00:07:11,480 --> 00:07:17,480
+Joseph, we are at the application panel, and I notice you have your jeans on.
+
+60
+00:07:17,480 --> 00:07:19,480
+Very suitable for a session.
+
+61
+00:07:19,480 --> 00:07:26,480
+I also see you have been on the stage for the third time of this week during the Web3 festivals.
+
+62
+00:07:26,480 --> 00:07:29,480
+How do you feel so far?
+
+63
+00:07:29,480 --> 00:07:33,480
+I feel great. First of all, welcome, and thank you for having me.
+
+64
+00:07:33,480 --> 00:07:36,480
+I'm Joseph Schallen, CEO of SharpLink.
+
+65
+00:07:36,480 --> 00:07:43,480
+I'll tell you about SharpLink in a minute, but this is my third time in Hong Kong in the last five months.
+
+66
+00:07:43,480 --> 00:07:51,480
+I keep on coming back because I think it has properties that are very different than many other places I travel to.
+
+67
+00:07:51,480 --> 00:07:55,480
+If it's okay, later in this talk, I'll share what they are.
+
+68
+00:07:55,480 --> 00:08:02,480
+SharpLink is the first digital asset treasury not on Bitcoin.
+
+69
+00:08:02,480 --> 00:08:05,480
+Our treasury reserve asset is Ether.
+
+70
+00:08:05,480 --> 00:08:10,480
+We launched last June. We're listed on the US Nasdaq exchange.
+
+71
+00:08:10,480 --> 00:08:19,480
+Today, we own about US$2 billion of Ether, and we make it incredibly productive in the Ethereum ecosystem.
+
+72
+00:08:19,480 --> 00:08:22,480
+I'm really pleased to be here with you, Henry.
+
+73
+00:08:22,480 --> 00:08:25,480
+Thank you. Likewise, happy to see you again here.
+
+74
+00:08:25,480 --> 00:08:28,480
+You mentioned it's the third time for five months.
+
+75
+00:08:28,480 --> 00:08:30,480
+What brings you to Hong Kong?
+
+76
+00:08:30,480 --> 00:08:34,480
+Why do you come so often as the team, I understand, actually out of the United States?
+
+77
+00:08:34,480 --> 00:08:41,480
+Sure. If I can be very honest, in the beginning, the first trip was on a world tour,
+
+78
+00:08:41,480 --> 00:08:45,480
+spending time in Tokyo and Seoul and Singapore and Hong Kong.
+
+79
+00:08:45,480 --> 00:08:51,480
+Initially, I thought I was coming to Hong Kong because of the density of capital.
+
+80
+00:08:51,480 --> 00:08:56,480
+It was a great place to meet investors, both retail and institutional.
+
+81
+00:08:56,480 --> 00:09:00,480
+What was shocking, and what brings me back for the second and third time,
+
+82
+00:09:00,480 --> 00:09:03,480
+is not just the concentration of capital.
+
+83
+00:09:03,480 --> 00:09:06,480
+It is the concentration of talent.
+
+84
+00:09:06,480 --> 00:09:11,480
+That talent is in the Ethereum ecosystem and the AI ecosystem,
+
+85
+00:09:11,480 --> 00:09:17,480
+combined with something that's missing in this world, and that is stability.
+
+86
+00:09:17,480 --> 00:09:21,480
+If you're building businesses, if you're investing,
+
+87
+00:09:21,480 --> 00:09:28,480
+you want a region that has a stable environment with very clear regulation,
+
+88
+00:09:28,480 --> 00:09:31,480
+and Hong Kong certainly offers us that.
+
+89
+00:09:31,480 --> 00:09:36,480
+That's why it's a very attractive place to build, to invest, and attract talent.
+
+90
+00:09:36,480 --> 00:09:40,480
+You mentioned the regulation, but we're going to come back to that point in a minute.
+
+91
+00:09:40,480 --> 00:09:44,480
+Maybe for some of the audience who don't know your background,
+
+92
+00:09:44,480 --> 00:09:48,480
+may I maybe share with you a bit more insight?
+
+93
+00:09:48,480 --> 00:09:52,480
+You spent two decades at BlackRock,
+
+94
+00:09:52,480 --> 00:09:57,480
+driving and leading the development of the digital asset initiatives
+
+95
+00:09:57,480 --> 00:10:01,480
+and the FinTech initiatives of BlackRock, and then you retired.
+
+96
+00:10:01,480 --> 00:10:05,480
+Then you came back from retirement for Ethereum.
+
+97
+00:10:05,480 --> 00:10:08,480
+What made you make that decision?
+
+98
+00:10:08,480 --> 00:10:11,480
+For the people in the audience who are not aware,
+
+99
+00:10:11,480 --> 00:10:15,480
+BlackRock is a US-based asset manager, but it's global.
+
+100
+00:10:15,480 --> 00:10:20,480
+It manages over $14 trillion of assets around the globe.
+
+101
+00:10:20,480 --> 00:10:24,480
+It is the largest manager of money globally.
+
+102
+00:10:24,480 --> 00:10:29,480
+For most of my career there, thank you for reminding me that I'm old.
+
+103
+00:10:29,480 --> 00:10:35,480
+For most of my career, I helped a team scale a FinTech platform called Aladdin.
+
+104
+00:10:35,480 --> 00:10:41,480
+You can think of it as the largest enterprise portfolio management,
+
+105
+00:10:41,480 --> 00:10:46,480
+trading, and risk management platform for investors on the buy side.
+
+106
+00:10:46,480 --> 00:10:53,480
+It actually gave me a front row seat on how the market structure globally was working.
+
+107
+00:10:53,480 --> 00:10:55,480
+We'll come back to that.
+
+108
+00:10:55,480 --> 00:11:00,480
+The last six years at BlackRock, I was lucky enough to lead a very small,
+
+109
+00:11:00,480 --> 00:11:06,480
+but a very talented team who had the idea that BlackRock can play a leadership role
+
+110
+00:11:06,480 --> 00:11:11,480
+in changing how traditional financial players viewed crypto
+
+111
+00:11:11,480 --> 00:11:16,480
+and how the crypto digital asset community understood traditional investors.
+
+112
+00:11:16,480 --> 00:11:18,480
+We did that in a few ways.
+
+113
+00:11:18,480 --> 00:11:23,480
+We became the manager of the USDC Circle Reserve,
+
+114
+00:11:23,480 --> 00:11:27,480
+all the treasuries that backed the second largest stablecoin,
+
+115
+00:11:27,480 --> 00:11:30,480
+to learn how money is going to move in the future,
+
+116
+00:11:30,480 --> 00:11:34,480
+both for consumers and for institutions and in agentic.
+
+117
+00:11:34,480 --> 00:11:39,480
+The second is we built the largest crypto products in history.
+
+118
+00:11:39,480 --> 00:11:45,480
+We launched ETFs for Bitcoin and ETH in 2024,
+
+119
+00:11:45,480 --> 00:11:50,480
+and humbly, they were the fastest growing financial products in history.
+
+120
+00:11:50,480 --> 00:11:54,480
+We raised about $100 billion in a couple of years.
+
+121
+00:11:54,480 --> 00:11:58,480
+That's not because we had the greatest ideas,
+
+122
+00:11:58,480 --> 00:12:02,480
+but there was significant demand from both retail and institutions,
+
+123
+00:12:02,480 --> 00:12:07,480
+not just in the U.S. but globally, to own Bitcoin and ETH in their portfolios,
+
+124
+00:12:07,480 --> 00:12:11,480
+and they liked owning it through a traditional exchange product.
+
+125
+00:12:11,480 --> 00:12:16,480
+And then finally, we believe that tokenization of real world assets,
+
+126
+00:12:16,480 --> 00:12:20,480
+stocks, bonds, funds, real estates, commodities,
+
+127
+00:12:20,480 --> 00:12:25,480
+are going to fundamentally bring in a new era of finance,
+
+128
+00:12:25,480 --> 00:12:28,480
+an era of on-chain digital finance,
+
+129
+00:12:28,480 --> 00:12:32,480
+and an agentic finance that we've never seen before.
+
+130
+00:12:32,480 --> 00:12:34,480
+So we invested in the ecosystem,
+
+131
+00:12:34,480 --> 00:12:38,480
+and we tokenized a yield-bearing fund on Ethereum
+
+132
+00:12:38,480 --> 00:12:42,480
+that became the largest tokenized fund in history,
+
+133
+00:12:42,480 --> 00:12:49,480
+almost $3 billion on-chain to provide yield to people who wanted to stay on-chain,
+
+134
+00:12:49,480 --> 00:12:52,480
+but didn't want to sacrifice losing yield.
+
+135
+00:12:52,480 --> 00:12:54,480
+So it was a great journey.
+
+136
+00:12:54,480 --> 00:12:56,480
+That was a really long answer.
+
+137
+00:12:56,480 --> 00:13:00,480
+I retired for six weeks, but I believe very strongly,
+
+138
+00:13:00,480 --> 00:13:02,480
+from the bottom of my heart,
+
+139
+00:13:02,480 --> 00:13:10,480
+that Ethereum is going to be the future decentralized, programmable, 24-7 chain,
+
+140
+00:13:10,480 --> 00:13:12,480
+not the only chain in the world,
+
+141
+00:13:12,480 --> 00:13:15,480
+but it will be the chain that runs the future of capital markets.
+
+142
+00:13:15,480 --> 00:13:19,480
+And SharpLink, which was the first digital asset treasury,
+
+143
+00:13:19,480 --> 00:13:25,480
+was built to give investors access to that future opportunity,
+
+144
+00:13:25,480 --> 00:13:30,480
+to own our stock, which gives you access to Ether and its performance,
+
+145
+00:13:30,480 --> 00:13:34,480
+and to make Ether as productive as possible in the ecosystem
+
+146
+00:13:34,480 --> 00:13:37,480
+through staking and other yield generation activities.
+
+147
+00:13:37,480 --> 00:13:41,480
+So it has been an incredibly fun journey.
+
+148
+00:13:41,480 --> 00:13:46,480
+I've never had more fun than watching the pace of change here in Hong Kong
+
+149
+00:13:46,480 --> 00:13:49,480
+and the pace of change that's coming to Asia.
+
+150
+00:13:49,480 --> 00:13:51,480
+While it's being led in the U.S.,
+
+151
+00:13:51,480 --> 00:13:53,480
+Hong Kong is a fast follower
+
+152
+00:13:53,480 --> 00:13:58,480
+and has all the characteristics to be the digital leader in all of Asia.
+
+153
+00:13:58,480 --> 00:14:01,480
+Well, I certainly heard a lot of passion and excitement
+
+154
+00:14:01,480 --> 00:14:04,480
+when you talk about the application in Hong Kong.
+
+155
+00:14:04,480 --> 00:14:06,480
+I want to come back to the regulation.
+
+156
+00:14:06,480 --> 00:14:13,480
+Actually, there was a big regulatory progress or policy coming out just two weeks ago.
+
+157
+00:14:13,480 --> 00:14:15,480
+The HKMA, the Hong Kong Central Bank,
+
+158
+00:14:15,480 --> 00:14:20,480
+actually issued two licenses on stablecoin to two issuers.
+
+159
+00:14:20,480 --> 00:14:26,480
+And I understand SharpLink has been trying to focus a lot on payment aspects
+
+160
+00:14:26,480 --> 00:14:28,480
+empowered by stablecoin,
+
+161
+00:14:28,480 --> 00:14:35,480
+and previously Blackcore worked very closely with one of the earliest stablecoin issuers.
+
+162
+00:14:35,480 --> 00:14:38,480
+Could you maybe share a bit more on the stablecoin side
+
+163
+00:14:38,480 --> 00:14:44,480
+and also touch on the regulatory difference or similarity between Hong Kong and the U.S.?
+
+164
+00:14:44,480 --> 00:14:46,480
+Well, first of all, congratulations.
+
+165
+00:14:46,480 --> 00:14:48,480
+And there's a reason why I say congratulations,
+
+166
+00:14:48,480 --> 00:14:52,480
+because there are a lot of other regions who haven't yet figured out
+
+167
+00:14:52,480 --> 00:15:00,480
+that stablecoins, regulated stablecoins run by sophisticated institutions with risk management,
+
+168
+00:15:00,480 --> 00:15:03,480
+is the first building block.
+
+169
+00:15:03,480 --> 00:15:05,480
+It's a prerequisite.
+
+170
+00:15:05,480 --> 00:15:09,480
+It's a requirement for the future of a digital economy.
+
+171
+00:15:09,480 --> 00:15:13,480
+Payments are not going to happen using Hong Kong dollars or fiat.
+
+172
+00:15:13,480 --> 00:15:16,480
+They're going to happen through a digital Hong Kong dollar.
+
+173
+00:15:16,480 --> 00:15:20,480
+And it's not just to move tokenized assets.
+
+174
+00:15:20,480 --> 00:15:25,480
+Many listed companies are going to adopt stablecoins to move cash,
+
+175
+00:15:25,480 --> 00:15:30,480
+to move treasury assets in an instant, not to wait a day.
+
+176
+00:15:30,480 --> 00:15:33,480
+And you're going to start seeing cross-border commerce,
+
+177
+00:15:33,480 --> 00:15:38,480
+so commercial activities leveraging the Hong Kong dollar stablecoin.
+
+178
+00:15:39,480 --> 00:15:44,480
+And I think in the long run, when there is an ability to tokenize assets,
+
+179
+00:15:44,480 --> 00:15:50,480
+whether it's stocks on the Hong Kong exchange or real estate or other assets,
+
+180
+00:15:50,480 --> 00:15:54,480
+the means of distribution and payment is going to be on Ethereum,
+
+181
+00:15:54,480 --> 00:15:57,480
+but the movement of value is going to happen using stablecoins.
+
+182
+00:15:57,480 --> 00:16:03,480
+So you can think of it as the first building block for a future digital economy.
+
+183
+00:16:03,480 --> 00:16:07,480
+So I actually congratulate the HKMA to Duncan,
+
+184
+00:16:07,480 --> 00:16:11,480
+who's been a leader in your legislator, and Oasis,
+
+185
+00:16:11,480 --> 00:16:17,480
+the arm of the government who's interested in promoting technology and innovation.
+
+186
+00:16:17,480 --> 00:16:21,480
+They're doing it safely, but this is just the beginning.
+
+187
+00:16:21,480 --> 00:16:24,480
+It is not the end of the regulation that's necessary
+
+188
+00:16:24,480 --> 00:16:29,480
+to make Hong Kong a leader in Asia for digital commerce.
+
+189
+00:16:29,480 --> 00:16:30,480
+Thank you, thank you.
+
+190
+00:16:30,480 --> 00:16:34,480
+And coming back to SharpLink, for the past four months,
+
+191
+00:16:34,480 --> 00:16:38,480
+SharpLink has been focusing on the digital asset strategies,
+
+192
+00:16:38,480 --> 00:16:42,480
+digital asset treasury strategies for Ethereum.
+
+193
+00:16:42,480 --> 00:16:48,480
+And for the public, they've seen, and SharpLink is the first one to do so,
+
+194
+00:16:48,480 --> 00:16:50,480
+I would like to focus, emphasize.
+
+195
+00:16:50,480 --> 00:16:53,480
+Can you maybe share with the public, with the audience,
+
+196
+00:16:53,480 --> 00:17:01,480
+what differentiates SharpLink from other digital asset companies or DAT companies,
+
+197
+00:17:01,480 --> 00:17:04,480
+in particular for the DAT companies in Ethereum ecosystem?
+
+198
+00:17:04,480 --> 00:17:07,480
+Sure. So for audience members who are not aware,
+
+199
+00:17:07,480 --> 00:17:12,480
+the first digital asset treasury was built by a gentleman named Michael Saylor.
+
+200
+00:17:12,480 --> 00:17:16,480
+He built a company called MicroStrategy. Today it's called Strategy.
+
+201
+00:17:16,480 --> 00:17:21,480
+And he had the idea that if investors wanted to access Bitcoin,
+
+202
+00:17:21,480 --> 00:17:25,480
+many struggled to own the spot Bitcoin themselves,
+
+203
+00:17:25,480 --> 00:17:28,480
+set up a wallet, do their own custody.
+
+204
+00:17:28,480 --> 00:17:31,480
+So he built a public company as a treasury,
+
+205
+00:17:31,480 --> 00:17:34,480
+so he would buy the Bitcoin and you would buy his equity.
+
+206
+00:17:34,480 --> 00:17:40,480
+Ethereum is actually a much better digital asset treasury product.
+
+207
+00:17:40,480 --> 00:17:44,480
+The reason is Bitcoin is a store of value.
+
+208
+00:17:44,480 --> 00:17:48,480
+You own it, you hold it, and you hope it goes up in value,
+
+209
+00:17:48,480 --> 00:17:50,480
+it goes down in value, it continues to grow.
+
+210
+00:17:50,480 --> 00:17:55,480
+Ethereum has a property just like Bitcoin where it stores value,
+
+211
+00:17:55,480 --> 00:17:59,480
+but it also is the future network,
+
+212
+00:17:59,480 --> 00:18:05,480
+and Ether, the token, is what's securing trillions of dollars of value.
+
+213
+00:18:05,480 --> 00:18:08,480
+But the final difference, and it's really critical to listen to,
+
+214
+00:18:08,480 --> 00:18:14,480
+is Ether can generate yield, meaning you can own your Ether tokens,
+
+215
+00:18:14,480 --> 00:18:17,480
+hold it for capital appreciation,
+
+216
+00:18:17,480 --> 00:18:21,480
+but Ether, if you stake it in the ecosystem to secure transactions,
+
+217
+00:18:21,480 --> 00:18:26,480
+you can earn almost 3% yield beyond just holding the asset.
+
+218
+00:18:26,480 --> 00:18:30,480
+At SharpLink, we are completely differentiated from Bitcoin debts
+
+219
+00:18:30,480 --> 00:18:35,480
+and even from our Ethereum competitors in that we were the first
+
+220
+00:18:35,480 --> 00:18:41,480
+to stake nearly 100% of the Ether to generate Ethereum rewards,
+
+221
+00:18:41,480 --> 00:18:45,480
+which shows up on our balance sheet as revenue for our investors.
+
+222
+00:18:45,480 --> 00:18:50,480
+Second is we have something that's very hard to find in this room.
+
+223
+00:18:50,480 --> 00:18:53,480
+It's very hard to find in the crypto industry.
+
+224
+00:18:53,480 --> 00:18:56,480
+It's what we call permanent capital.
+
+225
+00:18:56,480 --> 00:18:59,480
+We own our Ether for a generation.
+
+226
+00:18:59,480 --> 00:19:02,480
+We don't have to sell it like an ETF,
+
+227
+00:19:02,480 --> 00:19:07,480
+which means we can take our Ether, go out into the Ethereum protocol community,
+
+228
+00:19:07,480 --> 00:19:12,480
+and make it available for staking and restaking in massive scale.
+
+229
+00:19:12,480 --> 00:19:16,480
+And when we do that, very often we're able to get incentives,
+
+230
+00:19:16,480 --> 00:19:20,480
+higher returns than the average Ethereum staker,
+
+231
+00:19:20,480 --> 00:19:23,480
+and we do that for the benefit of our investors.
+
+232
+00:19:23,480 --> 00:19:27,480
+So we're one of the largest treasuries in the world.
+
+233
+00:19:27,480 --> 00:19:29,480
+We own $2 billion of ETH,
+
+234
+00:19:29,480 --> 00:19:33,480
+and we have an institutional team who knows how to get additional yield
+
+235
+00:19:33,480 --> 00:19:37,480
+while keeping the risk within an institutional framework.
+
+236
+00:19:37,480 --> 00:19:40,480
+And we're quite proud to keep coming back to Hong Kong
+
+237
+00:19:40,480 --> 00:19:45,480
+because I think Ethereum here is a leading development platform.
+
+238
+00:19:45,480 --> 00:19:47,480
+It's a builder community,
+
+239
+00:19:47,480 --> 00:19:51,480
+and I'd love to share later what I saw yesterday,
+
+240
+00:19:51,480 --> 00:19:54,480
+which made me so excited in West Kowloon.
+
+241
+00:19:54,480 --> 00:19:56,480
+All right, thank you.
+
+242
+00:19:56,480 --> 00:19:58,480
+Maybe, since you mentioned that,
+
+243
+00:19:58,480 --> 00:20:05,480
+let's maybe talk about what has been taking place during your recent trips,
+
+244
+00:20:05,480 --> 00:20:07,480
+especially for the past few days.
+
+245
+00:20:07,480 --> 00:20:11,480
+I know you attended a very big event related to the Ethereum community,
+
+246
+00:20:11,480 --> 00:20:13,480
+and you spent a full day there.
+
+247
+00:20:13,480 --> 00:20:16,480
+Very busy, but hopefully very rewarding.
+
+248
+00:20:16,480 --> 00:20:18,480
+So could you share with the public who wasn't there,
+
+249
+00:20:18,480 --> 00:20:22,480
+what was happening, and how did you see the crowds and the community?
+
+250
+00:20:22,480 --> 00:20:28,480
+Sure. Ethereum has a special connection to China and Hong Kong.
+
+251
+00:20:28,480 --> 00:20:32,480
+You'll hear later today around 4 or 4.30 from Vitalik Buterin,
+
+252
+00:20:32,480 --> 00:20:35,480
+who is the founder of Ethereum.
+
+253
+00:20:35,480 --> 00:20:37,480
+The founder of Ethereum.
+
+254
+00:20:37,480 --> 00:20:40,480
+And Dr. Xiao from Hashkey will be interviewing him.
+
+255
+00:20:40,480 --> 00:20:43,480
+They had deep roots in Shanghai.
+
+256
+00:20:43,480 --> 00:20:46,480
+You'll hear Vitalik speak not in my broken English,
+
+257
+00:20:46,480 --> 00:20:49,480
+but in pretty good Mandarin.
+
+258
+00:20:49,480 --> 00:20:52,480
+And what's really special is because of that history,
+
+259
+00:20:52,480 --> 00:20:57,480
+there are community builders and contributors to the Ethereum ecosystem.
+
+260
+00:20:57,480 --> 00:21:03,480
+But yesterday was a remarkable and I would say a noteworthy and special day.
+
+261
+00:21:03,480 --> 00:21:08,480
+In collaboration with SNZ and with the Ethereum Foundation,
+
+262
+00:21:08,480 --> 00:21:13,480
+and I commend Aya as the president, I commend Gilles and SNZ,
+
+263
+00:21:13,480 --> 00:21:20,480
+they built in West Kowloon the first Ethereum community hub in Asia,
+
+264
+00:21:20,480 --> 00:21:23,480
+and they chose Hong Kong specifically.
+
+265
+00:21:23,480 --> 00:21:28,480
+And it's going to house builders not just of core Ethereum protocols,
+
+266
+00:21:28,480 --> 00:21:34,480
+applications, AI-related capabilities, quantum-proof applications,
+
+267
+00:21:34,480 --> 00:21:40,480
+and most importantly, they're going to build things that we can't even imagine today.
+
+268
+00:21:40,480 --> 00:21:43,480
+And what's important about this is Ethereum was built
+
+269
+00:21:43,480 --> 00:21:46,480
+not as a centralized marketing organization,
+
+270
+00:21:46,480 --> 00:21:51,480
+not as a locked-in vendor chain like many of the others.
+
+271
+00:21:51,480 --> 00:21:55,480
+Ethereum was built through ongoing contributions of the community
+
+272
+00:21:55,480 --> 00:22:00,480
+with Hong Kong and Shanghai being at the roots, the hearts, and the centers.
+
+273
+00:22:00,480 --> 00:22:03,480
+So I'm really, really excited.
+
+274
+00:22:03,480 --> 00:22:08,480
+Vitalik spoke yesterday of this idea that there's going to be a new way
+
+275
+00:22:08,480 --> 00:22:10,480
+that code will be built.
+
+276
+00:22:10,480 --> 00:22:14,480
+Code will be built in a way that will find bugs,
+
+277
+00:22:14,480 --> 00:22:19,480
+because if you don't, the large language models will find them for you.
+
+278
+00:22:19,480 --> 00:22:24,480
+And Ethereum was built initially as a tower of capabilities,
+
+279
+00:22:24,480 --> 00:22:31,480
+but over the next few years, Ethereum will be rebuilt from scratch with new capabilities,
+
+280
+00:22:31,480 --> 00:22:34,480
+not adding floors to a tower or skyscraper,
+
+281
+00:22:34,480 --> 00:22:39,480
+but reimagining it every few years because the pace of technology is changing.
+
+282
+00:22:39,480 --> 00:22:42,480
+So even though it's just a building,
+
+283
+00:22:42,480 --> 00:22:48,480
+it will be a sacred place where builders and innovators can be mentored,
+
+284
+00:22:48,480 --> 00:22:52,480
+can be invested in, and can meet the institutional community.
+
+285
+00:22:52,480 --> 00:22:54,480
+So I found it to be a remarkable day.
+
+286
+00:22:54,480 --> 00:22:59,480
+The first time the Ethereum Foundation built a hub for the future,
+
+287
+00:22:59,480 --> 00:23:01,480
+and they chose Hong Kong.
+
+288
+00:23:01,480 --> 00:23:03,480
+And I think it was intentional.
+
+289
+00:23:03,480 --> 00:23:04,480
+That's great to hear.
+
+290
+00:23:04,480 --> 00:23:11,480
+And I think there are two keywords that repeatedly was mentioned in your notes so far.
+
+291
+00:23:11,480 --> 00:23:14,480
+One is builder, one is application.
+
+292
+00:23:14,480 --> 00:23:19,480
+As a leader of SharpLink and together with actually the co-founder of Ethereum,
+
+293
+00:23:19,480 --> 00:23:22,480
+Joe Lubin, as a chairman on the board,
+
+294
+00:23:22,480 --> 00:23:26,480
+how do you see SharpLink progress in the future,
+
+295
+00:23:26,480 --> 00:23:29,480
+you know, starting with a debt company,
+
+296
+00:23:29,480 --> 00:23:35,480
+but how would you focus on what applications and ecosystem for Ethereum in the future?
+
+297
+00:23:35,480 --> 00:23:38,480
+Sure. For those of you who don't know consensus,
+
+298
+00:23:38,480 --> 00:23:44,480
+Joe Lubin, my chairman, is a co-founder of Ethereum alongside Vitalik and several others.
+
+299
+00:23:44,480 --> 00:23:49,480
+And when Ethereum was being built, somebody had to build the applications,
+
+300
+00:23:49,480 --> 00:23:52,480
+the wallets, the developer tools.
+
+301
+00:23:52,480 --> 00:23:55,480
+So Joe Lubin built a company called Consensus.
+
+302
+00:23:55,480 --> 00:24:02,480
+It is the owner of Metamask, one of the most widely used Web3 wallets in the world today.
+
+303
+00:24:02,480 --> 00:24:07,480
+And what that gives us is access directly to the newest protocols,
+
+304
+00:24:07,480 --> 00:24:13,480
+to the most innovative builders, and as an Ethereum capital holder,
+
+305
+00:24:13,480 --> 00:24:17,480
+billions of dollars of Ether, we kind of have a first look,
+
+306
+00:24:17,480 --> 00:24:20,480
+a first opportunity, not only to stake our ETH,
+
+307
+00:24:20,480 --> 00:24:24,480
+but to invest into these communities for profit,
+
+308
+00:24:24,480 --> 00:24:30,480
+to invest in these protocols, not for short-term yield harvesting,
+
+309
+00:24:30,480 --> 00:24:34,480
+but to invest in these communities to give them their initial capital,
+
+310
+00:24:34,480 --> 00:24:39,480
+to give them that ability to start and attract new capital,
+
+311
+00:24:39,480 --> 00:24:44,480
+and that is part of our mandate, because what's good for Ethereum is good for Ether
+
+312
+00:24:44,480 --> 00:24:46,480
+and is good for SharpLink.
+
+313
+00:24:46,480 --> 00:24:49,480
+So we think we clearly have a for-profit model,
+
+314
+00:24:49,480 --> 00:24:56,480
+but we have a responsibility to give back, and being part of Consensus is incredibly powerful.
+
+315
+00:24:56,480 --> 00:25:00,480
+But beyond being a treasury, we're going to continue to accumulate Ether
+
+316
+00:25:00,480 --> 00:25:06,480
+until we hold about 5% of the Ethereum pool.
+
+317
+00:25:06,480 --> 00:25:09,480
+We've grown about 0.7% today.
+
+318
+00:25:09,480 --> 00:25:15,480
+But over time, we'll build operating businesses that are aligned with the Ethereum ecosystem
+
+319
+00:25:15,480 --> 00:25:21,480
+and hopefully spin off Ethereum-denominated returns and revenue,
+
+320
+00:25:21,480 --> 00:25:25,480
+which will be another way to accumulate Ether on our balance sheet.
+
+321
+00:25:25,480 --> 00:25:27,480
+So it's quite exciting.
+
+322
+00:25:27,480 --> 00:25:34,480
+The last thing I'll say on this topic is people are too focused on the price of Bitcoin and ETH and Solana.
+
+323
+00:25:34,480 --> 00:25:38,480
+The best time to build is when you're at a low.
+
+324
+00:25:38,480 --> 00:25:43,480
+You can find the best talent. You can really innovate.
+
+325
+00:25:43,480 --> 00:25:49,480
+So at moments of drawdowns and consolidations, that is the time to lean in and build,
+
+326
+00:25:49,480 --> 00:25:53,480
+not to get scared, but to actually find the opportunities.
+
+327
+00:25:53,480 --> 00:25:56,480
+Retail is scared right now of the price of crypto,
+
+328
+00:25:56,480 --> 00:26:01,480
+but institutions are piling in like we've never seen before.
+
+329
+00:26:01,480 --> 00:26:06,480
+That's great. What advice would you give to the founders and builders,
+
+330
+00:26:06,480 --> 00:26:10,480
+especially when they're building applications, payment?
+
+331
+00:26:10,480 --> 00:26:15,480
+Off the stadium, you actually shared a lot of points on agentics, for example.
+
+332
+00:26:15,480 --> 00:26:18,480
+Is there anything you can share with the audience today?
+
+333
+00:26:18,480 --> 00:26:24,480
+Sure. So I come from a culture where respect for elders was really, really important.
+
+334
+00:26:24,480 --> 00:26:29,480
+In my culture, my parents came first, my grandparents came first,
+
+335
+00:26:29,480 --> 00:26:33,480
+and we were obedient. You know, we followed rules.
+
+336
+00:26:33,480 --> 00:26:37,480
+But I said a message yesterday at the Ethereum Community Hub,
+
+337
+00:26:37,480 --> 00:26:40,480
+and I hope it's conveyed properly in Chinese.
+
+338
+00:26:40,480 --> 00:26:46,480
+I would ask builders and innovators, whether it's Ethereum or AI or agentic,
+
+339
+00:26:46,480 --> 00:26:50,480
+to be respectfully disobedient.
+
+340
+00:26:50,480 --> 00:26:53,480
+Respectfully disobedient.
+
+341
+00:26:53,480 --> 00:27:00,480
+Respect the principles of honesty and decentralization and long-term thinking
+
+342
+00:27:00,480 --> 00:27:04,480
+and building with privacy first and security first.
+
+343
+00:27:04,480 --> 00:27:08,480
+Respect the principles, but be disobedient.
+
+344
+00:27:08,480 --> 00:27:12,480
+Don't build on top of the tower that was built before.
+
+345
+00:27:12,480 --> 00:27:16,480
+Don't build the same type of applications in an incremental manner.
+
+346
+00:27:16,480 --> 00:27:20,480
+Imagine that if you were starting to build a tower from scratch,
+
+347
+00:27:20,480 --> 00:27:22,480
+how would you build it today?
+
+348
+00:27:22,480 --> 00:27:28,480
+And even Vitalik will say, there is nothing sacred about the current stack.
+
+349
+00:27:28,480 --> 00:27:31,480
+Rebuild it. Re-innovate.
+
+350
+00:27:31,480 --> 00:27:34,480
+So be respectful of the principles,
+
+351
+00:27:34,480 --> 00:27:40,480
+but be disobedient in following what we've built today.
+
+352
+00:27:40,480 --> 00:27:42,480
+That is at the crux of innovation.
+
+353
+00:27:42,480 --> 00:27:48,480
+And I think agentic, we heard from a previous speaker a lot of the technical elements,
+
+354
+00:27:48,480 --> 00:27:52,480
+but I'd love to speak about the vision of what agentic is going to look like,
+
+355
+00:27:52,480 --> 00:27:58,480
+because I think most people, humans underestimate how big the change that's coming,
+
+356
+00:27:58,480 --> 00:28:05,480
+not in a decade, but in this year and next in our lives on agentic.
+
+357
+00:28:05,480 --> 00:28:10,480
+Yes. Actually, do you want to expand on the agentic payment part, for example?
+
+358
+00:28:10,480 --> 00:28:14,480
+Given actually consensus was the parent code of Metamask,
+
+359
+00:28:14,480 --> 00:28:19,480
+and Metamask was the first most broadly adopted DeFi wallet,
+
+360
+00:28:19,480 --> 00:28:26,480
+which DeFi is actually the infrastructure to support the future agentic economy in my mind.
+
+361
+00:28:26,480 --> 00:28:29,480
+So can you maybe expand on that?
+
+362
+00:28:29,480 --> 00:28:34,480
+I will, but can I give you a global macro-historical view?
+
+363
+00:28:34,480 --> 00:28:38,480
+To the young people in the room, or even the middle-aged in the room,
+
+364
+00:28:38,480 --> 00:28:43,480
+most generations, most centuries see one, maybe two innovations
+
+365
+00:28:43,480 --> 00:28:47,480
+that fundamentally change society and how people live.
+
+366
+00:28:47,480 --> 00:28:52,480
+It was the railroad, it was the steam engine, it was the telegraph,
+
+367
+00:28:52,480 --> 00:28:57,480
+it was the automated assembly line, and it was the internet in the 90s.
+
+368
+00:28:57,480 --> 00:29:01,480
+Usually there's one mega-force that you see in a generation,
+
+369
+00:29:01,480 --> 00:29:06,480
+and it changes how people exchange information, how people build,
+
+370
+00:29:06,480 --> 00:29:11,480
+how people communicate with one another, and how people pay each other.
+
+371
+00:29:11,480 --> 00:29:14,480
+We are lucky and grateful to live through a time
+
+372
+00:29:14,480 --> 00:29:23,480
+where there are four or five mega-forces colliding and converging in this very moment.
+
+373
+00:29:23,480 --> 00:29:26,480
+For young people, this doesn't happen in our lifetimes.
+
+374
+00:29:26,480 --> 00:29:28,480
+Let me tell you what they are.
+
+375
+00:29:28,480 --> 00:29:34,480
+There is the greatest transfer of wealth from grandparents to children and grandchildren
+
+376
+00:29:34,480 --> 00:29:37,480
+that we've ever seen in human history.
+
+377
+00:29:37,480 --> 00:29:40,480
+In every region around the world, the aging are going to pass
+
+378
+00:29:40,480 --> 00:29:44,480
+tens and tens of trillions of dollars of assets.
+
+379
+00:29:44,480 --> 00:29:48,480
+It's not going to people who go to physical banks.
+
+380
+00:29:48,480 --> 00:29:53,480
+They don't trust advisors, they trust code, and they trust their phones.
+
+381
+00:29:53,480 --> 00:29:57,480
+How many of you in the room use AI on a daily basis?
+
+382
+00:29:57,480 --> 00:29:59,480
+Almost everyone.

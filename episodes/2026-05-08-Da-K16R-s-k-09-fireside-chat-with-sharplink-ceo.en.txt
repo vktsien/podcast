@@ -1,0 +1,382 @@
+It contains multiple registries. Right now, this registration contract is online for a lot of these chains.
+And later on, this reputation validation system will also be online to help these users to really validate and give reputation on different agents.
+If you really want to check out what's online and what's on-chain for the different agents, feel free to check out this 8004scan.io.
+Beyond that, as we can see, we already support most of the chains, and at the same time, we can see different chains that have different types of agents.
+Some agents do this DeFi trading, and some of them do this kind of portfolio management. Some of them do this yield farming across different chains.
+And the growth is pretty fast across all different chains.
+At the same time, as Austin in the morning mentioned about, he created these easy skills. It covers Ethereum and different L2s.
+Beyond that, we found that for a lot of the agents on this 8004scan, they probably want something extra.
+For example, they also want to know the knowledge of the chain itself, the protocol itself, and they also want to further know all the different endpoints for different DeFi protocols.
+And typically, some DeFi protocols have different contract deployment on different chains.
+To provide very accurate information, we also developed this CryptoSkill.org.
+It indexes all the crypto and blockchain information, not just on-chain, not just all the DAX.
+It also supports a bunch of the CEX and all the necessary information for different blockchain builders, crypto builders, and all traders.
+Beyond that, as I mentioned, after all these learnings and practices, we figured that just providing this information and doing the engineering ourselves is not enough.
+And it's better, based on our experience, to provide some tools for blockchain builders in general.
+So that's why we built a complete engineering suite for all the developers who are using this web coding and engineering.
+It includes a very fine-tuned, not just one, multiple fine-tuned models we call AltLM.
+Right now you can visit altlm.ai and you can choose different models, and the model itself has all the necessary information of crypto and blockchain.
+So then in that case, you don't really need to import extra MCP skills.
+You can just call the models and then you can get what you want from these blockchain and crypto.
+And beyond that, I know a lot of these developers, they prefer CLI, all these kind of terminals, instead of this website or chat box.
+So we also built another CLI called AltCode.
+Based on the benchmark from Cloud Code and Codex, Alice did rank AltCode even better than Cloud Code and also this Codex CLI.
+And beyond that, we have another product called CloudCrawl.
+And we empower all different agents and hosted on-chain and also on the cloud.
+So you can just click once and then you can have the agent to do all the different tasks for you.
+And I just mentioned, for normal users, you can just use this RM.
+It has the chat box, you can just click and go through and right now it has some welcome gifts.
+If you want some extra credits, you can go to our booth and our team members will give you some extra credits to use it.
+Beyond that, it has all different MCP tools already embedded into the models.
+So you can directly use it to code whatever, for example, do the engineering for the Ethereum core protocol.
+Beyond that, it's self-learning, self-evolving protocol.
+And we're automatically learning and creating new skills for blockchains and crypto.
+And beyond that, it has all different types of models.
+You can use these models for different tasks.
+For example, you can use a basic model for this kind of normal checking.
+You can also use some other models for coding all these more complex tasks.
+And beyond that, as I mentioned, if you are these kind of expert developers or senior engineers,
+you can just use Oracle CLI to enjoy this crypto-native coding experience.
+And beyond that, if you want to try out these crypto-native agents,
+you can also visit the website and launch the agent just by a few clicks.
+And I share a lot of things.
+You can just quickly check out various different websites.
+But my point is that we are already at the beginning of this agentic era.
+And for most of the time in the future, it's not like whether you are sort of powerful enough.
+For most of the time, it's like whether you can leverage the AI or different tools to make yourself more powerful enough.
+And as I mentioned, agent is not the master. You are the master.
+And the AI is just the tools.
+You should figure out how to use these AI tools to empower yourself to be a much bigger person
+and to really enjoy this agentic era in the future.
+That's all my sharing. Thanks, everyone.
+Thank you, YQ.
+Thank you for giving us the insight and suggestions on using AI agents on Ethereum.
+Moving forward, Joseph Schallen, CEO of SharpLink, will have a conversation with Henry Chen, CBO of SNZ.
+Please welcome Joseph and Henry.
+Thank you, Joseph. Thanks, everyone, for participating in the afternoon.
+My name is Henry Chen. I'm the CBO of SNZ.
+Very happy to host the Fireside Chat together with Joseph Schallen, CEO of SharpLink.
+Joseph, we are at the application panel, and I notice you have your jeans on.
+Very suitable for a session.
+I also see you have been on the stage for the third time of this week during the Web3 festivals.
+How do you feel so far?
+I feel great. First of all, welcome, and thank you for having me.
+I'm Joseph Schallen, CEO of SharpLink.
+I'll tell you about SharpLink in a minute, but this is my third time in Hong Kong in the last five months.
+I keep on coming back because I think it has properties that are very different than many other places I travel to.
+If it's okay, later in this talk, I'll share what they are.
+SharpLink is the first digital asset treasury not on Bitcoin.
+Our treasury reserve asset is Ether.
+We launched last June. We're listed on the US Nasdaq exchange.
+Today, we own about US$2 billion of Ether, and we make it incredibly productive in the Ethereum ecosystem.
+I'm really pleased to be here with you, Henry.
+Thank you. Likewise, happy to see you again here.
+You mentioned it's the third time for five months.
+What brings you to Hong Kong?
+Why do you come so often as the team, I understand, actually out of the United States?
+Sure. If I can be very honest, in the beginning, the first trip was on a world tour,
+spending time in Tokyo and Seoul and Singapore and Hong Kong.
+Initially, I thought I was coming to Hong Kong because of the density of capital.
+It was a great place to meet investors, both retail and institutional.
+What was shocking, and what brings me back for the second and third time,
+is not just the concentration of capital.
+It is the concentration of talent.
+That talent is in the Ethereum ecosystem and the AI ecosystem,
+combined with something that's missing in this world, and that is stability.
+If you're building businesses, if you're investing,
+you want a region that has a stable environment with very clear regulation,
+and Hong Kong certainly offers us that.
+That's why it's a very attractive place to build, to invest, and attract talent.
+You mentioned the regulation, but we're going to come back to that point in a minute.
+Maybe for some of the audience who don't know your background,
+may I maybe share with you a bit more insight?
+You spent two decades at BlackRock,
+driving and leading the development of the digital asset initiatives
+and the FinTech initiatives of BlackRock, and then you retired.
+Then you came back from retirement for Ethereum.
+What made you make that decision?
+For the people in the audience who are not aware,
+BlackRock is a US-based asset manager, but it's global.
+It manages over $14 trillion of assets around the globe.
+It is the largest manager of money globally.
+For most of my career there, thank you for reminding me that I'm old.
+For most of my career, I helped a team scale a FinTech platform called Aladdin.
+You can think of it as the largest enterprise portfolio management,
+trading, and risk management platform for investors on the buy side.
+It actually gave me a front row seat on how the market structure globally was working.
+We'll come back to that.
+The last six years at BlackRock, I was lucky enough to lead a very small,
+but a very talented team who had the idea that BlackRock can play a leadership role
+in changing how traditional financial players viewed crypto
+and how the crypto digital asset community understood traditional investors.
+We did that in a few ways.
+We became the manager of the USDC Circle Reserve,
+all the treasuries that backed the second largest stablecoin,
+to learn how money is going to move in the future,
+both for consumers and for institutions and in agentic.
+The second is we built the largest crypto products in history.
+We launched ETFs for Bitcoin and ETH in 2024,
+and humbly, they were the fastest growing financial products in history.
+We raised about $100 billion in a couple of years.
+That's not because we had the greatest ideas,
+but there was significant demand from both retail and institutions,
+not just in the U.S. but globally, to own Bitcoin and ETH in their portfolios,
+and they liked owning it through a traditional exchange product.
+And then finally, we believe that tokenization of real world assets,
+stocks, bonds, funds, real estates, commodities,
+are going to fundamentally bring in a new era of finance,
+an era of on-chain digital finance,
+and an agentic finance that we've never seen before.
+So we invested in the ecosystem,
+and we tokenized a yield-bearing fund on Ethereum
+that became the largest tokenized fund in history,
+almost $3 billion on-chain to provide yield to people who wanted to stay on-chain,
+but didn't want to sacrifice losing yield.
+So it was a great journey.
+That was a really long answer.
+I retired for six weeks, but I believe very strongly,
+from the bottom of my heart,
+that Ethereum is going to be the future decentralized, programmable, 24-7 chain,
+not the only chain in the world,
+but it will be the chain that runs the future of capital markets.
+And SharpLink, which was the first digital asset treasury,
+was built to give investors access to that future opportunity,
+to own our stock, which gives you access to Ether and its performance,
+and to make Ether as productive as possible in the ecosystem
+through staking and other yield generation activities.
+So it has been an incredibly fun journey.
+I've never had more fun than watching the pace of change here in Hong Kong
+and the pace of change that's coming to Asia.
+While it's being led in the U.S.,
+Hong Kong is a fast follower
+and has all the characteristics to be the digital leader in all of Asia.
+Well, I certainly heard a lot of passion and excitement
+when you talk about the application in Hong Kong.
+I want to come back to the regulation.
+Actually, there was a big regulatory progress or policy coming out just two weeks ago.
+The HKMA, the Hong Kong Central Bank,
+actually issued two licenses on stablecoin to two issuers.
+And I understand SharpLink has been trying to focus a lot on payment aspects
+empowered by stablecoin,
+and previously Blackcore worked very closely with one of the earliest stablecoin issuers.
+Could you maybe share a bit more on the stablecoin side
+and also touch on the regulatory difference or similarity between Hong Kong and the U.S.?
+Well, first of all, congratulations.
+And there's a reason why I say congratulations,
+because there are a lot of other regions who haven't yet figured out
+that stablecoins, regulated stablecoins run by sophisticated institutions with risk management,
+is the first building block.
+It's a prerequisite.
+It's a requirement for the future of a digital economy.
+Payments are not going to happen using Hong Kong dollars or fiat.
+They're going to happen through a digital Hong Kong dollar.
+And it's not just to move tokenized assets.
+Many listed companies are going to adopt stablecoins to move cash,
+to move treasury assets in an instant, not to wait a day.
+And you're going to start seeing cross-border commerce,
+so commercial activities leveraging the Hong Kong dollar stablecoin.
+And I think in the long run, when there is an ability to tokenize assets,
+whether it's stocks on the Hong Kong exchange or real estate or other assets,
+the means of distribution and payment is going to be on Ethereum,
+but the movement of value is going to happen using stablecoins.
+So you can think of it as the first building block for a future digital economy.
+So I actually congratulate the HKMA to Duncan,
+who's been a leader in your legislator, and Oasis,
+the arm of the government who's interested in promoting technology and innovation.
+They're doing it safely, but this is just the beginning.
+It is not the end of the regulation that's necessary
+to make Hong Kong a leader in Asia for digital commerce.
+Thank you, thank you.
+And coming back to SharpLink, for the past four months,
+SharpLink has been focusing on the digital asset strategies,
+digital asset treasury strategies for Ethereum.
+And for the public, they've seen, and SharpLink is the first one to do so,
+I would like to focus, emphasize.
+Can you maybe share with the public, with the audience,
+what differentiates SharpLink from other digital asset companies or DAT companies,
+in particular for the DAT companies in Ethereum ecosystem?
+Sure. So for audience members who are not aware,
+the first digital asset treasury was built by a gentleman named Michael Saylor.
+He built a company called MicroStrategy. Today it's called Strategy.
+And he had the idea that if investors wanted to access Bitcoin,
+many struggled to own the spot Bitcoin themselves,
+set up a wallet, do their own custody.
+So he built a public company as a treasury,
+so he would buy the Bitcoin and you would buy his equity.
+Ethereum is actually a much better digital asset treasury product.
+The reason is Bitcoin is a store of value.
+You own it, you hold it, and you hope it goes up in value,
+it goes down in value, it continues to grow.
+Ethereum has a property just like Bitcoin where it stores value,
+but it also is the future network,
+and Ether, the token, is what's securing trillions of dollars of value.
+But the final difference, and it's really critical to listen to,
+is Ether can generate yield, meaning you can own your Ether tokens,
+hold it for capital appreciation,
+but Ether, if you stake it in the ecosystem to secure transactions,
+you can earn almost 3% yield beyond just holding the asset.
+At SharpLink, we are completely differentiated from Bitcoin debts
+and even from our Ethereum competitors in that we were the first
+to stake nearly 100% of the Ether to generate Ethereum rewards,
+which shows up on our balance sheet as revenue for our investors.
+Second is we have something that's very hard to find in this room.
+It's very hard to find in the crypto industry.
+It's what we call permanent capital.
+We own our Ether for a generation.
+We don't have to sell it like an ETF,
+which means we can take our Ether, go out into the Ethereum protocol community,
+and make it available for staking and restaking in massive scale.
+And when we do that, very often we're able to get incentives,
+higher returns than the average Ethereum staker,
+and we do that for the benefit of our investors.
+So we're one of the largest treasuries in the world.
+We own $2 billion of ETH,
+and we have an institutional team who knows how to get additional yield
+while keeping the risk within an institutional framework.
+And we're quite proud to keep coming back to Hong Kong
+because I think Ethereum here is a leading development platform.
+It's a builder community,
+and I'd love to share later what I saw yesterday,
+which made me so excited in West Kowloon.
+All right, thank you.
+Maybe, since you mentioned that,
+let's maybe talk about what has been taking place during your recent trips,
+especially for the past few days.
+I know you attended a very big event related to the Ethereum community,
+and you spent a full day there.
+Very busy, but hopefully very rewarding.
+So could you share with the public who wasn't there,
+what was happening, and how did you see the crowds and the community?
+Sure. Ethereum has a special connection to China and Hong Kong.
+You'll hear later today around 4 or 4.30 from Vitalik Buterin,
+who is the founder of Ethereum.
+The founder of Ethereum.
+And Dr. Xiao from Hashkey will be interviewing him.
+They had deep roots in Shanghai.
+You'll hear Vitalik speak not in my broken English,
+but in pretty good Mandarin.
+And what's really special is because of that history,
+there are community builders and contributors to the Ethereum ecosystem.
+But yesterday was a remarkable and I would say a noteworthy and special day.
+In collaboration with SNZ and with the Ethereum Foundation,
+and I commend Aya as the president, I commend Gilles and SNZ,
+they built in West Kowloon the first Ethereum community hub in Asia,
+and they chose Hong Kong specifically.
+And it's going to house builders not just of core Ethereum protocols,
+applications, AI-related capabilities, quantum-proof applications,
+and most importantly, they're going to build things that we can't even imagine today.
+And what's important about this is Ethereum was built
+not as a centralized marketing organization,
+not as a locked-in vendor chain like many of the others.
+Ethereum was built through ongoing contributions of the community
+with Hong Kong and Shanghai being at the roots, the hearts, and the centers.
+So I'm really, really excited.
+Vitalik spoke yesterday of this idea that there's going to be a new way
+that code will be built.
+Code will be built in a way that will find bugs,
+because if you don't, the large language models will find them for you.
+And Ethereum was built initially as a tower of capabilities,
+but over the next few years, Ethereum will be rebuilt from scratch with new capabilities,
+not adding floors to a tower or skyscraper,
+but reimagining it every few years because the pace of technology is changing.
+So even though it's just a building,
+it will be a sacred place where builders and innovators can be mentored,
+can be invested in, and can meet the institutional community.
+So I found it to be a remarkable day.
+The first time the Ethereum Foundation built a hub for the future,
+and they chose Hong Kong.
+And I think it was intentional.
+That's great to hear.
+And I think there are two keywords that repeatedly was mentioned in your notes so far.
+One is builder, one is application.
+As a leader of SharpLink and together with actually the co-founder of Ethereum,
+Joe Lubin, as a chairman on the board,
+how do you see SharpLink progress in the future,
+you know, starting with a debt company,
+but how would you focus on what applications and ecosystem for Ethereum in the future?
+Sure. For those of you who don't know consensus,
+Joe Lubin, my chairman, is a co-founder of Ethereum alongside Vitalik and several others.
+And when Ethereum was being built, somebody had to build the applications,
+the wallets, the developer tools.
+So Joe Lubin built a company called Consensus.
+It is the owner of Metamask, one of the most widely used Web3 wallets in the world today.
+And what that gives us is access directly to the newest protocols,
+to the most innovative builders, and as an Ethereum capital holder,
+billions of dollars of Ether, we kind of have a first look,
+a first opportunity, not only to stake our ETH,
+but to invest into these communities for profit,
+to invest in these protocols, not for short-term yield harvesting,
+but to invest in these communities to give them their initial capital,
+to give them that ability to start and attract new capital,
+and that is part of our mandate, because what's good for Ethereum is good for Ether
+and is good for SharpLink.
+So we think we clearly have a for-profit model,
+but we have a responsibility to give back, and being part of Consensus is incredibly powerful.
+But beyond being a treasury, we're going to continue to accumulate Ether
+until we hold about 5% of the Ethereum pool.
+We've grown about 0.7% today.
+But over time, we'll build operating businesses that are aligned with the Ethereum ecosystem
+and hopefully spin off Ethereum-denominated returns and revenue,
+which will be another way to accumulate Ether on our balance sheet.
+So it's quite exciting.
+The last thing I'll say on this topic is people are too focused on the price of Bitcoin and ETH and Solana.
+The best time to build is when you're at a low.
+You can find the best talent. You can really innovate.
+So at moments of drawdowns and consolidations, that is the time to lean in and build,
+not to get scared, but to actually find the opportunities.
+Retail is scared right now of the price of crypto,
+but institutions are piling in like we've never seen before.
+That's great. What advice would you give to the founders and builders,
+especially when they're building applications, payment?
+Off the stadium, you actually shared a lot of points on agentics, for example.
+Is there anything you can share with the audience today?
+Sure. So I come from a culture where respect for elders was really, really important.
+In my culture, my parents came first, my grandparents came first,
+and we were obedient. You know, we followed rules.
+But I said a message yesterday at the Ethereum Community Hub,
+and I hope it's conveyed properly in Chinese.
+I would ask builders and innovators, whether it's Ethereum or AI or agentic,
+to be respectfully disobedient.
+Respectfully disobedient.
+Respect the principles of honesty and decentralization and long-term thinking
+and building with privacy first and security first.
+Respect the principles, but be disobedient.
+Don't build on top of the tower that was built before.
+Don't build the same type of applications in an incremental manner.
+Imagine that if you were starting to build a tower from scratch,
+how would you build it today?
+And even Vitalik will say, there is nothing sacred about the current stack.
+Rebuild it. Re-innovate.
+So be respectful of the principles,
+but be disobedient in following what we've built today.
+That is at the crux of innovation.
+And I think agentic, we heard from a previous speaker a lot of the technical elements,
+but I'd love to speak about the vision of what agentic is going to look like,
+because I think most people, humans underestimate how big the change that's coming,
+not in a decade, but in this year and next in our lives on agentic.
+Yes. Actually, do you want to expand on the agentic payment part, for example?
+Given actually consensus was the parent code of Metamask,
+and Metamask was the first most broadly adopted DeFi wallet,
+which DeFi is actually the infrastructure to support the future agentic economy in my mind.
+So can you maybe expand on that?
+I will, but can I give you a global macro-historical view?
+To the young people in the room, or even the middle-aged in the room,
+most generations, most centuries see one, maybe two innovations
+that fundamentally change society and how people live.
+It was the railroad, it was the steam engine, it was the telegraph,
+it was the automated assembly line, and it was the internet in the 90s.
+Usually there's one mega-force that you see in a generation,
+and it changes how people exchange information, how people build,
+how people communicate with one another, and how people pay each other.
+We are lucky and grateful to live through a time
+where there are four or five mega-forces colliding and converging in this very moment.
+For young people, this doesn't happen in our lifetimes.
+Let me tell you what they are.
+There is the greatest transfer of wealth from grandparents to children and grandchildren
+that we've ever seen in human history.
+In every region around the world, the aging are going to pass
+tens and tens of trillions of dollars of assets.
+It's not going to people who go to physical banks.
+They don't trust advisors, they trust code, and they trust their phones.
+How many of you in the room use AI on a daily basis?
+Almost everyone.

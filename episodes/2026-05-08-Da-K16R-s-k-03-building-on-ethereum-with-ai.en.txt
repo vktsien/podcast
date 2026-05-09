@@ -1,0 +1,427 @@
+around your business is affecting.
+That's actually, you know, we've been seeing these news
+last couple of weeks.
+And so again, can your project survive,
+provide real solution, but also can your project survive
+10 years at minimum?
+Like I hope it's longer than 10 years.
+But I do truly believe that the way for business
+to succeed, then actually my first work in the industry,
+that company was very much focused on security.
+It was hard for us to even do a lot of business thing
+because security sometimes feel like it's blocking,
+but that was the way for the business to survive.
+And so how can you build applications
+that actually provide real solution?
+That's one thing, but also how do you sustain the business
+to not just financially, so just if you only think
+about the financial survival and then that solution
+doesn't stick, so you need to think about
+whether you're providing real solution to the end users.
+And then it comes from real motivations of you, yeah.
+Yeah, and I want to thank Aya again
+for your first time in Hong Kong
+and directly talk to the broader ecosystem audience here.
+And I think what we'll take from today
+is that Ethereum Foundation is just like many of others.
+Just like many of others, yeah.
+And everyone, if you want to build on Ethereum,
+just do it, but they are still very important
+is that there are some still very key principles
+we need to keep on, yeah.
+And keep that and then build something
+towards the next 10 years towards the applications.
+Thank you.
+Thank you both.
+Please take a picture first.
+Please take a picture first, yeah.
+And just a quick note about the organizer today
+is the Ethereum Application Guild, AKA EAG,
+a global non-profit collaborative organization
+dedicated to advancing the innovation, adoption,
+and real-world impact of Ethereum native applications.
+And up next, Austin Griffiths, head of Builder Girls
+at the Ethereum Foundation on building on Ethereum with AI.
+And Austin will be connecting with us through the internet.
+Hi, Austin, can you hear us?
+Yes, I can, can you hear me?
+Yes, how are you feeling today?
+Oh, I'm feeling great.
+It's still yesterday for me, but I'm ready.
+Okay, you can start anytime.
+Okay, GM, GM, GM, thank you for having me, EAG.
+So yeah, does my validator look good
+on the big screen up there?
+Can you see my Ethereum validator running
+in the background making blocks?
+Okay, so we're gonna talk about building on Ethereum with AI.
+We're going to go through some concrete examples,
+look at some skill files,
+but my goal here is to help you learn
+how to build on Ethereum.
+The confession I have to make
+is that I haven't written a line of code
+in a year and a half, maybe two years.
+So I've been using AI to build on Ethereum for a long time,
+and I'm gonna show you some of my tips and tricks
+about how to build on Ethereum.
+Hopefully you can see my screen and we can get going here.
+Let me jump to the next slide.
+Okay, so I wanna talk about this builder
+versus this developer, first of all.
+I was the head of developer growth at the EF,
+but I'm changing my title to head of builder growth
+because I think there's this widening archetype.
+I think developers are into the syntax
+and they know how to write a lot of code,
+but you know what, AI is really good at that these days.
+So with AI and with the tools that we have,
+I think there's this widening archetype of a builder,
+and that could be anyone anywhere
+with a good idea of something to put on Ethereum
+that will help cypherpunks all around the world
+use Ethereum in a cool way.
+So what I'm trying to get to is that we are all builders
+and you don't have to be a developer anymore
+and you can use AI to build on top of Ethereum.
+So if you're following the AI space,
+you probably sometimes have a feeling of
+it's hard to keep up with everything.
+And first of all, it's new, everything,
+it's still the wild west, it's still the frontier.
+Just try to embrace AI a little bit.
+And I think that probably one of the best places to learn
+is still Twitter, same thing with crypto.
+It's sort of like crypto Twitter
+is one of the best places to learn.
+Twitter, go follow people that put out really good AI content
+and you'll have lots of cool things
+that you can learn from there.
+And you wanna start thinking
+from a higher layer of abstraction.
+Instead of saying, go write this line of code,
+go center this div, you should be saying,
+go build an NFT marketplace that's gasless.
+And the AI will get really good at building these things
+with some skill files that we'll talk about in a little bit.
+But also beware of the LARPs, right?
+There's so many people faking it on Twitter too.
+There's so many people that say like,
+I have my local model hooked up
+and I'm building code as fast as Opus.
+Sadly, they're not building as fast
+as these frontier models.
+So beware of the LARPs.
+Okay, so the first thing is the evolution
+of building with AI.
+Let's talk through that.
+First of all, we were copy pasting things into chat GPT
+and bringing them across into our code, right?
+And then after that, we had cursor
+and you could finally have the AI kind of looking
+at your code and working with you in line.
+And then Claude code came along
+and you could kind of have this team of agents
+or kind of an agent like thing in your CLI
+and it was working with you in building code.
+And then this real inflection point happened in November.
+That was when Opus 4.5 came out
+and that particular model was good enough
+that it could actually start one-shotting apps.
+I built this QR code generator just a little bit ago.
+It's this little guy here.
+All I did was give it like one prompt
+to make a QR code generator.
+And there it is, like there's the QR code generator.
+So it's pretty good at building things
+and Opus 4.5 can one-shot these things quickly.
+So this turning point happened,
+oops, I think I might be frozen.
+Hopefully it's okay.
+This turning point happened with Opus 4.5 in November,
+this major inflection point when the model was good enough
+that it could one-shot these apps.
+And it's still, if you even take Opus 4.7
+and you tell it to one-shot an app on Ethereum,
+it's gonna have a lot of troubles
+because Ethereum moves so fast
+and there's so many things that aren't built into the LLM,
+but we'll get to that in a little bit.
+I think what I wanna get to here is the evolution
+after this inflection point, after we had Opus 4.5,
+the next thing that came was these agent harnesses
+that sort of created these agents, right?
+Once you had an AI agent and you could talk to it,
+they weren't just chat bots anymore.
+They were actually, you could spin up your open claw
+and you could talk to your open claw
+and it could control your computer.
+And so many things kind of shook loose from that
+and this is my favorite thing to build with.
+So with open claw, I have a whole army of agents
+inside my telegram.
+I used to write code with my fingers.
+I don't do that anymore.
+I just get on telegram and I say,
+hey agent, go build me this,
+or go add this feature to this website.
+And it's not just some website somewhere,
+it's actual things that you connect your wallet through,
+actual crypto apps, building smart contracts.
+So I have an army of agents
+that are deploying smart contract apps.
+I even have an agent pipeline
+where people can hire my agents to build things
+and then they can pay in USDC on chain.
+And my agent has built a couple of smart contracts
+that have like a quarter of a million dollars
+in them right now.
+And a human didn't even look at the code.
+Now, this is dangerous and a little scary
+and everyone shouldn't do this,
+but I'm just talking about
+this is getting to be more and more accessible
+and someone with a good idea and a good skill file
+and a good agent can build things right away.
+So what is an agent, right?
+An agent is kind of just like an LLM with a game loop
+and a set of tools, right?
+You can kind of think of that loop
+as just like a control structure where you're prompting it
+and then it has some memory.
+And agents are really good
+for really like open-ended tasks, right?
+So when you're going to build something,
+you don't have to give it a single feature anymore.
+You don't have to say center the div,
+put this text there, right?
+An agent is good at sort of starting to figure out
+these more general purpose things
+and you can start to talk to your agent
+with these nice models at a higher level of abstraction.
+And so my setup, I have a bunch of OpenClaw
+or Hermes or some other harness,
+but right now I'm using OpenClaw.
+And what I do is for every project,
+I set up an OpenClaw agent that is the product manager.
+And then I set up an OpenClaw agent
+with the same shared workspace that is the builder.
+Usually that's Opus.
+So I'll have Opus 4.7 as my builder
+and then I'll have a product manager.
+Sometimes I have two product managers.
+Sometimes I'll have Sonnet as one product manager
+and sometimes I'll have Minimax M27 as another.
+And it's like a very, very cheap model.
+So if I'm just like chatting with my code,
+telling it to do a get push, I'm probably using Minimax.
+If I'm chatting and I'm thinking of how we're gonna go
+about making this next feature,
+I'm probably talking to Sonnet.
+And then when it goes to build the thing,
+it will push it all to Opus
+and that agent will build the thing
+and then Sonnet will probably run some tests.
+But what's really nice about having a set of agents
+for one project is anytime I need to go back
+to that project, I can just go back to that Telegram channel
+and say, hey, let's add this new feature
+and it already has all of the context for that
+and it can jump right in and build that thing.
+And I always find myself kind of wavering
+between efficient and effective.
+And what I mean by that is my agents will be really effective
+at building something, but it will be very expensive.
+I'll spend hundreds of dollars in one day.
+And then, so I'll try to make it more efficient
+and I'll try to use Minimax M7 more.
+And then it's just not as effective
+and it messes up a little bit.
+And then I'm back to paying more
+and I kind of find myself kind of going
+between these two things.
+And I think what you need to do
+is have your general purpose agent that you're talking to
+but understand that it's expensive
+and then have specific agents for specific jobs
+and try to have them be more efficient.
+So you have your general purpose
+that's very effective and expensive
+and then have your specific agents that do specific things
+and you can make them more and more efficient
+with their workflows.
+Okay, so the million dollar question right now
+is how you give your agent a wallet.
+It loves private keys, right?
+I can give my OpenClaw a private key
+and it can use Foundry and Cast
+and it can go send money here and put money there
+and it's very fast and very good at doing that.
+But there's a little scary part about that.
+My agent will get in a chat room
+and be chatting with someone
+and send over the private key if they ask nicely for it.
+So you have to be very careful
+if you give your agent a private key
+to just keep a tiny amount of money in it,
+just enough for gas to do what it needs to do.
+You can give your agent a browser wallet
+and that like MetaMask or Kohaku who's coming out soon
+and it can use that, but it's a little clunky
+and it's still trying to figure that out.
+So we're not quite there with that, but it works.
+My agent can use a MetaMask.
+It does it every day when it needs to.
+It even wrote its own app and then used its MetaMask
+to interface with the app all night long.
+It was moderating.
+It was a PFP marketplace
+and it was moderating the marketplace,
+making sure nothing nasty got posted to it.
+What we really need though is something like a passkey.
+I think the best agent wallet would be something
+where an agent can have something signed
+like a transaction signed,
+but then it can't leak the private key.
+It needs access to be able to use the private key,
+but it can't leak the private key.
+And I think that's the million dollar question right now.
+And there's a lot of people building agent wallets.
+If you get on Twitter and start searching for agent wallets,
+you're going to find a lot of them.
+One of my favorite ways to have my agent use crypto
+is with a multisig.
+I'll have my agent either deploy its own multisig
+or talk to my gnosis safe.
+And what I'll tell it,
+I'll tell it some intent in plain English.
+Please go swap this for that,
+or please send these tokens to ATG or Vitalik.ETH.
+And it will basically send me back a link
+and I'll click that link
+and I'll go sign the transaction in my multisig.
+So there's a lot of different flavors
+of agentic wallets right now,
+but this is definitely a hot topic to keep an eye on.
+Okay, when you're building,
+it really comes down to having a good AI model
+and a good harness.
+Right now, we're just going to say
+that the state of the art is Opus 4.7
+and Hermes or OpenClaw or Clodcode or Cursor.
+Any of these things are good.
+So let's say you have Cursor or you have Clodcode
+or you have OpenClaw.
+Any of these are great.
+Select Sonnet or Opus,
+depending on how much money you want to spend,
+maybe a cheaper one you could try,
+maybe some local AI, right?
+Always try to get that local AI going
+and it's always awesome when it's free.
+You just got to have a lot of local hardware.
+But what you do is you're going to need skill files, okay?
+And if you're building anything right now
+that agents may want to interface with,
+you absolutely should have a skill file.
+You should have a slash skill.md on your website.
+So whatever your website is, something.com slash skill.md.
+And inside that skill.md, it should be plain text,
+just marked down, that explains in plain English
+everything that an agent can do and where to interface
+and what the API routes are.
+Basically, an agent can land on your website,
+go to skills.md and quickly learn about it.
+So also there's code.
+If you give your agent code, it's more deterministic.
+It's really good at using deterministic code
+to get things done.
+So anything you find yourself doing often,
+quit telling your general purpose agent to do that thing
+and write a piece of code for it
+and have it be a tool for your agent
+so your agent can just call it.
+Okay, so the skill file that I really want to show off today
+is ethskills.com.
+Ethskills.com is a skill library
+that I've been building with my team,
+the Builder Growth team at the EF.
+And it's a very highly curated skill library
+that helps upgrade your agent
+to be able to deploy things on Ethereum.
+There's a large delta between what the LLM knows
+and what has happened on main net Ethereum.
+There's things like gas
+and things like how to ship
+and what different tools you need.
+This is an interesting thing that the LLMs don't know
+when you wake them up
+and you have to give them a skill file.
+And this skill file gets them from I'm waking up
+and I don't know about anything in the last two years
+to I know exactly how to deploy on main net Ethereum
+and I know how to use the tools.
+So ethskills.com for giving your agent the ability to build.
+You can have cloud code, you can have cursor,
+you can have open claw, and you can just tell it,
+go to ethskills.com and learn how to do this
+and then let's go build X or Y or Z.
+And there's a QR code there for you to go to ethskills.
+And what it looks like is just this big block of text, right?
+It's this wild kind of like, oh, I can't even look at it.
+It's probably, you probably can't even read it
+on the screen.
+But it's just a bunch of information in plain text
+and it helps the agent learn all the different things
+that it needs to know.
+And we've curated this list.
+So these things that are in this are things
+that the LLM doesn't already know.
+If it already knew this, we'd be polluting the context.
+So you want to have really important things.
+And there's a huge list of context here.
+This is my craziest slide.
+We've got, you know, how to ship the protocol wallets.
+There's so many things here,
+but this teaches your agent everything
+about building on Ethereum.
+Okay, so how do you use it?
+This is the best part.
+You don't have to install anything.
+You can just tell your agent to go read each skills
+and it can even, you can even tell it like,
+go read each skills
+and make sure there's nothing bad about this.
+Make sure there's nothing nefarious
+and it can look at it and make sure there's nothing bad.
+So just tell your agent to go read each skills.
+Eventually, you might even want to tell your agent
+to install each skills and it will take in all these files,
+but they're just text files.
+It's so cool.
+There's nothing to ask to run.
+You can just bring in this like library
+into your thing that's just a bunch of text files
+and it learns Kung Fu immediately
+and it can build all kinds of cool smart contract apps.
+So this is for you as the user.
+Right, the AI needs each skills,
+but the human still needs the concepts.
+So you as the human should go to speed run Ethereum.
+So speed run Ethereum is a great place for you,
+the human to learn the concepts.
+One really critical concept is the liquidation method
+in over collateralized lending.
+Now there's a lot of words there
+and it sounds pretty complicated,
+but basically what happens is there's this automatic thing
+that happens that makes sure that a loan
+never goes underwater.
+The protocol always stays whole.
+And the way that it runs this thing
+is two very important concepts.
+First of all, the rules are written correctly.
+And second of all,
+there's an incentive to push the button.
+Anybody out there can push this button
+to liquidate a loan when it's liquidatable.

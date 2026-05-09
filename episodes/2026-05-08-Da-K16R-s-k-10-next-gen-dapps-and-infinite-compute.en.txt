@@ -1,0 +1,239 @@
+To have a wealth transfer to a younger generation who trust their phones and code, AI is part
+of their lives.
+They're not AI immigrants, they're AI natives.
+And when you compound that with this idea of agents, which were unheard of two to three
+years ago, our financial lives are going to change.
+Imagine a world in 2027 where you have a traditional bank account which has a crypto or on-chain
+digital wallet with it.
+Imagine you have a crypto wallet that's linked to your bank and to your phone.
+Imagine a world where every time you get a paycheck, your agent immediately takes your
+money, puts it in the highest yielding bank account.
+Or imagine every time you get a bonus or an inheritance or on a Chinese New Year, a red
+envelope, your agent understands your financial goals and is putting that money into Tesla
+or a bond or an index fund.
+Imagine you then own these assets in tokenized form.
+That is how stocks and bonds are going to exist next year.
+Imagine they can then take that stock or bond and lend it through your wallet to give you
+additional yield.
+And then every month or every night, it can look at your goals, it can look at your portfolio
+and automatically rebalance it.
+So what I'm suggesting is in a world where young people don't have access to institutional
+tools that are reserved for Wall Street and the largest banks, in a world where young
+people feel like they're falling behind financially, an agentic machine economy can help you bridge
+that gap, can get you better yields, better returns that can help you save for your first
+apartment, for a goal, for your child's wedding.
+And this is going to happen as your digital twin.
+Remember that word.
+Your bank is going to have a Web 3 wallet, you're not even going to know it's the blockchain
+and your digital twin will follow your instructions.
+The final thing I'll say is I really enjoyed the previous speaker and he said something
+interesting that you will be the master of your agent, not your agent.
+And I agree and I disagree.
+You will be in control of your agent, but you learn from masters.
+Remember the great scholars in China, you learned at the feet of your masters.
+So while you will have governance over your agent, your agent will teach you how to invest.
+Your agent will teach you how to rebalance your portfolio.
+Your agent will teach you how to achieve your goals.
+So while you control your agent, it could be a master to you to help you achieve better
+things in life than you can achieve on your own.
+And your agent doesn't lie and your agent doesn't sleep and your agent will obey you.
+That is the future we see in front of us sooner than we imagine.
+It's very exciting, a lot of new development implementations.
+And I know you will come back to Hong Kong and I hope I can see you soon.
+But as a final question, when next time you're back to Hong Kong, what change do you expect
+to see in terms of technology, in terms of ecosystem and the world role do you expect
+shop playing to play as a core Ethereum ecosystem players?
+I would hope and expect a few things.
+One is it's not enough to pass stable coin legislation.
+The stable coins have to grow in circulation and they have to be used to make crypto payments.
+They have to be used by corporate treasuries of the largest institutions.
+They have to be used in commerce and they have to be used eventually in agentic payments.
+You're not using a physical piece of paper for these agents to make micro payments.
+It'll happen with stable coins.
+I hope that the regulators will meet with the industry and think about how some of the
+financial markets can be existing in digital format.
+Like in the US where the New York Stock Exchange and the NASDAQ, two of the largest capital
+markets in the world are going to start trading on a tokenized basis 24-7.
+But what I'm most looking forward to is going back to West Kowloon to the Ethereum community
+hub and I hope it's filled with young people who are building and innovating and I hope
+to listen and learn to what they're building.
+That's what I'm looking forward to the next time I come here.
+SharpLink's role is to give investors opportunity to get access to this once in a lifetime Ethereum
+transformation.
+Buy a single stock on NASDAQ.
+We hope to raise capital here, but we also help to come invest in the local community
+through staking and through partnerships.
+If you own Ether, you have a responsibility to be part of the ecosystem and make it better.
+So I'm humbled to be here.
+I'm also quite excited to look back in three months or six months and I'll maybe leave
+you with a quote from one of the greatest American innovators named Bill Gates.
+For those of you who think I'm describing science fiction or something that you won't
+see in the next year or two, Bill Gates had a great quote.
+He was the leader of Microsoft, one of the most transformative enterprise software companies
+in the world, and he basically said that human beings overestimate what can be accomplished
+by an individual, a team, or technology in one year.
+We overestimate the impact of one year's innovation, but humans fundamentally underestimate the
+impact of an individual contributor, a builder, or a technology is going to have in a decade.
+We never would have imagined that AI in the year 2020 would have the impact it has today.
+We are fundamentally underestimating the level of prosperity and autonomy and access that
+these technologies will provide, and you won't think of them as crypto.
+You'll just think of them as the new user interface for the future of finance and commerce.
+So don't underestimate what's coming, lean in, learn, and participate, and stay true
+to the principles that we're talking about in the Ethereum community.
+Well, Joseph, I cannot learn enough from you, and I would love to carry on the conversation,
+but with limited time, I certainly hope to continue the conversation the next time you're
+coming back to Hong Kong, and I hope to see you soon in Hong Kong.
+Thank you so much for the time today.
+Thank you, and thank you to SNZ.
+Thank you both.
+If you leave the stage, please take a picture.
+Please give them a round of applause.
+Thank you.
+Now, Michael, co-founder and CEO of Brevis on building next-gen dApps with the infinite
+compute layer.
+Please welcome Michael.
+All right.
+Hello, everyone.
+This is Michael from Brevis.
+Thank you so much for coming to my talk this afternoon, and today I'm going to talk about
+been building at Brevis and how you can build the next generation of decentralized application
+using infinite computer power that is powered by Brevis.
+So what is Brevis?
+Brevis is what we call an infinite compute platform, and what it does is it is a ZK-powered
+verifiable computing platform that enables a lot of new use cases in blockchain applications.
+So before I dive into what we do exactly, let me kind of talk about the challenge we're
+trying to solve here.
+So blockchains themselves are often marketed as word computers.
+But if you look at all the blockchains that are available today, they simply cannot run
+faster than a single server, and it is extremely expensive to process transactions on blockchain.
+Well, you may say, OK, wait, wait, wait.
+This cannot be the case because we have been building blockchain scalability technology
+for years, so we should be able to build anything on blockchain today, right?
+Well, unfortunately, that is not the case.
+Let me give you a very concrete example here.
+So if you have ever used any centralized exchanges in the past, you all have used this kind of
+feature where if you trade it loud in this month, in the next month, you get a trading
+fee discount, right?
+So this is a bread and butter user retaining feature for centralized exchanges.
+You would imagine this kind of a feature will be available on every decentralized exchanges
+like Uniswap, PancakeSwap, and everywhere, right?
+But it's not actually the case.
+None of them have this feature.
+And it's not because they don't want to build this.
+It's actually because they're building this feature on blockchain directly requires a
+level of computation that is not available in today's blockchain because it's too expensive.
+Well, why is that?
+We want to ask why blockchains are actually this expensive, right?
+Well, it is actually deeply rooted in how blockchains work today.
+So blockchain is operated by something called distributed consensus, and you have a lot
+of different nodes in the blockchain network, and everyone is computing the same thing,
+so they can reach agreement on certain computation result and kind of move the blockchain forward.
+So let's say we have this two-node blockchain where we have Alice and Bob here, and Alice
+is trying to compute the result of this multiplication equation, and then Alice is now trying to
+convince Bob this is actually the correct result.
+So what does Bob do here?
+Well, the only way for Bob to actually reach consensus with Alice is to do the computation again.
+So this is okay, but this is actually problematic because a very simple kind of a computation
+that is, let's say you want to swap token A to token B on blockchain is now actually
+replicated a million times on blockchains like Ethereum because you have actually a
+million different kind of nodes in Ethereum, and that is why replicated computing is making
+blockchain extremely expensive to use.
+Well, so how do we solve this?
+Well, we can solve this by using a new concept called verifiable computing.
+In verifiable computing, you have different roles in the computing process.
+So you have Alice as not only the computing provider, but also a proof generator.
+So Alice is not only just doing the computing, but also generates a mathematical piece, a
+magical piece of mathematical proof called zero-knowledge proof.
+So the zero-knowledge proof is a very magical thing here that Alice can send to Bob here
+so that Bob can verify the computation is done correctly without actually rerunning
+the computation again.
+And this is very important because no matter how complex the original computation is, the
+verification cost is always tiny and the verification latency is always very low.
+And with this new primitive, we can build new kind of blockchains and even new kind
+of blockchain applications because now, you know, we don't actually need to run everything
+on blockchain themselves.
+We can actually offload very complex and heavy computation away from blockchain to this off-chain
+environment that we built called Brevis.
+And inside of Brevis, you can actually do the computation but also generate a zero-knowledge
+proof and you can bring the zero-knowledge proof back to the blockchain and the blockchain
+can use the computation result as if the entire computation happened on blockchain directly.
+The most important thing here is that this entire process does not actually introduce
+any additional trust assumptions and is as secure as if you're just doing everything
+on blockchain directly but at the same time, extremely low cost because the blockchains
+themselves are just verifying the computation result instead of actually doing the computation.
+So Brevis is actually massively used in production today and we have great adoption across, for
+example, the DeFi ecosystem and some of the biggest attacks today like PancakeSwap, Uniswap,
+are using us to build their user customisation and intelligent DeFi features.
+And we're also powering growth on things like Linea, BNB chain and many others.
+For example, we have helped Linea to launch their entire blockchain through a program
+called Linea Ignition Program that allows you to actually distribute the network token
+to users with ZK proof.
+And we have also been helping and building alongside of our reward asset partners especially
+in the stable token space that we help them to grow the stable token and so many others.
+So I mentioned like we have a lot of adoptions but what is actually Brevis?
+What is actually inside this magic box?
+Well, the centerpiece of our entire computing stack is something called a Pico ZKVM.
+So what is a ZKVM?
+Well, ZKVM is a general purpose virtual machine that you can run any program on top of it.
+And it's ZK and the ZK enabled means that you can actually run any program and generate
+a verifiable proof of the program's computing result.
+Now ZK or like kind of a cryptographic proof is actually very hard to learn mathematical
+concept.
+Before you have something like Pico ZKVM, all you can do is actually write the program
+in mathematical equations if you want to kind of make it a provable.
+But with ZKVM, what you can do is you can just write very high level language just like
+you write any software and then you can make this entire program provable and verifiable.
+So this is also how we're changing how blockchains are built and operated today.
+So Ethereum itself is actually moving towards a ZK oriented architecture.
+So instead of every validator in Ethereum, like millions of them, repeat the same kind
+of computation again and again.
+What now you can do is to have one validator do a very large amount of computation and
+generate a very small proof that you can use so that everyone else can just verify the
+proof of the computation is done correctly and then the blockchain can move forward.
+What this means is that you can actually use any hardware you have today, like even on
+your phone, to run a full node of Ethereum and reach maximal decentralization and at
+the same time maximal scalability.
+Like I'm talking about a hundred times better scalability of today's Ethereum blockchain.
+So to do this, what you need is an extremely fast ZK VM so that you can actually catch
+up with the blockchain production time.
+Like for Ethereum blocks it is produced every 12 seconds, so you need to actually be able
+to generate the proof of block execution within that 12 seconds.
+And this is what we do, ZK VM is as fast as ZK VM that allows you to generate the ZK proof
+for a blockchain execution within 12 seconds for 99% of Ethereum blocks.
+So as I mentioned there are numerous kind of use cases that you can use Brevis to build
+but I want to first share today with you that some of the use cases are even beyond just
+the blockchain applications.
+We're actually actively working on some AI-based applications.
+So I'm very happy to introduce a new product we built called Brevis Vera.
+We're trying to solve a very critical problem in Brevis Vera today, that is if you see a
+viral media, like a viral photo or viral movie or video online, the first question now you
+ask is always, is this actually real, is a video actually generated by AI or not?
+Well, one way you can do this is to use AI to defeat AI, use an AI model to defeat or
+to detect whether a video or a photo is actually generated by AI, but that is a never-ending
+arms race because you never can beat an AI with another AI.
+So what we're here trying to do is to provide a different solution that enables you to generate
+a test station of what is real.
+So we're not detecting what is fake, we're actually testing what is real.
+So we enable you to essentially start your entire test station chain from your device
+capture.
+So when you're capturing a photo on your device, you get a cryptographic signature of the raw
+data.
+And then even if you added all this data, even if you added all this kind of video,
+we can use our ZKVM to generate a zero-knowledge proof to show that the end result of the
+video or photo that you show is actually coming from a real device capture instead of generated
+by AI.
+So this way, you can solve the AI deep fake problem 100%.
+There's no kind of a fake, you know, AI deep fake possibility as long as you can prove
+the video you upload or the image you upload is actually real.
+So you know, Brevis Vera's beta is already live and we're working and talking to some
+of the biggest photo editing companies in the world and digital media editing companies
+in the world to integrate Vera in their core product.
+And you know, another very important category of application we power is something called
+Intelligent DeFi.
+So for example, we're working with PancakeSwap and to power their kind of a, you know, plug-in
+based, you know, DAX's approach that allows you to essentially customize user experience
+based on user's historical interaction with the protocol and application.
+So for example, now in PancakeSwap, if you actually swapped a lot in this month, and
+you can use Brevis to generate a ZK proof and get a trading fee discount in the next
+month.
+So you know, another side of Brevis and another side of ZK, you know, in a...

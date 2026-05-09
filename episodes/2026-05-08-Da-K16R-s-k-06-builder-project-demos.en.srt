@@ -1,0 +1,711 @@
+1
+00:00:00,000 --> 00:00:05,200
+model company. So basically you just set up, okay I need a robotic campaign and I
+
+2
+00:00:05,200 --> 00:00:10,000
+need a maybe person from the Philippines to annotate this side of the data and
+
+3
+00:00:10,000 --> 00:00:15,840
+the task will render automatically. You can see the revenue stream all the way.
+
+4
+00:00:15,840 --> 00:00:22,200
+That's our takeaway. So we just leverage the blockchain to track our
+
+5
+00:00:22,200 --> 00:00:28,800
+DID or 402 protocol to track our revenue and also data lineage.
+
+6
+00:00:28,800 --> 00:00:38,280
+Thanks. Thank you Kevin for the inspiring speech. And next we will welcome Primus.
+
+7
+00:00:38,280 --> 00:00:58,000
+Hello everyone. I'm Xavier from Primus. I'm the developer and the co-founder of the
+
+8
+00:00:58,000 --> 00:01:04,600
+team. So today I would like to show you something that solves a fundamental
+
+9
+00:01:04,600 --> 00:01:10,080
+blockchain problem. So that is how can we keep the financial transaction private
+
+10
+00:01:10,080 --> 00:01:18,800
+while still making it auditable. Primus is building a verification and the
+
+11
+00:01:18,800 --> 00:01:24,760
+privacy layer with two core technologies. One is CKTS, the Zero Knowledge Transport
+
+12
+00:01:24,760 --> 00:01:29,720
+Layer Security. It's a very cool technology that lets you to prove any off-chain
+
+13
+00:01:29,720 --> 00:01:36,120
+data. Something like your account ownership, your API execution, your
+
+14
+00:01:36,120 --> 00:01:42,120
+bank balance. And the power is it allows you to prove the data is correct without
+
+15
+00:01:42,120 --> 00:01:48,040
+even revealing the underlying content. And the second technology, FHE,
+
+16
+00:01:48,040 --> 00:01:54,800
+fully homomorphic encryption, which is the star of the demo. It allows you to
+
+17
+00:01:54,800 --> 00:02:00,360
+perform arbitrary computation on the encrypted data. So basically the data
+
+18
+00:02:00,360 --> 00:02:05,680
+doesn't need to be decrypted and to be processed. And the Primus is even
+
+19
+00:02:05,680 --> 00:02:11,720
+building a new protocol called ZKFHE or Verifiable FHE. It provides the
+
+20
+00:02:11,720 --> 00:02:16,360
+further computation integrity to the homomorphic encryption. So which means
+
+21
+00:02:16,360 --> 00:02:23,000
+the data is during the data processing you not only get the result from the
+
+22
+00:02:23,000 --> 00:02:28,560
+encrypted computation process, you also get a proof which states the data is
+
+23
+00:02:28,560 --> 00:02:35,840
+correctly computed. So Primus is offering this kind of cryptographic
+
+24
+00:02:35,840 --> 00:02:42,440
+native verifiability and the privacy for multiple blockchains and for different
+
+25
+00:02:42,440 --> 00:02:47,800
+applications including AI agents. On the technical side, the FHE
+
+26
+00:02:47,800 --> 00:02:54,080
+computing infrastructure we built here. We just built some system contract
+
+27
+00:02:54,560 --> 00:03:00,160
+on the host blockchain and the core component we call the alpha chain is a
+
+28
+00:03:00,160 --> 00:03:06,520
+real FHE engine doing the FHE operations of chain. And also we use the TE
+
+29
+00:03:06,520 --> 00:03:10,680
+technologies to handle the key measurement to further secure the whole
+
+30
+00:03:10,680 --> 00:03:20,310
+system. So here's a demo we built called Auditable Private Transfer. It's very
+
+31
+00:03:20,310 --> 00:03:25,110
+simple. It allows you to transfer any plan money into the encrypted money we
+
+32
+00:03:25,110 --> 00:03:30,390
+call the encrypted USDC here. And you can just transfer this encrypted money
+
+33
+00:03:30,390 --> 00:03:35,230
+between different wallet adjusts which means no one can see the details of the
+
+34
+00:03:35,230 --> 00:03:40,470
+transfer transaction. And you can further withdraw this money back, convert the
+
+35
+00:03:40,470 --> 00:03:44,470
+money from the encrypted version to the plain version. And also we support
+
+36
+00:03:44,470 --> 00:03:51,590
+audit which means the audit is able to review and to see the details of
+
+37
+00:03:51,590 --> 00:03:56,310
+the transaction and of the account details. And we just use a very
+
+38
+00:03:56,310 --> 00:04:02,910
+lightweight architecture here. We build it on the EVM chain. Here we use the
+
+39
+00:04:02,910 --> 00:04:08,030
+Firest testnet and then we use just a full core cloud instance to
+
+40
+00:04:08,030 --> 00:04:16,830
+do such a demo. So here is the demo. So basically you just connect your wallet.
+
+41
+00:04:16,830 --> 00:04:24,230
+Your first login with user we call Alice and you can decrypt to view how
+
+42
+00:04:24,230 --> 00:04:29,470
+much money Alice already has here. So he has some EUSDC which is the
+
+43
+00:04:29,470 --> 00:04:35,230
+encrypted money and some USDC here. So first let's make Alice deposit
+
+44
+00:04:35,230 --> 00:04:40,670
+some USDC into her own account. So you just confirm the
+
+45
+00:04:40,670 --> 00:04:46,390
+transaction and wait a few seconds here after the transaction has been
+
+46
+00:04:46,430 --> 00:04:51,070
+broadcasted and confirmed on the blockchain. So you just review and
+
+47
+00:04:51,070 --> 00:05:03,800
+decrypt your balance. Wait a few seconds. So here is the FHC result. You got
+
+48
+00:05:03,800 --> 00:05:08,480
+your balance here and you can further transfer your encrypted money which
+
+49
+00:05:08,480 --> 00:05:14,400
+means you can transfer your EUSDC to another account or to your
+
+50
+00:05:14,400 --> 00:05:20,480
+friends. So let's copy the address from Bob and you'll copy the address here and
+
+51
+00:05:20,520 --> 00:05:24,160
+you specify how much money you want to transfer and they'll confirm the
+
+52
+00:05:24,160 --> 00:05:33,150
+transaction. So again the transaction is being broadcasted and being confirmed
+
+53
+00:05:33,150 --> 00:05:38,270
+and they'll just further wait for a few seconds to make sure the transaction is
+
+54
+00:05:38,270 --> 00:05:51,330
+finalized. Okay you have the new money here and Alice is not able to be the
+
+55
+00:05:51,330 --> 00:05:56,210
+auditor. He cannot see anyone else's balance or account details. So let's
+
+56
+00:05:56,210 --> 00:06:03,510
+switch to another account. Let's use Bob's account here. So since Bob is
+
+57
+00:06:03,510 --> 00:06:09,550
+auditor already so he is able to access the audit portal and he is able to first
+
+58
+00:06:09,550 --> 00:06:14,950
+can add other auditor to this portal which makes them be able to access the
+
+59
+00:06:14,950 --> 00:06:20,070
+details of the system and also he can first synchronize all the
+
+60
+00:06:20,070 --> 00:06:25,590
+system users in this panel and he can further decrypt the balance of the
+
+61
+00:06:25,590 --> 00:06:34,910
+other users here like this. So here's a demo and this is a very simple app we
+
+62
+00:06:34,910 --> 00:06:39,090
+build with FHE and we think this is not just a starting point of the
+
+63
+00:06:39,090 --> 00:06:43,470
+technology but also it's very useful for the like institutions and the
+
+64
+00:06:43,470 --> 00:06:52,160
+compliant crypto financial here. So yeah thanks for watching. Thank you Primus
+
+65
+00:06:52,160 --> 00:07:17,020
+for the live demo and next up please welcome Ninja. Hello so let's start. Okay
+
+66
+00:07:17,020 --> 00:07:26,260
+four years ago most of the on-chain theft was called hack but two years later
+
+67
+00:07:26,260 --> 00:07:35,020
+much of it has shifted to interface fraud. Attacast moved but defenders
+
+68
+00:07:35,020 --> 00:07:43,340
+didn't. So what you see is what you sign is an essential idea to protect your
+
+69
+00:07:43,340 --> 00:07:52,740
+assets but it is not enough. See and understand. You need to understand with
+
+70
+00:07:52,740 --> 00:08:01,260
+complex transactions. So what you read is what you sign. It's a new idea simple
+
+71
+00:08:01,260 --> 00:08:11,380
+idea. Why is it read? This is a real attack contract you may remember it. There are a
+
+72
+00:08:11,380 --> 00:08:20,700
+lot of hex characters. Can you read it? But we can do that. Let me ask Ninja.
+
+73
+00:08:20,700 --> 00:08:33,740
+Let's start. So it is a ninja scan demo screen so on Trillium bot. So initialize
+
+74
+00:08:33,740 --> 00:08:40,380
+the ninja scan and paste the suspicious contract code and then ninja scan
+
+75
+00:08:40,380 --> 00:08:49,900
+analyze and oh it's danger malicious proxy and war trainers and if you want
+
+76
+00:08:49,900 --> 00:09:02,420
+to see the details you can see it by natural language by LLM. If only ninja
+
+77
+00:09:02,420 --> 00:09:11,700
+scan had been there before signing. 2.4 billion jealous last year was theft.
+
+78
+00:09:11,700 --> 00:09:24,360
+Fishing, honey pots, others poisoning, most of them was catchable. So ninja is
+
+79
+00:09:24,360 --> 00:09:31,520
+trust and risk intelligence layer between intent and execution. Three
+
+80
+00:09:31,520 --> 00:09:40,560
+inputs. Entity is a smart contract and action transaction and position your
+
+81
+00:09:40,560 --> 00:09:48,560
+financial portfolio. Ninja, AI engine, analyze and visualize and two outputs.
+
+82
+00:09:48,560 --> 00:09:55,320
+One is a deterministic verdict safe or not by machine learning. We don't use
+
+83
+00:09:55,320 --> 00:10:03,480
+LLM at that time. So we only use LLM natural language explanation of the
+
+84
+00:10:03,480 --> 00:10:12,120
+transaction or code. Three diverse channels. Ninja scan, Trillium bot, API and
+
+85
+00:10:12,120 --> 00:10:23,090
+MCP. Why should you trust us? We already analyze over 90 millions of contracts.
+
+86
+00:10:23,130 --> 00:10:32,970
+Every contract on AVM. We classify nine vulnerabilities and we
+
+87
+00:10:32,970 --> 00:10:39,730
+score the similarity of existing vulnerable or malicious contract types.
+
+88
+00:10:39,730 --> 00:10:49,740
+Ninja is built for human today and ready for agents tomorrow. So we decided to
+
+89
+00:10:49,740 --> 00:11:01,750
+adopt ELC 8004. It's a new standard of agents identity. This is our team. My name
+
+90
+00:11:01,750 --> 00:11:08,910
+is Kazuki Kaneshiro, ZKAC founder and the ninja founders. So for many years I worked
+
+91
+00:11:08,910 --> 00:11:16,710
+on financial and AI a lot of projects in Japan and with me is Kai Otsuki, chief
+
+92
+00:11:16,710 --> 00:11:27,790
+scientist. He's an Ethereum committer. Two asks. We are looking for POC partners.
+
+93
+00:11:27,790 --> 00:11:33,350
+World developers and DeFi protocols and AI agent developers. Talk to me later.
+
+94
+00:11:33,350 --> 00:11:41,790
+And investors. We are raising. Just talk to me later too. Two QRs. Left one is a
+
+95
+00:11:41,790 --> 00:11:49,830
+ninja scan. Try. You can try it from now on any contract and right one is my
+
+96
+00:11:49,830 --> 00:11:56,150
+cherry-gum QR. So give me feedback and talk to me later. Ninja is human today
+
+97
+00:11:56,150 --> 00:12:05,220
+and agents tomorrow. Thank you. Thank you, Ninja, for the live demo. Next up, please
+
+98
+00:12:05,220 --> 00:12:24,290
+welcome Sysic AI. Hello everyone. This is Leo from Sysic. So today I'm going to
+
+99
+00:12:24,290 --> 00:12:29,450
+give you a preview of the things that we are building on our AI side. So AI
+
+100
+00:12:29,450 --> 00:12:34,850
+products like previously like we used to deliver four thousand four hundred
+
+101
+00:12:34,850 --> 00:12:40,250
+thousands of lines of code and we thought like without any human in the loop for
+
+102
+00:12:40,250 --> 00:12:46,170
+this like amount of coding project and the performance like we of this like
+
+103
+00:12:46,170 --> 00:12:52,050
+deliver code is like at least like 10 to 15 percent faster than the state of
+
+104
+00:12:52,050 --> 00:12:58,570
+art in the ZK proving site. Yeah we think like this this product may be also like
+
+105
+00:12:58,570 --> 00:13:02,810
+beneficial to the Ethereum or like a border community and like the whole
+
+106
+00:13:02,810 --> 00:13:07,930
+blockchain community. So I'm here to give you a like preview of the demo like we
+
+107
+00:13:07,930 --> 00:13:14,010
+use we use this like AI product to build a flappy bird this kind of like a games
+
+108
+00:13:14,010 --> 00:13:20,650
+without any human in the loop thing. Okay so now let's take a look at the demo.
+
+109
+00:13:20,690 --> 00:13:35,850
+Okay yeah so this AI product allows you to download the code like after like
+
+110
+00:13:35,850 --> 00:13:40,730
+it's finished the job but you can also like integrate this AI product with
+
+111
+00:13:40,730 --> 00:13:46,730
+with your github. So like it will allow the agent to push code to your github
+
+112
+00:13:46,730 --> 00:13:51,490
+repository and also like be author of this thing. So right now it's like doing
+
+113
+00:13:51,490 --> 00:13:57,410
+this like API integration. So integrate the API in the in this tool and then
+
+114
+00:13:57,410 --> 00:14:04,650
+then analysis to push code like to the to the to the github repository. So right
+
+115
+00:14:04,650 --> 00:14:09,490
+now like all the themes are set and you have this like API key then you can put
+
+116
+00:14:09,490 --> 00:14:14,210
+it in there and then you can choose your like AI models like you can plug in
+
+117
+00:14:14,210 --> 00:14:19,050
+basically every open source model plus the closed source model and then after
+
+118
+00:14:19,050 --> 00:14:23,730
+that you start the process. So here is like you input the description of this
+
+119
+00:14:23,730 --> 00:14:28,810
+game the flappy bird. There will be just a one round of interaction between you
+
+120
+00:14:28,810 --> 00:14:34,930
+and and the AI and now it starts working. So it will automatically generate all
+
+121
+00:14:34,930 --> 00:14:40,210
+the codes in several hours. Without any human in the loop you do not need to
+
+122
+00:14:40,210 --> 00:14:45,250
+check the status of the theme. There will be like a bunch of like AI agents doing
+
+123
+00:14:45,250 --> 00:14:50,090
+the coding while another bunch of like AI agents doing the like a review review.
+
+124
+00:14:50,090 --> 00:14:54,970
+It's basically the rough loop with code review if you are familiar with that.
+
+125
+00:14:54,970 --> 00:15:00,450
+Yeah so like here is like generating all the code and like for each round it will
+
+126
+00:15:00,450 --> 00:15:04,450
+provide you with a summary of like what they are doing what kind of like feature
+
+127
+00:15:04,450 --> 00:15:10,530
+they add to your product. Yeah so right now still like working on the code and
+
+128
+00:15:10,530 --> 00:15:17,290
+you can set the maximum rounds complexity to be like five or ten it all
+
+129
+00:15:17,290 --> 00:15:22,330
+depends on you. So after all after the code are you generated it will push the
+
+130
+00:15:22,330 --> 00:15:26,330
+codes to GitHub repository and you can check the commit you can check the
+
+131
+00:15:26,330 --> 00:15:31,330
+Remy to find out like what they are actually doing and the contributors
+
+132
+00:15:31,330 --> 00:15:37,650
+realize cloud. So you push like the agent will push all the things like to the to
+
+133
+00:15:37,650 --> 00:15:44,530
+the github and like without any human interaction. Yeah so that's the code
+
+134
+00:15:44,530 --> 00:15:48,530
+like we're just going through all the files you changed and like all the
+
+135
+00:15:48,530 --> 00:15:53,490
+commits it made to this GitHub repository. Okay so now let's take a look at
+
+136
+00:15:53,490 --> 00:16:02,310
+the same. Like we asked them to to do like 70 or 80 something this flappy
+
+137
+00:16:02,870 --> 00:16:08,950
+So it's deliver the game in about like two hours and we have already show
+
+138
+00:16:08,950 --> 00:16:15,950
+that this idea can be used to also do like a very complicated project. So
+
+139
+00:16:15,950 --> 00:16:21,910
+basically you don't need a very large team or like several several months to
+
+140
+00:16:21,910 --> 00:16:26,510
+do the product development. You just need one or two people and you can do
+
+141
+00:16:26,510 --> 00:16:30,990
+iteration like in weeks or probably like in days instead of in months. We are
+
+142
+00:16:30,990 --> 00:16:36,750
+about to launch this like product. If you are interested please stay tuned to
+
+143
+00:16:36,750 --> 00:16:45,640
+our Twitter account. You can search it online. Okay bye. Thank you
+
+144
+00:16:45,640 --> 00:16:51,000
+Sysic AI. Thank you for bringing us a useful tool for the builders and next up
+
+145
+00:16:51,000 --> 00:17:01,570
+please welcome Privacy Pools. Thank you everyone. I'm really honored to be here.
+
+146
+00:17:01,570 --> 00:17:05,890
+I've been told that I'm given four minutes so I'll try and make this
+
+147
+00:17:05,890 --> 00:17:12,010
+relevant to you, interesting and entertaining. So I am Vailin. I am the
+
+148
+00:17:12,010 --> 00:17:16,770
+APAC relations at Oxbow. At Oxbow we build privacy tooling such as privacy
+
+149
+00:17:16,770 --> 00:17:19,170
+pools and compliant toolings for enterprises.
+
+150
+00:17:19,170 --> 00:17:23,370
+We are a company that develops and uses online transaction privacy tools.
+
+151
+00:17:23,370 --> 00:17:29,930
+Products including privacy pools are tools for business and customers. So in this
+
+152
+00:17:29,930 --> 00:17:35,090
+demo I will be talking about what your crypto card tells the world with the
+
+153
+00:17:35,090 --> 00:17:40,490
+increasing adoption of stable coins and stable coin payments. We need to think
+
+154
+00:17:40,490 --> 00:17:45,050
+seriously about improving the design choices of these products because every
+
+155
+00:17:45,050 --> 00:17:50,690
+transaction is permanent and transparent on chain. And in this demo I'll be using
+
+156
+00:17:50,690 --> 00:17:57,050
+Gnosis Pay card as an example but my analysis in this presentation applies
+
+157
+00:17:57,050 --> 00:18:02,570
+for all self-custody card. So for Gnosis Card it has a lot of users. It has
+
+158
+00:18:02,810 --> 00:18:08,890
+31,000 weekly card payments, 3,500 active card holders, 2 million weekly volume
+
+159
+00:18:08,890 --> 00:18:14,850
+and most significantly 420% year-on-year growth. So every one of these
+
+160
+00:18:14,850 --> 00:18:19,730
+transactions is permanently stored on chain and there's no way of you deleting
+
+161
+00:18:19,730 --> 00:18:24,530
+that information or preventing other people from looking at your information.
+
+162
+00:18:24,530 --> 00:18:32,010
+So how Gnosis Pay actually works is that when you pull out your card to
+
+163
+00:18:32,050 --> 00:18:39,330
+pay for a coffee for example, Visa sends the auth request to Gnosis Pay, stable
+
+164
+00:18:39,330 --> 00:18:46,010
+coin transfer executes on chain from your wallet to the Gnosis Pay settlement
+
+165
+00:18:46,010 --> 00:18:50,290
+safe and then after that to Visa. So what's public is actually how much you
+
+166
+00:18:50,290 --> 00:18:55,410
+spend, the exact time spent when you spend that amount of money, your current
+
+167
+00:18:55,410 --> 00:18:59,170
+balance and your entire transaction history. We don't know the merchant name,
+
+168
+00:18:59,930 --> 00:19:04,330
+we don't know what you exactly buy and we don't know where you exactly buy the
+
+169
+00:19:04,330 --> 00:19:09,010
+thing from but we don't need to know to identify your entire financial footprint
+
+170
+00:19:09,010 --> 00:19:14,450
+because the amount and the timing is enough and what I mean by that, so my
+
+171
+00:19:14,450 --> 00:19:22,330
+team and I actually found every card holder on the Gnosis Pay card and all we
+
+172
+00:19:22,330 --> 00:19:26,090
+need to do is to find a single settlement vault to identify their
+
+173
+00:19:26,090 --> 00:19:33,490
+spending patterns. So take this pseudonymous person for example, we
+
+174
+00:19:33,490 --> 00:19:40,010
+found eight different points where he spent their money and we could
+
+175
+00:19:40,010 --> 00:19:46,730
+make educated guesses what exactly they spent on when and how. So we could guess
+
+176
+00:19:46,730 --> 00:19:51,890
+that at 8 a.m. they woke up and then they had a cup of coffee before taking the
+
+177
+00:19:51,890 --> 00:19:57,010
+transport to their work so they probably have a 9 to 5 job and then we could also
+
+178
+00:19:57,010 --> 00:20:00,010
+determine using assumption.

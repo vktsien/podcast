@@ -1,0 +1,170 @@
+what time kind of time zone they are at and what kind of daily spend they are at.
+So in this example all you need to do is to multiply this spending pattern in
+this day by 365 to identify what the year looks like. So we mapped out the we
+mapped out and extrapolated the spending habits and you can see that from Monday
+to Sunday the heat map will show you the green squares where they spend the least
+amount of money at different time intervals and then the red squares
+will show you where the most amount of money is spent at and what interval and
+you can also identify the monthly spending habits such as subscriptions or
+even yearly month yearly spending habits and to take this step even further your
+income is public too. How you top up your card is also public too. Profiling
+3,500 people all at once you can identify what kind of users actually use
+the NoSysPay card and we found that 4% are high rollers which is they spend
+more than 5,000 euros a month and then 22% are daily spenders. So using
+simple queries like this you can gather massive amount of information and most
+importantly competitive intelligence. This is extremely useful for data
+indexing companies, really useful for card companies, card competitors you know
+it could be EtherFi and how you can actually ensure that your on-chain
+transactions are more private is through our protocol which is privacy pools. So
+at this moment you could use privacy pools it's live on privacypools.com and
+how privacy pools enable your privacy is through zero knowledge proofs to break
+the link between deposits and withdrawals. I'm sorry I need to play the
+video yeah so in this demo you can create a ZK wallet on privacy pools you
+can select the chain and deposit any amount from your wallet. The deposit is
+reviewed by Oxbow's association set provider and when we determine that your
+deposits are not affiliated with any threat actors you are free to withdraw it
+in any amount to a clean wallet such as topping up your card. So using our
+protocol it actually breaks the link between where your money comes from to
+how you spend it and the most exciting part which is today I'm going to share
+with you upgraded features of privacy pools. So at our new upgrade which is
+coming soon will enable users to make private transfers to a private vault so
+nobody sees anything and we will basically enable Venmo style payments.
+What I mean by that is this. Sorry the video function is not working. I'm so
+sorry I I am not sure why the video function is not working so let me just
+describe it. So instead of let's give a round plus for the for the privacy pools
+oh okay sorry yeah yes so so you can send privately and you can ask for
+payment and it's a Venmo style payment portal you can ask and request for
+payments from anybody you don't if you ask your friend for a payment you don't
+need their wallet address and you pay someone they don't really need your
+wallet address so we enable double-blind payments. I'm sorry the time is up but
+if you want to know about privacy pools you can come and find me later. Privacy
+pools, privacy is for everyone. We're also working with the Ethereum Foundation
+to enable private transactions for everyone on chain. Thank you. Thank you
+privacy pools. Having seen all these innovative projects building on Ethereum
+it's clear that the ecosystem is thriving. Our next speaker Audrey Tong
+executive director of EAG will share her insights on towards real-world
+applications. Please welcome Audrey. Hello I think it has been half the day and we
+could see a lot of the gainer, we could see lots of the website chat and a lot
+of the demos was just a present and I think of you have the one question in
+mind what is EAG and this time I think it's let me introduce more about what
+is EAG actually is and what is EAG came from. So what is EAG? EAG is from builders
+and for builders and for EAG it's from the long-term Ethereum holders builders
+which is have been supporting the Ethereum community for over decades from
+the day one of the ether midnight towards the nowadays and from I think for
+the last 10 years it's more for the infrastructure but towards the future
+of the application world we need to accelerate the applications more so this
+is the main idea that the EAG well came from and the original concept and the
+supporters is from the 10 over 10 years Ethereum builders and also there are lots
+of the question that we figured out from the what's the past three years doing the
+Shanghai Wu which is also a public city around the world and for we started the
+Shanghai Wu in about the 2023 and at that time because of for the Asia
+Ethereum community there are lack of exchange and the lack of communication
+and during for the first year of Shanghai Wu we bring the main Asia
+community and the developer Ethereum builders together in Beidahu to discuss
+what we could do for the Ethereum community and then later at about two
+years ago someone asked us because you know at that time in about 2024 at that
+time the DIPCOM Bangkok was decided to host in Bangkok so at that time earlier
+that year and someone asked us that okay well you know the
+Shanghai Wu would be like to host the public city again in Chiang Mai just before the
+DIPCOM that's why during the October of the 2024 lots of the public cities in
+there you could see there is a public city season in Chiang Mai just before
+DIPCOM and at that time lots of the it's not only for Asia builders but for
+the whole global builders in the Ethereum ecosystem we collaborate we
+exchange a lot communicate a lot that's how could we support a better
+communication and to support the Ethereum community in Asia together and
+also during that time we found that you know for public cities there are lots of
+the builders in there lots of the good ideas on the early stage testing there
+but there are but some of them are still very struggling because some of them
+develop some open source tools and have the struggle with the fundraising
+sustainable issue so during that time we are trying to bring all the VCs to
+Chiang Mai to have the demo day for the builders that they could direct the pitch
+for VCs and to communicate with VCs and to have the results and but later we
+figured out that it's not enough for just doing one demo day or one pitch day
+there are still lots of a gap between the individual builders to a more
+mature project yeah so during that time we are trying to establish and help
+builders more about it so that is the third year of Shanghai WUM which was the
+location in Singapore because of the resources the founders the funding the
+resources are located in Singapore and we also want to bring the 10 globally to
+Singapore but the Singapore of you know it's very expensive so we also gave lots
+of the scholarships for the builders from the Africa Latin America Australia
+Indian to bring them together to build something during that time so for 30
+year of Shanghai were in the evolving a lot from the traditional public city or
+concept test to a more mature way to help builders from individual to show
+mature project so during that time we invite lots of the VCs and the founders
+to tell them their experience and what does they really want to know as when
+they when they start their business and tell the and let the VCs to told the
+developers the builders how could they have the sustainable fund their PMF or
+to pitch with VCs or to do fundraising yeah so it's more like more like we
+it's more like the accelerator but it's more for the builders from the whole
+ecosystem so what we found in last three years is that although or what we have
+done in Singapore where it's more like the accelerator but it's still not
+enough there are still lots of gaps from the individual builder to became the
+succeed project so just like if you being the individual builder at first
+that way we need a lot of the education no matter from the community side and
+lots of the local community no matter the Chinese-speaking community the
+Thailand community Latin America community Africa community doing a lot
+of jobs to educate the developers and help the project grow but lots of the
+communities do very struggle with the sustainable issue because yeah and so
+lots of the public goods are struggle so also for the individual builders if you
+want to be more like the no matter the entrepreneur or the project could be
+succeed there are still lots of the gaps we need to filter and also from the
+individual builder nowadays we have lots of the hack zones here but after hack zone just
+when the project of the hack zone what's happened okay we have lots of the
+missing pieces in the whole life circle of the builders and we need to establish
+a sustainable life circle for the builders could grow from the
+individual to the project and from the project that if they succeed they also
+could pay get back to the community which helps them a lot in the early stage
+so this is what EAG truly came from. EAG is from is a NPO that to bring the
+stakeholders the stakeholders in the Ethereum community together to support
+and accelerate the Ethereum application ecosystem and what is EAG actually do
+it's for builders and we gonna do through four passes just like the first
+thing is to accelerate the real world impact applications and the second is to
+cross the builders network to help builders to help to fill the missing
+pieces that in the builders life circle and to share the evaluation and develop
+the framework which is also very important because nowadays we are towards
+in the future of the applications we want to build the truly depth but not
+instead of just doing what the web applications do. This is how the
+blockchain exists and the how the crypto value exists and also which is also very
+important and the key issue to have the to create a sustainable mechanism to
+help the public goods grow no matter on the company side on the education side
+on each of the open open source tools that will help the whole ecosystem
+growth. So the operational model for EAG which is it came from the different
+aspect just like a today's event the Ethereum applications gallery is just
+like the whole one day event that helps the audience helps everyone of us know
+what is the recently latest update on the whole Ethereum ecosystem and what
+is the latest update on each of each aspect of the applications and also
+gave the early stage project builder a chance to show themselves to tell
+everyone that what is they are doing just like the demo days it's a open
+application from the public we have the form and everyone from the Twitter you
+could see that everyone could apply for it and we have the evaluation from the
+tech from commercial side and the judges to select the project even if you didn't
+have raised the fund yet or you are individual developers or the open source
+contributors you could have the chance to present or show show the world what
+you are building. This is what EAG actually exists to support everyone to
+support all of you to have the chance to tell the world what you are doing. So
+there's also very important we have the core values here which is the EAG's main
+core values the first is openness it's open for everyone no matter you are the
+institution you are the community builder you are the company you are the
+event organizer you are the founders and you are the PM PM or everyone of you it's
+open for everyone and transparent because it's the governance the funding
+flows because it's an appeal the funding flows it's all transparent and the
+decentralization because it's not really a single entity or single
+institutions it's the collaboration between every one of us and also public
+goods first which is the main idea that EAG came from to support and have the
+sustainable way to support the public goods. So if we want to create a
+sustainable way to support the public goods the sustainable funding mechanism
+is very important so EAG's funding is since it's an appeal effort yeah it's
+funding from mean from two aspects the first is a membership fee that's why for
+EAG funding members maybe we're gonna announce that in this month or next
+month the main funding is from the membership fee from the
+institutions from the foundations from the VCs who want to contribute for the
+ecosystem to help the Ethereum applications grow this is the first
+out of mainly from the membership fee the second is the stake in yield and for
+lots of the long-term Ethereum supporters they willing to contribute
+some of their stake in yield for the public for the sustainable funding
+to support the applications ecosystem and what we actually we're gonna do
+this year and today we're also gonna be launched this kind of a program it's
+called the 2020 global applications and the builders initiative for EAG is not
+focused on in the unique region but it's globally and for this year it be
+gonna be happen lots of the event can be happening in the emerging market just
+like the Africa

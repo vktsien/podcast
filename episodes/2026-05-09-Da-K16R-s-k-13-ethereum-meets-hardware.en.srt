@@ -1,0 +1,1027 @@
+1
+00:00:00,000 --> 00:00:05,400
+for 10 years has had zero downtime. This is better than Google, this is better than Amazon,
+
+2
+00:00:05,400 --> 00:00:10,120
+this is better than Azure. And government and institutions really recognize that, that
+
+3
+00:00:10,120 --> 00:00:15,080
+resilience, that battle-testedness. And having been around for so long, there's almost this
+
+4
+00:00:15,080 --> 00:00:19,720
+concept of lindiness. It's gone through enough that it's trusted. And people care about trust.
+
+5
+00:00:19,720 --> 00:00:24,320
+People care about risk minimization. And there is no better network and there's no better
+
+6
+00:00:24,320 --> 00:00:27,800
+ecosystem than Ethereum for doing this. And it's like very obvious. It's often the reason
+
+7
+00:00:27,800 --> 00:00:33,240
+why it's the number one place to go. This is actually a good setup for my question for
+
+8
+00:00:33,240 --> 00:00:39,280
+Samuel, actually. Because what Mo has spoken about is how battle-tested Ethereum is. And so,
+
+9
+00:00:39,280 --> 00:00:45,840
+Samuel, you work for Lido, right? It's one of the largest, most battle-tested staking providers in
+
+10
+00:00:45,840 --> 00:00:49,640
+the space. And since today I'm trying to be a bit more controversial, I'm going to just go straight
+
+11
+00:00:49,640 --> 00:00:55,400
+to it. Lido is the largest staking provider in all of Ethereum. And some people have kind of
+
+12
+00:00:55,400 --> 00:01:02,400
+criticized it as a centralization vector. However, Lido has taken a lot of efforts to help to
+
+13
+00:01:02,400 --> 00:01:07,120
+decentralize its validator set. I mean, you've been also doing some of the work with community
+
+14
+00:01:07,120 --> 00:01:12,160
+staking. So I'm curious, and I'm sure the audience is also curious, how meaningful is this
+
+15
+00:01:12,160 --> 00:01:17,880
+decentralization aspect of the Lido staking set? And why, and is it effective in practice?
+
+16
+00:01:17,880 --> 00:01:28,200
+Yeah, I guess it's true that Lido is the largest liquid staking protocol by TVL. And it's also the
+
+17
+00:01:28,200 --> 00:01:36,000
+largest DeFi protocol today at 21 to 22 billion USD. Lido's liquid staking token, SDEath, also
+
+18
+00:01:36,000 --> 00:01:40,840
+serves as a foundation for many of the leading DeFi use cases today, you know, in the likes of
+
+19
+00:01:40,840 --> 00:01:46,600
+Pendle, Athena, Aave, Spark, Morpho, Fluid, you know, all these on-chain borrowing and lending
+
+20
+00:01:46,600 --> 00:01:51,680
+protocols is also being used as collateral by, you know, asset managers, fund managers, hedge
+
+21
+00:01:51,680 --> 00:02:01,600
+funds, on centralized exchanges, on even decentralized venues as well. And to address the,
+
+22
+00:02:01,600 --> 00:02:10,750
+maybe the implied, you know, systemic risk concern here, right, is that there are at least four ways
+
+23
+00:02:10,750 --> 00:02:18,350
+that Lido is addressing this. Number one, decentralization. Number two, security. Number
+
+24
+00:02:18,350 --> 00:02:24,350
+three, transparency. And number four, an ever-improving protocol design. So Lido is
+
+25
+00:02:24,350 --> 00:02:33,310
+not a single entity controlling all of the stake, you know. Lido as a protocol does not run any node
+
+26
+00:02:33,310 --> 00:02:39,110
+infrastructure or validated infrastructure by itself. There are more than 700 independent node
+
+27
+00:02:39,110 --> 00:02:47,030
+operators serving the TVL of the Lido protocol. So no single node operator has been programmatically
+
+28
+00:02:47,030 --> 00:02:54,910
+delegated more than 1% of the total StakeEath market share. So that reduces or mitigates the
+
+29
+00:02:54,910 --> 00:03:03,750
+correlation risk very significantly by itself. Decentralization also happens on the DAO level,
+
+30
+00:03:03,750 --> 00:03:10,910
+the protocol level, or the governance level. So Lido is one of the only fully on-chain
+
+31
+00:03:10,910 --> 00:03:20,070
+DAOs in the space where the voting outcomes are automatically implemented. You don't need a
+
+32
+00:03:20,070 --> 00:03:28,150
+separate team of like, you know, small 5% council to actually implement the results of the governance
+
+33
+00:03:28,150 --> 00:03:33,630
+voters. On top of that, Lido has pioneered this thing called the dual governance framework,
+
+34
+00:03:33,630 --> 00:03:38,230
+where not only the governance token holders are able to vote on protocol upgrades,
+
+35
+00:03:38,230 --> 00:03:46,230
+as the ETH holders, or the users of the protocol, are also able to delay the implementation of any
+
+36
+00:03:46,230 --> 00:03:52,110
+contentious protocol upgrades or DAO proposals until they have had time to exit the protocol.
+
+37
+00:03:53,070 --> 00:03:59,390
+So that's on the decentralization efforts part. In terms of security, the protocol has invested,
+
+38
+00:03:59,390 --> 00:04:05,230
+I think, more than 4 million US dollars over the past five years into security efforts,
+
+39
+00:04:05,230 --> 00:04:11,550
+audit reports, security research, bounty programs, etc. There's more than 70 audit
+
+40
+00:04:11,550 --> 00:04:18,030
+reports produced. The protocol is also fully open source, so it benefits from the global
+
+41
+00:04:18,030 --> 00:04:25,790
+mindshell of developers looking at the protocol every day. What's the third item? Transparency,
+
+42
+00:04:25,790 --> 00:04:34,110
+yes. So the Lido protocol voluntarily reports a lot on the protocol performance, on the performance
+
+43
+00:04:34,110 --> 00:04:40,270
+of its node operator set, on the protocol health, even like postmortems on security incidents. So
+
+44
+00:04:40,590 --> 00:04:46,510
+it is one of the most transparent and data-rich DAOs you can find out there.
+
+45
+00:04:47,870 --> 00:04:54,350
+And last but not least, an ever-improving protocol design. QZ, you mentioned there are new modules
+
+46
+00:04:55,470 --> 00:05:02,830
+launched on the Lido protocol since the start of the protocol in 2020. So today there are three
+
+47
+00:05:02,830 --> 00:05:08,510
+modules. Number one is the curated set, number two is the simple dbt module, and number three
+
+48
+00:05:08,510 --> 00:05:14,830
+the community staking module, all of which adds up to more than 700 independent node operators.
+
+49
+00:05:14,830 --> 00:05:19,870
+So Lido also pioneered the adoption of distributed validator technologies, which
+
+50
+00:05:19,870 --> 00:05:26,030
+improves redundancy for and liveness for the Ethereum validator set, and also improves the
+
+51
+00:05:26,030 --> 00:05:33,310
+decentralization. So that's a lot of work for liquid staking. Yeah, and I would also challenge
+
+52
+00:05:34,190 --> 00:05:40,670
+the notion a little bit. It kind of implies that institutions would de facto try to use Lido
+
+53
+00:05:40,670 --> 00:05:44,430
+when they first explore the space, but actually it's not true because they will have to explore
+
+54
+00:05:44,430 --> 00:05:51,630
+native staking first. And they will, to what Serena mentioned, they want a familiar legal
+
+55
+00:05:51,630 --> 00:05:57,470
+structure to interact with for a start, and they need some way to outsource the legal liability.
+
+56
+00:05:57,470 --> 00:06:02,510
+So in essence, they need a traditional service contract when they first start exploring the
+
+57
+00:06:02,510 --> 00:06:08,510
+space, and then slowly they'll move to liquid staking. Right, so I'm also genuinely curious,
+
+58
+00:06:08,510 --> 00:06:14,350
+like that sounds like a lot of work to come on board. Why? Are institutions interested in
+
+59
+00:06:14,350 --> 00:06:22,990
+DeFi so much? Right, why do they even want to do this? Yes. Yeah, so obviously DeFi brings a lot
+
+60
+00:06:22,990 --> 00:06:28,990
+of cost efficiencies to their cost structure, right? It also brings a lot of new opportunities,
+
+61
+00:06:28,990 --> 00:06:35,950
+new business cases for their businesses, right? So it's both a cost-saving endeavor and a revenue
+
+62
+00:06:35,950 --> 00:06:44,990
+increasing endeavor. Yeah, I guess what institutions would look for when they explore liquid staking
+
+63
+00:06:44,990 --> 00:06:50,030
+is twofold. Maybe I condense it to one sentence first. It's the optionality that comes with
+
+64
+00:06:50,030 --> 00:06:56,430
+liquidity. So this optionality manifests itself in two layers. Number one, they are able to
+
+65
+00:06:56,510 --> 00:07:02,190
+offer rapid withdrawals to their users, for example, or to their own entities. Number two
+
+66
+00:07:02,190 --> 00:07:08,110
+is the opportunity to enhance their rewards through the Ethereum DeFi ecosystem. Yeah,
+
+67
+00:07:08,110 --> 00:07:13,150
+and that can only happen when you have a liquidity layer on top of native staking,
+
+68
+00:07:13,150 --> 00:07:17,470
+which is liquid staking. Yeah, so eventually they will want to explore liquid staking,
+
+69
+00:07:17,470 --> 00:07:24,990
+but they will need to work with the regulators to get there. Do you have a QSC for your entity
+
+70
+00:07:24,990 --> 00:07:32,270
+customer? For example, you attract the liquidity on LIDL? Yeah, so LIDL by itself is a permissionless
+
+71
+00:07:32,270 --> 00:07:39,230
+protocol, so anyone anywhere can use it, right? The KYC component, it should be left to the
+
+72
+00:07:39,230 --> 00:07:45,470
+institutions who are building on top of the LIDL protocol. Okay, thank you. So this is great because
+
+73
+00:07:45,470 --> 00:07:49,150
+you mentioned that point, right? Because I want to talk a bit more about hash keychain.
+
+74
+00:07:50,110 --> 00:07:55,070
+I mean, now that you've built the infrastructure and both of you have kind of touched base about
+
+75
+00:07:55,070 --> 00:08:00,750
+the need for compliance and security, what are some of the most high in-demand applications that you
+
+76
+00:08:00,750 --> 00:08:05,390
+think should be built or your clients or your partners are demanding looking for?
+
+77
+00:08:10,140 --> 00:08:20,140
+Let me think about it. Do you want to know our new trend of the compliance product or
+
+78
+00:08:20,140 --> 00:08:27,820
+what kind of point? Or maybe I hear people are interested in agentic payments? Agent payments?
+
+79
+00:08:29,260 --> 00:08:36,060
+Yeah, well we got a RWA session, for example, the tokenization.
+
+80
+00:08:37,820 --> 00:08:49,100
+And we participate in the Google payment. And we also have our own HSP payment protocol,
+
+81
+00:08:49,100 --> 00:08:55,500
+and it's the base technology for the agent payment in the future.
+
+82
+00:08:57,500 --> 00:09:02,940
+That sounds pretty exciting. Yeah. So just to get you right, I think
+
+83
+00:09:04,380 --> 00:09:08,380
+hash key, when you launch a new chain, it kind of
+
+84
+00:09:09,900 --> 00:09:13,740
+threads the line between strict institutional compliance and innovation.
+
+85
+00:09:14,380 --> 00:09:26,060
+Yeah, it's a fine line, but there are something to do. For example, we're going to launch
+
+86
+00:09:26,060 --> 00:09:35,980
+a native DAX of our hash keychain named HSKSwap. And the main feature for it is we will launch some
+
+87
+00:09:35,980 --> 00:09:45,980
+RWA assets. And we will launch some pool, like stocks. And we're going to launch new features.
+
+88
+00:09:45,980 --> 00:09:57,340
+We will put some stocks like SpaceX, like pre-IPO on it. And we cooperate with a
+
+89
+00:09:58,300 --> 00:10:11,740
+licensed custodian store, Hybrid Trade. He will integrate their API on our HSKSwap.
+
+90
+00:10:15,740 --> 00:10:23,660
+When the industry comes to today, if we only focus on the native DeFi, maybe
+
+91
+00:10:24,060 --> 00:10:34,140
+we will have a little bit of a limitation on it. So we want to put a lot of effort on the stocks.
+
+92
+00:10:34,140 --> 00:10:42,620
+First, maybe the American stocks. And the next, maybe we want to explore some other
+
+93
+00:10:42,620 --> 00:10:48,140
+region's stocks. Yeah. That sounds actually pretty exciting to be able to get into SpaceX.
+
+94
+00:10:48,140 --> 00:10:55,660
+So my next question is actually for Mo. And I think we've kind of seen a bit of a
+
+95
+00:10:55,660 --> 00:10:59,260
+conversation about institutions and what Ethereum can provide. And you mentioned about Lindy.
+
+96
+00:11:00,300 --> 00:11:04,940
+From an educational perspective, once again, how do you think we can better communicate what
+
+97
+00:11:04,940 --> 00:11:09,500
+Ethereum can afford and what institutions are looking for? Because you can start to see there's
+
+98
+00:11:09,500 --> 00:11:15,820
+a parallel here. Yeah, I think that's a fantastic question. I think one thing that is extremely
+
+99
+00:11:15,820 --> 00:11:20,220
+important and we're already starting to do, I think we should continue doing is help define
+
+100
+00:11:21,020 --> 00:11:27,820
+what types of adoption we think are important. The type of adoption that strengthens the core
+
+101
+00:11:27,820 --> 00:11:34,540
+properties that we value in Ethereum. And if we don't do that, then that gets done for us.
+
+102
+00:11:34,540 --> 00:11:41,740
+And I think we're starting to do that more and more. Now, I will say that that doesn't come
+
+103
+00:11:41,820 --> 00:11:46,300
+in conflict with what institutions want to do. It turns out that institutions actually really
+
+104
+00:11:46,300 --> 00:11:50,140
+do care about censorship resistance because they want to be able to do transactions without some
+
+105
+00:11:50,140 --> 00:11:55,260
+other organization censoring them. They really do care about open source because they don't want
+
+106
+00:11:55,260 --> 00:11:59,340
+to be locked into a vendor that they can't basically move away from. They actually really
+
+107
+00:11:59,340 --> 00:12:04,540
+do care about privacy and they most definitely care about security. So oftentimes when people
+
+108
+00:12:04,540 --> 00:12:07,580
+talk about these properties, they're like, oh, they come in conflict, but they don't.
+
+109
+00:12:07,740 --> 00:12:12,540
+I think if we marry those two, tell people about what kinds of properties are important and why
+
+110
+00:12:12,540 --> 00:12:16,780
+in a way that they understand is extremely important. And I think they are actually
+
+111
+00:12:16,780 --> 00:12:21,500
+conducive. The second is actually being also transparent about what doesn't work.
+
+112
+00:12:22,940 --> 00:12:27,100
+We were talking about earlier how the wallet infrastructure, the custody infrastructure,
+
+113
+00:12:27,100 --> 00:12:32,620
+that stuff actually needs a lot of work. And if we can do that, I think that will help basically
+
+114
+00:12:32,620 --> 00:12:38,620
+bring to light the areas that we can invest in some more. Those are the things that I think
+
+115
+00:12:38,620 --> 00:12:44,220
+are really important that we should highlight more. And in terms of the adoption piece,
+
+116
+00:12:44,220 --> 00:12:48,860
+why do institutions care about a lot of this stuff? Blockchains have been amazing for a couple
+
+117
+00:12:48,860 --> 00:12:53,500
+of reasons. One is that they're open and inherently we've been building an adversarial environment,
+
+118
+00:12:53,500 --> 00:13:01,020
+which means they're the most resilient, they're the most safe. And the opportunity with Ethereum
+
+119
+00:13:01,100 --> 00:13:06,060
+in general is that it opens up new markets, like Stablecoin is an example of this. It's going to
+
+120
+00:13:06,060 --> 00:13:11,820
+hear $400 billion, $500 billion, a trillion dollars. And every smart organization at scale
+
+121
+00:13:11,820 --> 00:13:17,180
+understands that. So they really want to. And I think the space that we want to move forward
+
+122
+00:13:17,180 --> 00:13:22,540
+is to get those two bridges a bit closer, and we're doing that. So that's a good point, which is
+
+123
+00:13:22,540 --> 00:13:30,460
+that the key properties that you mentioned are actually not in tension with what institutions
+
+124
+00:13:31,100 --> 00:13:36,300
+actively looking for. And if we can better communicate that, it would help. So what do
+
+125
+00:13:36,300 --> 00:13:41,980
+you have to say for some of the feedback that we've gotten that Ethereum is too principled
+
+126
+00:13:42,620 --> 00:13:47,100
+and that it's actually not being pragmatic? I think it ends up being a fantastic filter for
+
+127
+00:13:47,100 --> 00:13:51,020
+the types of adoption that we want. So the principles are the things that keep us together
+
+128
+00:13:51,020 --> 00:13:57,020
+and what we should continue to enhance. So following that tension, the last point
+
+129
+00:13:57,020 --> 00:14:04,540
+would be about UX, because a lot of the attempts at improving Ethereum UX has been at the cost of
+
+130
+00:14:04,540 --> 00:14:11,180
+some of these principles. So actually for Patrick, this is just a final question for you, which is
+
+131
+00:14:11,180 --> 00:14:16,140
+that when you're in conversation with a lot of these institutions, how much of this progress
+
+132
+00:14:16,140 --> 00:14:22,860
+about improving UX while still remaining true to our principles is visible to these institutions?
+
+133
+00:14:23,420 --> 00:14:29,500
+And where do you think it's going to go from here? I think there's two ways to answer that. So I think
+
+134
+00:14:29,500 --> 00:14:39,570
+first off, a lot of the problems institutions have when they interface with crypto is just the sheer
+
+135
+00:14:39,570 --> 00:14:45,090
+technical difficulty to do so. You know, it's not even about trade-offs and principles. It's just
+
+136
+00:14:45,090 --> 00:14:49,330
+they just try to download Metamask, they get their hardware wallet, they go and go and save or use
+
+137
+00:14:49,330 --> 00:14:53,970
+Wallet Connect, and they're just like, boom, it didn't work. So then what they have to use is more
+
+138
+00:14:53,970 --> 00:14:59,730
+like a custodial bank-like MPC service provider where there's a counterparty. And sometimes they
+
+139
+00:14:59,730 --> 00:15:04,130
+like that. They like the idea they can call someone up and be like, oh, I'm logged out, help me.
+
+140
+00:15:04,130 --> 00:15:08,370
+I like that too, yeah. Yeah, people do like that, of course. It's all about counterparty risk.
+
+141
+00:15:08,370 --> 00:15:13,250
+But the problem is that if we can't get the software to work, they're forced to be in that
+
+142
+00:15:13,250 --> 00:15:17,810
+direction and they no longer have a choice. It's not an option. So that's one thing we need to fix
+
+143
+00:15:17,810 --> 00:15:23,570
+because otherwise they will rise up and all our goals towards removing counterparties and
+
+144
+00:15:23,570 --> 00:15:28,370
+enabling the individual and institution. And by the way, institutions who hold millions of dollars,
+
+145
+00:15:28,370 --> 00:15:32,290
+if they can reduce counterparty risk or remove it, that's a big win for them.
+
+146
+00:15:33,650 --> 00:15:37,730
+Another way to answer, and I was sort of debating about how to answer this here, and I want to
+
+147
+00:15:37,730 --> 00:15:43,010
+maybe get a flavor of the audience before I do. So one last time to raise your hands,
+
+148
+00:15:43,650 --> 00:15:48,530
+if your job is to deal with like regulations or legal agreements or licenses as part of your job,
+
+149
+00:15:48,530 --> 00:15:52,530
+you know, raise your hand if you have to deal with legal agreements on a daily basis.
+
+150
+00:15:54,050 --> 00:15:58,930
+Anyone here has to deal with legal agreements. I think some people, I bet they do. Everyone's
+
+151
+00:15:58,930 --> 00:16:03,010
+really shy, aren't they? So the reason why do I bring that up? So I think it's really important
+
+152
+00:16:03,010 --> 00:16:07,570
+for institutions because they understand, you know, regulations. The whole point of a regulation
+
+153
+00:16:07,570 --> 00:16:11,570
+is to set rules that protect consumers and they have to adhere to these rules.
+
+154
+00:16:12,210 --> 00:16:17,250
+Legal agreements are about rules of engagement. I send an agreement review and this sets the rules
+
+155
+00:16:17,250 --> 00:16:22,450
+of how we engage. And the license is really to say that I've proved to someone, you know,
+
+156
+00:16:22,450 --> 00:16:27,250
+a trusted third party, maybe some, you know, authority that I adhere to the regulation
+
+157
+00:16:27,250 --> 00:16:32,930
+and I'm a good actor and I'm doing my best. But in all three scenarios, the issue is that if I break
+
+158
+00:16:32,930 --> 00:16:39,410
+the rules, it's not detected for a very long time. You know, a user can't detect when a rule is
+
+159
+00:16:39,410 --> 00:16:44,050
+broken, neither can an authority. And when it does get detected, you have to spend like months or
+
+160
+00:16:44,050 --> 00:16:47,890
+even a year, you know, winding back and working out when was the rule broken and what are the
+
+161
+00:16:47,890 --> 00:16:53,490
+consequences of that. And obviously every institution hates that. It's difficult to
+
+162
+00:16:53,490 --> 00:16:58,130
+detect when rules are broken and then it's hard to do recourse or resolve the dispute.
+
+163
+00:16:58,130 --> 00:17:04,450
+What's really, really nice about blockchains is that they're publicly verifiable and the rules
+
+164
+00:17:04,450 --> 00:17:09,570
+are enforced in real time. If you say these are the rules of engagement, these are the rules of how
+
+165
+00:17:09,570 --> 00:17:15,410
+the system works and these are the rules you have to follow. The smart contract code will enforce
+
+166
+00:17:15,410 --> 00:17:20,290
+that for every single transaction in real time. It's, you know, it's not instead of being, you know,
+
+167
+00:17:20,290 --> 00:17:25,250
+I won't be evil, it's I can't be evil. And when you say that to an institution, they're like,
+
+168
+00:17:25,250 --> 00:17:31,330
+boom, light bulb. I get it. That is why this is awesome. And I want to interact with it. And then,
+
+169
+00:17:31,330 --> 00:17:36,050
+of course, the UI blows up because like, oh, this is too hard. So we really need to fix the UI
+
+170
+00:17:36,050 --> 00:17:40,450
+because it has all the properties that institutions want. And they get it once you explain it in no
+
+171
+00:17:40,450 --> 00:17:46,690
+manner in their language and you make that comparison. Thank you. And so that concludes the
+
+172
+00:17:46,690 --> 00:17:51,730
+panel for today. Congratulations to the launch of the Ethereum Applications Guild. I think we
+
+173
+00:17:51,730 --> 00:18:00,020
+have a bright future ahead and I'll see you next year. Thank you, everyone. Let's take a picture
+
+174
+00:18:00,020 --> 00:18:50,130
+before you leave the stage. Camera. Thanks again to everyone for the great discussion.
+
+175
+00:18:50,770 --> 00:18:56,530
+We now arrive at our final panel for this chapter, Ethereum Meets Hardware,
+
+176
+00:18:57,570 --> 00:19:05,010
+From Devices to Autonomous Systems. Please welcome our moderator, Leo Lin,
+
+177
+00:19:05,010 --> 00:19:11,170
+co-founder of Akring, along with our panelists, Ben Zhai, CEO of Robo AI,
+
+178
+00:19:12,130 --> 00:19:20,370
+Wallace Lin, General Manager Hong Kong at Star5, Nijika, Head Product Manager at Liptik Tech,
+
+179
+00:19:20,370 --> 00:19:53,460
+and Kelly Luo, VP at Face Technology. Please welcome them all. Good afternoon, everyone.
+
+180
+00:19:53,460 --> 00:20:03,380
+Welcome to this panel. Yeah, Ethereum Meets Hardware, From Devices to Autonomous Systems.
+
+181
+00:20:03,460 --> 00:20:10,100
+So I'm the co-founder of Akring. My name is Leo Lin and the Akring is the global renewable
+
+182
+00:20:10,100 --> 00:20:15,380
+energy network and we connect the renewable energy sources like the solar panel, the strawberry,
+
+183
+00:20:15,380 --> 00:20:20,340
+and the multi-time energy asset with the on-chain protocol. And we are quite focused on the
+
+184
+00:20:20,340 --> 00:20:25,940
+IoT and the blockchain, the Web3, the hardware, the interior innovation, and also driving the
+
+185
+00:20:25,940 --> 00:20:33,060
+initiative of the smart open machine economy. So it's super happy to be here to moderate the session
+
+186
+00:20:33,700 --> 00:20:40,100
+so when people are talking about the Ethereum, so most people think about the finance, the asset,
+
+187
+00:20:40,100 --> 00:20:46,580
+the smart contract, but today's panel we will discuss with a little bit different angle.
+
+188
+00:20:47,220 --> 00:20:54,500
+So can the Ethereum be part of the coordination layer for the machine, the hardware, the device,
+
+189
+00:20:54,500 --> 00:21:02,180
+the aging, and the open, the hardware, the system? Because when the hardware has the intelligence
+
+190
+00:21:02,180 --> 00:21:09,300
+become the physical AI agent and we believe that gradually they will be the autonomous
+
+191
+00:21:09,300 --> 00:21:14,820
+and definitely the device, the hardware will need the identity, the trust, the verification,
+
+192
+00:21:14,820 --> 00:21:22,500
+the coordination, and in some cases also the economy interaction. So today we will explore
+
+193
+00:21:22,500 --> 00:21:31,860
+this with the four different but highly connected examples by our four panelists and they are coming
+
+194
+00:21:31,860 --> 00:21:38,340
+from the industry. It's very important and the RoboEye is a non-statistic company and
+
+195
+00:21:39,140 --> 00:21:46,020
+offering the RoboCard, the Evoto, and all those are cool, you know, the mobile robotics
+
+196
+00:21:46,020 --> 00:21:53,700
+are the solution and Starfy is leading the open source, the RISC-FI, the chipset, the platform,
+
+197
+00:21:54,180 --> 00:22:00,420
+the provider. Last year they were just invited by the Hong Kong IC. Yeah, very cool.
+
+198
+00:22:00,420 --> 00:22:10,500
+And the LipTik is the shining star. Cool. And they offer the AI-based camera and the AI
+
+199
+00:22:10,500 --> 00:22:19,940
+visual solution. And FaceTech, they are very innovative. The solution provider offers the
+
+200
+00:22:19,940 --> 00:22:27,780
+renewable energy and the solar battery, the solution. So let's start today's panel discussion.
+
+201
+00:22:27,780 --> 00:22:35,780
+So firstly we let our panelists to have the self-introduction and also share
+
+202
+00:22:36,820 --> 00:22:42,900
+what exactly does the hardware and the technology connecting with the easily and also the broader
+
+203
+00:22:43,780 --> 00:22:50,500
+the ecosystem. Let's start with the Ben from the RoboEye. Thank you, Leo.
+
+204
+00:22:52,260 --> 00:22:58,740
+Actually I've been looking forward to this session not only because of the fellow panelists
+
+205
+00:22:59,380 --> 00:23:07,780
+and our dear friend from Akron, Leo, and a lot of friends sitting in the audience but also I really
+
+206
+00:23:07,780 --> 00:23:16,260
+look forward to the next session to Mr. Xiaofeng and Vitalik. The reason I said this is we are a
+
+207
+00:23:16,260 --> 00:23:23,380
+public listed company in Nasdaq but based in Dubai because you know you can imagine it took
+
+208
+00:23:23,380 --> 00:23:29,300
+a lot of effort to come all the way from Dubai given what's going on over there to come to join
+
+209
+00:23:29,300 --> 00:23:37,300
+this session. Why we think it's very important because our company RoboEye was listed in
+
+210
+00:23:37,300 --> 00:23:45,540
+Nasdaq a few years ago but initially as an EV company as you know 10 years ago that was a really
+
+211
+00:23:45,540 --> 00:23:51,140
+the starting point of the Chinese EV industry. We were quite lucky we started business more
+
+212
+00:23:51,140 --> 00:23:58,500
+than 10 years ago and three years ago we went public initially as an EV company and then I
+
+213
+00:23:58,500 --> 00:24:05,940
+think over the last couple years the EV industry has been extremely competitive and as a Dubai-based
+
+214
+00:24:05,940 --> 00:24:13,940
+hardware company that you know our supply chain our manufacturing cost and technology and so on
+
+215
+00:24:13,940 --> 00:24:20,180
+and so forth we need to find something very different from the traditional hardware manufacturer.
+
+216
+00:24:20,980 --> 00:24:27,300
+So luckily over the last couple years the board and the management we looked around to see what's
+
+217
+00:24:27,300 --> 00:24:34,420
+there for the future because UAE as a country has been always focusing on the technology of the future.
+
+218
+00:24:35,380 --> 00:24:41,700
+So luckily we had a lot of interactions with the companies in blockchain, Hushkey, Hushglobal
+
+219
+00:24:41,700 --> 00:24:51,220
+and Akron and over the last 12 months we have you know finally found our future direction
+
+220
+00:24:51,220 --> 00:25:01,540
+and almost our destination, our destiny we call machine economy. That's when we see the potential
+
+221
+00:25:01,540 --> 00:25:08,500
+that the smart mobility where we came from to connect with the smart machine where we are
+
+222
+00:25:08,500 --> 00:25:14,660
+investing like a final panelist but eventually moving to the smart assets that to meet and
+
+223
+00:25:14,660 --> 00:25:19,940
+connect with the blockchain. So that was a basically the high level visions of the company
+
+224
+00:25:19,940 --> 00:25:28,980
+and I'm happy to share more in the next round. Thank you. Hello thank you for having us here.
+
+225
+00:25:29,540 --> 00:25:36,260
+My name is Wallace, I'm from Star5 Hong Kong. Our company was founded in 2018. It's leading efforts
+
+226
+00:25:36,260 --> 00:25:42,900
+in the RISC-V space in IPs as well as ship designs and more recently actually in also designing and
+
+227
+00:25:42,900 --> 00:25:49,460
+deploying total solutions around RISC-V. Where I see RISC-V comes into play with Ethereum as well
+
+228
+00:25:49,460 --> 00:25:55,700
+as the web-free ecosystem is really around free areas. I think one is about enhanced execution
+
+229
+00:25:55,700 --> 00:26:02,100
+efficiency you know how our open architecture actually enables that. The other one is actually
+
+230
+00:26:03,300 --> 00:26:10,020
+also about how we can actually support the zero knowledge proving with our technology and last
+
+231
+00:26:10,020 --> 00:26:18,900
+but not least you know also is essentially how we can enable you know a lot of the you know off-chain
+
+232
+00:26:18,900 --> 00:26:23,940
+activities via our technology as well. So our company is relatively new to this space but we're
+
+233
+00:26:23,940 --> 00:26:28,260
+definitely very excited about what's happening in this space and definitely hope that the hard
+
+234
+00:26:28,260 --> 00:26:34,430
+work can play a key role in integrating with the software solutions. Yeah thank you. Hello guys,
+
+235
+00:26:35,310 --> 00:26:44,190
+it's so good to be here. I am Nijika, I'm from the Leap2Tech and I am working on the imaging
+
+236
+00:26:44,190 --> 00:26:57,150
+technology and for recent years we see that the imaging devices like GoPros doesn't like
+
+237
+00:26:57,150 --> 00:27:06,670
+like the cameras you just take the photos but only the it's not only for the capture moment
+
+238
+00:27:06,670 --> 00:27:15,070
+but also they help the records and understand people's life and when you in the past and
+
+239
+00:27:15,870 --> 00:27:26,270
+the people take the photos and you have to recognize this kind of thing and you should
+
+240
+00:27:27,230 --> 00:27:37,310
+take the person and now the cameras come to continuous recording
+
+241
+00:27:38,110 --> 00:27:44,830
+and it's not only for the creative materials anymore it is also data for the visual memory
+
+242
+00:27:44,830 --> 00:27:53,470
+library. The device records automatically and then model understands, organizes, indexes
+
+243
+00:27:54,350 --> 00:28:00,510
+and records that data, highlights rows, reminders, meeting notes and recommendations.
+
+244
+00:28:02,350 --> 00:28:09,630
+Devices are becoming more and more connected in Webbrie and this is why we are here
+
+245
+00:28:10,670 --> 00:28:16,750
+to build a corner in the layer to make these cameras, glasses,
+
+246
+00:28:17,550 --> 00:28:28,190
+AI rings, like phones, like vacuums, cars, chips, we are building a family that
+
+247
+00:28:29,790 --> 00:28:38,670
+all the computers work in the same works in the open network so thanks.
+
+248
+00:28:38,670 --> 00:28:47,870
+Thank you Leo. Hello everyone. I'm from Shenzhen Face Technology, a national high tech enterprise
+
+249
+00:28:47,870 --> 00:28:54,110
+focusing on IoT and new energy. We develop a four core household new energy system which is
+
+250
+00:28:54,110 --> 00:29:00,190
+affordable, manageable and operational and sustainable built on our self-developed hardware.
+
+251
+00:29:00,750 --> 00:29:07,950
+We mainly serve energy poor households in Africa, Asia and Latin America providing stable and clean
+
+252
+00:29:07,950 --> 00:29:15,950
+distributed residential power solutions. We have a full chain research and development capabilities
+
+253
+00:29:15,950 --> 00:29:22,670
+with core products including household energy storage, portable power stations and cloud
+
+254
+00:29:22,670 --> 00:29:31,790
+management platform. Our products are reliable and easy to deploy and suitable for large-scale
+
+255
+00:29:31,790 --> 00:29:41,150
+applications overseas. On how we interrogate our products in with Web3, first we connect
+
+256
+00:29:41,150 --> 00:29:49,870
+our hardware with blockchain. All devices can generate real and traceable energy carbon data
+
+257
+00:29:49,870 --> 00:29:59,790
+which is uploaded on chain and to clarify asset ownership. Second, we use Web3 to acculate

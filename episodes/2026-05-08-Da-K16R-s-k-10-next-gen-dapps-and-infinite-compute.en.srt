@@ -1,0 +1,955 @@
+1
+00:00:00,000 --> 00:00:06,480
+To have a wealth transfer to a younger generation who trust their phones and code, AI is part
+
+2
+00:00:06,480 --> 00:00:07,600
+of their lives.
+
+3
+00:00:07,600 --> 00:00:11,240
+They're not AI immigrants, they're AI natives.
+
+4
+00:00:11,240 --> 00:00:17,120
+And when you compound that with this idea of agents, which were unheard of two to three
+
+5
+00:00:17,120 --> 00:00:21,440
+years ago, our financial lives are going to change.
+
+6
+00:00:21,440 --> 00:00:29,360
+Imagine a world in 2027 where you have a traditional bank account which has a crypto or on-chain
+
+7
+00:00:29,360 --> 00:00:31,640
+digital wallet with it.
+
+8
+00:00:31,640 --> 00:00:37,680
+Imagine you have a crypto wallet that's linked to your bank and to your phone.
+
+9
+00:00:37,680 --> 00:00:42,320
+Imagine a world where every time you get a paycheck, your agent immediately takes your
+
+10
+00:00:42,320 --> 00:00:45,880
+money, puts it in the highest yielding bank account.
+
+11
+00:00:45,880 --> 00:00:52,680
+Or imagine every time you get a bonus or an inheritance or on a Chinese New Year, a red
+
+12
+00:00:52,680 --> 00:00:58,800
+envelope, your agent understands your financial goals and is putting that money into Tesla
+
+13
+00:00:58,920 --> 00:01:01,960
+or a bond or an index fund.
+
+14
+00:01:01,960 --> 00:01:05,800
+Imagine you then own these assets in tokenized form.
+
+15
+00:01:05,800 --> 00:01:09,640
+That is how stocks and bonds are going to exist next year.
+
+16
+00:01:09,640 --> 00:01:14,480
+Imagine they can then take that stock or bond and lend it through your wallet to give you
+
+17
+00:01:14,480 --> 00:01:16,120
+additional yield.
+
+18
+00:01:16,120 --> 00:01:21,480
+And then every month or every night, it can look at your goals, it can look at your portfolio
+
+19
+00:01:21,480 --> 00:01:24,300
+and automatically rebalance it.
+
+20
+00:01:24,300 --> 00:01:30,220
+So what I'm suggesting is in a world where young people don't have access to institutional
+
+21
+00:01:30,220 --> 00:01:35,220
+tools that are reserved for Wall Street and the largest banks, in a world where young
+
+22
+00:01:35,220 --> 00:01:42,660
+people feel like they're falling behind financially, an agentic machine economy can help you bridge
+
+23
+00:01:42,660 --> 00:01:49,220
+that gap, can get you better yields, better returns that can help you save for your first
+
+24
+00:01:49,220 --> 00:01:53,180
+apartment, for a goal, for your child's wedding.
+
+25
+00:01:53,180 --> 00:01:56,940
+And this is going to happen as your digital twin.
+
+26
+00:01:56,940 --> 00:01:58,300
+Remember that word.
+
+27
+00:01:58,300 --> 00:02:03,500
+Your bank is going to have a Web 3 wallet, you're not even going to know it's the blockchain
+
+28
+00:02:03,500 --> 00:02:07,260
+and your digital twin will follow your instructions.
+
+29
+00:02:07,260 --> 00:02:12,220
+The final thing I'll say is I really enjoyed the previous speaker and he said something
+
+30
+00:02:12,220 --> 00:02:18,100
+interesting that you will be the master of your agent, not your agent.
+
+31
+00:02:18,100 --> 00:02:20,380
+And I agree and I disagree.
+
+32
+00:02:20,380 --> 00:02:25,520
+You will be in control of your agent, but you learn from masters.
+
+33
+00:02:25,520 --> 00:02:30,340
+Remember the great scholars in China, you learned at the feet of your masters.
+
+34
+00:02:30,340 --> 00:02:35,820
+So while you will have governance over your agent, your agent will teach you how to invest.
+
+35
+00:02:35,820 --> 00:02:39,440
+Your agent will teach you how to rebalance your portfolio.
+
+36
+00:02:39,440 --> 00:02:42,040
+Your agent will teach you how to achieve your goals.
+
+37
+00:02:42,040 --> 00:02:48,300
+So while you control your agent, it could be a master to you to help you achieve better
+
+38
+00:02:48,300 --> 00:02:51,580
+things in life than you can achieve on your own.
+
+39
+00:02:51,580 --> 00:02:57,580
+And your agent doesn't lie and your agent doesn't sleep and your agent will obey you.
+
+40
+00:02:57,580 --> 00:03:01,980
+That is the future we see in front of us sooner than we imagine.
+
+41
+00:03:01,980 --> 00:03:06,980
+It's very exciting, a lot of new development implementations.
+
+42
+00:03:06,980 --> 00:03:11,800
+And I know you will come back to Hong Kong and I hope I can see you soon.
+
+43
+00:03:11,800 --> 00:03:17,060
+But as a final question, when next time you're back to Hong Kong, what change do you expect
+
+44
+00:03:17,060 --> 00:03:22,900
+to see in terms of technology, in terms of ecosystem and the world role do you expect
+
+45
+00:03:22,900 --> 00:03:26,980
+shop playing to play as a core Ethereum ecosystem players?
+
+46
+00:03:26,980 --> 00:03:29,980
+I would hope and expect a few things.
+
+47
+00:03:29,980 --> 00:03:33,680
+One is it's not enough to pass stable coin legislation.
+
+48
+00:03:33,680 --> 00:03:39,540
+The stable coins have to grow in circulation and they have to be used to make crypto payments.
+
+49
+00:03:39,540 --> 00:03:43,680
+They have to be used by corporate treasuries of the largest institutions.
+
+50
+00:03:43,680 --> 00:03:49,720
+They have to be used in commerce and they have to be used eventually in agentic payments.
+
+51
+00:03:49,720 --> 00:03:54,720
+You're not using a physical piece of paper for these agents to make micro payments.
+
+52
+00:03:54,720 --> 00:03:56,640
+It'll happen with stable coins.
+
+53
+00:03:56,640 --> 00:04:02,800
+I hope that the regulators will meet with the industry and think about how some of the
+
+54
+00:04:02,800 --> 00:04:06,760
+financial markets can be existing in digital format.
+
+55
+00:04:06,760 --> 00:04:12,360
+Like in the US where the New York Stock Exchange and the NASDAQ, two of the largest capital
+
+56
+00:04:12,360 --> 00:04:16,880
+markets in the world are going to start trading on a tokenized basis 24-7.
+
+57
+00:04:16,880 --> 00:04:24,000
+But what I'm most looking forward to is going back to West Kowloon to the Ethereum community
+
+58
+00:04:24,000 --> 00:04:29,400
+hub and I hope it's filled with young people who are building and innovating and I hope
+
+59
+00:04:29,400 --> 00:04:32,320
+to listen and learn to what they're building.
+
+60
+00:04:32,320 --> 00:04:35,680
+That's what I'm looking forward to the next time I come here.
+
+61
+00:04:35,680 --> 00:04:43,120
+SharpLink's role is to give investors opportunity to get access to this once in a lifetime Ethereum
+
+62
+00:04:43,120 --> 00:04:44,880
+transformation.
+
+63
+00:04:44,880 --> 00:04:48,040
+Buy a single stock on NASDAQ.
+
+64
+00:04:48,040 --> 00:04:53,240
+We hope to raise capital here, but we also help to come invest in the local community
+
+65
+00:04:53,240 --> 00:04:56,000
+through staking and through partnerships.
+
+66
+00:04:56,000 --> 00:05:02,200
+If you own Ether, you have a responsibility to be part of the ecosystem and make it better.
+
+67
+00:05:02,200 --> 00:05:04,960
+So I'm humbled to be here.
+
+68
+00:05:05,040 --> 00:05:09,960
+I'm also quite excited to look back in three months or six months and I'll maybe leave
+
+69
+00:05:09,960 --> 00:05:15,600
+you with a quote from one of the greatest American innovators named Bill Gates.
+
+70
+00:05:15,600 --> 00:05:20,560
+For those of you who think I'm describing science fiction or something that you won't
+
+71
+00:05:20,560 --> 00:05:25,080
+see in the next year or two, Bill Gates had a great quote.
+
+72
+00:05:25,080 --> 00:05:29,720
+He was the leader of Microsoft, one of the most transformative enterprise software companies
+
+73
+00:05:29,720 --> 00:05:36,880
+in the world, and he basically said that human beings overestimate what can be accomplished
+
+74
+00:05:36,880 --> 00:05:41,400
+by an individual, a team, or technology in one year.
+
+75
+00:05:41,400 --> 00:05:49,640
+We overestimate the impact of one year's innovation, but humans fundamentally underestimate the
+
+76
+00:05:49,640 --> 00:05:55,720
+impact of an individual contributor, a builder, or a technology is going to have in a decade.
+
+77
+00:05:55,720 --> 00:06:03,560
+We never would have imagined that AI in the year 2020 would have the impact it has today.
+
+78
+00:06:03,560 --> 00:06:10,800
+We are fundamentally underestimating the level of prosperity and autonomy and access that
+
+79
+00:06:10,800 --> 00:06:15,280
+these technologies will provide, and you won't think of them as crypto.
+
+80
+00:06:15,280 --> 00:06:20,040
+You'll just think of them as the new user interface for the future of finance and commerce.
+
+81
+00:06:20,040 --> 00:06:26,200
+So don't underestimate what's coming, lean in, learn, and participate, and stay true
+
+82
+00:06:26,200 --> 00:06:30,360
+to the principles that we're talking about in the Ethereum community.
+
+83
+00:06:30,360 --> 00:06:36,120
+Well, Joseph, I cannot learn enough from you, and I would love to carry on the conversation,
+
+84
+00:06:36,120 --> 00:06:40,600
+but with limited time, I certainly hope to continue the conversation the next time you're
+
+85
+00:06:40,600 --> 00:06:43,920
+coming back to Hong Kong, and I hope to see you soon in Hong Kong.
+
+86
+00:06:43,920 --> 00:06:45,080
+Thank you so much for the time today.
+
+87
+00:06:45,080 --> 00:06:48,840
+Thank you, and thank you to SNZ.
+
+88
+00:06:48,840 --> 00:06:49,840
+Thank you both.
+
+89
+00:06:49,840 --> 00:07:04,940
+If you leave the stage, please take a picture.
+
+90
+00:07:04,940 --> 00:07:27,160
+Please give them a round of applause.
+
+91
+00:07:27,160 --> 00:07:28,160
+Thank you.
+
+92
+00:07:28,160 --> 00:07:35,880
+Now, Michael, co-founder and CEO of Brevis on building next-gen dApps with the infinite
+
+93
+00:07:35,880 --> 00:07:37,720
+compute layer.
+
+94
+00:07:37,720 --> 00:07:38,720
+Please welcome Michael.
+
+95
+00:07:38,720 --> 00:07:51,240
+All right.
+
+96
+00:07:51,240 --> 00:07:52,240
+Hello, everyone.
+
+97
+00:07:52,240 --> 00:07:54,480
+This is Michael from Brevis.
+
+98
+00:07:54,480 --> 00:07:59,240
+Thank you so much for coming to my talk this afternoon, and today I'm going to talk about
+
+99
+00:08:00,240 --> 00:08:06,360
+been building at Brevis and how you can build the next generation of decentralized application
+
+100
+00:08:06,360 --> 00:08:10,200
+using infinite computer power that is powered by Brevis.
+
+101
+00:08:10,200 --> 00:08:11,760
+So what is Brevis?
+
+102
+00:08:11,760 --> 00:08:18,080
+Brevis is what we call an infinite compute platform, and what it does is it is a ZK-powered
+
+103
+00:08:18,080 --> 00:08:24,480
+verifiable computing platform that enables a lot of new use cases in blockchain applications.
+
+104
+00:08:24,480 --> 00:08:30,680
+So before I dive into what we do exactly, let me kind of talk about the challenge we're
+
+105
+00:08:30,680 --> 00:08:32,480
+trying to solve here.
+
+106
+00:08:32,480 --> 00:08:37,760
+So blockchains themselves are often marketed as word computers.
+
+107
+00:08:37,760 --> 00:08:42,640
+But if you look at all the blockchains that are available today, they simply cannot run
+
+108
+00:08:42,640 --> 00:08:49,360
+faster than a single server, and it is extremely expensive to process transactions on blockchain.
+
+109
+00:08:49,840 --> 00:08:51,360
+Well, you may say, OK, wait, wait, wait.
+
+110
+00:08:51,360 --> 00:08:56,020
+This cannot be the case because we have been building blockchain scalability technology
+
+111
+00:08:56,020 --> 00:09:01,960
+for years, so we should be able to build anything on blockchain today, right?
+
+112
+00:09:01,960 --> 00:09:04,600
+Well, unfortunately, that is not the case.
+
+113
+00:09:04,600 --> 00:09:08,160
+Let me give you a very concrete example here.
+
+114
+00:09:08,160 --> 00:09:15,840
+So if you have ever used any centralized exchanges in the past, you all have used this kind of
+
+115
+00:09:15,840 --> 00:09:19,800
+feature where if you trade it loud in this month, in the next month, you get a trading
+
+116
+00:09:19,800 --> 00:09:21,000
+fee discount, right?
+
+117
+00:09:21,000 --> 00:09:26,320
+So this is a bread and butter user retaining feature for centralized exchanges.
+
+118
+00:09:26,320 --> 00:09:32,480
+You would imagine this kind of a feature will be available on every decentralized exchanges
+
+119
+00:09:32,480 --> 00:09:35,800
+like Uniswap, PancakeSwap, and everywhere, right?
+
+120
+00:09:35,800 --> 00:09:37,240
+But it's not actually the case.
+
+121
+00:09:37,240 --> 00:09:39,720
+None of them have this feature.
+
+122
+00:09:39,720 --> 00:09:42,360
+And it's not because they don't want to build this.
+
+123
+00:09:42,360 --> 00:09:47,400
+It's actually because they're building this feature on blockchain directly requires a
+
+124
+00:09:47,400 --> 00:09:54,320
+level of computation that is not available in today's blockchain because it's too expensive.
+
+125
+00:09:54,320 --> 00:09:55,980
+Well, why is that?
+
+126
+00:09:55,980 --> 00:09:59,960
+We want to ask why blockchains are actually this expensive, right?
+
+127
+00:09:59,960 --> 00:10:05,260
+Well, it is actually deeply rooted in how blockchains work today.
+
+128
+00:10:05,260 --> 00:10:10,800
+So blockchain is operated by something called distributed consensus, and you have a lot
+
+129
+00:10:10,800 --> 00:10:16,840
+of different nodes in the blockchain network, and everyone is computing the same thing,
+
+130
+00:10:16,840 --> 00:10:23,320
+so they can reach agreement on certain computation result and kind of move the blockchain forward.
+
+131
+00:10:23,320 --> 00:10:28,880
+So let's say we have this two-node blockchain where we have Alice and Bob here, and Alice
+
+132
+00:10:28,880 --> 00:10:35,440
+is trying to compute the result of this multiplication equation, and then Alice is now trying to
+
+133
+00:10:35,440 --> 00:10:39,200
+convince Bob this is actually the correct result.
+
+134
+00:10:39,200 --> 00:10:41,360
+So what does Bob do here?
+
+135
+00:10:41,360 --> 00:10:48,000
+Well, the only way for Bob to actually reach consensus with Alice is to do the computation again.
+
+136
+00:10:49,640 --> 00:10:59,040
+So this is okay, but this is actually problematic because a very simple kind of a computation
+
+137
+00:10:59,040 --> 00:11:04,440
+that is, let's say you want to swap token A to token B on blockchain is now actually
+
+138
+00:11:04,440 --> 00:11:08,680
+replicated a million times on blockchains like Ethereum because you have actually a
+
+139
+00:11:08,680 --> 00:11:14,400
+million different kind of nodes in Ethereum, and that is why replicated computing is making
+
+140
+00:11:14,400 --> 00:11:17,400
+blockchain extremely expensive to use.
+
+141
+00:11:17,400 --> 00:11:21,370
+Well, so how do we solve this?
+
+142
+00:11:21,370 --> 00:11:27,650
+Well, we can solve this by using a new concept called verifiable computing.
+
+143
+00:11:27,650 --> 00:11:32,250
+In verifiable computing, you have different roles in the computing process.
+
+144
+00:11:32,250 --> 00:11:39,590
+So you have Alice as not only the computing provider, but also a proof generator.
+
+145
+00:11:39,590 --> 00:11:45,150
+So Alice is not only just doing the computing, but also generates a mathematical piece, a
+
+146
+00:11:45,150 --> 00:11:49,810
+magical piece of mathematical proof called zero-knowledge proof.
+
+147
+00:11:49,810 --> 00:11:56,630
+So the zero-knowledge proof is a very magical thing here that Alice can send to Bob here
+
+148
+00:11:56,630 --> 00:12:00,950
+so that Bob can verify the computation is done correctly without actually rerunning
+
+149
+00:12:00,950 --> 00:12:03,470
+the computation again.
+
+150
+00:12:03,470 --> 00:12:08,910
+And this is very important because no matter how complex the original computation is, the
+
+151
+00:12:09,670 --> 00:12:16,270
+verification cost is always tiny and the verification latency is always very low.
+
+152
+00:12:16,270 --> 00:12:20,670
+And with this new primitive, we can build new kind of blockchains and even new kind
+
+153
+00:12:20,670 --> 00:12:26,470
+of blockchain applications because now, you know, we don't actually need to run everything
+
+154
+00:12:26,470 --> 00:12:28,430
+on blockchain themselves.
+
+155
+00:12:28,430 --> 00:12:35,550
+We can actually offload very complex and heavy computation away from blockchain to this off-chain
+
+156
+00:12:35,550 --> 00:12:38,310
+environment that we built called Brevis.
+
+157
+00:12:38,310 --> 00:12:43,470
+And inside of Brevis, you can actually do the computation but also generate a zero-knowledge
+
+158
+00:12:43,470 --> 00:12:48,550
+proof and you can bring the zero-knowledge proof back to the blockchain and the blockchain
+
+159
+00:12:48,550 --> 00:12:53,590
+can use the computation result as if the entire computation happened on blockchain directly.
+
+160
+00:12:53,590 --> 00:12:59,670
+The most important thing here is that this entire process does not actually introduce
+
+161
+00:12:59,670 --> 00:13:04,790
+any additional trust assumptions and is as secure as if you're just doing everything
+
+162
+00:13:04,790 --> 00:13:09,710
+on blockchain directly but at the same time, extremely low cost because the blockchains
+
+163
+00:13:09,710 --> 00:13:17,630
+themselves are just verifying the computation result instead of actually doing the computation.
+
+164
+00:13:17,630 --> 00:13:24,990
+So Brevis is actually massively used in production today and we have great adoption across, for
+
+165
+00:13:24,990 --> 00:13:31,790
+example, the DeFi ecosystem and some of the biggest attacks today like PancakeSwap, Uniswap,
+
+166
+00:13:32,790 --> 00:13:38,830
+are using us to build their user customisation and intelligent DeFi features.
+
+167
+00:13:38,830 --> 00:13:45,270
+And we're also powering growth on things like Linea, BNB chain and many others.
+
+168
+00:13:45,270 --> 00:13:50,150
+For example, we have helped Linea to launch their entire blockchain through a program
+
+169
+00:13:50,150 --> 00:13:56,630
+called Linea Ignition Program that allows you to actually distribute the network token
+
+170
+00:13:56,630 --> 00:13:59,950
+to users with ZK proof.
+
+171
+00:13:59,950 --> 00:14:06,470
+And we have also been helping and building alongside of our reward asset partners especially
+
+172
+00:14:06,470 --> 00:14:14,150
+in the stable token space that we help them to grow the stable token and so many others.
+
+173
+00:14:14,150 --> 00:14:18,950
+So I mentioned like we have a lot of adoptions but what is actually Brevis?
+
+174
+00:14:18,950 --> 00:14:20,950
+What is actually inside this magic box?
+
+175
+00:14:20,950 --> 00:14:28,190
+Well, the centerpiece of our entire computing stack is something called a Pico ZKVM.
+
+176
+00:14:28,190 --> 00:14:29,910
+So what is a ZKVM?
+
+177
+00:14:29,910 --> 00:14:36,670
+Well, ZKVM is a general purpose virtual machine that you can run any program on top of it.
+
+178
+00:14:36,670 --> 00:14:42,470
+And it's ZK and the ZK enabled means that you can actually run any program and generate
+
+179
+00:14:42,470 --> 00:14:47,670
+a verifiable proof of the program's computing result.
+
+180
+00:14:47,670 --> 00:14:53,670
+Now ZK or like kind of a cryptographic proof is actually very hard to learn mathematical
+
+181
+00:14:53,670 --> 00:14:54,670
+concept.
+
+182
+00:14:55,150 --> 00:15:01,110
+Before you have something like Pico ZKVM, all you can do is actually write the program
+
+183
+00:15:01,110 --> 00:15:05,150
+in mathematical equations if you want to kind of make it a provable.
+
+184
+00:15:05,150 --> 00:15:10,870
+But with ZKVM, what you can do is you can just write very high level language just like
+
+185
+00:15:10,870 --> 00:15:18,030
+you write any software and then you can make this entire program provable and verifiable.
+
+186
+00:15:18,030 --> 00:15:24,610
+So this is also how we're changing how blockchains are built and operated today.
+
+187
+00:15:25,550 --> 00:15:31,290
+So Ethereum itself is actually moving towards a ZK oriented architecture.
+
+188
+00:15:31,290 --> 00:15:36,770
+So instead of every validator in Ethereum, like millions of them, repeat the same kind
+
+189
+00:15:36,770 --> 00:15:39,470
+of computation again and again.
+
+190
+00:15:39,470 --> 00:15:44,890
+What now you can do is to have one validator do a very large amount of computation and
+
+191
+00:15:44,890 --> 00:15:50,210
+generate a very small proof that you can use so that everyone else can just verify the
+
+192
+00:15:50,210 --> 00:15:55,450
+proof of the computation is done correctly and then the blockchain can move forward.
+
+193
+00:15:55,450 --> 00:16:00,610
+What this means is that you can actually use any hardware you have today, like even on
+
+194
+00:16:00,610 --> 00:16:06,730
+your phone, to run a full node of Ethereum and reach maximal decentralization and at
+
+195
+00:16:06,730 --> 00:16:08,930
+the same time maximal scalability.
+
+196
+00:16:08,930 --> 00:16:15,270
+Like I'm talking about a hundred times better scalability of today's Ethereum blockchain.
+
+197
+00:16:15,330 --> 00:16:21,690
+So to do this, what you need is an extremely fast ZK VM so that you can actually catch
+
+198
+00:16:21,690 --> 00:16:24,670
+up with the blockchain production time.
+
+199
+00:16:24,670 --> 00:16:29,830
+Like for Ethereum blocks it is produced every 12 seconds, so you need to actually be able
+
+200
+00:16:29,830 --> 00:16:34,030
+to generate the proof of block execution within that 12 seconds.
+
+201
+00:16:34,030 --> 00:16:40,710
+And this is what we do, ZK VM is as fast as ZK VM that allows you to generate the ZK proof
+
+202
+00:16:40,710 --> 00:16:47,350
+for a blockchain execution within 12 seconds for 99% of Ethereum blocks.
+
+203
+00:16:47,350 --> 00:16:54,310
+So as I mentioned there are numerous kind of use cases that you can use Brevis to build
+
+204
+00:16:54,310 --> 00:17:00,790
+but I want to first share today with you that some of the use cases are even beyond just
+
+205
+00:17:00,790 --> 00:17:02,750
+the blockchain applications.
+
+206
+00:17:02,750 --> 00:17:08,010
+We're actually actively working on some AI-based applications.
+
+207
+00:17:08,010 --> 00:17:13,210
+So I'm very happy to introduce a new product we built called Brevis Vera.
+
+208
+00:17:13,210 --> 00:17:20,010
+We're trying to solve a very critical problem in Brevis Vera today, that is if you see a
+
+209
+00:17:20,010 --> 00:17:29,290
+viral media, like a viral photo or viral movie or video online, the first question now you
+
+210
+00:17:29,290 --> 00:17:35,770
+ask is always, is this actually real, is a video actually generated by AI or not?
+
+211
+00:17:35,770 --> 00:17:42,490
+Well, one way you can do this is to use AI to defeat AI, use an AI model to defeat or
+
+212
+00:17:42,490 --> 00:17:49,290
+to detect whether a video or a photo is actually generated by AI, but that is a never-ending
+
+213
+00:17:49,290 --> 00:17:55,450
+arms race because you never can beat an AI with another AI.
+
+214
+00:17:55,450 --> 00:18:02,170
+So what we're here trying to do is to provide a different solution that enables you to generate
+
+215
+00:18:02,170 --> 00:18:04,410
+a test station of what is real.
+
+216
+00:18:04,410 --> 00:18:10,290
+So we're not detecting what is fake, we're actually testing what is real.
+
+217
+00:18:10,290 --> 00:18:16,650
+So we enable you to essentially start your entire test station chain from your device
+
+218
+00:18:16,650 --> 00:18:17,650
+capture.
+
+219
+00:18:17,650 --> 00:18:24,250
+So when you're capturing a photo on your device, you get a cryptographic signature of the raw
+
+220
+00:18:24,250 --> 00:18:25,250
+data.
+
+221
+00:18:25,250 --> 00:18:31,830
+And then even if you added all this data, even if you added all this kind of video,
+
+222
+00:18:31,830 --> 00:18:39,070
+we can use our ZKVM to generate a zero-knowledge proof to show that the end result of the
+
+223
+00:18:39,070 --> 00:18:44,910
+video or photo that you show is actually coming from a real device capture instead of generated
+
+224
+00:18:44,910 --> 00:18:46,110
+by AI.
+
+225
+00:18:46,110 --> 00:18:50,950
+So this way, you can solve the AI deep fake problem 100%.
+
+226
+00:18:50,950 --> 00:18:56,030
+There's no kind of a fake, you know, AI deep fake possibility as long as you can prove
+
+227
+00:18:56,030 --> 00:19:02,000
+the video you upload or the image you upload is actually real.
+
+228
+00:19:02,000 --> 00:19:06,720
+So you know, Brevis Vera's beta is already live and we're working and talking to some
+
+229
+00:19:06,720 --> 00:19:11,280
+of the biggest photo editing companies in the world and digital media editing companies
+
+230
+00:19:11,280 --> 00:19:17,680
+in the world to integrate Vera in their core product.
+
+231
+00:19:17,680 --> 00:19:22,100
+And you know, another very important category of application we power is something called
+
+232
+00:19:22,100 --> 00:19:24,240
+Intelligent DeFi.
+
+233
+00:19:24,240 --> 00:19:30,000
+So for example, we're working with PancakeSwap and to power their kind of a, you know, plug-in
+
+234
+00:19:30,160 --> 00:19:36,080
+based, you know, DAX's approach that allows you to essentially customize user experience
+
+235
+00:19:36,080 --> 00:19:41,380
+based on user's historical interaction with the protocol and application.
+
+236
+00:19:41,380 --> 00:19:46,400
+So for example, now in PancakeSwap, if you actually swapped a lot in this month, and
+
+237
+00:19:46,400 --> 00:19:50,720
+you can use Brevis to generate a ZK proof and get a trading fee discount in the next
+
+238
+00:19:50,720 --> 00:19:54,270
+month.
+
+239
+00:19:54,270 --> 00:19:59,990
+So you know, another side of Brevis and another side of ZK, you know, in a...

@@ -1,0 +1,350 @@
+that keeps the protocol whole
+because someone's always gonna push the button
+because you get paid to do that.
+And this is one of those little aha moments
+of building on top of Ethereum
+is how you build something that runs
+even when you walk away.
+I was talking about the walk away test earlier.
+You want to be able to deploy something
+and be able to walk away.
+And it's almost like a two-sided market
+where people can coordinate
+and they can do all the things
+and everything is automatic
+and you never have to touch anything.
+And that's the beauty of building
+a perfectly decentralized system
+and building on top of Ethereum.
+And you can learn all of these concepts
+by going to speedrunetherium.com.
+And there's a little QR code there to check that out.
+Okay, so let me even show you,
+let's jump over to,
+so there's ETH skills, right?
+All those concepts, really cool.
+You just click that and it copies it
+and you paste it and you give it to your agent.
+But let's look at speedrunetherium real quick.
+So there's all of these different lessons.
+And what's really cool is this is AI driven.
+So if we wanted to go to this crowdfunding one,
+I have it right here,
+you can download it locally and then you run it
+and you basically just say slash start
+and you get this little tutor.
+You have this AI tutor that takes you through things.
+And you can say like, keep going, keep building.
+And it's basically telling me
+that it wants to do this certain thing
+and I tell it to keep going.
+And now it's gonna go back
+and start writing my smart contract for me.
+So it's sitting here writing my smart contracts for me.
+And I have a little tutor
+that's going to even ask me questions.
+I can ask my tutor questions.
+And then you have a nice UI to interface with your app.
+So you have this working smart contract app
+with a front end and a smart contract.
+And then you have an AI tutor
+that's teaching you through the things.
+Okay, let's wrap it up.
+Speedrun Ethereum is there.
+So for the human, you use speedrunetherium.com.
+For your AI agent, you use ethskills.com.
+Those are the two important links
+that I wanna make sure I share.
+Okay, so in a multi-agent future,
+I think this is coming, right?
+Imagine a whole company of agents talking.
+Agents are gonna need to be able to trust each other.
+One agent that's a generalized agent
+will maybe need to hire a specialized agent
+that does some things like say image generation
+or text generation is pretty simple,
+but maybe it's a travel agent, right?
+It's actually someone that books a plan
+or books a flight for you.
+Maybe there's a flight booking agent
+and your generalized agent would rather pay it
+a fraction of a fraction of a cent.
+I think agents are going to be hiring each other soon.
+And I think what they'll need is some layer
+to pay each other and some layer to trust each other.
+And that's where ERC 8004 and X402 come in.
+These are new standards that help agents
+discover each other, trust each other with reputation
+and pay each other.
+So check out 8004 and X402.
+Okay, and AI is the new UI.
+Crypto is hard to use, it's complicated.
+And sometimes like when you see the call data
+or a smart contract, it's really nice to think about
+you can just talk to an AI agent
+and an AI agent can go make crypto transactions for you.
+And you should be building apps that allow for this.
+Aya talked about this real quick.
+While you're building, you should be thinking of crops.
+You should be building censorship resistant,
+open source, private and secure applications.
+Now, a lot of this comes out of the box
+when you deploy something on Ethereum,
+but there's a lot more that has to happen.
+There was a new R skill within ETH skills
+that'll help you build ZK circuits to do privacy.
+Okay, that's it.
+The last thing I wanna leave you with
+is that it's never been a worst time in history
+to be a junior developer,
+but it's never been a better time in history
+to be a solo entrepreneur.
+And the difference between that is just your mindset.
+Instead of trying to pad your resume
+and get hired as a junior developer,
+go be a solo entrepreneur
+and build things that people wanna use.
+It's never been easier to take a whole bunch of AI tools
+off the shelf and get product market fit.
+And you can get product market fit
+and then hire your first developer.
+All right, thank you very much.
+I'm Austin Griffith from the EF.
+I'm at Austin Griffith.
+We've got the QR code there
+for ETH skills for speed run Ethereum.
+And then there's my Twitter.
+I'm Austin at Ethereum.org if you wanna email me
+and I'm at Austin Griffith.
+Reach out, my DMs are open.
+We're always building this cool skill file
+and these cool tools to help you learn
+how to build on Ethereum.
+Thank you for having me.
+Go build something awesome on Ethereum.
+Thank you, Austin.
+Thank you so much.
+Thank you.
+We have now reached the final speech of chapter one.
+Ethereum as infrastructure for deep self sovereignty
+by Shreem Shinder,
+team lead of academic secretariat at Ethereum Foundation.
+Please welcome Shreem.
+Thank you so much everyone for coming down today
+and for having me to give this talk.
+So today I'm going to talk about two things.
+The first thing is that Ethereum is probably
+history's first very serious attempt
+at actually building infrastructures
+that can allow for deep and complete self sovereignty.
+And I'm also gonna talk about how researchers
+and everyone in this room in fact
+has a very critical role to play
+in order to ensure that we succeed in this attempt.
+So let me first talk about the context
+or rather the problem that motivated a lot of things
+that we see today in the Ethereum space.
+A problem that many scholars had spent years
+and almost their entire careers trying to solve.
+The problem of how can humans effectively coordinate
+without explicitly trusting the system
+that they used for coordination.
+So there have been a lot of very serious scholars
+like Ostrom and Hobbes who've spent their entire careers
+trying to solve this problem.
+But the unfortunate reality is that
+it's not until very recently
+that a viable solution was found.
+And as a result of that,
+a lot of the systems that we see today in the world
+actually build around this problem
+rather than trying to solve this problem heads on.
+Which is why we see that a lot of the systems
+that we deal with in today's world
+actually has what is called a back door.
+So for example, if you look at systems like banking systems,
+it's very easy for the centralized authorities
+to freeze your account.
+If you look at platforms, whether it's social media platforms
+or whether it's gaming platforms,
+it's very easy in the name of violation
+of an arbitrary set of rules of conduct.
+It's very easy for people to get deplatformed
+without possibly serious reasons for it.
+And now with the advent of AI,
+we have a whole new set of back doors,
+which is the models that we use
+or we heavily depend on today.
+They can very arbitrarily be withdrawn.
+Their API can be shut down
+and their rates could be locked down,
+meaning that no new training happens.
+And all of this just goes to say that
+back doors structurally exist in most systems around us.
+Now, I don't want to talk about what would happen
+if they are exercised,
+because that is often considered an edge case
+and those really vary from scenario to scenario.
+But I'd like to make the point that the very fact
+that they exist itself shapes behavior of its users.
+And this is a very important point
+because it's not about whether they get exercised,
+but it's about whether they structurally actually exist.
+So people can preemptively self-censor
+under the fear of getting deplatformed.
+People can preemptively not build things
+that actually need to be built.
+And in very extreme cases,
+they can even try to circumvent some of these systems,
+which ends up causing more harm than it does good.
+So that's the fundamental reality
+that structural dependencies actually shape user behavior,
+which brings us to think about the question of,
+okay, is it possible for this back door
+to not exist by construction?
+Is it possible?
+And what would happen in a scenario
+where there is no back door?
+And I think cryptography was the first serious tool.
+And using it for the first time,
+you could actually build technical primitives
+to help humans coordinate,
+where arbitrary revocability is not just an edge case,
+or it's not just an unlikely scenario,
+but it's architecturally impossible.
+And the question was, okay,
+now that we have these beautiful tools,
+is it possible to make these programmable?
+Is it possible to make these composable?
+And is it possible to make it available
+at a large scale for everyone?
+And that's kind of where Ethereum comes into play.
+And then that's, in many sense,
+a lot of the motivations behind why Ethereum exists
+and why a lot of the applications
+that are built on top of Ethereum exist.
+So Ethereum's claim is very precise, right?
+It's programmable in the sense that
+any rule can be specified and can be enforced
+without a trusted third party.
+It's composable in the sense that it guarantees stack.
+And I'm gonna talk about this a little more
+in the next few slides,
+but also it's available at scale,
+which means that anyone, anywhere,
+without permission from any platform,
+can actually take part in the system.
+And each of these properties has, in the past,
+been attempted in some shape or form,
+but it's almost for the first time
+that all these three guarantees can be achieved
+at this very same time.
+And that's kind of Ethereum's claim.
+But the truth is, it actually doesn't end
+at the protocol layer.
+So in Aya's talk, she had briefly touched upon
+how there are very important decisions
+and important constraints and trade-offs to be considered
+while designing the protocol layer.
+But the harsh reality is that, given that every,
+like given that the system is composable
+and every piece of stack just goes one on top of the other,
+even if the protocol is built
+keeping all these properties in mind,
+anywhere in the stack,
+if that notion of self-sovereignty is broken,
+then it never reaches the user.
+So even at the consensus layer, execution layer,
+or, very importantly, the application layer,
+if things break down,
+these guarantees that we want to give to the final user
+can never actually reach the final user.
+So just to make it a little more concrete,
+here are some very concrete examples or scenarios
+where these aspirations could actually break down.
+So if you look at RPC concentration,
+in a scenario where there are only two to three providers
+which stand between most users and the protocol,
+coordinated censorship by these handful of providers
+can very easily guarantee,
+the base layer guarantees obsolete.
+If you look at block builder concentration,
+if in a theoretical scenario,
+the MEV supply chains are actually produced
+by only a handful of dominated builders,
+and these builders start to collude with each other
+and start to coordinate with each other,
+then transaction ordering
+almost becomes commercially permissioned.
+And if you look at AI agent infrastructure,
+what if the proprietary interface endpoints
+managing on-chain assets become a centralized choke point?
+This essentially causes a choke point
+at a very sensitive layer,
+like the layer that actually makes decisions
+on behalf of the user.
+So the promise of composability
+is that trustlessness stacks upward,
+and it also introduces a risk
+that a single non-trustless component
+can break the guarantee for the whole stack.
+So that's the context,
+and now I'm gonna talk a little bit about
+what it means for your work
+and what are the ways in which
+research can engage more deeply with these problems
+to ensure that this guarantee
+goes all the way up to the end user.
+So I often like to talk
+in the language of academic disciplines
+because a lot of the audience that I like to engage with
+are serious researchers.
+So here are some ways that your expertise
+is genuinely needed to solve this problem
+and to ensure that these guarantees go all the way on top.
+So for mechanism designers,
+it's almost fundamental that
+without the right incentive structures,
+these coordination mechanisms fail,
+and people will immediately turn back
+to centralized intermediaries.
+Cryptographers are more direct
+because privacy and proof aggregation
+are still open problems,
+and this critical research is what will ensure
+that the protocol's promises are actually keepable.
+For AI researchers and AI builders in this room,
+trustless infrastructure with an opaque model
+isn't trustless, and this is a very big opportunity
+and a very big open problem
+that's actually waiting for a solution.
+If you're a legal scholar or governance scholar,
+on-chain governance, jurisdiction,
+independent enforcement, and doubt design,
+all of them need actual people
+who understand legal frameworks,
+people who understand how power works,
+and not just merely how code works.
+And similarly, for political economists,
+looking at how decentralized systems avoid capture,
+how you can actually sustain public goods,
+which are the backbone of a lot of the applications
+and a lot of things that are built in the space,
+and how can you actually sustain them,
+and how do you prevent power concentration.
+These are all important political economy questions
+that is waiting for your expertise.
+And similarly, when you look at science
+and knowledge studies, there are a lot of questions
+around open access, provenance, and credentialing,
+and this is what makes this infrastructure
+actually trustless.
+And this is a very structural solution
+or structural dependencies on which
+this technical infrastructure relies on.
+And one more thing that I want to mention here
+is that open source is often thought of
+as just a filing requirement,
+or open source is often thought of
+as just like an afterthought.
+But the truth is, even if you have...
